@@ -41,7 +41,7 @@
 #
 #
 name: base
-version: "2023-02-26"
+version: "2023-02-27"
 sort: by_weight
 ...
 # --------------- 修订记录：（所有词库的） ---------------
@@ -27023,6 +27023,7 @@ sort: by_weight
 兵变	bing bian	6840
 屏边苗族自治县	bing bian miao zu zi zhi xian	335
 并编制	bing bian zhi	5465
+并表	bing biao	1111
 并表示	bing biao shi	40280
 冰冰	bing bing	25125
 兵兵	bing bing	4470
@@ -30070,6 +30071,7 @@ sort: by_weight
 不辩菽麦	bu bian shu mai	1
 不辨菽粟	bu bian shu su	1
 不便水土	bu bian shui tu	1
+不便说	bu bian shuo	1111
 不辨贤愚	bu bian xian yu	111
 不辨仙源何处寻	bu bian xian yuan he chu xun	5
 不变形	bu bian xing	12410
@@ -31039,6 +31041,7 @@ sort: by_weight
 捕房	bu fang	480
 不妨碍	bu fang ai	14420
 不方便	bu fang bian	88970
+不方便说	bu fang bian shuo	111
 不防磁	bu fang ci	980
 不放过	bu fang guo	16745
 不放假	bu fang jia	1175
@@ -32864,6 +32867,7 @@ sort: by_weight
 不来了	bu lai le	10130
 不来梅	bu lai mei	10295
 不莱梅乐队	bu lai mei yue dui	5
+不赖你	bu lai ni	300
 布莱尼	bu lai ni	200
 布莱切	bu lai qie	8
 布莱斯新光唇鱼	bu lai si xin guang chun yu	1
@@ -72150,7 +72154,11 @@ sort: by_weight
 戴罪图功	dai zui tu gong	111
 带罪图功	dai zui tu gong	1
 戴罪自效	dai zui zi xiao	111
-呆坐	dai zuo	7955
+代做	dai zuo	8888
+呆坐	dai zuo	795
+代做功课	dai zuo gong ke	111
+呆坐在	dai zuo zai	111
+代做作业	dai zuo zuo ye	111
 但爱	dan ai	7315
 胆癌	dan ai	4
 但爱鲈鱼美	dan ai lu yu mei	17
@@ -91691,6 +91699,7 @@ sort: by_weight
 斗来斗去	dou lai dou qu	350
 兜来兜去	dou lai dou qu	56
 都来了	dou lai le	13455
+都赖你	dou lai ni	111
 都来提巴格街道	dou lai ti ba ge jie dao	19
 都来自	dou lai zi	31365
 兜揽	dou lan	525
@@ -211352,7 +211361,12 @@ sort: by_weight
 开口销	kai kou xiao	805
 开口咏凤凰	kai kou yong feng huang	1
 开口子	kai kou zi	860
+开哭	kai ku	3333
+开库	kai ku	111
 开库康乡	kai ku kang xiang	6
+开哭了	kai ku le	3333
+凯库勒	kai ku le	111
+凯库勒式	kai ku le shi	111
 开快车	kai kuai che	3400
 开快点	kai kuai dian	1555
 开矿	kai kuang	7740
@@ -217455,6 +217469,7 @@ sort: by_weight
 坑南村	keng nan cun	3
 坑内	keng nei	4675
 坑内村	keng nei cun	3
+坑你	keng ni	9999
 坑农	keng nong	5270
 坑骗	keng pian	1315
 吭气	keng qi	2110
@@ -217477,12 +217492,16 @@ sort: by_weight
 坑死了	keng si le	9999
 坑死你	keng si ni	9999
 坑死我	keng si wo	9999
+坑他	keng ta	9999
+坑她	keng ta	222
+坑它	keng ta	111
 坑头	keng tou	53
 坑头村	keng tou cun	84
 坑头社区	keng tou she qu	1
 坑洼	keng wa	4850
 坑尾	keng wei	44
 坑尾村	keng wei cun	25
+坑我	keng wo	9999
 坑下	keng xia	141
 坑穴	keng xue	980
 坑园	keng yuan	3
@@ -222978,7 +222997,8 @@ sort: by_weight
 拉佐姆	la zuo mu	1
 拉佐姆海岸	la zuo mu hai an	1
 来啊	lai a	44720
-来安	lai an	1
+来安	lai an	2222
+来按	lai an	111
 来安里	lai an li	2
 来安路	lai an lu	17
 来安排	lai an pai	10615
@@ -222990,12 +223010,13 @@ sort: by_weight
 赖氨酸磷酸氢钙颗粒	lai an suan lin suan qing gai ke li	4
 赖氨酸盐酸盐	lai an suan yan suan yan	124
 来安县	lai an xian	1445
-莱昂	lai ang	6570
+来昂	lai ang	222
+莱昂	lai ang	111
 莱昂·傅科	lai ang fu ke	1111
 莱昂克列比塘鳢	lai ang ke lie bi tang li	1
 莱昂尼达斯	lai ang ni da si	11
 莱昂普卢尔龙	lai ang pu lu er long	1
-莱奥	lai ao	2695
+莱奥	lai ao	111
 莱奥诺	lai ao nuo	4
 来吧	lai ba	140695
 来把	lai ba	111
@@ -223021,8 +223042,8 @@ sort: by_weight
 来宾县	lai bin xian	360
 来宾账户	lai bin zhang hu	1205
 来宾中院	lai bin zhong yuan	87
-莱博	lai bo	1080
 来波	lai bo	520
+# 莱博	lai bo	0
 莱博维茨	lai bo wei ci	62
 来不	lai bu	35670
 来不到	lai bu dao	71
@@ -223097,7 +223118,9 @@ sort: by_weight
 来的信	lai de xin	3400
 来得早	lai de zao	2930
 来得早的	lai de zao de	75
-莱登	lai deng	1315
+来等	lai deng	2222
+莱登	lai deng	111
+来等着	lai deng zhe	111
 来电	lai dian	361675
 来点	lai dian	22635
 来电查询	lai dian cha xun	12200
@@ -223132,7 +223155,8 @@ sort: by_weight
 来访者	lai fang zhe	39710
 来访真人居	lai fang zhen ren ju	1
 来风	lai feng	4260
-来凤	lai feng	4185
+来疯	lai feng	111
+# 来凤	lai feng	0
 来凤街	lai feng jie	44
 来凤山	lai feng shan	65
 来凤县	lai feng xian	1745
@@ -223163,7 +223187,8 @@ sort: by_weight
 来给	lai gei	99999
 来给我	lai gei wo	64
 来跟着我	lai gen zhe wo	8
-赖恭	lai gong	1
+来攻	lai gong	1111
+# 赖恭	lai gong	0
 来公司	lai gong si	12
 赖骨顽皮	lai gu wan pi	111
 癞瓜	lai gua	55
@@ -223192,6 +223217,9 @@ sort: by_weight
 来喝	lai he	9999
 来和	lai he	2111
 # 赖和	lai he	0
+来喝啊	lai he a	111
+来喝酒	lai he jiu	111
+来喝酒啊	lai he jiu a	111
 来衡量	lai heng liang	48425
 来鸿	lai hong	1
 来沪	lai hu	10415
@@ -223217,7 +223245,8 @@ sort: by_weight
 来济	lai ji	975
 来吉奇	lai ji qi	5
 赖际熙	lai ji xi	6
-赖家	lai jia	815
+来家	lai jia	3333
+# 赖家	lai jia	0
 莱佳奴	lai jia nu	6
 赖佳微	lai jia wei	21
 赖家新桥	lai jia xin qiao	2
@@ -223241,9 +223270,11 @@ sort: by_weight
 来救	lai jiu	15755
 来决定	lai jue ding	73
 来俊臣	lai jun chen	2055
+来卡	lai ka	2222
 徕卡	lai ka	1890
-莱卡	lai ka	1100
+# 莱卡	lai ka	0
 徕卡相机	lai ka xiang ji	1890
+来卡一下	lai ka yi xia	111
 来开	lai kai	111
 来开演唱会	lai kai yan chang hui	111
 来看	lai kan	500528
@@ -223255,8 +223286,8 @@ sort: by_weight
 来考察	lai kao cha	108
 来考虑	lai kao lv	62
 来客	lai ke	30170
-莱克	lai ke	10900
-莱科	lai ke	10445
+莱科	lai ke	111
+# 莱克	lai ke	0
 来客多	lai ke duo	1
 莱科宁	lai ke ning	1125
 莱科萨斯	lai ke sa si	56
@@ -223284,7 +223315,8 @@ sort: by_weight
 来了呀	lai le ya	720
 来嘞	lai lei	99
 来历	lai li	60335
-莱莉	lai li	1090
+来哩	lai li	2222
+莱莉	lai li	111
 来历不明	lai li bu ming	9305
 涞沥水村	lai li shui cun	11
 来立信	lai li xin	5
@@ -223322,7 +223354,7 @@ sort: by_weight
 莱蒙都会	lai meng dou hui	17
 莱蒙湖	lai meng hu	440
 来面试	lai mian shi	12
-来敏	lai min	3
+# 来敏	lai min	0
 濑名光莉	lai ming guang li	6666
 赖名汤	lai ming tang	3
 莱姆	lai mu	34632
@@ -223336,13 +223368,14 @@ sort: by_weight
 莱纳特	lai na te	22
 来南	lai nan	172
 来呢	lai ne	69530
-赖你	lai ni	9999
-莱尼	lai ni	205
+来你	lai ni	5555
+赖你	lai ni	3333
+莱尼	lai ni	1
 来你们	lai ni men	62
 莱尼西	lai ni xi	8
 来年	lai nian	44615
 来年规格	lai nian gui ge	9
-赖宁	lai ning	1525
+赖宁	lai ning	111
 赖诺普利	lai nuo pu li	7
 赖诺普利片	lai nuo pu li pian	1
 来拍	lai pai	111
@@ -223352,7 +223385,9 @@ sort: by_weight
 赖皮鬼	lai pi gui	5
 来气	lai qi	5165
 来钱	lai qian	6775
-莱切	lai qie	4015
+来切	lai qie	111
+# 莱切	lai qie	0
+来切菜	lai qie cai	111
 莱切斯特	lai qie si te	970
 来情去意	lai qing qu yi	6
 来球	lai qiu	4665
@@ -223367,7 +223402,7 @@ sort: by_weight
 来去自如	lai qu zi ru	2805
 来去自由	lai qu zi you	3685
 来曲唑片	lai qu zuo pian	2
-来群	lai qun	725
+# 来群	lai qun	0
 来人	lai ren	81180
 来人来函	lai ren lai han	2175
 来认识	lai ren shi	20675
@@ -223382,7 +223417,8 @@ sort: by_weight
 来如春梦不多时	lai ru chun meng bu duo shi	1
 来如春梦几多时	lai ru chun meng ji duo shi	2
 来如雷霆收震怒	lai ru lei ting shou zhen nu	1
-莱塞	lai sai	795
+来噻	lai sai	1111
+# 莱塞	lai sai	0
 莱瑟罗	lai se luo	1
 莱瑟罗峡谷	lai se luo xia gu	1
 莱山	lai shan	2785
@@ -223422,13 +223458,17 @@ sort: by_weight
 来说明	lai shuo ming	74
 来说是非者	lai shuo shi fei zhe	235
 来说说	lai shuo shuo	9090
-莱斯	lai si	24535
-赖斯	lai si	19365
+来私	lai si	3333
+来撕	lai si	333
+莱斯	lai si	222
+赖斯	lai si	111
 赖斯称	lai si cheng	18
 莱斯丹顿	lai si dan dun	1
 莱斯利	lai si li	1905
+来私聊	lai si liao	333
 莱斯马	lai si ma	2
 莱斯特	lai si te	5350
+来私我	lai si wo	333
 来苏	lai su	3200
 来苏儿	lai su er	775
 来苏之望	lai su zhi wang	1
@@ -223440,8 +223480,8 @@ sort: by_weight
 来谈谈	lai tan tan	10180
 赖汤圆	lai tang yuan	1061
 赖桃酥	lai tao su	5
-莱特	lai te	27105
-赖特	lai te	8705
+莱特	lai te	222
+赖特	lai te	111
 赖特宝螺	lai te bao luo	1
 莱特氏间颈须鳚	lai te shi jian jing xu wei	1
 来填补	lai tian bu	5730
@@ -223470,11 +223510,11 @@ sort: by_weight
 来往亦风流	lai wang yi feng liu	1
 来往于	lai wang yu	231
 来为	lai wei	54120
-莱维	lai wei	2685
+莱维	lai wei	111
 莱维氏歧须𬶏	lai wei shi qi xu wei	1
 来为我	lai wei wo	1685
 来问	lai wen	30565
-来文	lai wen	5130
+来文	lai wen	1
 赖文光	lai wen guang	3
 来问过	lai wen guo	1180
 莱温斯基	lai wen si ji	1945
@@ -223493,12 +223533,14 @@ sort: by_weight
 莱芜中院	lai wu zhong yuan	87
 来无踪去无影	lai wu zong qu wu ying	111
 来袭	lai xi	18390
-莱西	lai xi	10585
-莱希	lai xi	2275
+来洗	lai xi	333
+莱希	lai xi	111
+# 莱西	lai xi	0
+来西安	lai xi an	111
 莱西市	lai xi shi	5650
 莱西县	lai xi xian	65
-赖线	lai xian	99
-赖先	lai xian	4
+赖线	lai xian	111
+# 赖先	lai xian	0
 来现场	lai xian chang	78
 来向	lai xiang	29260
 来想	lai xiang	17085
@@ -223507,7 +223549,7 @@ sort: by_weight
 来校	lai xiao	22000
 来写	lai xie	32480
 来信	lai xin	237755
-莱辛	lai xin	1995
+莱辛	lai xin	111
 来信垂询	lai xin chui xun	75
 来信告知	lai xin gao zhi	56545
 来信来电	lai xin lai dian	3670
@@ -223516,9 +223558,10 @@ sort: by_weight
 来信说	lai xin shuo	3790
 来信息	lai xin xi	69
 来信者	lai xin zhe	405
-赖姓	lai xing	200
+赖姓	lai xing	111
 来形容	lai xing rong	81900
 来选	lai xuan	1111
+来学	lai xue	9999
 赖学	lai xue	335
 来学习	lai xue xi	29530
 来寻	lai xun	8265
@@ -223529,7 +223572,7 @@ sort: by_weight
 来演	lai yan	1111
 # 来言	lai yan	0
 来养	lai yang	111
-来样	lai yang	16
+来样	lai yang	1
 # 来阳	lai yang	0
 # 莱阳	lai yang	0
 来样加工	lai yang jia gong	4790
@@ -223555,8 +223598,8 @@ sort: by_weight
 来一下	lai yi xia	3585
 来一箱	lai yi xiang	64
 赖以拄其间	lai yi zhu qi jian	7
-莱茵	lai yin	34695
-莱因	lai yin	2600
+莱茵	lai yin	34
+# 莱因	lai yin	0
 莱茵达	lai yin da	34
 莱茵东郡	lai yin dong jun	27
 莱因哈德	lai yin ha de	26
@@ -258509,6 +258552,7 @@ sort: by_weight
 萌萌	meng meng	7105
 朦朦	meng meng	5240
 萌虻	meng meng	1
+萌萌的	meng meng de	222
 懵懵懂懂	meng meng dong dong	5550
 蒙蒙亮	meng meng liang	4165
 蒙蒙胧胧	meng meng long long	8870
@@ -269488,7 +269532,8 @@ sort: by_weight
 难出	nan chu	3905
 难处理	nan chu li	2290
 男厨师	nan chu shi	3333
-南川	nan chuan	8005
+南传	nan chuan	8005
+难穿	nan chuan	111
 南船北车	nan chuan bei che	1
 南船北马	nan chuan bei ma	47
 南川东路街道	nan chuan dong lu jie dao	1
@@ -287572,6 +287617,8 @@ sort: by_weight
 凭经验	ping jing yan	6595
 平静之墙	ping jing zhi qiang	1
 瓶颈制约	ping jing zhi yue	7151
+瓶酒	ping jiu	9999
+评酒	ping jiu	1111
 凭据	ping ju	28840
 平局	ping ju	15875
 评剧	ping ju	4765
@@ -292359,6 +292406,7 @@ sort: by_weight
 弃末反本	qi mo fan ben	111
 弃末返本	qi mo fan ben	1
 期末复习	qi mo fu xi	6545
+奇摩股市	qi mo gu shi	111
 汽摩及配件	qi mo ji pei jian	2455
 期末考试	qi mo kao shi	34910
 汽摩配	qi mo pei	4585
@@ -331064,6 +331112,7 @@ sort: by_weight
 谁还敢	shei hai gan	4200
 谁还会	shei hai hui	5175
 谁还能	shei hai neng	2940
+谁好	shei hao	9999
 谁何	shei he	575
 谁和	shei he	260
 谁和你	shei he ni	3472
@@ -358771,6 +358820,8 @@ sort: by_weight
 斯文扫地	si wen sao di	905
 斯文委地	si wen wei di	111
 斯文一脉	si wen yi mai	111
+私我	si wo	5555
+四窝	si wo	4
 四窝铺村	si wo pu cun	1
 丝窝乡	si wo xiang	1
 私窝子	si wo zi	6
@@ -365926,11 +365977,14 @@ sort: by_weight
 太工天成	tai gong tian cheng	12500
 太公望	tai gong wang	1205
 太公未遭文	tai gong wei zao wen	2
+太够	tai gou	2222
 太狗	tai gou	1111
-太古	tai gu	17675
-太谷	tai gu	5480
+太够了	tai gou le	2222
+太狗了	tai gou le	1111
 太鼓	tai gu	1780
 台股	tai gu	660
+太古	tai gu	17
+# 太谷	tai gu	0
 太谷饼	tai gu bing	278
 太古城	tai gu cheng	975
 太古城花园	tai gu cheng hua yuan	5
@@ -367604,6 +367658,7 @@ sort: by_weight
 太幸运了	tai xing yun le	2130
 台形指环虫	tai xing zhi huan chong	1
 太凶	tai xiong	1100
+太凶残了	tai xiong can le	111
 太凶了	tai xiong le	845
 太凶了吧	tai xiong le ba	845
 太秀	tai xiu	9999
@@ -496794,7 +496849,7 @@ sort: by_weight
 张四维	zhang si wei	20
 张思孝	zhang si xiao	2
 张松	zhang song	992
-张颂文	zhang song wen	13
+张颂文	zhang song wen	666
 张肃	zhang su	17
 张遂	zhang sui	24
 长孙	zhang sun	25595
