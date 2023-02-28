@@ -1478,6 +1478,7 @@
 # 「粘花惹草」→「拈花惹草」
 # 「华尔滋」→「华尔兹」
 # 「布维岛」→「布韦岛」
+# 「母指」→「拇指」
 #///
 ---
 name: base
@@ -1954,6 +1955,7 @@ sort: by_weight
 阿里亚德妮斯氏裳凤蝶	a li ya de ni si shi shang feng die	1
 阿丽亚娜	a li ya na	525
 阿黎耶识	a li ye shi	26
+阿里云	a li yun	753
 阿里云服务器	a li yun fu wu qi	753
 阿里中院	a li zhong yuan	87
 阿莲	a lian	4770
@@ -196859,6 +196861,7 @@ sort: by_weight
 金科公司	jin ke gong si	10
 金科联信数据	jin ke lian xin shu ju	87
 近可能	jin ke neng	35
+尽可能地	jin ke neng de	9999
 进可替否	jin ke ti fou	111
 金科玉律	jin ke yu lv	4890
 金科玉臬	jin ke yu nie	1
@@ -268691,6 +268694,8 @@ sort: by_weight
 拿一个	na yi ge	9845
 哪一个好	na yi ge hao	360
 哪一根	na yi gen	267
+那一行	na yi hang	222
+哪一行	na yi hang	111
 哪一级	na yi ji	623
 哪一家	na yi jia	1180
 那一家	na yi jia	1180
@@ -424726,6 +424731,7 @@ sort: by_weight
 小生产者	xiao sheng chan zhe	1225
 小升初	xiao sheng chu	4500
 小声点	xiao sheng dian	3400
+小声点儿	xiao sheng dian er	3333
 小圣赫勒拿岛海燕	xiao sheng he le na dao hai yan	1
 销声敛迹	xiao sheng lian ji	111
 小圣庙	xiao sheng miao	34
@@ -428722,6 +428728,8 @@ sort: by_weight
 新的一年中	xin de yi nian zhong	100
 新的一期节目	xin de yi qi jie mu	100
 新的一天	xin de yi tian	10460
+新的一天开始	xin de yi tian kai shi	100
+新的一天开始啦	xin de yi tian kai shi la	100
 新的一天开始了	xin de yi tian kai shi le	100
 新的一线城市	xin de yi xian cheng shi	100
 新的一学期	xin de yi xue qi	100
@@ -495135,7 +495143,9 @@ sort: by_weight
 詹姆斯·泰勒	zhan mu si tai le	111
 詹姆逊	zhan mu xun	80
 詹娜宝螺	zhan na bao luo	1
+斩男	zhan nan	3333
 站南街道	zhan nan jie dao	6
+斩男色	zhan nan se	3333
 站内	zhan nei	352245
 占内存	zhan nei cun	9999
 栈内存	zhan nei cun	804
@@ -495150,6 +495160,9 @@ sort: by_weight
 詹尼小雷氏鲶	zhan ni xiao lei shi nian	1
 瞻念	zhan nian	111
 詹宁斯	zhan ning si	1435
+斩女	zhan nv	3333
+斩女香	zhan nv xiang	3333
+斩女香水	zhan nv xiang shui	3333
 站牌	zhan pai	14675
 展牌	zhan pai	1860
 战袍	zhan pao	7775
@@ -495189,8 +495202,8 @@ sort: by_weight
 站前区	zhan qian qu	5145
 瞻前思后	zhan qian si hou	111
 战前战后	zhan qian zhan hou	65
-栈桥	zhan qiao	10680
-占桥	zhan qiao	8
+栈桥	zhan qiao	1068
+# 占桥	zhan qiao	0
 战勤	zhan qin	570
 沾亲	zhan qin	325
 沾亲带故	zhan qin dai gu	1350
