@@ -40,10 +40,6 @@
 # 删除了「这zhei」「那nei」，只保留了「这zhe」「那na」。
 #
 #
-name: base
-version: "2023-02-27"
-sort: by_weight
-...
 # --------------- 修订记录：（所有词库的） ---------------
 ##### 留存待定，等新版《现汉》再看看：
 # 「滴答」「嘀嗒」，（「滴答」和雨滴相关，「嘀嗒」和喇叭钟表等相关，😡）
@@ -1483,6 +1479,11 @@ sort: by_weight
 # 「华尔滋」→「华尔兹」
 # 「布维岛」→「布韦岛」
 #///
+---
+name: base
+version: "2023-02-28"
+sort: by_weight
+...
 # +_+
 啊啊	a a	27365
 啊啊啊	a a a	9820
@@ -185269,10 +185270,10 @@ sort: by_weight
 监护责任	jian hu ze ren	2655
 监护职责	jian hu zhi ze	4355
 简化	jian hua	170870
-建华	jian hua	56345
-碱化	jian hua	2990
-剑华	jian hua	2315
 奸猾	jian hua	1855
+碱化	jian hua	299
+# 剑华	jian hua	0
+# 建华	jian hua	0
 简化安装	jian hua an zhuang	355
 简化版	jian hua ban	4150
 建华厂	jian hua chang	2
@@ -254225,7 +254226,7 @@ sort: by_weight
 没安着	mei an zhe	50
 每盎司	mei ang si	8245
 美澳	mei ao	3500
-梅岙	mei ao	29
+# 梅岙	mei ao	0
 没把	mei ba	27610
 没吧	mei ba	465
 没把握	mei ba wo	5170
@@ -254480,7 +254481,9 @@ sort: by_weight
 每道	mei dao	2222
 美到	mei dao	1111
 没到点	mei dao dian	1307
+没到点儿	mei dao dian er	1307
 没道理	mei dao li	8290
+没道理啊	mei dao li a	8290
 每到驿亭先下马	mei dao yi ting xian xia ma	3
 没得	mei de	99999
 美德	mei de	73405
@@ -397246,6 +397249,8 @@ sort: by_weight
 文鼎创数据	wen ding chuang shu ju	87
 稳定的	wen ding de	380510
 稳定地	wen ding de	16830
+稳定点	wen ding dian	9999
+稳定碘	wen ding dian	1
 稳定度	wen ding du	9685
 稳定发展	wen ding fa zhan	39630
 稳定复现	wen ding fu xian	75
@@ -444494,9 +444499,9 @@ sort: by_weight
 艳丽	yan li	66005
 眼力	yan li	20520
 盐粒	yan li	1365
-妍丽	yan li	800
-眼离	yan li	385
 沿例	yan li	10
+眼离	yan li	3
+# 妍丽	yan li	0
 沿篱白豆	yan li bai dou	1
 阎立本	yan li ben	36
 严厉查处	yan li cha chu	13795
