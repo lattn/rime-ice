@@ -1481,10 +1481,11 @@
 # 「布维岛」→「布韦岛」
 # 「母指」→「拇指」
 # 「做月子」→「坐月子」
+# 「合壁」→「合璧」
 #///
 ---
 name: base
-version: "2023-03-03"
+version: "2023-03-04"
 sort: by_weight
 ...
 # +_+
@@ -121246,7 +121247,7 @@ sort: by_weight
 干嘛的	gan ma de	783
 干嘛关了	gan ma guan le	223
 干嘛了	gan ma le	565
-干嘛呐	gan ma na	12
+干嘛呐	gan ma na	1200
 干嘛呢	gan ma ne	3265
 干嘛呢你	gan ma ne ni	97
 干嘛去了	gan ma qu le	830
@@ -151421,8 +151422,8 @@ sort: by_weight
 河奔海聚	he ben hai ju	1
 荷畚执耒	he ben zhi lei	111
 何必	he bi	110935
-鹤壁	he bi	16890
 合璧	he bi	5935
+# 鹤壁	he bi	0
 何必长从七贵游	he bi chang cong qi gui you	1
 何必当初	he bi dang chu	2290
 何必膏粱珍	he bi gao liang zhen	1
@@ -241856,12 +241857,12 @@ sort: by_weight
 刘艳霞	liu yan xia	70
 留言者	liu yan zhe	65190
 流言止于智者	liu yan zhi yu zhi zhe	74
-浏阳	liu yang	17265
-刘洋	liu yang	12695
+浏阳	liu yang	7265
 留洋	liu yang	6000
-刘杨	liu yang	612
-流洋	liu yang	3
-刘旸	liu yang	1
+# 刘旸	liu yang	0
+# 刘杨	liu yang	0
+# 刘洋	liu yang	0
+# 流洋	liu yang	0
 刘杨村	liu yang cun	9
 浏阳道	liu yang dao	1
 硫氧还蛋白还原酶	liu yang hai dan bai huan yuan mei	1
@@ -241875,8 +241876,8 @@ sort: by_weight
 浏阳市	liu yang shi	14025
 六阳首级	liu yang shou ji	111
 浏阳县	liu yang xian	615
-六爻	liu yao	14305
 柳腰	liu yao	2935
+六爻	liu yao	6
 六幺	liu yao	1
 # 刘曜	liu yao	0
 # 刘瑶	liu yao	0
@@ -241885,6 +241886,7 @@ sort: by_weight
 熘腰花儿	liu yao hua er	22
 刘尧诲	liu yao hui	2
 柳腰莲脸	liu yao lian lian	1
+六幺令	liu yao ling	6
 柳夭桃艳	liu yao tao yan	1
 刘烨	liu ye	16315
 柳叶	liu ye	13915
@@ -274723,7 +274725,8 @@ sort: by_weight
 尼木县	ni mu xian	650
 你那	ni na	90610
 你拿	ni na	35915
-妮娜	ni na	111
+妮娜	ni na	222
+你呐	ni na	111
 # 尼娜	ni na	0
 你哪的	ni na de	100
 你哪的啊	ni na de a	90
@@ -274742,7 +274745,7 @@ sort: by_weight
 你那有吗	ni na you ma	85
 你拿着	ni na zhe	3930
 你奶奶的	ni nai nai de	3210
-呢喃	ni nan	18220
+呢喃	ni nan	1822
 你男朋友啊	ni nan peng you a	120
 你男朋友呢	ni nan peng you ne	115
 呢喃声	ni nan sheng	111
@@ -275042,6 +275045,7 @@ sort: by_weight
 你说	ni shuo	394450
 你说吧	ni shuo ba	8030
 你说得对	ni shuo de dui	4520
+你说的什么啊	ni shuo de shen me a	111
 你说的是	ni shuo de shi	11380
 你说对	ni shuo dui	2045
 你说过	ni shuo guo	11310
@@ -276953,7 +276957,8 @@ sort: by_weight
 您没有权限	nin mei you quan xian	61255
 您们	nin men	25260
 您们好	nin men hao	3725
-您那	nin na	6740
+您呐	nin na	8888
+您那	nin na	674
 您那边	nin na bian	8
 您呢	nin ne	4535
 您能	nin neng	84380
@@ -365107,8 +365112,13 @@ sort: by_weight
 鳎目鱼	ta mu yu	70
 他那	ta na	124515
 她那	ta na	104705
-他拿	ta na	27675
 它那	ta na	25810
+他拿	ta na	2767
+她拿	ta na	2222
+它拿	ta na	1111
+他呐	ta na	333
+她呐	ta na	222
+它呐	ta na	111
 他那边	ta na bian	3
 他那个	ta na ge	4
 塔纳河白眉猴	ta na he bai mei hou	1
@@ -378217,6 +378227,7 @@ sort: by_weight
 听命于	ting ming yu	6000
 听命于人	ting ming yu ren	265
 挺魔幻	ting mo huan	111
+挺魔幻的	ting mo huan de	111
 听那	ting na	12905
 挺耐看的	ting nai kan de	1180
 挺难	ting nan	7165
@@ -378386,7 +378397,6 @@ sort: by_weight
 听天任命	ting tian ren ming	111
 听天委命	ting tian wei ming	1
 听天由命	ting tian you ming	7945
-听天繇命	ting tian you ming	111
 停跳	ting tiao	3333
 挺挑剔	ting tiao ti	1180
 挺挑剔的	ting tiao ti de	560
@@ -394081,9 +394091,9 @@ sort: by_weight
 维卡	wei ka	2050
 纬卡狄	wei ka di	1
 微卡圆角蝉	wei ka yuan jiao chan	1
-未开	wei kai	34960
-唯开	wei kai	4705
-微开	wei kai	1850
+未开	wei kai	3496
+# 唯开	wei kai	0
+# 微开	wei kai	0
 未开发	wei kai fa	3075
 未开发的	wei kai fa de	4425
 未开放的	wei kai fang de	1315
@@ -401227,6 +401237,7 @@ sort: by_weight
 我木有	wo mu you	64
 我那	wo na	77815
 我拿	wo na	43605
+我呐	wo na	1111
 我那个	wo na ge	6
 我拿个东西	wo na ge dong xi	111
 我哪里	wo na li	10190
