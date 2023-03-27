@@ -1494,10 +1494,12 @@
 # 「不急不徐」→「不疾不徐」
 # 「桂鱼」→「鳜鱼」
 # 「惟愿」→「唯愿」
+# 「策画」→「策划」
+# 「重置版」→「重制版」
 #///
 ---
 name: base
-version: "2023-03-26"
+version: "2023-03-28"
 sort: by_weight
 ...
 # +_+
@@ -1771,6 +1773,7 @@ sort: by_weight
 阿华	a hua	10660
 阿花	a hua	4560
 阿焕鸭面	a huan ya mian	18
+阿辉	a hui	111
 阿吉	a ji	11215
 阿基里斯	a ji li si	1370
 阿基米德	a ji mi de	5735
@@ -3189,6 +3192,7 @@ sort: by_weight
 艾绒	ai rong	2222
 哀荣	ai rong	999
 爱榕园	ai rong yuan	11
+爱如	ai ru	111
 爱如潮水	ai ru chao shui	2300
 爱如己出	ai ru ji chu	111
 爱如空气	ai ru kong qi	1780
@@ -39655,6 +39659,7 @@ sort: by_weight
 残槃冷炙	can pan leng zhi	1
 残炮归家	can pao gui jia	1
 残片	can pian	6915
+餐品	can pin	3333
 残品	can pin	495
 参评	can ping	43510
 残破	can po	16480
@@ -41277,6 +41282,7 @@ sort: by_weight
 侧边	ce bian	15050
 侧扁	ce bian	1
 侧边栏	ce bian lan	3408
+侧边栏儿	ce bian lan er	3333
 测不出	ce bu chu	1000
 测不出来	ce bu chu lai	73
 测不到	ce bu dao	865
@@ -41397,6 +41403,8 @@ sort: by_weight
 测控	ce kong	29770
 测控技术	ce kong ji shu	4180
 侧拉菜单	ce la cai dan	121
+侧栏	ce lan	3333
+侧栏儿	ce lan er	3333
 测了	ce le	1111
 # 策勒	ce le	0
 策勒县	ce le xian	510
@@ -50212,6 +50220,8 @@ sort: by_weight
 成功的秘诀	cheng gong de mi jue	9150
 成功的人	cheng gong de ren	13215
 成功的事	cheng gong de shi	540
+成功地消灭	cheng gong de xiao mie	111
+成功地消灭了	cheng gong de xiao mie le	111
 成功的一半	cheng gong de yi ban	100
 成功的一天	cheng gong de yi tian	100
 成功范例	cheng gong fan li	4315
@@ -72172,11 +72182,12 @@ sort: by_weight
 待证事实	dai zheng shi shi	1125
 怠政者	dai zheng zhe	87
 呆滞	dai zhi	21145
-代之	dai zhi	16655
 待之	dai zhi	8005
 带至	dai zhi	5135
+代之	dai zhi	1665
 代职	dai zhi	885
 带职	dai zhi	570
+代指	dai zhi	2
 代指口传	dai zhi kou chuan	1
 呆滞品	dai zhi pin	78
 戴之奇	dai zhi qi	1
@@ -76676,6 +76687,7 @@ sort: by_weight
 德川幕府	de chuan mu fu	1410
 德川齐昭	de chuan qi zhao	2
 德川庆喜	de chuan qing xi	6
+的传说	de chuan shuo	111
 德川秀忠	de chuan xiu zhong	1
 的春天	de chun tian	111
 的词	de ci	2222
@@ -77715,7 +77727,7 @@ sort: by_weight
 等等吧	deng deng ba	2210
 噔噔噔	deng deng deng	1160
 等等等等	deng deng deng deng	16695
-噔噔噔噔	deng deng deng deng	1
+噔噔噔噔	deng deng deng deng	2
 等等他	deng deng ta	240
 等等她	deng deng ta	70
 等等它	deng deng ta	7
@@ -86962,6 +86974,8 @@ sort: by_weight
 叠好	die hao	4385
 叠合	die he	9999
 迭合法	die he fa	1
+爹很	die hen	3333
+爹很喜欢	die hen xi huan	111
 蝶花百合	die hua bai he	1
 蝶化庄生	die hua zhuang sheng	2
 蝶化庄周	die hua zhuang zhou	1
@@ -103655,6 +103669,7 @@ sort: by_weight
 反打	fan da	1410
 犯大错	fan da cuo	790
 饭袋	fan dai	120
+反代	fan dai	111
 反担保	fan dan bao	8205
 反弹道导弹导弹	fan dan dao dao dan dao dan	5
 反党	fan dang	4675
@@ -140971,6 +140986,7 @@ sort: by_weight
 贵贱无常	gui jian wu chang	3
 贵贱无二	gui jian wu er	1
 桂江	gui jiang	2350
+鬼将	gui jiang	2
 鲑降钙素	gui jiang gai su	6
 桂江路	gui jiang lu	24
 硅胶	gui jiao	40415
@@ -145574,6 +145590,7 @@ sort: by_weight
 还不能使	hai bu neng shi	285
 还不能用	hai bu neng yong	815
 还不起	hai bu qi	1845
+还不起床	hai bu qi chuang	111
 还不清楚	hai bu qing chu	12630
 还不去	hai bu qu	2020
 还不确定	hai bu que ding	8
@@ -193328,6 +193345,7 @@ sort: by_weight
 截稿日期	jie gao ri qi	3585
 截稿时间	jie gao shi jian	1725
 借个	jie ge	3955
+接个	jie ge	1111
 街鸽	jie ge	47
 介个	jie ge	11
 杰哥	jie ge	1
@@ -202748,6 +202766,7 @@ sort: by_weight
 经天纬地	jing tian wei di	1920
 景田小学	jing tian xiao xue	10
 井田制	jing tian zhi	1595
+精调	jing tiao	3333
 荆条	jing tiao	1860
 惊跳	jing tiao	1725
 精挑细选	jing tiao xi xuan	12235
@@ -210973,6 +210992,7 @@ sort: by_weight
 开不上	kai bu shang	199
 开步走	kai bu zou	445
 开采	kai cai	175255
+开彩	kai cai	2
 开采成本	kai cai cheng ben	1595
 开采地	kai cai di	2285
 开采量	kai cai liang	5455
@@ -223174,9 +223194,11 @@ sort: by_weight
 拉选票	la xuan piao	1760
 腊鸭	la ya	1370
 剌亚煤炱	la ya mei tai	1
+辣眼	la yan	5555
 拉烟	la yan	189
-拉延	la yan	110
+拉延	la yan	2
 拉烟层	la yan ceng	111
+辣眼睛	la yan jing	5555
 拉秧	la yang	250
 拉洋片	la yang pian	550
 腊羊肉	la yang rou	413
@@ -247401,14 +247423,14 @@ sort: by_weight
 落寞	luo mo	36120
 裸模	luo mo	6666
 落墨	luo mo	1345
-萝藦	luo mo	1
+萝藦	luo mo	2
 洛莫司汀	luo mo si ting	9
 洛莫乡	luo mo xiang	1
 罗默小树蛙	luo mo xiao shu wa	1
 罗摩衍那	luo mo yan na	1125
 洛莫依达乡	luo mo yi da xiang	3
-螺母	luo mu	28195
 落幕	luo mu	27190
+螺母	luo mu	2819
 螺母垫片	luo mu dian pian	48
 螺母和螺栓	luo mu he luo shuan	3333
 螺母及螺栓	luo mu ji luo shuan	3333
@@ -247766,11 +247788,11 @@ sort: by_weight
 罗水乡	luo shui xiang	11
 落水者	luo shui zhe	1665
 螺丝	luo si	69610
-罗斯	luo si	68980
-洛斯	luo si	17850
-螺蛳	luo si	13069
-罗丝	luo si	8910
-裸死	luo si	365
+罗斯	luo si	5
+螺蛳	luo si	4
+裸死	luo si	3
+罗丝	luo si	2
+# 洛斯	luo si	0
 螺丝坝	luo si ba	3
 螺丝扳手	luo si ban shou	3333
 罗斯伯格	luo si bo ge	495
@@ -254633,6 +254655,7 @@ sort: by_weight
 眉笔	mei bi	7785
 美吡哒	mei bi da	1
 没必要	mei bi yao	55940
+没必要吧啊	mei bi yao ba a	111
 没毕业	mei bi ye	3630
 没逼着	mei bi zhe	20
 没变	mei bian	20205
@@ -257514,6 +257537,7 @@ sort: by_weight
 没有保障	mei you bao zhang	4920
 没有被	mei you bei	73900
 没有必要	mei you bi yao	76135
+没有必要吧啊	mei you bi yao ba a	111
 没有变	mei you bian	12090
 没有变化	mei you bian hua	17115
 没有标	mei you biao	65
@@ -261424,6 +261448,8 @@ sort: by_weight
 妙笔	miao bi	3630
 妙笔生花	miao bi sheng hua	3670
 秒变	miao bian	9999
+描边	miao bian	111
+描边儿	miao bian er	111
 秒表	miao biao	17660
 妙不可言	miao bu ke yan	11740
 秒不了	miao bu liao	83
@@ -268812,6 +268838,7 @@ sort: by_weight
 拿糖	na tang	460
 拿糖作醋	na tang zuo cu	111
 那套	na tao	26970
+哪套	na tao	111
 纳特	na te	6455
 那天	na tian	382205
 哪天	na tian	53805
@@ -269087,6 +269114,7 @@ sort: by_weight
 那一秒	na yi miao	1280
 那一抹	na yi mo	4330
 那一幕	na yi mu	12280
+那艺娜	na yi na	111
 那一年	na yi nian	42310
 哪一年	na yi nian	6155
 哪一批	na yi pi	79
@@ -332991,6 +333019,7 @@ sort: by_weight
 什么歌	shen me ge	4015
 什么歌啊	shen me ge a	360
 什么歌好	shen me ge hao	35
+什么歌曲	shen me ge qu	111
 什么格式	shen me ge shi	61
 什么跟什么啊	shen me gen shen me a	1065
 什么工作	shen me gong zuo	9515
@@ -337546,7 +337575,10 @@ sort: by_weight
 石版印刷	shi ban yin shua	110
 石斑鱼	shi ban yu	6871
 使绊子	shi ban zi	9999
+是帮	shi bang	333
+拾绑	shi bang	111
 释谤解患	shi bang jie huan	111
+是帮我	shi bang wo	111
 时报	shi bao	104980
 施暴	shi bao	6545
 实报	shi bao	1650
@@ -365655,6 +365687,8 @@ sort: by_weight
 它所含	ta suo han	465
 他所说	ta suo shuo	4075
 他所做	ta suo zuo	650
+他她	ta ta	9999
+她她	ta ta	8888
 塔塔	ta ta	8750
 踏踏	ta ta	1835
 塌塌	ta ta	76
@@ -373609,6 +373643,7 @@ sort: by_weight
 体验到	ti yan dao	47755
 体验度量	ti yan du liang	12
 体验角色	ti yan jue se	190
+体验了几天	ti yan le ji tian	111
 体验生活	ti yan sheng huo	9250
 体验式	ti yan shi	19190
 体验死亡	ti yan si wang	100
@@ -390441,6 +390476,7 @@ sort: by_weight
 汪洪度	wang hong du	1
 王洪军	wang hong jun	97
 王宏坤	wang hong kun	33
+网红神曲	wang hong shen qu	111
 王鸿寿	wang hong shou	2
 王宏伟	wang hong wei	3540
 王洪文	wang hong wen	3975
@@ -400322,6 +400358,8 @@ sort: by_weight
 我的电脑	wo de dian nao	64150
 我的订单	wo de ding dan	17030
 我的东西	wo de dong xi	9300
+我的儿	wo de er	3333
+沃德尔	wo de er	2
 我的耳朵	wo de er duo	9995
 我的儿子	wo de er zi	16685
 我的房产我做主	wo de fang chan wo zuo zhu	2
@@ -419300,10 +419338,10 @@ sort: by_weight
 相当重要	xiang dang zhong yao	13795
 想到	xiang dao	500309
 向导	xiang dao	126240
-想道	xiang dao	20375
 乡道	xiang dao	5970
-香道	xiang dao	125
-向道	xiang dao	36
+# 向道	xiang dao	0
+# 想道	xiang dao	0
+# 香道	xiang dao	0
 想到此	xiang dao ci	3210
 想到此处	xiang dao ci chu	2925
 香稻村	xiang dao cun	2
@@ -424278,9 +424316,9 @@ sort: by_weight
 笑来笑去	xiao lai xiao qu	635
 小来小去	xiao lai xiao qu	45
 晓来雨过	xiao lai yu guo	23
-小蓝	xiao lan	100
 小兰	xiao lan	99
 晓兰	xiao lan	81
+小蓝	xiao lan	10
 # 小篮	xiao lan	0
 # 晓岚	xiao lan	0
 小蓝灰蝶	xiao lan hui die	1
@@ -522875,8 +522913,8 @@ sort: by_weight
 专骗	zhuan pian	9999
 转屏	zhuan ping	616
 转起	zhuan qi	1335
-转期	zhuan qi	23
-转企	zhuan qi	1
+砖砌	zhuan qi	111
+转企	zhuan qi	2
 砖砌宝马	zhuan qi bao ma	151
 转起来	zhuan qi lai	1515
 专气致柔	zhuan qi zhi rou	395
@@ -531603,6 +531641,10 @@ sort: by_weight
 最不喜欢	zui bu xi huan	8285
 最不想	zui bu xiang	1605
 最不愿	zui bu yuan	2385
+最不值的	zui bu zhi de	3333
+最不值得	zui bu zhi de	111
+最不值的东西	zui bu zhi de dong xi	3333
+最不值得买	zui bu zhi de mai	3333
 罪不至死	zui bu zhi si	500
 最不重要	zui bu zhong yao	12
 最惨	zui can	9790
