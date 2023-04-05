@@ -1497,10 +1497,12 @@
 # 「策画」→「策划」
 # 「重置版」→「重制版」
 # 「豆夹」→「豆荚」
+# 「张驰有度」→「张弛有度」
+# 「出场设置」→「出厂设置」
 #///
 ---
 name: base
-version: "2023-03-30"
+version: "2023-04-05"
 sort: by_weight
 ...
 # +_+
@@ -12311,6 +12313,7 @@ sort: by_weight
 半点	ban dian	68645
 斑点	ban dian	49755
 办点	ban dian	4210
+搬点	ban dian	111
 斑点暗澳鮨	ban dian an ao yi	1
 半癫半狂	ban dian ban kuang	1
 斑点北鳚	ban dian bei wei	1
@@ -12318,7 +12321,10 @@ sort: by_weight
 斑点叉尾𫚔病毒	ban dian cha wei hui bing du	1
 斑点单棘躄鱼	ban dian dan ji bi yu	1
 斑点东方鲀	ban dian dong fang tun	1
-半点儿	ban dian er	1955
+半点儿	ban dian er	68645
+斑点儿	ban dian er	49755
+办点儿	ban dian er	4210
+搬点儿	ban dian er	111
 半点非分	ban dian fei fen	8
 斑点狗	ban dian gou	3175
 斑点红鲉	ban dian hong you	1
@@ -12511,6 +12517,7 @@ sort: by_weight
 办公室	ban gong shi	500725
 办公事	ban gong shi	855
 办公时间	ban gong shi jian	9735
+办公室联系	ban gong shi lian xi	111
 办公室内	ban gong shi nei	6940
 办公事务	ban gong shi wu	2005
 办公室职员	ban gong shi zhi yuan	3333
@@ -12967,6 +12974,7 @@ sort: by_weight
 斑马线	ban ma xian	5425
 班玛县	ban ma xian	545
 斑马翼法螺	ban ma yi fa luo	1
+斑马智行互联系统	ban ma zhi xing hu lian xi tong	111
 斑马总动员	ban ma zong dong yuan	1
 半卖半扔	ban mai ban reng	1
 半卖半送	ban mai ban song	670
@@ -13999,6 +14007,7 @@ sort: by_weight
 绑匪	bang fei	11430
 帮扶	bang fu	9999
 绑缚	bang fu	2295
+帮扶联系人	bang fu lian xi ren	111
 棒腹小叶箭蜓	bang fu xiao ye jian ting	1
 帮个	bang ge	9999
 帮哥	bang ge	1111
@@ -14073,6 +14082,7 @@ sort: by_weight
 帮忙啊	bang mang a	2025
 帮忙的	bang mang de	6250
 帮忙介绍	bang mang jie shao	64
+帮忙联系	bang mang lian xi	111
 帮忙买车	bang mang mai che	68
 帮忙者	bang mang zhe	185
 棒毛拟隐鳞虫	bang mao ni yin lin chong	1
@@ -14340,6 +14350,7 @@ sort: by_weight
 包包饺子	bao bao jiao zi	1180
 宝宝金水	bao bao jin shui	25
 宝宝乐	bao bao le	27
+包保联系	bao bao lian xi	111
 抱抱你	bao bao ni	2460
 包包上	bao bao shang	55
 爆保险丝	bao bao xian si	160
@@ -14561,6 +14572,7 @@ sort: by_weight
 保持联系	bao chi lian xi	18385
 保持凉冷	bao chi liang leng	1
 保持门口畅通	bao chi men kou chang tong	1
+保持密切联系	bao chi mi qie lian xi	111
 保持平放	bao chi ping fang	35
 保持平衡	bao chi ping heng	12760
 保持青春	bao chi qing chun	2525
@@ -14586,6 +14598,7 @@ sort: by_weight
 保持约	bao chi yue	97
 保持在	bao chi zai	108665
 保持着	bao chi zhe	130055
+保持着联系	bao chi zhe lian xi	111
 保持这一	bao chi zhe yi	2340
 保持这种	bao chi zhe zhong	6815
 保持镇静	bao chi zhen jing	2660
@@ -15857,6 +15870,8 @@ sort: by_weight
 报名费	bao ming fei	56215
 报名工作	bao ming gong zuo	19360
 报名截止日期	bao ming jie zhi ri qi	9955
+报名联系	bao ming lian xi	111
+报名联系人	bao ming lian xi ren	111
 报名情况	bao ming qing kuang	7670
 报名人数	bao ming ren shu	23700
 报名时	bao ming shi	61595
@@ -16488,6 +16503,7 @@ sort: by_weight
 保险公司非寿险业务准备金管理办法	bao xian gong si fei shou xian ye wu zhun bei jin guan li ban fa	63
 保险公司高级管理人员任职资格	bao xian gong si gao ji guan li ren yuan ren zhi zi ge	80
 保险公司股权管理办法	bao xian gong si gu quan guan li ban fa	432
+保险公司联系	bao xian gong si lian xi	111
 保险公司投资债券	bao xian gong si tou zi zhai quan	24
 保险公司信息披露管理办法	bao xian gong si xin xi pi lu guan li ban fa	7
 保险公司营销服务部	bao xian gong si ying xiao fu wu bu	27
@@ -22785,6 +22801,7 @@ sort: by_weight
 必然	bi ran	474755
 # 毕然	bi ran	0
 必然呈	bi ran cheng	26
+必然的联系	bi ran de lian xi	111
 必然的事	bi ran de shi	960
 必然规律	bi ran gui lv	2565
 必然怀鬼胎	bi ran huai gui tai	75
@@ -22829,6 +22846,7 @@ sort: by_weight
 髀肉	bi rou	1111
 吡柔比星	bi rou bi xing	1
 髀肉复生	bi rou fu sheng	1111
+比肉还好吃	bi rou hai hao chi	111
 比如	bi ru	500817
 比如你	bi ru ni	17795
 笔如泉涌	bi ru quan yong	111
@@ -23215,6 +23233,7 @@ sort: by_weight
 鼻掀胸挺	bi xian xiong ting	1
 必先予之	bi xian yu zhi	1180
 必先与之	bi xian yu zhi	220
+比现在还好	bi xian zai hai hao	111
 逼向	bi xiang	2390
 壁厢	bi xiang	1
 碧湘街	bi xiang jie	25
@@ -24137,6 +24156,7 @@ sort: by_weight
 变更登记	bian geng deng ji	106910
 变更过	bian geng guo	64
 变更会计师事务所	bian geng kuai ji shi shi wu suo	111
+变更联系方式	bian geng lian xi fang shi	111
 变更企业性质	bian geng qi ye xing zhi	37
 变更情况	bian geng qing kuang	5565
 变更日期	bian geng ri qi	1700
@@ -24525,6 +24545,7 @@ sort: by_weight
 边练边	bian lian bian	255
 变脸变色	bian lian bian se	1
 变脸王	bian lian wang	2090
+便联系	bian lian xi	111
 变量	bian liang	246550
 汴梁	bian liang	4925
 变亮	bian liang	4550
@@ -26682,9 +26703,9 @@ sort: by_weight
 别思天边梦落花	bie si tian bian meng luo hua	1
 别斯铁热克乡	bie si tie re ke xiang	9
 别斯托别乡	bie si tuo bie xiang	28
-别𪨊	bie song	9999
 别怂	bie song	3333
 别送	bie song	2222
+别𪨊	bie song	2
 鳖孙	bie sun	3333
 鳖孙儿	bie sun er	3333
 瘪塌塌	bie ta ta	1
@@ -26789,6 +26810,7 @@ sort: by_weight
 别再	bie zai	46800
 别在	bie zai	45700
 憋在	bie zai	2955
+别再联系	bie zai lian xi	111
 别再说	bie zai shuo	1225
 憋在心里	bie zai xin li	2640
 别藻蓝蛋白	bie zao lan dan bai	10
@@ -30287,6 +30309,7 @@ sort: by_weight
 补偿金额	bu chang jin e	5610
 不长久	bu chang jiu	2855
 补偿款	bu chang kuan	10615
+不常联系	bu chang lian xi	111
 补偿贸易	bu chang mao yi	7395
 不偿命	bu chang ming	3420
 步长脑心通	bu chang nao xin tong	6
@@ -30481,7 +30504,7 @@ sort: by_weight
 不纯一的	bu chun yi de	1
 不辍	bu chuo	6580
 不辞	bu ci	9295
-卜辞	bu ci	4630
+卜辞	bu ci	2
 不辞冰雪为卿热	bu ci bing xue wei qing re	4
 不次不宠	bu ci bu chong	1
 不雌不雄	bu ci bu xiong	1
@@ -30944,6 +30967,7 @@ sort: by_weight
 不断开创	bu duan kai chuang	13985
 不断扩大	bu duan kuo da	105585
 不短了	bu duan le	1180
+不断联系	bu duan lian xi	111
 不断落实	bu duan luo shi	100
 不断努力	bu duan nu li	20565
 不断前进	bu duan qian jin	11260
@@ -31377,6 +31401,7 @@ sort: by_weight
 不敢来了	bu gan lai le	110
 不干了	bu gan le	9885
 不敢了	bu gan le	1185
+不敢联系	bu gan lian xi	111
 不甘落后	bu gan luo hou	9790
 不干吗	bu gan ma	145
 不感冒	bu gan mao	3645
@@ -31671,6 +31696,7 @@ sort: by_weight
 不过二十里耳	bu guo er shi li er	1
 不过分	bu guo fen	9815
 不过关	bu guo guan	13105
+不过还好	bu guo hai hao	111
 不过好像	bu guo hao xiang	98
 不过激	bu guo ji	1180
 不过境	bu guo jing	50
@@ -31952,6 +31978,7 @@ sort: by_weight
 不会了	bu hui le	4120
 不回了	bu hui le	1515
 不会理我	bu hui li wo	208
+不会联系	bu hui lian xi	111
 不会吗	bu hui ma	370
 不会骂你	bu hui ma ni	135
 不会买	bu hui mai	5305
@@ -32003,6 +32030,7 @@ sort: by_weight
 不讳之路	bu hui zhi lu	1
 不讳之门	bu hui zhi men	1
 不毁之制	bu hui zhi zhi	1
+不会主动联系	bu hui zhu dong lian xi	111
 不会走	bu hui zou	3130
 不会做	bu hui zuo	16200
 不混	bu hun	1500
@@ -32405,6 +32433,7 @@ sort: by_weight
 布警	bu jing	1111
 不惊不怖	bu jing bu bu	170
 不经常	bu jing chang	7475
+不经常联系	bu jing chang lian xi	111
 捕鲸船	bu jing chuan	455
 不胫而走	bu jing er zou	6965
 不经过	bu jing guo	15415
@@ -33097,6 +33126,7 @@ sort: by_weight
 不连互联网	bu lian hu lian wang	12
 不连接	bu lian jie	1120
 不炼金丹不坐禅	bu lian jin dan bu zuo chan	2
+不联系	bu lian xi	5555
 不练习	bu lian xi	345
 不连续	bu lian xu	5770
 不连续变异	bu lian xu bian yi	1
@@ -33424,6 +33454,7 @@ sort: by_weight
 部门间	bu men jian	15310
 部门经理	bu men jing li	47460
 部门决定	bu men jue ding	7655
+部门联系	bu men lian xi	111
 部门领导	bu men ling dao	20310
 部门落实	bu men luo shi	100
 部门内	bu men nei	12
@@ -34128,8 +34159,8 @@ sort: by_weight
 不认识我了吗	bu ren shi wo le ma	290
 不认识呀	bu ren shi ya	180
 不认输	bu ren shu	1555
-不认𪨊	bu ren song	9999
 不认怂	bu ren song	1111
+不认𪨊	bu ren song	2
 不认为	bu ren wei	16945
 不认为是犯罪	bu ren wei shi fan zui	2165
 不忍为之下	bu ren wei zhi xia	2
@@ -35968,6 +35999,7 @@ sort: by_weight
 不像了	bu xiang le	1180
 不想理我	bu xiang li wo	262
 不相连	bu xiang lian	1105
+不想联系	bu xiang lian xi	111
 不想吗	bu xiang ma	12
 不想骂你	bu xiang ma ni	133
 不想你	bu xiang ni	5260
@@ -36214,8 +36246,8 @@ sort: by_weight
 补选	bu xuan	11470
 不宣	bu xuan	1725
 不宣而战	bu xuan er zhan	675
-不旋踵	bu xuan zhong	355
-不选中	bu xuan zhong	12
+不选中	bu xuan zhong	1200
+不旋踵	bu xuan zhong	1
 补血	bu xue	36300
 不学	bu xue	21215
 不学不虑	bu xue bu lv	35
@@ -36335,6 +36367,7 @@ sort: by_weight
 不要离开	bu yao li kai	4395
 不要脸	bu yao lian	13540
 不要脸的	bu yao lian de	7225
+不要联系	bu yao lian xi	111
 不要落下	bu yao luo xia	100
 不要吗	bu yao ma	345
 不要买	bu yao mai	10000
@@ -36364,8 +36397,8 @@ sort: by_weight
 不要耍个性	bu yao shua ge xing	111
 不要说	bu yao shuo	46725
 不要说了	bu yao shuo le	3595
-不要𪨊	bu yao song	9999
 不要怂	bu yao song	1111
+不要𪨊	bu yao song	2
 不要太	bu yao tai	54065
 不要太长	bu yao tai chang	2855
 不要太大	bu yao tai da	4280
@@ -36395,6 +36428,7 @@ sort: by_weight
 不要再	bu yao zai	71050
 不要再来	bu yao zai lai	1325
 不要再来伤害我	bu yao zai lai shang hai wo	3835
+不要再联系	bu yao zai lian xi	111
 不要再提	bu yao zai ti	1465
 不要再问	bu yao zai wen	815
 不要着急	bu yao zhao ji	11145
@@ -36616,6 +36650,7 @@ sort: by_weight
 不用了	bu yong le	26850
 不用了吧	bu yong le ba	850
 不用理	bu yong li	1410
+不用联系	bu yong lian xi	111
 不用留	bu yong liu	153
 不用卖	bu yong mai	350
 不用那么	bu yong na me	362
@@ -36801,6 +36836,8 @@ sort: by_weight
 不再来	bu zai lai	2595
 不在了	bu zai le	16695
 不再理我	bu zai li wo	168
+不再联系	bu zai lian xi	111
+不在联系	bu zai lian xi	111
 不再流行	bu zai liu xing	640
 不在吗	bu zai ma	525
 不再难	bu zai nan	1180
@@ -37241,6 +37278,7 @@ sort: by_weight
 补助标准	bu zhu biao zhun	11255
 不蛀不腐	bu zhu bu fu	220
 不注册	bu zhu ce	3085
+不主动联系	bu zhu dong lian xi	111
 补助额	bu zhu e	640
 补助费	bu zhu fei	52445
 补助金	bu zhu jin	27895
@@ -37736,6 +37774,7 @@ sort: by_weight
 猜得出	cai de chu	1565
 才得到	cai de dao	6525
 猜得到	cai de dao	1900
+猜得到开头	cai de dao kai tou	1900
 采的花	cai de hua	30
 采的花儿	cai de hua er	5
 才德兼备	cai de jian bei	31
@@ -37945,6 +37984,7 @@ sort: by_weight
 采购价	cai gou jia	2790
 采购价格	cai gou jia ge	6960
 采购经理	cai gou jing li	8200
+采购联系	cai gou lian xi	111
 采购量	cai gou liang	6605
 采购目录	cai gou mu lu	9040
 采购数量	cai gou shu liang	9445
@@ -38501,7 +38541,7 @@ sort: by_weight
 彩喷纸	cai pen zhi	1425
 彩棚	cai peng	405
 彩票	cai piao	189635
-菜票	cai piao	650
+菜票	cai piao	6
 彩票点	cai piao dian	46
 彩票点金术	cai piao dian jin shu	39
 彩票发行销售管理办法	cai piao fa xing xiao shou guan li ban fa	3
@@ -39612,6 +39652,7 @@ sort: by_weight
 惨厉	can li	1175
 残联	can lian	62510
 参莲胶囊	can lian jiao nang	1
+残联系统	can lian xi tong	111
 参量	can liang	6465
 灿亮	can liang	9
 惨烈	can lie	34105
@@ -42423,6 +42464,7 @@ sort: by_weight
 查看功能	cha kan gong neng	1310
 察看过了	cha kan guo le	1180
 查看价格	cha kan jia ge	2040
+查看联系方式	cha kan lian xi fang shi	111
 察看期	cha kan qi	43
 查看全文	cha kan quan wen	24405
 查看图	cha kan tu	472
@@ -43705,6 +43747,7 @@ sort: by_weight
 产生抗体	chan sheng kang ti	4205
 产生了	chan sheng le	376685
 产生了以	chan sheng le yi	134
+产生联系	chan sheng lian xi	111
 产生矛盾	chan sheng mao dun	7220
 产生奇迹	chan sheng qi ji	111
 产生热量	chan sheng re liang	3210
@@ -44099,6 +44142,7 @@ sort: by_weight
 长长久久	chang chang jiu jiu	3325
 长长卷卷	chang chang juan juan	5
 长长宽宽	chang chang kuan kuan	3
+常常联系	chang chang lian xi	111
 常常拿	chang chang na	855
 长长软软	chang chang ruan ruan	2
 常常是	chang chang shi	53420
@@ -44681,6 +44725,8 @@ sort: by_weight
 常家村村	chang jia cun cun	1
 长铗归来	chang jia gui lai	265
 长铗归来乎	chang jia gui lai hu	2
+厂家联系电话	chang jia lian xi dian hua	111
+厂家联系方式	chang jia lian xi fang shi	111
 常家湾	chang jia wan	7
 长驾远驭	chang jia yuan yu	1
 厂家直销	chang jia zhi xiao	16275
@@ -44968,6 +45014,7 @@ sort: by_weight
 倡廉	chang lian	2185
 长连接	chang lian jie	8170
 场联路	chang lian lu	1
+常联系	chang lian xi	111
 常量	chang liang	23810
 敞亮	chang liang	3735
 常亮	chang liang	1111
@@ -45279,6 +45326,7 @@ sort: by_weight
 唱起了	chang qi le	8090
 长期利率	chang qi li lv	1800
 长崎莉奈	chang qi li nai	1
+长期联系	chang qi lian xi	111
 长期趋势	chang qi qu shi	4400
 长气杀短眼	chang qi sha duan yan	5
 长期实践	chang qi shi jian	2820
@@ -45553,6 +45601,7 @@ sort: by_weight
 尝试过	chang shi guo	111
 长时记忆	chang shi ji yi	16
 长时间	chang shi jian	198115
+长时间不联系	chang shi jian bu lian xi	111
 长时间的	chang shi jian de	42890
 长时间了	chang shi jian le	5225
 常识课	chang shi ke	790
@@ -45639,6 +45688,7 @@ sort: by_weight
 # 长泰	chang tai	0
 常态分布	chang tai fen bu	210
 常态化	chang tai hua	2780
+常态化联系	chang tai hua lian xi	111
 肠肽酶	chang tai mei	15
 长太息以掩涕兮	chang tai xi yi yan ti xi	80
 长泰县	chang tai xian	2195
@@ -46153,6 +46203,7 @@ sort: by_weight
 常用框架	chang yong kuang jia	319
 常用类	chang yong lei	2222
 常用类库	chang yong lei ku	180
+常用联系人	chang yong lian xi ren	111
 常用料	chang yong liao	89
 常用命令	chang yong ming ling	11870
 常用模板	chang yong mu ban	89
@@ -47908,6 +47959,7 @@ sort: by_weight
 车厘子	che li zi	1110
 车链	che lian	390
 车联网	che lian wang	400
+车联系统	che lian xi tong	111
 车链子	che lian zi	435
 车辆	che liang	500528
 车辆保险	che liang bao xian	5875
@@ -48239,6 +48291,7 @@ sort: by_weight
 车载斗量	che zai dou liang	560
 车载对讲机	che zai dui jiang ji	397
 车载后座娱乐系统	che zai hou zuo yu le xi tong	1
+车载互联系统	che zai hu lian xi tong	111
 车在马前	che zai ma qian	3
 车仔面	che zai mian	1118
 车载逆变器	che zai ni bian qi	345
@@ -54690,6 +54743,7 @@ sort: by_weight
 重新考虑	chong xin kao lv	9480
 重新来过	chong xin lai guo	6395
 重新连接	chong xin lian jie	5702
+重新联系	chong xin lian xi	111
 重新弄	chong xin long	81
 重新路	chong xin lu	100
 崇信路	chong xin lu	7
@@ -55342,6 +55396,8 @@ sort: by_weight
 抽杀	chou sha	4999
 愁啥	chou sha	1111
 抽纱	chou sha	4
+臭傻逼	chou sha bi	222
+臭傻屄	chou sha bi	111
 愁杀芳年友	chou sha fang nian you	1
 瞅啥呢	chou sha ne	8888
 绸扇	chou shan	155
@@ -60788,6 +60844,11 @@ sort: by_weight
 此别不销魂	ci bie bu xiao hun	1
 此别何时遇	ci bie he shi yu	1
 此病	ci bing	24845
+此部	ci bu	1111
+辞不	ci bu	222
+刺不	ci bu	111
+辞不辞	ci bu ci	222
+刺不刺	ci bu ci	111
 词不达意	ci bu da yi	3830
 词不逮理	ci bu dai li	1
 词不逮意	ci bu dai yi	1
@@ -61927,6 +61988,7 @@ sort: by_weight
 从不同	cong bu tong	61
 从不在乎	cong bu zai hu	570
 从不知	cong bu zhi	2380
+从不主动联系	cong bu zhu dong lian xi	111
 从侧面	cong ce mian	16265
 从长	cong chang	20830
 从长计较	cong chang ji jiao	111
@@ -64137,8 +64199,10 @@ sort: by_weight
 存在家	cun zai jia	70
 存在价值	cun zai jia zhi	5805
 存在困难	cun zai kun nan	2890
+存在联系	cun zai lian xi	111
 存在量词	cun zai liang ci	145
 存在漏洞	cun zai lou dong	6005
+存在某种联系	cun zai mou zhong lian xi	111
 存在缺陷	cun zai que xian	14135
 存在什么	cun zai shen me	6765
 存在问题	cun zai wen ti	74780
@@ -64282,8 +64346,10 @@ sort: by_weight
 错落参差	cuo luo cen ci	111
 错落高下	cuo luo gao xia	1
 错落有致	cuo luo you zhi	22195
-搓麻	cuo ma	9999
+错吗	cuo ma	9999
+搓麻	cuo ma	5555
 错码	cuo ma	985
+搓吗	cuo ma	111
 搓麻将	cuo ma jiang	3050
 措玛乡	cuo ma xiang	3
 措迈乡	cuo mai xiang	1
@@ -65479,6 +65545,7 @@ sort: by_weight
 打电话给我	da dian hua gei wo	3333
 打电话叫	da dian hua jiao	4175
 打电话来	da dian hua lai	64
+打电话联系	da dian hua lian xi	111
 打电话约	da dian hua yue	2335
 大电流	da dian liu	9285
 打电脑	da dian nao	2155
@@ -66045,6 +66112,8 @@ sort: by_weight
 大工地	da gong di	580
 大功告成	da gong gao cheng	20040
 大工告成	da gong gao cheng	9
+打工狗	da gong gou	3333
+大公狗	da gong gou	1
 大公国	da gong guo	1520
 大公鸡	da gong ji	2845
 大公开	da gong kai	5770
@@ -66740,6 +66809,7 @@ sort: by_weight
 大驾光临	da jia guang lin	3065
 大家闺范	da jia gui fan	111
 大家闺秀	da jia gui xiu	9350
+大家还好吗	da jia hai hao ma	111
 大家好	da jia hao	109680
 大家伙	da jia huo	9935
 大家伙儿	da jia huo er	1295
@@ -69740,13 +69810,13 @@ sort: by_weight
 大辛庄村委会	da xin zhuang cun wei hui	2
 大辛庄社区	da xin zhuang she qu	2
 大型	da xing	500698
-大兴	da xing	57875
+打醒	da xing	24250
 大行	da xing	10945
-大星	da xing	5050
-大姓	da xing	4930
+大兴	da xing	5787
 大幸	da xing	3580
-打醒	da xing	2425
 大刑	da xing	1135
+# 大姓	da xing	0
+# 大星	da xing	0
 大兴安岭	da xing an ling	16505
 大兴安岭地区	da xing an ling di qu	2705
 大兴安岭中院	da xing an ling zhong yuan	87
@@ -70972,6 +71042,8 @@ sort: by_weight
 代表机构	dai biao ji gou	26130
 代表建议	dai biao jian yi	7760
 代表局	dai biao ju	1580
+代表联系	dai biao lian xi	111
+代表联系群众	dai biao lian xi qun zhong	111
 代表门	dai biao men	57
 代表品	dai biao pin	940
 代表权	dai biao quan	2385
@@ -71511,6 +71583,7 @@ sort: by_weight
 代理控告	dai li kong gao	59
 代理会计	dai li kuai ji	111
 代理类	dai li lei	9507
+代理联系	dai li lian xi	111
 代理猎手	dai li lie shou	1695
 代理律师	dai li lv shi	10890
 代理贸易	dai li mao yi	220
@@ -71523,6 +71596,7 @@ sort: by_weight
 带砺山河	dai li shan he	111
 代理商	dai li shang	358200
 代理商的	dai li shang de	32225
+代理商联系	dai li shang lian xi	111
 代理设计模式	dai li she ji mo shi	574
 代理审判员	dai li shen pan yuan	3215
 代理收付款项	dai li shou fu kuan xiang	2900
@@ -72819,6 +72893,7 @@ sort: by_weight
 单过	dan guo	9999
 单果	dan guo	56
 但还	dan hai	120105
+但还好	dan hai hao	111
 但还没有	dan hai mei you	340
 但还是	dan hai shi	99105
 但还需要	dan hai xu yao	1720
@@ -74588,6 +74663,7 @@ sort: by_weight
 当间谍	dang jian die	500
 当间儿	dang jian er	145
 党建工作	dang jian gong zuo	74450
+党建联系点	dang jian lian xi dian	111
 党建内容	dang jian nei rong	376
 挡箭牌	dang jian pai	6760
 党建翼联	dang jian yi lian	70
@@ -74992,6 +75068,7 @@ sort: by_weight
 党员干部	dang yuan gan bu	140675
 党员干部法律知识读本	dang yuan gan bu fa lv zhi shi du ben	3
 党员干部法律知识学习读本	dang yuan gan bu fa lv zhi shi xue xi du ben	6
+党员联系	dang yuan lian xi	111
 党员领导	dang yuan ling dao	125
 党员权利	dang yuan quan li	4454
 党员文摘	dang yuan wen zhai	13
@@ -75614,6 +75691,8 @@ sort: by_weight
 倒还	dao hai	15550
 蹈海	dao hai	805
 倒海翻江卷巨澜	dao hai fan jiang juan ju lan	23
+倒还好	dao hai hao	111
+倒还好点	dao hai hao dian	111
 倒海排山	dao hai pai shan	4
 倒还要	dao hai yao	1180
 倒海移山	dao hai yi shan	111
@@ -76162,7 +76241,10 @@ sort: by_weight
 倒是个	dao shi ge	66
 到时候	dao shi hou	108490
 到时候见	dao shi hou jian	32
+到时候联系	dao shi hou lian xi	111
 道氏理论	dao shi li lun	3170
+到时联系	dao shi lian xi	111
+导师联系	dao shi lian xi	111
 盗世欺名	dao shi qi ming	15
 道士手镯	dao shi shou zhuo	10
 道是无晴还有晴	dao shi wu qing hai you qing	1180
@@ -77072,6 +77154,7 @@ sort: by_weight
 的脸	de lian	9999
 得脸	de lian	99
 德联牧战犬	de lian mu zhan quan	1
+的联系	de lian xi	111
 的量	de liang	111
 的料	de liao	9999
 得列嘉树中	de lie jia shu zhong	1
@@ -77094,6 +77177,8 @@ sort: by_weight
 德露苑	de lu yuan	1
 德伦	de lun	1
 德罗	de luo	1
+的绿	de lv	222
+的驴	de lv	111
 的吗	de ma	99999
 德玛	de ma	1111
 得马生灾	de ma sheng zai	1
@@ -83387,6 +83472,7 @@ sort: by_weight
 第一次国内革命战争	di yi ci guo nei ge ming zhan zheng	9999
 第一次接触	di yi ci jie chu	8220
 第一次看到	di yi ci kan dao	17330
+第一次联系	di yi ci lian xi	111
 第一次启动	di yi ci qi dong	5754
 第一次世界大战	di yi ci shi jie da zhan	19535
 第一次讯问	di yi ci xun wen	330
@@ -84193,8 +84279,8 @@ sort: by_weight
 电灯泡	dian deng pao	6070
 电灯柱	dian deng zhu	135
 点滴	dian di	61605
-点地	dian di	15635
 垫底	dian di	9580
+点地	dian di	2
 点滴变形虫	dian di bian xing chong	1
 垫底材料	dian di cai liao	7
 垫底儿	dian di er	135
@@ -84501,6 +84587,8 @@ sort: by_weight
 电话了	dian hua le	1736
 电话里	dian hua li	58335
 电话联系	dian hua lian xi	87790
+电话联系方式	dian hua lian xi fang shi	111
+电话联系咨询	dian hua lian xi zi xun	111
 电话铃	dian hua ling	8460
 滇华鲮	dian hua ling	1
 电话铃声	dian hua ling sheng	8670
@@ -84592,6 +84680,7 @@ sort: by_weight
 电机控制	dian ji kong zhi	204
 奠基礼	dian ji li	340
 点击连接	dian ji lian jie	1330
+点击联系	dian ji lian xi	111
 点击率	dian ji lv	90780
 点击排行	dian ji pai hang	20570
 奠基人	dian ji ren	10550
@@ -86165,6 +86254,7 @@ sort: by_weight
 电子优惠券	dian zi you hui quan	5410
 电子邮件	dian zi you jian	500345
 电子邮件地址	dian zi you jian di zhi	39850
+电子邮件联系	dian zi you jian lian xi	111
 电子邮件营销	dian zi you jian ying xiao	136
 电子邮局	dian zi you ju	635
 电子游戏	dian zi you xi	18620
@@ -87273,6 +87363,7 @@ sort: by_weight
 丁点儿	ding dian er	1225
 顶点覆盖	ding dian fu gai	79
 顶点混合	ding dian hun he	85
+定点联系	ding dian lian xi	111
 定点数	ding dian shu	1150
 定点医院	ding dian yi yuan	16195
 定点诱变	ding dian you bian	30
@@ -87738,6 +87829,7 @@ sort: by_weight
 定期检验	ding qi jian yan	7525
 定期刊物	ding qi kan wu	380
 顶起来	ding qi lai	9945
+定期联系	ding qi lian xi	111
 定期清理	ding qi qing li	4055
 定期审计	ding qi shen ji	685
 定期维护	ding qi wei hu	3900
@@ -91463,6 +91555,7 @@ sort: by_weight
 都采用	dou cai yong	43280
 都参加	dou can jia	13015
 都曾	dou ceng	64885
+都差	dou cha	3333
 都差不多	dou cha bu duo	20440
 都拆	dou chai	1111
 豆䜺儿	dou chai er	9999
@@ -91696,6 +91789,8 @@ sort: by_weight
 都过去了	dou guo qu le	5695
 都还	dou hai	99685
 都还不	dou hai bu	5405
+都还好	dou hai hao	111
+都还好吧	dou hai hao ba	111
 都还可以	dou hai ke yi	88
 都还没	dou hai mei	12675
 都还要	dou hai yao	97
@@ -91821,6 +91916,7 @@ sort: by_weight
 都可能	dou ke neng	80270
 都可以	dou ke yi	500346
 都可以从	dou ke yi cong	12
+都可以联系	dou ke yi lian xi	111
 豆科植物	dou ke zhi wu	2330
 都肯	dou ken	3935
 都肯定	dou ken ding	64
@@ -91873,6 +91969,7 @@ sort: by_weight
 斗力	dou li	24
 都离不开	dou li bu kai	27505
 斗丽争妍	dou li zheng yan	1
+都联系	dou lian xi	111
 都梁滴丸	dou liang di wan	1
 都梁软胶囊	dou liang ruan jiao nang	4
 斗量筲计	dou liang shao ji	1
@@ -92798,6 +92895,7 @@ sort: by_weight
 妒功忌能	du gong ji neng	1
 笃工街道	du gong jie dao	6
 赌狗	du gou	9999
+毒狗	du gou	2
 独孤	du gu	32655
 独孤九剑	du gu jiu jian	3665
 独孤科	du gu ke	1
@@ -93339,6 +93437,7 @@ sort: by_weight
 杜秋之年	du qiu zhi nian	1
 读取	du qu	272485
 # 度曲	du qu	0
+读取联系人	du qu lian xi ren	111
 度曲绿云垂	du qu lv yun chui	1
 读取配置文件	du qu pei zhi wen jian	5052
 读取器	du qu qi	4205
@@ -94348,12 +94447,14 @@ sort: by_weight
 端居一院中	duan ju yi yuan zhong	3
 断绝	duan jue	29280
 断绝关系	duan jue guan xi	3170
+断绝联系	duan jue lian xi	111
 断决如流	duan jue ru liu	1
 断绝外交关系	duan jue wai jiao guan xi	375
 断绝往来	duan jue wang lai	207
 断开	duan kai	49935
 断开客户	duan kai ke hu	98
 断开连接	duan kai lian jie	5690
+断开联系	duan kai lian xi	111
 断开时	duan kai shi	120
 断开网络	duan kai wang luo	2925
 段考	duan kao	2120
@@ -94378,6 +94479,7 @@ sort: by_weight
 端了	duan le	13975
 短了	duan le	12335
 断了的弦	duan le de xian	860
+断了联系	duan le lian xi	111
 断了线	duan le xian	2665
 断了弦	duan le xian	115
 端粒	duan li	1850
@@ -94396,6 +94498,7 @@ sort: by_weight
 短连接	duan lian jie	2829
 锻炼罗织	duan lian luo zhi	1
 锻炼身体	duan lian shen ti	31750
+断联系	duan lian xi	111
 锻炼意志	duan lian yi zhi	1295
 锻炼之吏	duan lian zhi li	1
 锻炼周纳	duan lian zhou na	111
@@ -95354,6 +95457,7 @@ sort: by_weight
 对口疮	dui kou chuang	5
 对口词	dui kou ci	115
 对口疽	dui kou ju	9999
+对口联系	dui kou lian xi	111
 对口味	dui kou wei	505
 对口相声	dui kou xiang sheng	1190
 对口型	dui kou xing	475
@@ -96413,6 +96517,7 @@ sort: by_weight
 多次点击	duo ci dian ji	787
 多刺斧螳	duo ci fu tang	1
 多次课征制	duo ci ke zheng zhi	5
+多次联系	duo ci lian xi	111
 多刺蔷蝗	duo ci qiang huang	1
 多次求导	duo ci qiu dao	1
 多刺施韦茨丽鱼	duo ci shi wei ci li yu	1
@@ -96531,6 +96636,7 @@ sort: by_weight
 朵朵精神叶叶柔	duo duo jing shen ye ye rou	1
 朵朵开	duo duo kai	410
 多多了	duo duo le	9999
+多多联系	duo duo lian xi	111
 躲躲闪闪	duo duo shan shan	4225
 多多少少	duo duo shao shao	20315
 咄咄书空	duo duo shu kong	111
@@ -96576,6 +96682,7 @@ sort: by_weight
 多方便	duo fang bian	1540
 踱方步	duo fang bu	345
 多方乎仁义而用之者	duo fang hu ren yi er yong zhi zhe	1
+多方联系	duo fang lian xi	111
 多方了解	duo fang liao jie	1720
 多方面	duo fang mian	42265
 多方面的	duo fang mian de	102340
@@ -96977,6 +97084,7 @@ sort: by_weight
 多联打印	duo lian da yin	12
 多链路	duo lian lu	133
 多链路拨号	duo lian lu bo hao	1
+多联系	duo lian xi	111
 多辆	duo liang	23795
 多亮	duo liang	8888
 多凉	duo liang	7777
@@ -97193,6 +97301,7 @@ sort: by_weight
 多你一个	duo ni yi ge	382
 多年	duo nian	500450
 多年不见	duo nian bu jian	1625
+多年不联系	duo nian bu lian xi	111
 多年冻土	duo nian dong tu	2345
 多年后	duo nian hou	20315
 多年积蓄	duo nian ji xu	755
@@ -97667,8 +97776,11 @@ sort: by_weight
 多项式因式分解	duo xiang shi yin shi fen jie	30
 夺项王天下者必沛公也	duo xiang wang tian xia zhe bi pei gong ye	1
 多项指标	duo xiang zhi biao	1740
+多小	duo xiao	7777
+多笑	duo xiao	3333
 多销	duo xiao	1565
 多效	duo xiao	65
+多小的	duo xiao de	7777
 多效的	duo xiao de	8
 多小时	duo xiao shi	82875
 多校训练	duo xiao xun lian	23
@@ -98545,7 +98657,16 @@ sort: by_weight
 阿私所好	e si suo hao	1
 恶俗	e su	8695
 锇酸	e suan	70
+饿他	e ta	3333
+饿她	e ta	2222
+饿它	e ta	1111
 厄他培南	e ta pei nan	18
+饿他三天	e ta san tian	3333
+饿她三天	e ta san tian	2222
+饿它三天	e ta san tian	1111
+饿他一天	e ta yi tian	3333
+饿她一天	e ta yi tian	2222
+饿它一天	e ta yi tian	1111
 鹅潭夜月	e tan ye yue	28
 鹅塘	e tang	12
 俄体镇	e ti zhen	2
@@ -98817,7 +98938,10 @@ sort: by_weight
 恩断义绝	en duan yi jue	1140
 恩断意绝	en duan yi jue	13
 恩多成怨	en duo cheng yuan	111
+嗯嗯	en en	9999
 恩恩爱爱	en en ai ai	3390
+嗯嗯嗯	en en en	9999
+嗯嗯嗯嗯	en en en en	9999
 恩恩相报	en en xiang bao	6
 恩恩怨怨	en en yuan yuan	4885
 恩发德蒸饺	en fa de zheng jiao	8
@@ -102637,6 +102761,7 @@ sort: by_weight
 发生了	fa sheng le	433180
 发生了很大	fa sheng le hen da	21480
 发生了什么	fa sheng le shen me	22150
+发生联系	fa sheng lian xi	111
 发生炉煤气	fa sheng lu mei qi	520
 发生率	fa sheng lv	54695
 发生矛盾	fa sheng mao dun	12110
@@ -103387,7 +103512,7 @@ sort: by_weight
 法治国家论	fa zhi guo jia lun	7
 法治国家与行政法治	fa zhi guo jia yu xing zheng fa zhi	1
 法制化	fa zhi hua	31035
-法制环境	fa zhi huan jing	12630
+法治环境	fa zhi huan jing	12630
 法治及其本土资源	fa zhi ji qi ben tu zi yuan	229
 法制建设	fa zhi jian she	47160
 法治建设与法学	fa zhi jian she yu fa xue	68
@@ -105507,6 +105632,7 @@ sort: by_weight
 方便化	fang bian hua	750
 方便记	fang bian ji	202
 方便快捷	fang bian kuai jie	59580
+方便联系	fang bian lian xi	111
 方便吗	fang bian ma	3905
 方便门	fang bian men	425
 方便米粉	fang bian mi fen	659
@@ -105921,6 +106047,7 @@ sort: by_weight
 房东阿姨	fang dong a yi	1111
 防冻保暖	fang dong bao nuan	365
 防冻剂	fang dong ji	3335
+房东联系	fang dong lian xi	111
 方东树	fang dong shu	3
 房东太太	fang dong tai tai	1575
 防冻液	fang dong ye	15970
@@ -116493,6 +116620,8 @@ sort: by_weight
 妇联居委会	fu lian ju wei hui	1
 复联三	fu lian san	111
 复联四	fu lian si	111
+复联系列	fu lian xi lie	111
+妇联系统	fu lian xi tong	111
 复联一	fu lian yi	111
 妇联幼儿园	fu lian you er yuan	17
 副连长	fu lian zhang	4215
@@ -116754,12 +116883,14 @@ sort: by_weight
 父母	fu mu	500635
 腐木不可以为柱	fu mu bu ke yi wei zhu	1
 父母不要	fu mu bu yao	1585
+父母的联系方式	fu mu de lian xi fang shi	111
 父母的一言一行	fu mu de yi yan yi xing	100
 父母恩	fu mu en	2720
 父母恩勤	fu mu en qin	1
 富墓蝠	fu mu fu	1
 父母官	fu mu guan	5075
 父母给予	fu mu ji yu	111
+父母联系	fu mu lian xi	111
 父母亲	fu mu qin	23700
 父母权	fu mu quan	567
 父母双全	fu mu shuang quan	405
@@ -116940,6 +117071,7 @@ sort: by_weight
 扶贫开发	fu pin kai fa	45900
 扶贫开发办	fu pin kai fa ban	730
 扶贫款	fu pin kuan	1335
+扶贫联系点	fu pin lian xi dian	111
 扶贫楼	fu pin lou	1
 幅频特性	fu pin te xing	640
 扶贫政策	fu pin zheng ce	1380
@@ -117961,6 +118093,7 @@ sort: by_weight
 服务例程	fu wu li cheng	804
 服务力度	fu wu li du	3030
 服务理念	fu wu li nian	44760
+服务联系	fu wu lian xi	111
 服务列表	fu wu lie biao	1721
 服务铃	fu wu ling	3333
 服务领域	fu wu ling yu	27765
@@ -118873,6 +119006,7 @@ sort: by_weight
 负责汇款	fu ze hui kuan	68
 负责机构	fu ze ji gou	1070
 福泽克雄	fu ze ke xiong	4
+负责联系	fu ze lian xi	111
 负责落实	fu ze luo shi	100
 负责赔偿	fu ze pei chang	17025
 负责人	fu ze ren	500555
@@ -121157,6 +121291,7 @@ sort: by_weight
 感觉得到	gan jue de dao	9840
 感觉管	gan jue guan	374
 感觉过敏	gan jue guo min	16
+感觉还好	gan jue hai hao	111
 感觉还是	gan jue hai shi	64
 感觉好	gan jue hao	18715
 感觉减退	gan jue jian tui	63
@@ -126742,6 +126877,8 @@ sort: by_weight
 个人空间	ge ren kong jian	72170
 个人理财	ge ren li cai	15220
 个人利益	ge ren li yi	35960
+个人联系	ge ren lian xi	111
+个人联系方式	ge ren lian xi fang shi	111
 个人履历	ge ren lv li	2040
 个人魅力	ge ren mei li	17475
 个人秘密	ge ren mi mi	1395
@@ -127499,6 +127636,7 @@ sort: by_weight
 各种困难	ge zhong kun nan	13950
 各种类型	ge zhong lei xing	52825
 各种立式麻醉机	ge zhong li shi ma zui ji	1
+各种联系方式	ge zhong lian xi fang shi	111
 各种媒体	ge zhong mei ti	17680
 个中妙趣	ge zhong miao qu	1
 各种排序	ge zhong pai xu	1459
@@ -127813,6 +127951,7 @@ sort: by_weight
 根本好转	gen ben hao zhuan	4555
 根本就是	gen ben jiu shi	26000
 根本利益	gen ben li yi	102970
+根本没法看	gen ben mei fa kan	111
 根本目的	gen ben mu di	18410
 根本扭转	gen ben niu zhuan	2725
 根本任务	gen ben ren wu	21515
@@ -127998,6 +128137,7 @@ sort: by_weight
 跟你	gen ni	166240
 跟你赌	gen ni du	12
 跟你急	gen ni ji	1020
+跟你联系	gen ni lian xi	111
 跟你们	gen ni men	13295
 跟你去	gen ni qu	64
 跟你说	gen ni shuo	20160
@@ -128036,6 +128176,7 @@ sort: by_weight
 根深蒂固	gen shen di gu	28000
 根深蒂结	gen shen di jie	1
 根深固本	gen shen gu ben	1
+跟什么人联系	gen shen me ren lian xi	111
 根深叶蕃	gen shen ye fan	1
 根深叶茂	gen shen ye mao	2040
 根深枝繁	gen shen zhi fan	1
@@ -128154,6 +128295,7 @@ sort: by_weight
 跟自己	gen zi ji	28640
 跟踪	gen zong	367360
 跟踪报道	gen zong bao dao	10585
+跟踪弹	gen zong dan	111
 跟踪调查	gen zong diao cha	10935
 跟踪法	gen zong fa	565
 跟踪分析	gen zong fen xi	3295
@@ -128291,6 +128433,7 @@ sort: by_weight
 更多精彩	geng duo jing cai	31565
 更多精彩内容	geng duo jing cai nei rong	5740
 更多栏目	geng duo lan mu	23
+更多联系方式	geng duo lian xi fang shi	111
 更多内容	geng duo nei rong	34785
 更夺蓬婆雪外城	geng duo peng po xue wai cheng	1
 更多是	geng duo shi	88
@@ -128353,6 +128496,8 @@ sort: by_weight
 更高级	geng gao ji	16055
 更高水平	geng gao shui ping	10830
 更高兴	geng gao xing	2885
+更高呀	geng gao ya	222
+更高雅	geng gao ya	111
 更高要求	geng gao yao qiu	13750
 更高质量	geng gao zhi liang	3440
 更格卢鼠	geng ge lu shu	16
@@ -128503,6 +128648,7 @@ sort: by_weight
 更紧了	geng jin le	5165
 更近了	geng jin le	4520
 更紧密	geng jin mi	7530
+更紧密的联系	geng jin mi de lian xi	111
 更紧密经贸关系	geng jin mi jing mao guan xi	6215
 更进一步	geng jin yi bu	55680
 更进一竿	geng jin yi gan	1
@@ -131129,6 +131275,10 @@ sort: by_weight
 公司理财	gong si li cai	1
 公司理念	gong si li nian	4800
 公司利益	gong si li yi	12600
+公司联系	gong si lian xi	111
+公司联系电话	gong si lian xi dian hua	111
+公司联系方式	gong si lian xi fang shi	111
+公司联系人	gong si lian xi ren	111
 公私两济	gong si liang ji	1
 公司律师	gong si lv shi	2075
 公司名称	gong si ming cheng	351875
@@ -131971,6 +132121,7 @@ sort: by_weight
 供应汽车	gong ying qi che	1135
 供应商	gong ying shang	500298
 供应商类别	gong ying shang lei bie	105
+供应商联系	gong ying shang lian xi	111
 供应商情	gong ying shang qing	20
 供应食品	gong ying shi pin	425
 供应站	gong ying zhan	6330
@@ -132434,6 +132585,8 @@ sort: by_weight
 工作类别	gong zuo lei bie	1920
 工作力度	gong zuo li du	56850
 工作例会	gong zuo li hui	4105
+工作联系	gong zuo lian xi	111
+工作联系点	gong zuo lian xi dian	111
 工作联系函	gong zuo lian xi han	64
 工作量	gong zuo liang	97955
 工作量大	gong zuo liang da	8295
@@ -132478,6 +132631,7 @@ sort: by_weight
 工作任务	gong zuo ren wu	89425
 工作任务落实	gong zuo ren wu luo shi	100
 工作人员	gong zuo ren yuan	500466
+工作人员联系	gong zuo ren yuan lian xi	111
 工作认真	gong zuo ren zhen	35300
 工作日	gong zuo ri	204135
 工作日程	gong zuo ri cheng	4915
@@ -132908,6 +133062,7 @@ sort: by_weight
 购买了	gou mai le	102975
 购买力	gou mai li	37030
 购买力平价	gou mai li ping jia	3050
+购买联系	gou mai lian xi	111
 购买量	gou mai liang	5015
 购买流程	gou mai liu cheng	8445
 购买率	gou mai lv	2440
@@ -133070,8 +133225,8 @@ sort: by_weight
 沟水东西流	gou shui dong xi liu	1
 够水平	gou shui ping	245
 构思	gou si	114965
-狗𪨊	gou song	9999
 狗怂	gou song	1111
+狗𪨊	gou song	2
 诟谇谣诼	gou sui yao zhuo	111
 够损的	gou sun de	305
 诟索之而不得也	gou suo zhi er bu de ye	1
@@ -133092,6 +133247,8 @@ sort: by_weight
 沟通技巧	gou tong ji qiao	21495
 沟通及时	gou tong ji shi	75
 沟通交流	gou tong jiao liu	17735
+沟通联系	gou tong lian xi	111
+沟通联系机制	gou tong lian xi ji zhi	111
 沟通了解	gou tong liao jie	1375
 沟通模式	gou tong mo shi	2065
 沟通能力	gou tong neng li	73410
@@ -136050,6 +136207,7 @@ sort: by_weight
 刮地皮	gua di pi	280
 刮地以去	gua di yi qu	1
 挂电话	gua dian hua	8345
+挂点联系	gua dian lian xi	111
 挂掉	gua diao	17530
 刮掉	gua diao	3905
 瓜瓞绵绵	gua die mian mian	25
@@ -136094,6 +136252,7 @@ sort: by_weight
 刮宫	gua gong	5720
 刮宫术	gua gong shu	14
 挂钩	gua gou	126905
+挂钩联系	gua gou lian xi	111
 刮垢磨痕	gua gou mo hen	1
 挂钩制	gua gou zhi	175
 刮骨	gua gu	1570
@@ -136999,6 +137158,7 @@ sort: by_weight
 官方价格	guan fang jia ge	1760
 官方简体	guan fang jian ti	7575
 官方教程	guan fang jiao cheng	2306
+官方联系	guan fang lian xi	111
 官方论坛	guan fang lun tan	21325
 官方人士	guan fang ren shi	600
 官方数据	guan fang shu ju	3210
@@ -139194,10 +139354,12 @@ sort: by_weight
 广泛传播	guang fan chuan bo	9460
 广泛的	guang fan de	307220
 广泛地	guang fan de	44475
+广泛的联系	guang fan de lian xi	111
 广泛的民主	guang fan de min zhu	545
 广泛分布	guang fan fen bu	5570
 广泛关注	guang fan guan zhu	58710
 广泛开展	guang fan kai zhan	74705
+广泛联系	guang fan lian xi	111
 广泛流传	guang fan liu chuan	8005
 光反射	guang fan she	2090
 广泛搜集	guang fan sou ji	1710
@@ -139292,6 +139454,7 @@ sort: by_weight
 广告行业	guang gao hang ye	10085
 广告合同	guang gao he tong	1910
 广告合作	guang gao he zuo	17375
+广告合作联系	guang gao he zuo lian xi	111
 广告后	guang gao hou	1084
 广告活动	guang gao huo dong	9390
 广告机	guang gao ji	4375
@@ -142269,6 +142432,10 @@ sort: by_weight
 过得安心	guo de an xin	111
 过得比	guo de bi	2845
 郭德纲	guo de gang	30340
+过得还	guo de hai	111
+过得还好	guo de hai hao	111
+过得还好吗	guo de hai hao ma	111
+过得还可以	guo de hai ke yi	111
 过得好	guo de hao	7010
 过得好吗	guo de hao ma	1995
 过得快乐	guo de kuai le	1625
@@ -146045,13 +146212,32 @@ sort: by_weight
 还好吧	hai hao ba	8280
 还好不	hai hao bu	1090
 还好不是	hai hao bu shi	120
+还好不至于	hai hao bu zhi yu	111
+还好的	hai hao de	111
+还好赌	hai hao du	111
+还好还好	hai hao hai hao	111
+还好看	hai hao kan	111
+还好啦	hai hao la	111
 还好了	hai hao le	3205
 还好吗	hai hao ma	12495
+还好吗你	hai hao ma ni	111
+还好么	hai hao me	111
+还好没	hai hao mei	111
+还好没放弃	hai hao mei fang qi	111
+还好没有	hai hao mei you	111
 还好撒	hai hao sa	5
 还好是	hai hao shi	1635
+还好说	hai hao shuo	111
+还好听	hai hao ting	111
 还好我	hai hao wo	91
+还好我没放弃	hai hao wo mei fang qi	111
+还好些	hai hao xie	111
 还好呀	hai hao ya	165
+还好一点	hai hao yi dian	111
+还好意思	hai hao yi si	111
+还好意思说	hai hao yi si shuo	111
 还好用	hai hao yong	590
+还好有你	hai hao you ni	111
 还好在	hai hao zai	1090
 还和	hai he	33015
 还喝	hai he	22222
@@ -147659,6 +147845,7 @@ sort: by_weight
 孩子的一言一行	hai zi de yi yan yi xing	100
 海子沟乡	hai zi gou xiang	5
 孩子归我	hai zi gui wo	100
+孩子还好	hai zi hai hao	111
 孩子好	hai zi hao	2990
 孩子家	hai zi jia	1195
 海子角	hai zi jiao	35
@@ -150337,6 +150524,7 @@ sort: by_weight
 好久不见了哦	hao jiu bu jian le o	65
 好久不见你了	hao jiu bu jian ni le	585
 好久不见哦	hao jiu bu jian o	150
+好久不联系	hao jiu bu lian xi	111
 蚝酒大会	hao jiu da hui	3
 好久好久	hao jiu hao jiu	5600
 好酒好酒	hao jiu hao jiu	99
@@ -150346,6 +150534,7 @@ sort: by_weight
 好久没见你了	hao jiu mei jian ni le	350
 好久没看到你了	hao jiu mei kan dao ni le	240
 好久没来	hao jiu mei lai	2990
+好久没联系	hao jiu mei lian xi	111
 好久没联系了	hao jiu mei lian xi le	265
 好久没聊了	hao jiu mei liao le	30
 好久没有	hao jiu mei you	18165
@@ -150459,6 +150648,7 @@ sort: by_weight
 好脸	hao lian	1105
 # 郝莲	hao lian	0
 好脸色	hao lian se	3530
+好联系	hao lian xi	111
 好靓	hao liang	4795
 耗量	hao liang	4630
 好凉	hao liang	1540
@@ -150992,6 +151182,7 @@ sort: by_weight
 好无赖哦	hao wu lai o	175
 毫无来由	hao wu lai you	635
 毫无例外	hao wu li wai	4625
+毫无联系	hao wu lian xi	111
 好无聊	hao wu liao	2590
 好无聊啊	hao wu liao a	1385
 好无聊哦	hao wu liao o	540
@@ -151204,6 +151395,7 @@ sort: by_weight
 蚝油海参	hao you hai shen	1
 好友恢复	hao you hui fu	371
 好友家	hao you jia	595
+好友联系	hao you lian xi	111
 耗油量	hao you liang	6915
 好友列表	hao you lie biao	13230
 耗油率	hao you lv	530
@@ -154503,6 +154695,7 @@ sort: by_weight
 合作开发房地产	he zuo kai fa fang di chan	172
 合作开发合同	he zuo kai fa he tong	1915
 合作联社	he zuo lian she	2895
+合作联系	he zuo lian xi	111
 合作领域	he zuo ling yu	9865
 合作论坛	he zuo lun tan	4095
 合作律师	he zuo lv shi	1260
@@ -154512,6 +154705,7 @@ sort: by_weight
 合作企业	he zuo qi ye	36365
 合作前景	he zuo qian jing	3880
 合作桥乡	he zuo qiao xiang	17
+合作请联系	he zuo qing lian xi	111
 合作人	he zuo ren	3170
 合作商	he zuo shang	7015
 合作商店	he zuo shang dian	395
@@ -155908,6 +156102,7 @@ sort: by_weight
 很旧了	hen jiu le	30910
 很久没见	hen jiu mei jian	1445
 很久没有	hen jiu mei you	21175
+很久没有联系	hen jiu mei you lian xi	111
 很久以后	hen jiu yi hou	4565
 很久以来	hen jiu yi lai	4525
 很久以前	hen jiu yi qian	26960
@@ -156103,6 +156298,7 @@ sort: by_weight
 很少会	hen shao hui	10555
 很少见	hen shao jian	13090
 很少看	hen shao kan	3250
+很少联系	hen shao lian xi	111
 很少去	hen shao qu	4450
 很少人	hen shao ren	9880
 很少玩	hen shao wan	490
@@ -160477,6 +160673,7 @@ sort: by_weight
 互不干涉内政	hu bu gan she nei zheng	2540
 忽不忽悠	hu bu hu you	15
 呼不给吸	hu bu ji xi	1
+互不联系	hu bu lian xi	111
 和不了	hu bu liao	130
 糊不了	hu bu liao	25
 虎步龙骧	hu bu long xiang	111
@@ -160671,6 +160868,7 @@ sort: by_weight
 互动关系	hu dong guan xi	13275
 忽东忽西	hu dong hu xi	680
 互动活动	hu dong huo dong	5040
+互动联系	hu dong lian xi	111
 湖东路	hu dong lu	160
 湖东路口	hu dong lu kou	9
 互动平台	hu dong ping tai	14670
@@ -161331,6 +161529,7 @@ sort: by_weight
 互联网周刊	hu lian wang zhou kan	4080
 互联网著作权行政保护法	hu lian wang zhu zuo quan xing zheng bao hu fa	2
 互联网资讯	hu lian wang zi xun	65
+互联系统	hu lian xi tong	111
 互联星空	hu lian xing kong	19445
 互联影库	hu lian ying ku	660
 瑚琏之器	hu lian zhi qi	1
@@ -161369,6 +161568,7 @@ sort: by_weight
 互留	hu liu	6666
 # 湖刘	hu liu	0
 互留了	hu liu le	6666
+互留联系方式	hu liu lian xi fang shi	111
 呼隆	hu long	999
 # 护龙	hu long	0
 呼隆呼隆	hu long hu long	999
@@ -166921,6 +167121,7 @@ sort: by_weight
 欢迎来	huan ying lai	28360
 欢迎来到	huan ying lai dao	55215
 欢迎连接	huan ying lian jie	168
+欢迎联系	huan ying lian xi	111
 欢迎你	huan ying ni	75380
 欢迎你们	huan ying ni men	7700
 欢迎您	huan ying nin	367215
@@ -169701,6 +169902,7 @@ sort: by_weight
 回复了	hui fu le	278
 恢复力	hui fu li	1345
 回复力	hui fu li	955
+恢复联系	hui fu lian xi	111
 回复路径	hui fu lu jing	240
 回复率	hui fu lv	3205
 恢复命令	hui fu ming ling	765
@@ -171540,6 +171742,7 @@ sort: by_weight
 汇注	hui zhu	215
 挥麈	hui zhu	185
 会逐步	hui zhu bu	8215
+会主动联系	hui zhu dong lian xi	111
 灰铸铁	hui zhu tie	2720
 灰爪山	hui zhua shan	1
 回转	hui zhuan	43260
@@ -173411,6 +173614,7 @@ sort: by_weight
 或曲或直	huo qu huo zhi	80
 获取焦点	huo qu jiao dian	5490
 获取利润	huo qu li run	7630
+获取联系方式	huo qu lian xi fang shi	111
 获取联系人	huo qu lian xi ren	849
 获取路径	huo qu lu jing	1898
 蠖屈求伸	huo qu qiu shen	111
@@ -174910,6 +175114,8 @@ sort: by_weight
 基层建设	ji ceng jian she	8245
 基层建设年	ji ceng jian she nian	88
 基层就业	ji ceng jiu ye	6180
+基层立法联系点	ji ceng li fa lian xi dian	111
+基层联系点	ji ceng lian xi dian	111
 基层领导	ji ceng ling dao	4730
 基层落实	ji ceng luo shi	100
 基层群众	ji ceng qun zhong	6025
@@ -175427,6 +175633,8 @@ sort: by_weight
 机的软件	ji de ruan jian	241
 季德胜蛇药	ji de sheng she yao	10
 季德胜蛇药片	ji de sheng she yao pian	12
+记得是	ji de shi	9999
+集的势	ji de shi	2
 记得提醒我	ji de ti xing wo	225
 积德为厚地	ji de wei hou di	1
 记得我	ji de wo	23695
@@ -176683,6 +176891,7 @@ sort: by_weight
 岌岌可危	ji ji ke wei	9535
 几级了	ji ji le	426
 季季乐	ji ji le	5
+积极联系	ji ji lian xi	111
 寂寂寥寥扬子居	ji ji liao liao yang zi ju	1
 积极落实	ji ji luo shi	100
 急急忙忙	ji ji mang mang	15575
@@ -177086,6 +177295,7 @@ sort: by_weight
 机壳	ji ke	1
 济科	ji ke	1
 即可到达	ji ke dao da	9230
+即刻联系	ji ke lian xi	111
 极可能	ji ke neng	10750
 即刻起	ji ke qi	370
 积疴谢生虑	ji ke xie sheng lv	2
@@ -178685,6 +178895,8 @@ sort: by_weight
 济世匡时	ji shi kuang shi	5
 计时类	ji shi lei	37
 积时累日	ji shi lei ri	1
+即时联系	ji shi lian xi	111
+及时联系	ji shi lian xi	111
 几十辆	ji shi liang	1760
 及时了解	ji shi liao jie	44140
 即时聊天	ji shi liao tian	1240
@@ -180498,12 +180710,12 @@ sort: by_weight
 季野阳秋	ji ye yang qiu	111
 几爷子	ji ye zi	5
 记忆	ji yi	500274
-技艺	ji yi	89540
+几亿	ji yi	92690
 极易	ji yi	79075
-机翼	ji yi	15385
 既已	ji yi	14630
-几亿	ji yi	12690
-计议	ji yi	4830
+机翼	ji yi	1538
+计议	ji yi	483
+技艺	ji yi	89
 # 即以	ji yi	0
 # 即已	ji yi	0
 # 戢翼	ji yi	0
@@ -182935,6 +183147,7 @@ sort: by_weight
 加强法制	jia qiang fa zhi	9830
 加强防卫	jia qiang fang wei	170
 加强服务	jia qiang fu wu	5940
+加强沟通联系	jia qiang gou tong lian xi	111
 加强管理	jia qiang guan li	52345
 加强合作	jia qiang he zuo	21835
 加强环	jia qiang huan	320
@@ -183059,6 +183272,7 @@ sort: by_weight
 佳人才子	jia ren cai zi	480
 假人辞色	jia ren ci se	1
 佳人当道	jia ren dang dao	1
+家人的联系方式	jia ren de lian xi fang shi	111
 家人父子	jia ren fu zi	22
 家人和孩子	jia ren he hai zi	111
 家人和睦	jia ren he mu	111
@@ -183068,6 +183282,8 @@ sort: by_weight
 假仁假意	jia ren jia yi	6
 家人竞喜开妆镜	jia ren jing xi kai zhuang jing	1
 嫁人了	jia ren le	4235
+家人联系	jia ren lian xi	111
+家人联系方式	jia ren lian xi fang shi	111
 假人民币	jia ren min bi	735
 佳人难再得	jia ren nan zai de	6
 佳人有约	jia ren you yue	815
@@ -183318,6 +183534,8 @@ sort: by_weight
 家属村	jia shu cun	4
 家书抵万金	jia shu di wan jin	715
 家属关系	jia shu guan xi	55
+家属联系	jia shu lian xi	111
+家属联系方式	jia shu lian xi fang shi	111
 家属楼	jia shu lou	4110
 家属区	jia shu qu	4725
 嘉数由美	jia shu you mei	1
@@ -183488,6 +183706,7 @@ sort: by_weight
 家庭老师	jia ting lao shi	305
 家庭理财	jia ting li cai	8230
 家庭联产承包责任制	jia ting lian chan cheng bao ze ren zhi	4194
+家庭联系	jia ting lian xi	111
 家庭伦理	jia ting lun li	2820
 家庭旅馆	jia ting lv guan	16830
 家庭律师	jia ting lv shi	35
@@ -183680,6 +183899,7 @@ sort: by_weight
 家小	jia xiao	20310
 假笑	jia xiao	1805
 家校本	jia xiao ben	65
+家校联系	jia xiao lian xi	111
 家校通	jia xiao tong	2945
 假消息	jia xiao xi	2365
 驾校一点通	jia xiao yi dian tong	11613
@@ -184016,6 +184236,7 @@ sort: by_weight
 嘉园二里西门	jia yuan er li xi men	2
 家缘家计	jia yuan jia ji	111
 家园里	jia yuan li	225
+家园联系	jia yuan lian xi	111
 假芫茜	jia yuan qian	100
 嘉园三里	jia yuan san li	19
 嘉园三里北	jia yuan san li bei	2
@@ -184068,6 +184289,7 @@ sort: by_weight
 家长的一封信	jia zhang de yi feng xin	100
 家长会	jia zhang hui	18595
 贾樟柯	jia zhang ke	13710
+家长联系	jia zhang lian xi	111
 家长们	jia zhang men	41120
 家长式	jia zhang shi	2080
 家长学校	jia zhang xue xiao	18670
@@ -184777,6 +184999,7 @@ sort: by_weight
 坚持己见	jian chi ji jian	2910
 坚持就是胜利	jian chi jiu shi sheng li	6075
 坚持科学发展观	jian chi ke xue fa zhan guan	12480
+坚持理论联系实际	jian chi li lun lian xi shi ji	111
 尖翅弄蝶属	jian chi nong die shu	1
 坚持社会主义道路	jian chi she hui zhu yi dao lu	3070
 坚持四项基本原则	jian chi si xiang ji ben yuan ze	14305
@@ -185712,6 +185935,7 @@ sort: by_weight
 间接灸	jian jie jiu	1
 间接控制	jian jie kong zhi	3040
 间接口	jian jie kou	41
+间接联系	jian jie lian xi	111
 简捷了当	jian jie liao dang	9999
 简洁明了	jian jie ming liao	9860
 睑结膜	jian jie mo	45
@@ -186033,6 +186257,7 @@ sort: by_weight
 建立开放	jian li kai fang	220
 简历库	jian li ku	3225
 建立了	jian li le	500266
+建立了联系	jian li le lian xi	111
 建立连接	jian li lian jie	13995
 建立联系	jian li lian xi	14095
 建立领事关系	jian li ling shi guan xi	45
@@ -186650,6 +186875,7 @@ sort: by_weight
 减少风险	jian shao feng xian	3510
 减少开支	jian shao kai zhi	1395
 减少了	jian shao le	172210
+减少联系	jian shao lian xi	111
 减少企业	jian shao qi ye	610
 碱烧伤	jian shao shang	20
 减少投资	jian shao tou zi	3020
@@ -187793,6 +188019,7 @@ sort: by_weight
 兼职律师	jian zhi lv shi	3545
 捡芝麻	jian zhi ma	290
 拣芝麻	jian zhi ma	36
+简直没法看	jian zhi mei fa kan	111
 简直没有	jian zhi mei you	1920
 尖肢南海溪蟹	jian zhi nan hai xi xie	1
 剪纸片	jian zhi pian	9999
@@ -190712,6 +190939,7 @@ sort: by_weight
 交换类型	jiao huan lei xing	160
 交换链接	jiao huan lian jie	5340
 交换连接	jiao huan lian jie	667
+交换联系方式	jiao huan lian xi fang shi	111
 交换量	jiao huan liang	970
 交换律	jiao huan lv	775
 交换码	jiao huan ma	484
@@ -191099,6 +191327,7 @@ sort: by_weight
 交流接触器	jiao liu jie chu qi	3095
 交流经验	jiao liu jing yan	17175
 交流了	jiao liu le	19950
+交流联系	jiao liu lian xi	111
 交流平台	jiao liu ping tai	61860
 交流区	jiao liu qu	44320
 交流渠道	jiao liu qu dao	2585
@@ -191703,6 +191932,7 @@ sort: by_weight
 交通局驾校	jiao tong ju jia xiao	96
 交通俱乐部	jiao tong ju le bu	137
 交通控制	jiao tong kong zhi	1975
+交通联系	jiao tong lian xi	111
 交通量	jiao tong liang	4910
 交通流量	jiao tong liu liang	5175
 交通路	jiao tong lu	676
@@ -193217,6 +193447,7 @@ sort: by_weight
 结队	jie dui	4025
 结对帮扶	jie dui bang fu	10650
 结对编程	jie dui bian cheng	698
+结对联系	jie dui lian xi	111
 街对面	jie dui mian	3020
 结对子	jie dui zi	6520
 劫夺	jie duo	3050
@@ -196787,10 +197018,10 @@ sort: by_weight
 金基翠城	jin ji cui cheng	5
 金鸡村	jin ji cun	79
 紧急措施	jin ji cuo shi	10345
-金基德	jin ji de	3190
 进击的	jin ji de	523
 紧急的	jin ji de	300
 紧急地	jin ji de	37
+金基德	jin ji de	2
 金鸡独立	jin ji du li	4492
 金基范	jin ji fan	20
 金鸡放赦	jin ji fang she	3
@@ -196810,6 +197041,8 @@ sort: by_weight
 紧急控制阀	jin ji kong zhi fa	3
 金吉拉	jin ji la	2565
 金羁立马怯晨兴	jin ji li ma qie chen xing	1
+紧急联系电话	jin ji lian xi dian hua	111
+紧急联系人	jin ji lian xi ren	111
 进给量	jin ji liang	1950
 金吉列	jin ji lie	1285
 金鸡路	jin ji lu	59
@@ -197528,6 +197761,8 @@ sort: by_weight
 金梦园	jin meng yuan	8
 紧密	jin mi	181580
 谨密	jin mi	315
+紧密的联系	jin mi de lian xi	111
+紧密的联系在一起	jin mi de lian xi zai yi qi	111
 紧密度	jin mi du	1080
 金迷粉醉	jin mi fen zui	1
 紧密合作	jin mi he zuo	17845
@@ -197535,6 +197770,7 @@ sort: by_weight
 紧密结合	jin mi jie he	129190
 紧密连接	jin mi lian jie	1635
 紧密联系	jin mi lian xi	55720
+紧密联系实际	jin mi lian xi shi ji	111
 紧密配合	jin mi pei he	12735
 紧密团结	jin mi tuan jie	14950
 紧密相关	jin mi xiang guan	14495
@@ -200388,6 +200624,7 @@ sort: by_weight
 经常会	jing chang hui	75455
 经常进行	jing chang jin xing	11745
 经常居住地	jing chang ju zhu di	7640
+经常联系	jing chang lian xi	111
 京昌路回龙观	jing chang lu hui long guan	1
 经常那个	jing chang na ge	230
 经常说的一句话	jing chang shuo de yi ju hua	100
@@ -200650,6 +200887,7 @@ sort: by_weight
 净吨位	jing dun wei	1620
 竞夺	jing duo	220
 经多方	jing duo fang	6380
+经多方联系	jing duo fang lian xi	111
 经多见广	jing duo jian guang	111
 静多态	jing duo tai	44
 净额	jing e	44570
@@ -200681,6 +200919,7 @@ sort: by_weight
 景芳二区	jing fang er qu	22
 竞房价	jing fang jia	87
 荆防颗粒	jing fang ke li	1
+警方联系	jing fang lian xi	111
 景芳六区	jing fang liu qu	29
 经方派	jing fang pai	3
 景芳三区	jing fang san qu	13
@@ -200875,6 +201114,7 @@ sort: by_weight
 荆国	jing guo	2
 经过长	jing guo chang	1542
 经国大业	jing guo da ye	3
+经过多方联系	jing guo duo fang lian xi	111
 经过核实	jing guo he shi	1325
 经国家	jing guo jia	72050
 经过近	jing guo jin	5360
@@ -201298,6 +201538,7 @@ sort: by_weight
 经济全球化	jing ji quan qiu hua	67540
 经济权益	jing ji quan yi	1750
 经纪人	jing ji ren	112930
+经纪人联系	jing ji ren lian xi	111
 经济人物	jing ji ren wu	8825
 经济人物评选	jing ji ren wu ping xuan	1380
 经济日报	jing ji ri bao	19345
@@ -201975,6 +202216,8 @@ sort: by_weight
 # 京民	jing min	0
 # 景民	jing min	0
 京民大厦	jing min da sha	940
+警民联系	jing min lian xi	111
+警民联系卡	jing min lian xi ka	111
 警民路	jing min lu	7
 精明	jing ming	69630
 # 敬铭	jing ming	0
@@ -202181,6 +202424,7 @@ sort: by_weight
 敬请放心	jing qing fang xin	5160
 敬请光临	jing qing guang lin	1225
 敬请来	jing qing lai	8
+敬请联系	jing qing lian xi	111
 敬请批评	jing qing pi ping	125
 敬请批评指正	jing qing pi ping zhi zheng	605
 敬请期待	jing qing qi dai	8840
@@ -202409,6 +202653,7 @@ sort: by_weight
 经审理	jing shen li	15680
 精神力量	jing shen li liang	18415
 精神恋爱	jing shen lian ai	1895
+精神联系	jing shen lian xi	111
 精神粮食	jing shen liang shi	760
 精神疗法	jing shen liao fa	670
 精神领袖	jing shen ling xiu	7400
@@ -204040,6 +204285,7 @@ sort: by_weight
 就不看	jiu bu kan	78
 就不可	jiu bu ke	29320
 酒不离口	jiu bu li kou	236
+久不联系	jiu bu lian xi	111
 救不了	jiu bu liao	7490
 就不买	jiu bu mai	268
 就不买了	jiu bu mai le	138
@@ -204539,6 +204785,7 @@ sort: by_weight
 酒过三巡	jiu guo san xun	3550
 救国团	jiu guo tuan	440
 就还	jiu hai	11705
+就还好	jiu hai hao	111
 就还行	jiu hai xing	62
 就还有	jiu hai you	92
 就喊	jiu han	6666
@@ -206555,8 +206802,8 @@ sort: by_weight
 就装上	jiu zhuang shang	2085
 就撞上了	jiu zhuang shang le	1395
 就装上了	jiu zhuang shang le	1180
-酒壮𪨊人胆	jiu zhuang song ren dan	9999
 酒壮怂人胆	jiu zhuang song ren dan	1111
+酒壮𪨊人胆	jiu zhuang song ren dan	2
 酒壮英雄胆	jiu zhuang ying xiong dan	210
 就追	jiu zhui	6440
 就准备	jiu zhun bei	13010
@@ -207933,6 +208180,7 @@ sort: by_weight
 具体建设	ju ti jian she	1
 具体会计准则	ju ti kuai ji zhun ze	111
 具体来说	ju ti lai shuo	20165
+具体联系方式	ju ti lian xi fang shi	111
 具体落实	ju ti luo shi	100
 具体内容	ju ti nei rong	81280
 具体情况	ju ti qing kuang	158465
@@ -209001,6 +209249,7 @@ sort: by_weight
 绝的	jue de	15780
 觉得比	jue de bi	6230
 觉得非常	jue de fei chang	1542
+觉得还好	jue de hai hao	111
 觉得好	jue de hao	22290
 觉得好奇	jue de hao qi	900
 觉得好笑	jue de hao xiao	5245
@@ -209999,6 +210248,7 @@ sort: by_weight
 军事科学院	jun shi ke xue yuan	3142
 军事力量	jun shi li liang	16210
 军事理论	jun shi li lun	5440
+军事联系	jun shi lian xi	111
 军事领域	jun shi ling yu	4445
 军事路线	jun shi lu xian	1125
 军事论坛	jun shi lun tan	2905
@@ -210746,6 +210996,7 @@ sort: by_weight
 卡纳维拉尔角	ka na wei la er jiao	1180
 卡耐基	ka nai ji	13630
 卡奈利	ka nai li	1
+卡呢	ka ne	1111
 卡内	ka nei	14785
 卡内基	ka nei ji	6810
 卡呢	ka ni	2150
@@ -212589,6 +212840,8 @@ sort: by_weight
 看地图	kan di tu	3915
 看点	kan dian	93675
 看店	kan dian	2965
+看点儿	kan dian er	2222
+看点二	kan dian er	111
 看电视	kan dian shi	85260
 看电视啊	kan dian shi a	290
 看电视剧	kan dian shi ju	3035
@@ -214003,9 +214256,8 @@ sort: by_weight
 考核制度	kao he zhi du	25750
 考核组	kao he zu	9825
 烤红薯	kao hong shu	3900
-考后	kao hou	13670
 靠后	kao hou	13050
-考后村	kao hou cun	1
+考后	kao hou	1367
 烤糊	kao hu	590
 烤花	kao hua	1420
 烤花揽鳜鱼	kao hua lan gui yu	1
@@ -214092,6 +214344,7 @@ sort: by_weight
 烤鳗鱼鸡蛋卷	kao man yu ji dan juan	2
 烤芒果虾	kao mang guo xia	1
 靠门	kao men	2350
+靠门儿	kao men er	2350
 考米克小屋	kao mi ke xiao wu	2
 烤面包	kao mian bao	3810
 烤面包机	kao mian bao ji	905
@@ -214910,6 +215163,7 @@ sort: by_weight
 克服了	ke fu le	51610
 克夫脸	ke fu lian	1
 客服联系	ke fu lian xi	21885
+客服联系方式	ke fu lian xi fang shi	111
 克服缺点	ke fu que dian	2435
 客服热线	ke fu re xian	110865
 客服时间	ke fu shi jian	4225
@@ -215038,6 +215292,7 @@ sort: by_weight
 克果乡	ke guo xiang	3
 可还	ke hai	9999
 科海	ke hai	1
+可还好	ke hai hao	111
 克咳胶囊	ke hai jiao nang	1
 可骇可愕	ke hai ke e	1
 克咳敏	ke hai min	6
@@ -215067,6 +215322,7 @@ sort: by_weight
 刻鹄成鹜	ke hu cheng wu	1
 客户程序	ke hu cheng xu	8040
 客户处	ke hu chu	32
+客户的联系方式	ke hu de lian xi fang shi	111
 客户地址	ke hu di zhi	33
 客户端	ke hu duan	328335
 客户端测试	ke hu duan ce shi	2288
@@ -215826,6 +216082,7 @@ sort: by_weight
 可怜无补费精神	ke lian wu bu fei jing shen	2
 可怜无定河边骨	ke lian wu ding he bian gu	10
 可怜无数山	ke lian wu shu shan	5
+可联系	ke lian xi	111
 可怜兮兮	ke lian xi xi	6280
 可怜相	ke lian xiang	1140
 可联想	ke lian xiang	265
@@ -216071,6 +216328,8 @@ sort: by_weight
 可能都	ke neng dou	26990
 可能对	ke neng dui	56280
 可能发生	ke neng fa sheng	33745
+可能还好	ke neng hai hao	111
+可能还好一点	ke neng hai hao yi dian	111
 可能还是	ke neng hai shi	62
 可能还要	ke neng hai yao	7640
 可能很小	ke neng hen xiao	675
@@ -217172,6 +217431,7 @@ sort: by_weight
 可以了吗	ke yi le ma	3030
 可以理解	ke yi li jie	34580
 可以利用	ke yi li yong	81890
+可以联系	ke yi lian xi	111
 可以聊聊吗	ke yi liao liao ma	455
 可以聊吗	ke yi liao ma	30
 可以聊天吗	ke yi liao tian ma	65
@@ -217222,6 +217482,7 @@ sort: by_weight
 可以说吗	ke yi shuo ma	155
 可以说是	ke yi shuo shi	171365
 可以说说吗	ke yi shuo shuo ma	140
+可以随时联系	ke yi sui shi lian xi	111
 可以提供	ke yi ti gong	72150
 可以填	ke yi tian	82
 可以调素琴	ke yi tiao su qin	6
@@ -217309,6 +217570,8 @@ sort: by_weight
 可以卒千年	ke yi zu qian nian	1
 可以组织	ke yi zu zhi	12275
 可以做到	ke yi zuo dao	32470
+可以做到很多以前没法	ke yi zuo dao hen duo yi qian mei fa	111
+可以做到很多以前没法做的事	ke yi zuo dao hen duo yi qian mei fa zuo de shi	111
 可以做个朋友吗	ke yi zuo ge peng you ma	100
 可以做投资	ke yi zuo tou zi	62
 可以作为	ke yi zuo wei	65960
@@ -218106,6 +218369,7 @@ sort: by_weight
 空间控制	kong jian kong zhi	63
 控件库	kong jian ku	12
 控件类	kong jian lei	1423
+空间联系	kong jian lian xi	111
 空间卖	kong jian mai	15
 空间配置器	kong jian pei zhi qi	398
 空间权	kong jian quan	1202
@@ -220203,6 +220467,7 @@ sort: by_weight
 跨境	kua jing	12685
 跨径	kua jing	4445
 跨境电商	kua jing dian shang	227
+跨境加速	kua jing jia su	111
 跨境破产	kua jing po chan	208
 跨距	kua ju	1750
 夸克	kua ke	10120
@@ -220213,6 +220478,8 @@ sort: by_weight
 夸夸而谈	kua kua er tan	111
 夸夸其谈	kua kua qi tan	8875
 夸夸之谈	kua kua zhi tan	1
+垮啦	kua la	3333
+夸啦	kua la	111
 跨栏	kua lan	6510
 跨栏比赛	kua lan bi sai	250
 垮了	kua le	9850
@@ -220360,6 +220627,9 @@ sort: by_weight
 快被	kuai bei	22045
 快背	kuai bei	340
 快毕业了	kuai bi ye le	2655
+快别	kuai bie	3333
+快别说	kuai bie shuo	3333
+快别说了	kuai bie shuo le	3333
 快播	kuai bo	277
 快步	kuai bu	35350
 快不快	kuai bu kuai	785
@@ -220986,6 +221256,7 @@ sort: by_weight
 快速冷冻	kuai su leng dong	48
 快速链接	kuai su lian jie	3305
 快速连接	kuai su lian jie	2040
+快速联系	kuai su lian xi	111
 快速列车	kuai su lie che	7205
 快速路	kuai su lu	9999
 快速落实	kuai su luo shi	100
@@ -226068,10 +226339,10 @@ sort: by_weight
 老茎	lao jing	470
 老井村	lao jing cun	23
 劳精苦形	lao jing ku xing	1
-老酒	lao jiu	31942
 老旧	lao jiu	18995
-老九	lao jiu	5505
+老酒	lao jiu	3194
 老舅	lao jiu	1790
+老九	lao jiu	550
 烙韭菜馅饼	lao jiu cai xian bing	1
 老旧运输船舶管理规定	lao jiu yun shu chuan bo guan li gui ding	62
 老居	lao ju	1575
@@ -227729,7 +228000,8 @@ sort: by_weight
 泪囊	lei nang	1970
 类囊体	lei nang ti	205
 泪囊炎	lei nang yan	1880
-蕾妮	lei ni	1710
+累你	lei ni	111
+蕾妮	lei ni	2
 雷妮拉	lei ni la	9999
 雷妮拉·坦格利安	lei ni la tan ge li an	1111
 雷妮丝·瓦列利昂	lei ni si wa lie li ang	111
@@ -229125,6 +229397,7 @@ sort: by_weight
 立法解释	li fa jie shi	1865
 立法进程	li fa jin cheng	3680
 立法局	li fa ju	610
+立法联系点	li fa lian xi dian	111
 立法权	li fa quan	14705
 立法权限	li fa quan xian	1375
 理发师	li fa shi	12355
@@ -229614,6 +229887,7 @@ sort: by_weight
 力济九区	li ji jiu qu	1
 李继来	li ji lai	12
 利己利人	li ji li ren	555
+立即联系	li ji lian xi	111
 立即落实	li ji luo shi	100
 郦寄卖友	li ji mai you	1
 立即命令	li ji ming ling	1920
@@ -230012,6 +230286,7 @@ sort: by_weight
 利可君片	li ke jun pian	1
 立刻来	li ke lai	595
 利客来	li ke lai	86
+立刻联系	li ke lian xi	111
 利客隆	li ke long	655
 李克农	li ke nong	220
 李克强	li ke qiang	9999
@@ -230245,6 +230520,7 @@ sort: by_weight
 理论框架	li lun kuang jia	6440
 理论力学	li lun li xue	5280
 理论联系实际	li lun lian xi shi ji	38055
+理论联系实践	li lun lian xi shi jian	111
 理论派	li lun pai	425
 理论前沿	li lun qian yan	3345
 理论上	li lun shang	82725
@@ -230288,8 +230564,8 @@ sort: by_weight
 利率调整	li lv tiao zheng	4915
 利率政策	li lv zheng ce	4605
 立马	li ma	62085
-利马	li ma	8090
 詈骂	li ma	315
+利马	li ma	2
 利玛窦	li ma dou	5750
 立马盖轿	li ma gai jiao	1
 立马昆仑	li ma kun lun	1180
@@ -233828,55 +234104,251 @@ sort: by_weight
 联席	lian xi	10945
 莲溪	lian xi	99
 莲西	lian xi	8
+联系百度	lian xi bai du	111
+联系办理	lian xi ban li	111
+联系帮扶	lian xi bang fu	111
+联系保险公司	lian xi bao xian gong si	111
+联系北京	lian xi bei jing	111
 练习本	lian xi ben	2665
+联系本	lian xi ben	111
+联系本人	lian xi ben ren	111
+联系本站	lian xi ben zhan	111
+联系编辑	lian xi bian ji	111
+联系表	lian xi biao	111
+联系表单	lian xi biao dan	111
+联系表格	lian xi biao ge	111
 敛息屏气	lian xi bing qi	111
 练习簿	lian xi bu	600
+联系不到	lian xi bu dao	111
+联系不到你	lian xi bu dao ni	111
+联系不到人	lian xi bu dao ren	111
+联系不断	lian xi bu duan	111
+联系部门	lian xi bu men	111
 联系不上	lian xi bu shang	5
+联系采访	lian xi cai fang	111
+联系采购	lian xi cai gou	111
 练习册	lian xi ce	9705
 练习场	lian xi chang	11255
 联系厂	lian xi chang	1
+联系厂家	lian xi chang jia	111
+联系车辆	lian xi che liang	111
+联系车主	lian xi che zhu	111
+联系成	lian xi cheng	111
+联系处理	lian xi chu li	111
+联系传真	lian xi chuan zhen	111
+联系村	lian xi cun	111
+联系代表	lian xi dai biao	111
+联系单	lian xi dan	111
+联系单位	lian xi dan wei	111
+联系当事人	lian xi dang shi ren	111
+联系到	lian xi dao	111
+联系到一起	lian xi dao yi qi	111
+联系的观点	lian xi de guan dian	111
+联系地	lian xi di	111
 联系地址	lian xi di zhi	410460
 联系点	lian xi dian	25960
 联系电话	lian xi dian hua	500894
+联系电话等信息	lian xi dian hua deng xin xi	111
+联系对方	lian xi dui fang	111
+联系对接	lian xi dui jie	111
+联系法官	lian xi fa guan	111
+联系方便	lian xi fang bian	111
+联系房东	lian xi fang dong	111
 联系方法	lian xi fang fa	67245
 联系方式	lian xi fang shi	500513
+联系方式等信息	lian xi fang shi deng xin xi	111
+联系方式和地址	lian xi fang shi he di zhi	111
+联系妇女群众	lian xi fu nv qun zhong	111
+联系服务	lian xi fu wu	111
+联系服务企业	lian xi fu wu qi ye	111
+联系服务群众	lian xi fu wu qun zhong	111
+联系服务站	lian xi fu wu zhan	111
+联系感	lian xi gan	111
+联系感情	lian xi gan qing	111
+联系更加紧密	lian xi geng jia jin mi	111
+联系更紧密	lian xi geng jin mi	111
+联系公司	lian xi gong si	111
+联系供应商	lian xi gong ying shang	111
 联系工作	lian xi gong zuo	6825
+联系工作人员	lian xi gong zuo ren yuan	111
+联系购买	lian xi gou mai	111
+联系沟通	lian xi gou tong	111
+联系固话	lian xi gu hua	111
+联系官方	lian xi guan fang	111
+联系管家	lian xi guan jia	111
+联系管理	lian xi guan li	111
+联系管理员	lian xi guan li yuan	111
+联系广大	lian xi guang da	111
+联系广泛	lian xi guang fan	111
 联系过	lian xi guo	760
+联系国	lian xi guo	111
+联系函	lian xi han	111
+联系好	lian xi hao	111
+联系号码	lian xi hao ma	111
+联系和服务	lian xi he fu wu	111
+联系合作	lian xi he zuo	111
 联系户	lian xi hu	2180
+联系互动	lian xi hu dong	111
 联席会	lian xi hui	9535
+联系汇率	lian xi hui lv	111
+联系汇率制	lian xi hui lv zhi	111
+联系汇率制度	lian xi hui lv zhi du	111
 联席会议	lian xi hui yi	66250
+联系会议	lian xi hui yi	111
+联系货源	lian xi huo yuan	111
+联系基层	lian xi ji ceng	111
+联系技术	lian xi ji shu	111
+联系记者	lian xi ji zhe	111
+联系机制	lian xi ji zhi	111
+联系家人	lian xi jia ren	111
+联系家属	lian xi jia shu	111
+联系家长	lian xi jia zhang	111
+联系交流	lian xi jiao liu	111
+联系街道	lian xi jie dao	111
+联系紧密	lian xi jin mi	111
+联系金沙	lian xi jin sha	111
+联系经纪人	lian xi jing ji ren	111
+联系经销商	lian xi jing xiao shang	111
+联系酒店	lian xi jiu dian	111
+联系救援	lian xi jiu yuan	111
 练习卷	lian xi juan	1115
 联系卡	lian xi ka	8155
+联系开发	lian xi kai fa	111
+联系客服	lian xi ke fu	111
+联系客服人员	lian xi ke fu ren yuan	111
+联系客服微信	lian xi ke fu wei xin	111
+联系客户	lian xi ke hu	111
+联系快递	lian xi kuai di	111
+联系老师	lian xi lao shi	111
 联系了	lian xi le	12
+联系了吗	lian xi le ma	111
 联系联系	lian xi lian xi	1385
+联系领导	lian xi ling dao	111
 莲溪路	lian xi lu	19
+联系律师	lian xi lv shi	111
+联系买家	lian xi mai jia	111
+联系卖家	lian xi mai jia	111
+联系美国	lian xi mei guo	111
+联系媒体	lian xi mei ti	111
+联系密切	lian xi mi qie	111
 练习模式	lian xi mo shi	965
+联系你	lian xi ni	111
+联系你吧	lian xi ni ba	111
+联系你了	lian xi ni le	111
 联系您	lian xi nin	7
+联系纽带	lian xi niu dai	111
+联系配合	lian xi pei he	111
+联系朋友	lian xi peng you	111
+联系平台	lian xi ping tai	111
 练习器	lian xi qi	1175
 联系起来	lian xi qi lai	60840
+联系企业	lian xi qi ye	111
+联系洽谈	lian xi qia tan	111
+联系前任	lian xi qian ren	111
+联系青年	lian xi qing nian	111
 练习曲	lian xi qu	11858
 联系渠道	lian xi qu dao	2265
+联系群	lian xi qun	111
 联系群众	lian xi qun zhong	11115
+联系群众的桥梁	lian xi qun zhong de qiao liang	111
+联系热线	lian xi re xian	111
 联系人	lian xi ren	500924
+联系人电话	lian xi ren dian hua	111
+联系人管理	lian xi ren guan li	111
 联系人和联系方式	lian xi ren he lian xi fang shi	111
+联系人及电话	lian xi ren ji dian hua	111
+联系人及联系电话	lian xi ren ji lian xi dian hua	111
+联系人及联系方式	lian xi ren ji lian xi fang shi	111
+联系人李	lian xi ren li	111
+联系人列表	lian xi ren lie biao	111
+联系人刘	lian xi ren liu	111
+联系人民群众	lian xi ren min qun zhong	111
+联系人手机	lian xi ren shou ji	111
+联系人王	lian xi ren wang	111
+联系人信息	lian xi ren xin xi	111
+联系人姓名	lian xi ren xing ming	111
+联系人邮箱	lian xi ren you xiang	111
+联系人员	lian xi ren yuan	111
+联系人张	lian xi ren zhang	111
 练习赛	lian xi sai	2315
+联系上	lian xi shang	111
+联系商家	lian xi shang jia	111
+联系上下文	lian xi shang xia wen	111
+联系社会	lian xi she hui	111
+联系社区	lian xi she qu	111
+联系谁	lian xi shei	111
+联系深圳	lian xi shen zhen	111
 练习生	lian xi sheng	810
+联系生产	lian xi sheng chan	111
+联系生活	lian xi sheng huo	111
+联系生活实际	lian xi sheng huo shi ji	111
+联系时	lian xi shi	111
 联系实际	lian xi shi ji	21795
+联系实际学	lian xi shi ji xue	111
 练习时间	lian xi shi jian	2910
 联系时间	lian xi shi jian	2465
+联系售后	lian xi shou hou	111
+联系手机	lian xi shou ji	111
+联系谁	lian xi shui	111
 练习题	lian xi ti	26340
+联系通道	lian xi tong dao	111
+联系网	lian xi wang	111
+联系网络	lian xi wang luo	111
+联系网站	lian xi wang zhan	111
+联系网站管理员	lian xi wang zhan guan li yuan	111
+联系威尼斯	lian xi wei ni si	111
+联系微信	lian xi wei xin	111
+联系维修	lian xi wei xiu	111
+联系我	lian xi wo	111
+联系我吧	lian xi wo ba	111
 联系我们	lian xi wo men	408970
+联系物流	lian xi wu liu	111
+联系物业	lian xi wu ye	111
 联系下	lian xi xia	7
+联系现实	lian xi xian shi	111
+联系相关部门	lian xi xiang guan bu men	111
+联系项目	lian xi xiang mu	111
+联系乡镇	lian xi xiang zhen	111
+联系小编	lian xi xiao bian	111
+联系销售	lian xi xiao shou	111
+联系协调	lian xi xie tiao	111
+联系新	lian xi xin	111
+联系信息	lian xi xin xi	111
 联系信箱	lian xi xin xiang	21880
+联系性	lian xi xing	111
+联系姓名	lian xi xing ming	111
+联系学生	lian xi xue sheng	111
+联系学校	lian xi xue xiao	111
+联系亚博	lian xi ya bo	111
 联系业务	lian xi ye wu	4815
+联系医生	lian xi yi sheng	111
 联系一下	lian xi yi xia	203
+联系医院	lian xi yi yuan	111
+联系银行	lian xi yin hang	111
+联系邮件	lian xi you jian	111
 联系邮箱	lian xi you xiang	21455
+联系与合作	lian xi yu he zuo	111
+联系预约	lian xi yu yue	111
+联系在线客服	lian xi zai xian ke fu	111
+联系在一起	lian xi zai yi qi	111
 联系站长	lian xi zhan zhang	22210
 练习者	lian xi zhe	8470
 联系着	lian xi zhe	6350
 练习着	lian xi zhe	1090
+联系政府	lian xi zheng fu	111
+联系指导	lian xi zhi dao	111
 联系制度	lian xi zhi du	8050
+联系职工	lian xi zhi gong	111
+联系之前	lian xi zhi qian	111
+联系中	lian xi zhong	111
+联系中介	lian xi zhong jie	111
+联系中心	lian xi zhong xin	111
+联系专家	lian xi zhuan jia	111
 联系资料	lian xi zi liao	15785
+联系自身	lian xi zi shen	111
+联系咨询	lian xi zi xun	111
+联系总部	lian xi zong bu	111
+联系作者	lian xi zuo zhe	111
 练下	lian xia	845
 帘下宫人出	lian xia gong ren chu	1
 练下来	lian xia lai	230
@@ -234696,6 +235168,7 @@ sort: by_weight
 两个件	liang ge jian	319
 两个角度	liang ge jiao du	4215
 两个孔	liang ge kong	330
+两个联系	liang ge lian xi	111
 两个男人	liang ge nan ren	12720
 两个妞儿	liang ge niu er	55
 两个女孩	liang ge nv hai	8775
@@ -234801,6 +235274,7 @@ sort: by_weight
 良好操作规范	liang hao cao zuo gui fan	330
 良好的	liang hao de	500731
 良好的开端是成功的一半	liang hao de kai duan shi cheng gong de yi ban	1485
+良好的联系	liang hao de lian xi	111
 良好氛围	liang hao fen wei	47300
 良好风气	liang hao feng qi	7995
 良好关系	liang hao guan xi	9590
@@ -238327,6 +238801,7 @@ sort: by_weight
 领导科学	ling dao ke xue	7655
 领导力	ling dao li	43340
 领导力量	ling dao li liang	3535
+领导联系	ling dao lian xi	111
 领导们	ling dao men	15450
 领导能力	ling dao neng li	24935
 领导批示	ling dao pi shi	5510
@@ -238960,6 +239435,7 @@ sort: by_weight
 令人痛心	ling ren tong xin	2430
 令人羡慕	ling ren xian mu	13445
 令人想起	ling ren xiang qi	2810
+令人血脉贲张	ling ren xie mai ben zhang	1111
 令人心动	ling ren xin dong	5800
 令人信服	ling ren xin fu	14145
 令人心寒	ling ren xin han	1695
@@ -241842,6 +242318,8 @@ sort: by_weight
 流下了	liu xia le	16300
 流下泪	liu xia lei	555
 流下泪来	liu xia lei lai	3735
+留下联系电话	liu xia lian xi dian hua	111
+留下联系方式	liu xia lian xi fang shi	111
 流下去	liu xia qu	505
 留下印象	liu xia yin xiang	2850
 留下阴影	liu xia yin ying	1225
@@ -242086,6 +242564,7 @@ sort: by_weight
 留言机	liu yan ji	305
 留言栏	liu yan lan	1620
 流眼泪	liu yan lei	10450
+留言联系	liu yan lian xi	111
 流言流说	liu yan liu shuo	1
 柳眼梅腮	liu yan mei sai	110
 留言内容	liu yan nei rong	95605
@@ -249969,8 +250448,8 @@ sort: by_weight
 马岗乡	ma gang xiang	3
 马高庄乡	ma gao zhuang xiang	2
 马哥	ma ge	9999
-玛格	ma ge	6900
 骂个	ma ge	1715
+# 玛格	ma ge	0
 玛歌堡	ma ge bao	8
 马革盛尸	ma ge cheng shi	111
 马格达河副项鳍鲶	ma ge da he fu xiang qi nian	1
@@ -250557,6 +251036,7 @@ sort: by_weight
 马马虎虎	ma ma hu hu	13450
 麻麻辣辣	ma ma la la	165
 妈妈乐	ma ma le	115
+妈妈联系	ma ma lian xi	111
 麻麻亮	ma ma liang	405
 骂骂咧咧	ma ma lie lie	6545
 妈妈镇	ma ma zhen	2
@@ -250813,6 +251293,7 @@ sort: by_weight
 马上回来	ma shang hui lai	2355
 马上就要	ma shang jiu yao	38235
 马上看花	ma shang kan hua	1
+马上联系	ma shang lian xi	111
 马上落实	ma shang luo shi	100
 马上拍	ma shang pai	5
 马上墙头	ma shang qiang tou	111
@@ -251036,6 +251517,8 @@ sort: by_weight
 玛维	ma wei	1
 马尾巴	ma wei ba	1605
 马尾辫	ma wei bian	4920
+马未都	ma wei du	100
+马未都说	ma wei du shuo	100
 马维尔细小银汉鱼	ma wei er xi xiao yin han yu	1
 马尾黄连	ma wei huang lian	15
 马尾莲	ma wei lian	1
@@ -251118,8 +251601,8 @@ sort: by_weight
 马叙伦	ma xu lun	106
 马靴	ma xue	3460
 马雪	ma xue	2010
-玛雅	ma ya	27620
 妈呀	ma ya	15370
+玛雅	ma ya	2762
 马雅可夫斯基	ma ya ke fu si ji	43
 玛雅人	ma ya ren	6625
 马牙肉	ma ya rou	23
@@ -254450,6 +254933,7 @@ sort: by_weight
 贸易纠纷	mao yi jiu fen	2810
 贸易局	mao yi ju	10455
 贸易开发区	mao yi kai fa qu	11
+贸易联系	mao yi lian xi	111
 贸易量	mao yi liang	5695
 贸易领域	mao yi ling yu	2545
 贸易摩擦	mao yi mo ca	18085
@@ -255019,34 +255503,107 @@ sort: by_weight
 没法	mei fa	96430
 美发	mei fa	53795
 美法	mei fa	1875
+没法办	mei fa ban	111
+没法保证	mei fa bao zheng	111
 没法比	mei fa bi	5660
+没法补	mei fa bu	111
+没法参加	mei fa can jia	111
+没法查	mei fa cha	111
+没法察觉	mei fa cha jue	111
+没法吃	mei fa chi	111
 没法穿	mei fa chuan	64
+没法打	mei fa da	111
+没法打了	mei fa da le	111
+没法待了	mei fa dai le	111
 没法儿	mei fa er	1610
+没法儿复现	mei fa er fu xian	111
+没法儿看	mei fa er kan	111
+没法儿在	mei fa er zai	111
 没法分	mei fa fen	68
+没法复现	mei fa fu xian	111
+没法改	mei fa gai	111
+没法改变	mei fa gai bian	111
 没法干	mei fa gan	350
 没法搞	mei fa gao	83
 没法给	mei fa gei	64
 没发给我	mei fa gei wo	339
+没法跟你说	mei fa gen ni shuo	111
+没法工作	mei fa gong zuo	111
+没法沟通	mei fa gou tong	111
+没法管	mei fa guan	111
+没法过	mei fa guo	111
 没发过来	mei fa guo lai	67
+没法过了	mei fa guo le	111
+没法呼吸	mei fa hu xi	111
 没法换	mei fa huan	73
+没法回答	mei fa hui da	111
+没法混	mei fa hun	111
 没法混的	mei fa hun de	1180
 没发货	mei fa huo	4934
+没法活	mei fa huo	111
+没法活了	mei fa huo le	111
+没法继续	mei fa ji xu	111
+没法见人	mei fa jian ren	111
+没法教	mei fa jiao	111
 没法交待	mei fa jiao dai	64
+没法交流	mei fa jiao liu	111
+没法接	mei fa jie	111
+没法解释	mei fa jie shi	111
+没法接受	mei fa jie shou	111
+没法拒绝	mei fa ju jue	111
+没法开	mei fa kai	111
+没法看	mei fa kan	111
+没法抗拒	mei fa kang ju	111
+没法理解	mei fa li jie	111
+没法聊	mei fa liao	111
 美法仑	mei fa lun	27
+没法买	mei fa mai	111
 美发美容	mei fa mei rong	8710
+没法没天	mei fa mei tian	111
+没法那么简单	mei fa na me jian dan	111
 没法奈何	mei fa nai he	5
+没法弄	mei fa nong	111
+没法拍	mei fa pai	111
 没法去	mei fa qu	68
+没法忍	mei fa ren	111
 没发生	mei fa sheng	7320
+没法生活	mei fa sheng huo	111
 美发师	mei fa shi	8290
 没发书	mei fa shu	111
+没法输入	mei fa shu ru	111
 没法睡	mei fa shui	1
+没法睡觉	mei fa shui jiao	111
 没法说	mei fa shuo	2700
+没法谈	mei fa tan	111
 没法填	mei fa tian	71
 美发厅	mei fa ting	4910
+没法听	mei fa ting	111
+没法退	mei fa tui	111
+没法玩	mei fa wan	111
+没法洗	mei fa xi	111
+没法洗了	mei fa xi le	111
 没发现	mei fa xian	21335
+没法享受	mei fa xiang shou	111
+没法想象	mei fa xiang xiang	111
 没法写	mei fa xie	68
+没法修	mei fa xiu	111
+没法选	mei fa xuan	111
+没法学	mei fa xue	111
 美发学校	mei fa xue xiao	275
+没法养	mei fa yang	111
+没法用	mei fa yong	111
+没法预测	mei fa yu ce	111
+没法在	mei fa zai	111
+没法整	mei fa zheng	111
+没法整吧	mei fa zheng ba	111
+没法治	mei fa zhi	111
+没法装	mei fa zhuang	111
 没法子	mei fa zi	6725
+没法走	mei fa zou	111
+没法做	mei fa zuo	111
+没法做到	mei fa zuo dao	111
+没法做的事	mei fa zuo de shi	111
+没法做的事儿	mei fa zuo de shi er	111
 没饭	mei fan	1155
 每饭不忘	mei fan bu wang	1
 没反馈	mei fan kui	12
@@ -256101,6 +256658,8 @@ sort: by_weight
 酶联免疫吸附测定	mei lian mian yi xi fu ce ding	165
 酶联免疫吸附试验	mei lian mian yi xi fu shi yan	11
 美联社	mei lian she	11645
+没联系	mei lian xi	111
+没联系你	mei lian xi ni	111
 美联银行	mei lian yin hang	7
 没连着	mei lian zhe	20
 每两	mei liang	18350
@@ -256756,6 +257315,7 @@ sort: by_weight
 没什么好玩的	mei shen me hao wan de	855
 没什么劲	mei shen me jin	111
 没什么了	mei shen me le	2090
+没什么联系	mei shen me lian xi	111
 没什么事	mei shen me shi	9220
 没什么呀	mei shen me ya	740
 没什么意思	mei shen me yi si	4985
@@ -257071,6 +257631,7 @@ sort: by_weight
 媒体控制接口	mei ti kong zhi jie kou	39
 媒体库	mei ti ku	3510
 媒体类型	mei ti lei xing	3355
+媒体联系	mei ti lian xi	111
 媒体描述	mei ti miao shu	315
 媒体名称	mei ti ming cheng	2635
 媒体目录	mei ti mu lu	25
@@ -257104,6 +257665,7 @@ sort: by_weight
 每天开放	mei tian kai fang	900
 每天看	mei tian kan	229
 没天理	mei tian li	2410
+每天联系	mei tian lian xi	111
 每天两次	mei tian liang ci	3535
 每天每夜	mei tian mei ye	725
 眉天牛	mei tian niu	1
@@ -257697,6 +258259,7 @@ sort: by_weight
 没有力气	mei you li qi	6465
 没有理由	mei you li you	31805
 没有联调	mei you lian diao	68
+没有联系	mei you lian xi	111
 没有了结	mei you liao jie	125
 没有了解过	mei you liao jie guo	1180
 没有留	mei you liu	71
@@ -259925,6 +260488,7 @@ sort: by_weight
 秘密结社	mi mi jie she	655
 秘密警察	mi mi jing cha	3950
 秘密拘捕	mi mi ju bu	155
+秘密联系	mi mi lian xi	111
 密密麻麻	mi mi ma ma	31125
 迷迷茫茫	mi mi mang mang	730
 迷迷蒙蒙	mi mi meng meng	1080
@@ -260028,6 +260592,7 @@ sort: by_weight
 密切	mi qie	145980
 密切的	mi qie de	81760
 密切地	mi qie de	3705
+密切的联系	mi qie de lian xi	111
 米切尔	mi qie er	5680
 米切尔眼蝶	mi qie er yan die	3
 密切关系	mi qie guan xi	15245
@@ -260038,6 +260603,8 @@ sort: by_weight
 密切结合	mi qie jie he	10855
 密切联系	mi qie lian xi	45195
 密切联系群众	mi qie lian xi qun zhong	14570
+密切联系群众优势	mi qie lian xi qun zhong you shi	111
+密切联系人民群众	mi qie lian xi ren min qun zhong	111
 密切配合	mi qie pei he	62790
 密切相关	mi qie xiang guan	101170
 密切协作	mi qie xie zuo	5630
@@ -262224,6 +262791,7 @@ sort: by_weight
 民进党	min jin dang	25600
 民警	min jing	242295
 民警队	min jing dui	165
+民警联系	min jing lian xi	111
 民京路	min jing lu	8
 民警们	min jing men	6200
 民经一路	min jing yi lu	5
@@ -263950,6 +264518,7 @@ sort: by_weight
 明显错误	ming xian cuo wu	3100
 明显的	ming xian de	390040
 明显地	ming xian de	46995
+明显的联系	ming xian de lian xi	111
 明显改善	ming xian gai shan	39305
 明显好转	ming xian hao zhuan	16435
 明显减少	ming xian jian shao	24830
@@ -265270,7 +265839,8 @@ sort: by_weight
 默默无语	mo mo wu yu	5745
 嫫母	mo mu	420
 魔目夜蛾	mo mu ye e	1
-莫纳	mo na	3285
+莫纳	mo na	222
+莫娜	mo na	111
 摩纳哥	mo na ge	12565
 摩纳哥队	mo na ge dui	550
 摩纳哥站	mo na ge zhan	380
@@ -266434,6 +267004,7 @@ sort: by_weight
 眸中	mou zhong	111
 某种程度	mou zhong cheng du	16425
 某种角度	mou zhong jiao du	795
+某种联系	mou zhong lian xi	111
 某种人	mou zhong ren	585
 某种事物	mou zhong shi wu	1605
 某种物	mou zhong wu	540
@@ -268677,9 +269248,10 @@ sort: by_weight
 那您	na nin	20715
 那女人	na nv ren	27805
 哪怕	na pa	156635
-那怕	na pa	14750
+那怕	na pa	2
 纳帕海	na pa hai	3765
 哪怕是	na pa shi	65240
+那怕是	na pa shi	2
 拿牌	na pai	3005
 那排	na pai	1320
 哪排	na pai	1220
@@ -273306,6 +273878,7 @@ sort: by_weight
 内源性支气管哮喘	nei yuan xing zhi qi guan xiao chuan	2
 内蕴	nei yun	7970
 内在	nei zai	251095
+内在的联系	nei zai de lian xi	111
 内在动机	nei zai dong ji	1365
 内在关系	nei zai guan xi	2925
 内在化	nei zai hua	1530
@@ -273667,6 +274240,7 @@ sort: by_weight
 能力有限	neng li you xian	11890
 能力越强	neng li yue qiang	65
 能连	neng lian	10980
+能联系	neng lian xi	111
 能量	neng liang	476965
 能量补给站	neng liang bu ji zhan	111
 能量场	neng liang chang	2675
@@ -274210,6 +274784,8 @@ sort: by_weight
 你的泪	ni de lei	4750
 你的理由	ni de li you	5710
 你的脸	ni de lian	21620
+你的联系	ni de lian xi	111
+你的联系方式	ni de lian xi fang shi	111
 你的灵魂	ni de ling hun	7155
 你的面	ni de mian	1995
 你的名字	ni de ming zi	43720
@@ -274482,6 +275058,7 @@ sort: by_weight
 你滚	ni gun	2310
 你过	ni guo	9999
 你国	ni guo	1111
+你过得还好吗	ni guo de hai hao ma	111
 你过得好吗	ni guo de hao ma	415
 你过来	ni guo lai	9770
 你国庆	ni guo qing	775
@@ -274494,8 +275071,11 @@ sort: by_weight
 你还得	ni hai dei	725
 你还读书吗	ni hai du shu ma	5
 你还敢	ni hai gan	3525
+你还好	ni hai hao	111
 你还好吧	ni hai hao ba	2935
 你还好吗	ni hai hao ma	6215
+你还好么	ni hai hao me	111
+你还好意思	ni hai hao yi si	111
 你还会	ni hai hui	17510
 你还记得吗	ni hai ji de ma	3280
 你还记得我吗	ni hai ji de wo ma	1030
@@ -274826,6 +275406,7 @@ sort: by_weight
 你俩	ni lia	18400
 你连	ni lian	23450
 你怜我爱	ni lian wo ai	111
+你联系	ni lian xi	111
 泥料	ni liao	4755
 逆料	ni liao	855
 你聊吧	ni liao ba	20
@@ -274941,6 +275522,8 @@ sort: by_weight
 你们都忙	ni men dou mang	111
 你们都是	ni men dou shi	10590
 你们过来	ni men guo lai	206
+你们还好吗	ni men hai hao ma	111
+你们还好么	ni men hai hao me	111
 你们还是	ni men hai shi	7215
 你们好	ni men hao	27270
 你们和	ni men he	149
@@ -275833,6 +276416,7 @@ sort: by_weight
 你在什么地方啊	ni zai shen me di fang a	55
 你在实施	ni zai shi shi	65
 你在说什么啊	ni zai shuo shen me a	500
+你在他乡还好吗	ni zai ta xiang hai hao ma	111
 你在玩吗	ni zai wan ma	10
 你在网吧吗	ni zai wang ba ma	10
 你在我身旁	ni zai wo shen pang	73
@@ -276477,6 +277061,7 @@ sort: by_weight
 年轻着	nian qing zhe	67
 念去去千里烟波	nian qu qu qian li yan bo	1180
 黏人	nian ren	9999
+年入	nian ru	1111
 廿三	nian san	3333
 年三十	nian san shi	5050
 撵上	nian shang	3385
@@ -276717,6 +277302,8 @@ sort: by_weight
 年尊	nian zun	1111
 念作	nian zuo	1215
 酿白兰瓜	niang bai lan gua	13
+娘不	niang bu	333
+娘不娘	niang bu niang	333
 酿成	niang cheng	30365
 酿成大错	niang cheng da cuo	855
 酿成千顷稻花香	niang cheng qian qing dao hua xiang	1
@@ -276744,6 +277331,7 @@ sort: by_weight
 娘们	niang men	12475
 娘们儿	niang men er	9999
 娘娘	niang niang	44410
+嬢嬢	niang niang	2
 娘娘府	niang niang fu	4
 娘娘庙	niang niang miao	1780
 娘娘庙前街	niang niang miao qian jie	1
@@ -277215,6 +277803,9 @@ sort: by_weight
 您到	nin dao	17560
 您的	nin de	501736
 您得到	nin de dao	3840
+您的联系电话	nin de lian xi dian hua	111
+您的联系方式	nin de lian xi fang shi	111
+您的联系信息	nin de lian xi xin xi	111
 您的名字	nin de ming zi	8670
 您的手机	nin de shou ji	53040
 您的位置	nin de wei zhi	243885
@@ -277227,6 +277818,7 @@ sort: by_weight
 您刚才发送的消息	nin gang cai fa song de xiao xi	130
 您公司	nin gong si	1
 您还	nin hai	147845
+您还好吗	nin hai hao ma	111
 您还可以	nin hai ke yi	32975
 您还没有	nin hai mei you	410090
 您还未	nin hai wei	26080
@@ -277842,7 +278434,8 @@ sort: by_weight
 牛顿公式	niu dun gong shi	2
 牛顿力学	niu dun li xue	2455
 牛顿路	niu dun lu	4
-牛轭	niu e	380
+牛呃	niu e	111
+牛轭	niu e	2
 纽厄尔剪水鹱	niu e er jian shui hu	1
 妞儿	niu er	4900
 牛耳	niu er	4175
@@ -280423,6 +281016,7 @@ sort: by_weight
 噢噢噢	o o o	480
 哦什么	o shen me	95
 哦什么哦	o shen me o	55
+哦我	o wo	111
 哦呀	o ya	705
 哦耶	o ye	9999
 噢耶	o ye	1111
@@ -280482,6 +281076,7 @@ sort: by_weight
 偶尔回	ou er hui	68
 偶尔咳	ou er ke	111
 偶尔咳嗽	ou er ke sou	111
+偶尔联系	ou er lian xi	111
 偶尔投影在你的波心	ou er tou ying zai ni de bo xin	7
 偶尔也有	ou er ye you	300
 偶发	ou fa	7900
@@ -281108,6 +281703,7 @@ sort: by_weight
 帕丽斯	pa li si	3235
 帕里特范氏裳凤蝶	pa li te fan shi shang feng die	1
 帕林顿尼亚萨龙	pa lin dun ni ya sa long	1
+怕咯	pa lo	3333
 爬楼	pa lou	7765
 爬楼梯	pa lou ti	7765
 帕罗特	pa luo te	19
@@ -284049,6 +284645,7 @@ sort: by_weight
 培养基地	pei yang ji di	5035
 培养教育	pei yang jiao yu	8940
 培养力度	pei yang li du	4115
+培养联系人	pei yang lian xi ren	111
 培养皿	pei yang min	3695
 培养模式	pei yang mo shi	12905
 培养目标	pei yang mu biao	63660
@@ -284870,6 +285467,7 @@ sort: by_weight
 朋友家	peng you jia	11785
 朋友间	peng you jian	7715
 朋友聚会	peng you ju hui	10840
+朋友联系	peng you lian xi	111
 朋友聊天	peng you liao tian	6745
 朋友吗	peng you ma	18210
 朋友骂	peng you ma	145
@@ -286183,7 +286781,7 @@ sort: by_weight
 偏茎小绿叶蝉	pian jing xiao lv ye chan	1
 偏酒石酸	pian jiu shi suan	20
 骗局	pian ju	35025
-骈句	pian ju	245
+骈句	pian ju	2
 㛹娟	pian juan	1
 片烤方肉	pian kao fang rou	10
 片刻	pian ke	129100
@@ -287020,8 +287618,10 @@ sort: by_weight
 拼法	pin fa	2550
 频繁	pin fan	282900
 频繁出现	pin fan chu xian	7655
+频繁的联系	pin fan de lian xi	111
 频繁接触	pin fan jie chu	1670
 频繁进出澳门	pin fan jin chu ao men	1
+频繁联系	pin fan lian xi	111
 频繁模式	pin fan mo shi	346
 频繁项集	pin fan xiang ji	964
 嫔妃	pin fei	5545
@@ -288600,6 +289200,7 @@ sort: by_weight
 平台技术	ping tai ji shu	3925
 平台架	ping tai jia	2202
 平台架构	ping tai jia gou	707
+平台联系	ping tai lian xi	111
 平台企业版	ping tai qi ye ban	142
 平台上	ping tai shang	84630
 平台式	ping tai shi	1840
@@ -289670,6 +290271,7 @@ sort: by_weight
 普遍欢迎	pu bian huan ying	10380
 普遍回升	pu bian hui sheng	703
 普遍较低	pu bian jiao di	1
+普遍联系	pu bian lian xi	111
 普遍认为	pu bian ren wei	48195
 朴变色夜蛾	pu bian se ye e	1
 普遍深入	pu bian shen ru	185
@@ -290134,7 +290736,7 @@ sort: by_weight
 普罗旺斯	pu luo wang si	1370
 普罗旺斯大蒜西红柿面	pu luo wang si da suan xi hong shi mian	1
 普洛耶什蒂	pu luo ye shi di	45
-普马	pu ma	6
+# 普马	pu ma	0
 普马乡	pu ma xiang	1
 蒲麻镇	pu ma zhen	121
 铺满	pu man	15435
@@ -292861,6 +293463,7 @@ sort: by_weight
 奇妙	qi miao	99375
 七秒	qi miao	945
 七庙	qi miao	575
+奇妙的联系	qi miao de lian xi	111
 奇妙旅程	qi miao lv cheng	375
 七秒钟	qi miao zhong	310
 器皿	qi min	36240
@@ -293472,6 +294075,7 @@ sort: by_weight
 起始点	qi shi dian	6440
 欺世钓誉	qi shi diao yu	1
 起师动众	qi shi dong zhong	1
+其实都还好	qi shi dou hai hao	111
 其实都是	qi shi dou shi	19620
 骑士队	qi shi dui	3395
 起始对象	qi shi dui xiang	30
@@ -293504,6 +294108,9 @@ sort: by_weight
 骑士公园	qi shi gong yuan	4
 七十古来稀	qi shi gu lai xi	36
 奇石馆	qi shi guan	3055
+其实还好	qi shi hai hao	111
+其实还好吧	qi shi hai hao ba	111
+其实还好啦	qi shi hai hao la	111
 气势浩大	qi shi hao da	215
 其实很爱你	qi shi hen ai ni	735
 其实很简单	qi shi hen jian dan	21800
@@ -293574,6 +294181,7 @@ sort: by_weight
 七十味珍珠丸	qi shi wei zhen zhu wan	15
 起始位置	qi shi wei zhi	4035
 其实我	qi shi wo	9999
+其实我还好	qi shi wo hai hao	111
 其实我想	qi shi wo xiang	3520
 七十五	qi shi wu	6455
 七十五分	qi shi wu fen	20
@@ -293591,6 +294199,7 @@ sort: by_weight
 起始页	qi shi ye	2945
 企事业单位	qi shi ye dan wei	197430
 企事业单位负责人	qi shi ye dan wei fu ze ren	1140
+其实也还好	qi shi ye hai hao	111
 七十一	qi shi yi	2145
 企石挹飞泉	qi shi yi fei quan	1
 七十一分	qi shi yi fen	25
@@ -293689,8 +294298,8 @@ sort: by_weight
 七艘	qi sou	7
 起诉	qi su	235700
 泣诉	qi su	1105
-耆宿	qi su	795
 栖宿	qi su	425
+耆宿	qi su	2
 耆宿大贤	qi su da xian	1
 起诉期限	qi su qi xian	2405
 起诉权	qi su quan	1490
@@ -293765,6 +294374,8 @@ sort: by_weight
 其他类	qi ta lei	18550
 其他类别	qi ta lei bie	8495
 其他类型	qi ta lei xing	11685
+其他联系	qi ta lian xi	111
+其他联系方式	qi ta lian xi fang shi	111
 其他量刑	qi ta liang xing	68
 其他律师	qi ta lv shi	1690
 其他媒体	qi ta mei ti	43980
@@ -294482,6 +295093,7 @@ sort: by_weight
 企业单位	qi ye dan wei	28675
 企业党建	qi ye dang jian	4880
 企业倒闭	qi ye dao bi	2360
+企业的联系	qi ye de lian xi	111
 企业登记	qi ye deng ji	33920
 企业登记程序规定	qi ye deng ji cheng xu gui ding	139
 企业登记代理	qi ye deng ji dai li	1460
@@ -294584,6 +295196,9 @@ sort: by_weight
 企业利润	qi ye li run	19110
 企业联合	qi ye lian he	9050
 企业联合会	qi ye lian he hui	9135
+企业联系	qi ye lian xi	111
+企业联系方式	qi ye lian xi fang shi	111
+企业联系人	qi ye lian xi ren	111
 契爷岭	qi ye ling	3
 企业领导	qi ye ling dao	32225
 企业流程管理	qi ye liu cheng guan li	31
@@ -295922,6 +296537,7 @@ sort: by_weight
 前赴后继	qian fu hou ji	9165
 前覆后戒	qian fu hou jie	1
 前俯后仰	qian fu hou yang	1815
+前夫家暴还好赌	qian fu jia bao hai hao du	111
 欠付款	qian fu kuan	63
 千佛林	qian fu lin	3
 千佛岭乡	qian fu ling xiang	2
@@ -296132,6 +296748,7 @@ sort: by_weight
 前后夹击	qian hou jia ji	1555
 前后脚	qian hou jiao	1225
 前后脚儿	qian hou jiao er	1225
+前后联系	qian hou lian xi	111
 前后矛盾	qian hou mao dun	3625
 前后台	qian hou tai	2107
 前后台交互	qian hou tai jiao hu	157
@@ -297342,6 +297959,7 @@ sort: by_weight
 前四强	qian si qiang	680
 千丝万缕	qian si wan lv	16530
 千思万虑	qian si wan lv	111
+千丝万缕的联系	qian si wan lv de lian xi	111
 钳丝尾螋	qian si wei sou	1
 遣送	qian song	6170
 钱松	qian song	35
@@ -298958,6 +299576,7 @@ sort: by_weight
 强联通缩点	qiang lian tong suo dian	56
 强连通图	qiang lian tong tu	660
 强联通图	qiang lian tong tu	34
+强联系	qiang lian xi	111
 跄踉	qiang liang	3333
 强梁	qiang liang	2415
 抢粮	qiang liang	955
@@ -300384,6 +301003,7 @@ sort: by_weight
 切断机	qie duan ji	2055
 切断开关	qie duan kai guan	185
 切断了	qie duan le	8800
+切断了联系	qie duan le lian xi	111
 切断联系	qie duan lian xi	160
 切断器	qie duan qi	1645
 切断手术	qie duan shou shu	35
@@ -301226,6 +301846,7 @@ sort: by_weight
 亲密合作	qin mi he zuo	3030
 亲密交往	qin mi jiao wang	380
 亲密接触	qin mi jie chu	27310
+亲密联系	qin mi lian xi	111
 亲密无间	qin mi wu jian	10045
 亲密性	qin mi xing	365
 亲密育儿	qin mi yu er	110
@@ -301340,6 +301961,8 @@ sort: by_weight
 侵权活动	qin quan huo dong	1835
 侵权纠纷	qin quan jiu fen	5260
 侵权纠纷裁决	qin quan jiu fen cai jue	2
+侵权联系	qin quan lian xi	111
+侵权联系删除	qin quan lian xi shan chu	111
 侵权赔偿	qin quan pei chang	2475
 侵权赔偿责任	qin quan pei chang ze ren	935
 侵权期间	qin quan qi jian	1195
@@ -302563,6 +303186,7 @@ sort: by_weight
 青橄榄	qing gan lan	1295
 倾肝沥胆	qing gan li dan	1
 清肝利胆口服液	qing gan li dan kou fu ye	1
+情感联系	qing gan lian xi	111
 情感龙门阵	qing gan long men zhen	1
 情感上	qing gan shang	9860
 情感生活	qing gan sheng huo	4785
@@ -302782,6 +303406,7 @@ sort: by_weight
 清河桥	qing he qiao	193
 清河区	qing he qu	3050
 请核实	qing he shi	9
+请和我联系	qing he wo lian xi	111
 清河县	qing he xian	2925
 青河县	qing he xian	1080
 清河小区	qing he xiao qu	19
@@ -302804,6 +303429,7 @@ sort: by_weight
 青红椒炒腊肉	qing hong jiao chao la rou	1
 青红皂白	qing hong zao bai	815
 清喉利咽颗粒	qing hou li yan ke li	3
+请后台联系	qing hou tai lian xi	111
 青后庄	qing hou zhuang	5
 轻忽	qing hu	3405
 清湖	qing hu	689
@@ -303192,6 +303818,7 @@ sort: by_weight
 情况反映	qing kuang fan ying	5450
 情况分析	qing kuang fen xi	21575
 情况复杂	qing kuang fu za	11385
+情况还好	qing kuang hai hao	111
 情况好转	qing kuang hao zhuan	1390
 情况后	qing kuang hou	5141
 情况汇报	qing kuang hui bao	17190
@@ -303296,6 +303923,11 @@ sort: by_weight
 轻怜疼惜	qing lian teng xi	1
 轻怜痛惜	qing lian tong xi	111
 请联系	qing lian xi	296260
+请联系本人	qing lian xi ben ren	111
+请联系后台	qing lian xi hou tai	111
+请联系客服	qing lian xi ke fu	111
+请联系微信	qing lian xi wei xin	111
+请联系小编	qing lian xi xiao bian	111
 清廉正直	qing lian zheng zhi	215
 轻怜重惜	qing lian zhong xi	111
 清廉自矢	qing lian zi shi	111
@@ -305155,6 +305787,7 @@ sort: by_weight
 青鱼秃肺	qing yu tu fei	39
 青玉案	qing yu wan	1825
 青玉案元夕	qing yu wan yuan xi	1111
+请与我联系	qing yu wo lian xi	111
 青浴乡	qing yu xiang	2
 请予以	qing yu yi	9970
 青鱼专用料	qing yu zhuan yong liao	1
@@ -305391,6 +306024,7 @@ sort: by_weight
 青枝骨折	qing zhi gu zhe	4
 请指教	qing zhi jiao	111
 请指教吧	qing zhi jiao ba	871
+请直接联系	qing zhi jie lian xi	111
 青枝绿叶	qing zhi lv ye	735
 青制啤酒	qing zhi pi jiu	12
 请知情者	qing zhi qing zhe	330
@@ -305869,6 +306503,7 @@ sort: by_weight
 龟兹王	qiu ci wang	1
 秋丛绕舍似陶家	qiu cong rao she shi tao jia	2
 邱村村	qiu cun cun	1
+求打	qiu da	1111
 求大同	qiu da tong	1145
 求大同存小异	qiu da tong cun xiao yi	104
 求带	qiu dai	1000
@@ -306110,6 +306745,8 @@ sort: by_weight
 邱立成	qiu li cheng	51
 秋梨膏的做法	qiu li gao de zuo fa	4
 秋梨润肺膏	qiu li run fei gao	4
+求联系	qiu lian xi	111
+求联系方式	qiu lian xi fang shi	111
 秋凉	qiu liang	4680
 秋粮	qiu liang	4445
 糗粮	qiu liang	110
@@ -306653,6 +307290,7 @@ sort: by_weight
 区别轻重缓急	qu bie qing zhong huan ji	280
 区别性	qu bie xing	1025
 区别于	qu bie yu	44970
+区别与联系	qu bie yu lian xi	111
 曲别针	qu bie zhen	3055
 曲柄	qu bing	5930
 去病	qu bing	3085
@@ -306787,6 +307425,7 @@ sort: by_weight
 渠道策略	qu dao ce lve	4990
 渠道方面	qu dao fang mian	2760
 渠道建设	qu dao jian she	8625
+渠道联系	qu dao lian xi	111
 渠道商	qu dao shang	17275
 渠道资源	qu dao zi yuan	3910
 取得	qu de	500909
@@ -307286,6 +307925,7 @@ sort: by_weight
 趋利忘义	qu li wang yi	111
 趋利性	qu li xing	845
 去离子水	qu li zi shui	3185
+去联系	qu lian xi	111
 曲梁	qu liang	44
 曲梁乡	qu liang xiang	39
 取料机	qu liao ji	960
@@ -308036,6 +308676,7 @@ sort: by_weight
 区域聚类	qu yu ju lei	14
 区域开发	qu yu kai fa	4595
 区域历史地理	qu yu li shi di li	3
+区域联系	qu yu lian xi	111
 区域列表	qu yu lie biao	240
 去欲凌鸿鹄	qu yu ling hong hu	1
 区域垄断	qu yu long duan	1150
@@ -310037,6 +310678,7 @@ sort: by_weight
 缺乏理解	que fa li jie	1015
 缺乏理性	que fa li xing	3245
 缺乏理智	que fa li zhi	840
+缺乏联系	que fa lian xi	111
 缺乏了解	que fa liao jie	7365
 缺乏逻辑	que fa luo ji	660
 缺乏食物	que fa shi wu	265
@@ -310257,6 +310899,10 @@ sort: by_weight
 却是旧时相识	que shi jiu shi xiang shi	3
 确实可靠	que shi ke kao	285
 缺失率	que shi lv	56
+确实没法	que shi mei fa	111
+确实没法儿	que shi mei fa er	111
+确实没法儿在	que shi mei fa er zai	111
+确实没法在	que shi mei fa zai	111
 确实能	que shi neng	8010
 确实如此	que shi ru ci	11270
 确实是	que shi shi	121655
@@ -310711,6 +311357,7 @@ sort: by_weight
 群众家	qun zhong jia	405
 群众监督	qun zhong jian du	31415
 群众利益	qun zhong li yi	48730
+群众联系	qun zhong lian xi	111
 群众路	qun zhong lu	115
 群众路线	qun zhong lu xian	26705
 群众满意	qun zhong man yi	24305
@@ -312632,6 +313279,7 @@ sort: by_weight
 任何局	ren he ju	18
 任何困难	ren he kun nan	5370
 任何理由	ren he li you	20050
+任何联系	ren he lian xi	111
 人和路	ren he lu	111
 任何其	ren he qi	1042
 任何企业	ren he qi ye	9999
@@ -313889,11 +314537,11 @@ sort: by_weight
 人死亡	ren si wang	38165
 忍死须臾	ren si xu yu	9
 忍死须臾待杜根	ren si xu yu dai du gen	1
-认𪨊	ren song	9999
 认怂	ren song	5555
 人送	ren song	1898
-认𪨊也好	ren song ye hao	9999
+认𪨊	ren song	2
 认怂也好	ren song ye hao	1111
+认𪨊也好	ren song ye hao	2
 人算不如天算	ren suan bu ru tian suan	3575
 壬酸乙酯	ren suan yi zhi	1
 任随	ren sui	865
@@ -314398,6 +315046,7 @@ sort: by_weight
 人与环境	ren yu huan jing	3755
 人与人	ren yu ren	17410
 人与人之间	ren yu ren zhi jian	64510
+人与人之间的联系	ren yu ren zhi jian de lian xi	111
 人鱼小姐	ren yu xiao jie	2290
 人与自然	ren yu zi ran	50690
 人员	ren yuan	501851
@@ -314421,6 +315070,7 @@ sort: by_weight
 人员规模	ren yuan gui mo	2200
 人缘好	ren yuan hao	2675
 人员监督	ren yuan jian du	2467
+人员联系	ren yuan lian xi	111
 人员落实	ren yuan luo shi	100
 人员名册	ren yuan ming ce	1975
 人员名单	ren yuan ming dan	37900
@@ -315127,6 +315777,7 @@ sort: by_weight
 日常家事代理权	ri chang jia shi dai li quan	60
 日常检查	ri chang jian cha	6090
 日常开支	ri chang kai zhi	4185
+日常联系	ri chang lian xi	111
 日常生活	ri chang sheng huo	133650
 日常生活的一部分	ri chang sheng huo de yi bu fen	100
 日常生活中	ri chang sheng huo zhong	41045
@@ -315775,6 +316426,8 @@ sort: by_weight
 日子过得	ri zi guo de	17895
 日子久了	ri zi jiu le	5030
 日子里	ri zi li	107255
+日子没法过	ri zi mei fa guo	111
+日子没法过了	ri zi mei fa guo le	111
 日资企业	ri zi qi ye	7015
 日滋月益	ri zi yue yi	111
 日滋月长	ri zi yue zhang	111
@@ -317515,6 +318168,7 @@ sort: by_weight
 入侵检测	ru qin jian ce	22060
 入侵检测系统	ru qin jian ce xi tong	369
 入侵检测与管理系统	ru qin jian ce yu guan li xi tong	87
+如侵权请联系删除	ru qin quan qing lian xi shan chu	111
 入侵者	ru qin zhe	33810
 乳清	ru qing	3560
 入情	ru qing	2355
@@ -317851,6 +318505,7 @@ sort: by_weight
 如许	ru xu	10615
 如絮	ru xu	1430
 如需要	ru xu yao	7
+如需转载请联系	ru xu zhuan zai qing lian xi	111
 入选	ru xuan	179995
 入选为	ru xuan wei	1125
 入选者	ru xuan zhe	4715
@@ -317960,6 +318615,8 @@ sort: by_weight
 如有博施于民	ru you bo shi yu min	1
 如有不嗜杀人者	ru you bu shi sha ren zhe	2
 如有雷同	ru you lei tong	4950
+如有侵权联系删除	ru you qin quan lian xi shan chu	111
+如有侵权请联系	ru you qin quan qing lian xi	111
 如有神助	ru you shen zhu	805
 如有所立卓尔	ru you suo li zhuo er	1
 如有问题	ru you wen ti	24005
@@ -321907,6 +322564,7 @@ sort: by_weight
 三首六臂	san shou liu bi	111
 三叔	san shu	1180
 三鼠开泰	san shu kai tai	1
+三刷	san shua	3333
 三双	san shuang	4265
 三水	san shui	31765
 散水	san shui	2280
@@ -322746,6 +323404,7 @@ sort: by_weight
 桑库鲁苇蛙	sang ku lu wei wa	1
 桑兰	sang lan	414
 桑郎镇	sang lang zhen	1
+丧了	sang le	111
 丧礼	sang li	6445
 桑丽卡	sang li ka	125
 桑林	sang lin	2410
@@ -322980,6 +323639,7 @@ sort: by_weight
 扫码点单	sao ma dian dan	12
 扫码墩	sao ma dun	31
 扫码付款	sao ma fu kuan	123
+扫码联系	sao ma lian xi	111
 扫码领红包	sao ma ling hong bao	123
 扫马路	sao ma lu	715
 扫码识别	sao ma shi bie	12
@@ -324881,6 +325541,8 @@ sort: by_weight
 删除键	shan chu jian	1880
 删除节点	shan chu jie dian	6217
 删除结点	shan chu jie dian	2771
+删除联系方式	shan chu lian xi fang shi	111
+删除联系人	shan chu lian xi ren	111
 删除目录	shan chu mu lu	5450
 删除日期	shan chu ri qi	130
 删除数据	shan chu shu ju	14959
@@ -325638,8 +326300,8 @@ sort: by_weight
 山炮	shan pao	2360
 山蓬	shan peng	1
 讪皮讪脸	shan pi shan lian	1
-山坪	shan ping	2580
 闪屏	shan ping	1362
+# 山坪	shan ping	0
 山坪村	shan ping cun	4
 珊屏村	shan ping cun	1
 山屏街	shan ping jie	7
@@ -326463,6 +327125,7 @@ sort: by_weight
 上班呢	shang ban ne	2770
 上半年	shang ban nian	305915
 上半期	shang ban qi	1725
+上班去	shang ban qu	3333
 上半晌	shang ban shang	75
 上半身	shang ban shen	21415
 上班时	shang ban shi	14375
@@ -327558,6 +328221,7 @@ sort: by_weight
 # 上佳	shang jia	0
 # 尚佳	shang jia	0
 上甲板	shang jia ban	785
+商家联系	shang jia lian xi	111
 上架流程	shang jia liu cheng	77
 上佳市	shang jia shi	16
 上佳市市场	shang jia shi shi chang	2
@@ -328532,6 +329196,7 @@ sort: by_weight
 商务公寓	shang wu gong yu	4185
 商务关系	shang wu guan xi	1075
 商务合同	shang wu he tong	2165
+商务合作请联系	shang wu he zuo qing lian xi	111
 商务环境	shang wu huan jing	4295
 商务会馆	shang wu hui guan	5665
 商务会谈	shang wu hui tan	1150
@@ -328555,6 +329220,7 @@ sort: by_weight
 上物理课	shang wu li ke	78
 商务礼品	shang wu li pin	10075
 商务礼仪	shang wu li yi	8855
+商务联系	shang wu lian xi	111
 商务领航	shang wu ling hang	582
 商务楼	shang wu lou	22670
 上五楼	shang wu lou	555
@@ -328917,6 +329583,7 @@ sort: by_weight
 商业利润	shang ye li run	3795
 商业利益	shang ye li yi	13700
 商业联盟	shang ye lian meng	1870
+商业联系	shang ye lian xi	111
 商业零售	shang ye ling shou	11530
 商业伦理	shang ye lun li	2225
 商业贸易	shang ye mao yi	21230
@@ -329440,9 +330107,11 @@ sort: by_weight
 少腹逐瘀颗粒	shao fu zhu yu ke li	1
 少腹逐瘀汤	shao fu zhu yu tang	7
 少腹逐瘀丸	shao fu zhu yu wan	1
+少干	shao gan	4444
 稍感	shao gan	3485
 烧干	shao gan	1690
 稍干	shao gan	1380
+少干坏事	shao gan huai shi	111
 烧肝尖儿	shao gan jian er	13
 稍高	shao gao	14340
 少搞	shao gao	1015
@@ -329612,6 +330281,7 @@ sort: by_weight
 少礼	shao li	440
 邵力子	shao li zi	153
 烧连帖	shao lian tie	13
+少联系	shao lian xi	111
 少量	shao liang	233145
 绍良	shao liang	2345
 少量的钱	shao liang de qian	875
@@ -330095,6 +330765,8 @@ sort: by_weight
 少做点	shao zuo dian	797
 稍做休息	shao zuo xiu xi	95
 少做一些	shao zuo yi xie	121500
+射啊	she a	2222
+蛇啊	she a	111
 舌癌	she ai	159
 涉案	she an	194904
 涉案金额	she an jin e	29534
@@ -330536,6 +331208,7 @@ sort: by_weight
 社会力量	she hui li liang	66985
 社会力量办学印章管理暂行规定	she hui li liang ban xue yin zhang guan li zan xing gui ding	5
 社会利益	she hui li yi	16515
+社会联系	she hui lian xi	111
 社会伦理	she hui lun li	3695
 社会矛盾	she hui mao dun	42525
 社会美	she hui mei	83
@@ -330880,6 +331553,7 @@ sort: by_weight
 社交界	she jiao jie	2010
 社交恐怖	she jiao kong bu	5
 社交礼仪	she jiao li yi	5480
+社交联系	she jiao lian xi	111
 社交媒体	she jiao mei ti	1864
 社交能力	she jiao neng li	7800
 社交圈	she jiao quan	5535
@@ -331110,6 +331784,7 @@ sort: by_weight
 社区居民	she qu ju min	46140
 社区居委会	she qu ju wei hui	32555
 社区康复	she qu kang fu	1788
+社区联系	she qu lian xi	111
 摄取量	she qu liang	8575
 社区落实	she qu luo shi	100
 社区商业	she qu shang ye	8175
@@ -331701,6 +332376,7 @@ sort: by_weight
 谁来	shei lai	78280
 谁怜流落江湖上	shei lian liu luo jiang hu shang	3
 谁怜容足地	shei lian rong zu di	1
+谁联系	shei lian xi	111
 谁料	shei liao	10965
 谁领风骚	shei ling feng sao	175
 谁令骑马客京华	shei ling qi ma ke jing hua	2
@@ -332269,6 +332945,7 @@ sort: by_weight
 身份认证	shen fen ren zheng	20810
 身份识别	shen fen shi bie	9305
 身份验证	shen fen yan zheng	36110
+身份验证器	shen fen yan zheng qi	3333
 身份证	shen fen zheng	352445
 身份证复印件	shen fen zheng fu yin jian	61955
 身份证号	shen fen zheng hao	41305
@@ -332859,13 +333536,12 @@ sort: by_weight
 神经营养素	shen jing ying yang su	15
 神经营养因子	shen jing ying yang yin zi	29
 神经元	shen jing yuan	18985
-神经原	shen jing yuan	570
 神经元模型	shen jing yuan mo xing	209
 神经元特异性烯醇化酶	shen jing yuan te yi xing xi chun hua mei	6
 神经元网络	shen jing yuan wang luo	435
 神经原纤维	shen jing yuan xian wei	4
 神经源性膀胱	shen jing yuan xing pang guang	16
-神经原性休克	shen jing yuan xing xiu ke	12
+神经源性休克	shen jing yuan xing xiu ke	12
 神经再生	shen jing zai sheng	63
 神经战	shen jing zhan	20
 神经毡	shen jing zhan	10
@@ -333700,6 +334376,7 @@ sort: by_weight
 深入基层	shen ru ji ceng	34670
 深入开展	shen ru kai zhan	161865
 深入开展创先争优活动	shen ru kai zhan chuang xian zheng you huo dong	75
+深入联系	shen ru lian xi	111
 深入了解	shen ru liao jie	40870
 深入落实	shen ru luo shi	100
 深入浅出	shen ru qian chu	34550
@@ -334038,6 +334715,7 @@ sort: by_weight
 身体发肤	shen ti fa fu	1250
 身体发育	shen ti fa yu	5995
 身体烦疼	shen ti fan teng	1
+身体还好吗	shen ti hai hao ma	111
 身体活动	shen ti huo dong	2545
 身体肌肤	shen ti ji fu	1805
 身体检查	shen ti jian cha	8750
@@ -334849,6 +335527,7 @@ sort: by_weight
 神姿	shen zi	765
 身子骨	shen zi gu	3820
 身子骨儿	shen zi gu er	150
+身子还好	shen zi hai hao	111
 深紫檩心	shen zi lin xin	1
 深紫色	shen zi se	4625
 身自为之	shen zi wei zhi	1
@@ -337156,6 +337835,7 @@ sort: by_weight
 圣益达短耳鸮	sheng yi da duan er xiao	1
 省一份	sheng yi fen	12500
 生一个	sheng yi ge	1125
+生意还好	sheng yi hai hao	111
 生意好吗	sheng yi hao ma	155
 生亦何欢	sheng yi he huan	600
 生意红火	sheng yi hong huo	4420
@@ -340197,6 +340877,7 @@ sort: by_weight
 实际利润	shi ji li run	1415
 实际利益	shi ji li yi	5195
 世纪联华	shi ji lian hua	6300
+实际联系	shi ji lian xi	111
 世纪龙脉	shi ji long mai	87
 世纪龙樾	shi ji long yue	12
 实际履行	shi ji lv xing	4815
@@ -340549,6 +341230,7 @@ sort: by_weight
 时间类	shi jian lei	749
 时间类型	shi jian lei xing	2177
 时间里	shi jian li	239920
+时间联系	shi jian lian xi	111
 事件流	shi jian liu	2565
 时间流逝	shi jian liu shi	4760
 实践论	shi jian lun	2450
@@ -340864,6 +341546,7 @@ sort: by_weight
 失节事大	shi jie shi da	590
 世界时钟	shi jie shi zhong	11120
 世界首富	shi jie shou fu	5490
+世界首富比尔·盖茨	shi jie shou fu bi er gai ci	100
 世界首位	shi jie shou wei	2520
 视界术	shi jie shu	1
 世界树的呼唤	shi jie shu de hu huan	1
@@ -341273,6 +341956,7 @@ sort: by_weight
 十颗	shi ke	3950
 十棵	shi ke	1185
 世科	shi ke	4
+时刻保持联系	shi ke bao chi lian xi	111
 时刻表	shi ke biao	18325
 时刻处	shi ke chu	165
 似可敌莼羹	shi ke di chun geng	1
@@ -342414,6 +343098,7 @@ sort: by_weight
 视频控制	shi pin kong zhi	685
 食品类	shi pin lei	11475
 食品理化检验	shi pin li hua jian yan	1
+视频联系	shi pin lian xi	111
 视频聊天	shi pin liao tian	18280
 视频聊天室	shi pin liao tian shi	4515
 视频流	shi pin liu	9010
@@ -342782,6 +343467,7 @@ sort: by_weight
 市区开发区	shi qu kai fa qu	7
 失去控制	shi qu kong zhi	9950
 失去了	shi qu le	344680
+失去了联系	shi qu le lian xi	111
 失去了你	shi qu le ni	2365
 失去理智	shi qu li zhi	9090
 失去联络	shi qu lian luo	2220
@@ -344177,6 +344863,7 @@ sort: by_weight
 是徒劳	shi tu lao	4830
 识途老马	shi tu lao ma	610
 识涂老马	shi tu lao ma	1
+试图联系	shi tu lian xi	111
 视图切换	shi tu qie huan	1761
 视图生成	shi tu sheng cheng	35
 市图书馆	shi tu shu guan	4675
@@ -344501,6 +345188,7 @@ sort: by_weight
 失误了	shi wu le	1185
 十五类	shi wu lei	255
 食物链	shi wu lian	8980
+事物联系	shi wu lian xi	111
 实物量	shi wu liang	2560
 事无两样人心别	shi wu liang yang ren xin bie	2
 食物疗法	shi wu liao fa	835
@@ -347524,6 +348212,7 @@ sort: by_weight
 守候伏击	shou hou fu ji	125
 售后服务	shou hou fu wu	396570
 守候进程	shou hou jin cheng	110
+售后联系	shou hou lian xi	111
 售后市场	shou hou shi chang	2175
 瘦猴似的	shou hou shi de	65
 售后维修	shou hou wei xiu	5875
@@ -347698,6 +348387,7 @@ sort: by_weight
 手机盒	shou ji he	500
 手机和弦	shou ji he xian	2475
 手机和弦铃声下载	shou ji he xian ling sheng xia zai	28
+手机互联系统	shou ji hu lian xi tong	111
 手机话费	shou ji hua fei	3545
 收继婚	shou ji hun	146
 手机计算器	shou ji ji suan qi	339
@@ -347710,6 +348400,8 @@ sort: by_weight
 手机了	shou ji le	965
 手机里	shou ji li	15260
 手机链	shou ji lian	7415
+手机联系	shou ji lian xi	111
+手机联系人	shou ji lian xi ren	111
 手机铃声	shou ji ling sheng	62570
 手机浏览器	shou ji liu lan qi	2070
 守纪律	shou ji lv	5355
@@ -350547,6 +351239,7 @@ sort: by_weight
 疏懒成性	shu lan cheng xing	1
 舒兰市	shu lan shi	2055
 舒兰县	shu lan xian	150
+树懒先生	shu lan xian sheng	111
 疏朗	shu lang	999
 庶老	shu lao	2
 输了	shu le	76900
@@ -353100,6 +353793,7 @@ sort: by_weight
 双联通分量	shuang lian tong fen liang	212
 双连通分支	shuang lian tong fen zhi	160
 双连通性	shuang lian tong xing	30
+双联系	shuang lian xi	111
 双良	shuang liang	2225
 爽亮	shuang liang	180
 双良股份	shuang liang gu fen	12500
@@ -354312,8 +355006,9 @@ sort: by_weight
 税后收入	shui hou shou ru	1045
 税后收益	shui hou shou yi	945
 税后盈余	shui hou ying yu	300
-水浒	shui hu	34730
 水壶	shui hu	34505
+水浒	shui hu	3473
+水狐	shui hu	111
 水弧刀	shui hu dao	1
 水户黄门	shui hu huang men	8
 水葫芦	shui hu lu	2915
@@ -354636,6 +355331,7 @@ sort: by_weight
 水帘洞	shui lian dong	10170
 水帘洞之奇	shui lian dong zhi qi	1180
 水莲花	shui lian hua	1000
+谁联系	shui lian xi	111
 水量	shui liang	83725
 水量平衡	shui liang ping heng	870
 水疗	shui liao	18285
@@ -358800,6 +359496,7 @@ sort: by_weight
 私人劳动	si ren lao dong	530
 死人了	si ren le	6985
 似人类的	si ren lei de	48
+私人联系	si ren lian xi	111
 私人律师	si ren lv shi	1670
 私人秘书	si ren mi shu	1975
 四人骑	si ren qi	2
@@ -359133,6 +359830,7 @@ sort: by_weight
 私淑弟子	si shu di zi	111
 四书集注	si shu ji zhu	650
 四书五经	si shu wu jing	7360
+四刷	si shua	4444
 四双	si shuang	1545
 似水	si shui	20050
 死水	si shui	10255
@@ -359527,6 +360225,7 @@ sort: by_weight
 撕下来	si xia lai	3240
 私下里	si xia li	13520
 四下里	si xia li	6365
+私下联系	si xia lian xi	111
 撕下面具	si xia mian ju	95
 私下说	si xia shuo	1140
 私下调解	si xia tiao jie	90
@@ -359656,6 +360355,7 @@ sort: by_weight
 死信队列	si xin dui lie	10
 似信非信	si xin fei xin	111
 私心话	si xin hua	40
+私信联系	si xin lian xi	111
 撕心裂胆	si xin lie dan	111
 撕心裂肺	si xin lie fei	15160
 死心落地	si xin luo di	1
@@ -360103,9 +360803,9 @@ sort: by_weight
 松柏之志	song bai zhi zhi	1
 松坂庆子	song ban qing zi	6
 松绑	song bang	6650
-𪨊包	song bao	9999
 送报	song bao	3285
 怂包	song bao	1180
+𪨊包	song bao	2
 宋宝成	song bao cheng	187
 淞宝路	song bao lu	32
 送报童	song bao tong	40
@@ -360122,8 +360822,8 @@ sort: by_weight
 松本清张	song ben qing zhang	28
 松本润	song ben run	3
 松本友	song ben you	2
-𪨊逼	song bi	9999
 怂逼	song bi	1111
+𪨊逼	song bi	2
 送变电	song bian dian	4335
 送变电工程	song bian dian gong cheng	1220
 送别	song bie	21380
@@ -360483,9 +361183,9 @@ sort: by_weight
 宋老师	song lao shi	4305
 松了	song le	66140
 送了	song le	55510
-𪨊了	song le	8888
 怂了	song le	5555
 耸了	song le	1020
+𪨊了	song le	2
 松了口气	song le kou qi	3333
 耸了耸	song le song	3070
 耸了耸肩	song le song jian	5935
@@ -360628,9 +361328,9 @@ sort: by_weight
 竦然起敬	song ran qi jing	1
 送人	song ren	26295
 宋人	song ren	14910
-𪨊人	song ren	9999
 松仁	song ren	3100
 怂人	song ren	1180
+𪨊人	song ren	2
 松仁粉丝	song ren fen si	1
 松仁糕	song ren gao	48
 松任谷由实	song ren gu you shi	2
@@ -363226,6 +363926,7 @@ sort: by_weight
 碎尸	sui shi	2600
 燧石	sui shi	2405
 碎尸案	sui shi an	880
+随时保持联系	sui shi bao chi lian xi	111
 随时变化	sui shi bian hua	1970
 随世沉浮	sui shi chen fu	1
 随时达变	sui shi da bian	111
@@ -363238,6 +363939,7 @@ sort: by_weight
 随时欢迎	sui shi huan ying	9030
 碎石机	sui shi ji	2800
 随时可	sui shi ke	14520
+随时联系	sui shi lian xi	111
 碎石路	sui shi lu	2010
 遂使貔虎士	sui shi pi hu shi	1
 随时施宜	sui shi shi yi	1
@@ -364130,6 +364832,8 @@ sort: by_weight
 缩聚物	suo ju wu	285
 所具有	suo ju you	57700
 索句渝州叶正黄	suo ju yu zhou ye zheng huang	7
+锁卡	suo ka	111
+锁卡锁区	suo ka suo qu	111
 所开发	suo kai fa	14875
 所看	suo kan	39195
 所看到	suo kan dao	65
@@ -364280,11 +364984,13 @@ sort: by_weight
 索求	suo qiu	4355
 索取	suo qu	146870
 所趋	suo qu	11050
-所去	suo qu	10330
-所取	suo qu	10075
+所去	suo qu	1033
+锁区	suo qu	111
+所取	suo qu	10
 所取代	suo qu dai	21510
 所取得	suo qu de	72085
 索取号	suo qu hao	7775
+锁区锁卡	suo qu suo ka	111
 缩泉胶囊	suo quan jiao nang	3
 缩泉丸	suo quan wan	12
 所缺	suo que	7765
@@ -364347,8 +365053,8 @@ sort: by_weight
 缩水了	suo shui le	1875
 缩水率	suo shui lv	2150
 所说	suo shuo	439310
-所思	suo si	19665
 锁死	suo si	5555
+所思	suo si	1966
 所思在远道	suo si zai yuan dao	4
 羧酸	suo suan	7240
 琐碎	suo sui	34640
@@ -364586,6 +365292,7 @@ sort: by_weight
 所有格	suo you ge	1675
 所有歌曲	suo you ge qu	9735
 所有抗性	suo you kang xing	45
+所有联系人	suo you lian xi ren	111
 所有魔法	suo you mo fa	107
 所有那些	suo you na xie	3095
 所有内容	suo you nei rong	50400
@@ -367826,8 +368533,8 @@ sort: by_weight
 太死了	tai si le	535
 太死了吧	tai si le ba	535
 太松	tai song	4065
-太𪨊	tai song	3333
 太怂	tai song	2222
+太𪨊	tai song	2
 太松了	tai song le	370
 太松了吧	tai song le ba	370
 台塑	tai su	4225
@@ -367847,6 +368554,8 @@ sort: by_weight
 太损	tai sun	285
 太损了	tai sun le	330
 太损了吧	tai sun le ba	330
+太他	tai ta	1111
+太塌	tai ta	2
 太他妈	tai ta ma	9999
 太太	tai tai	248635
 台台	tai tai	2565
@@ -367905,6 +368614,7 @@ sort: by_weight
 太痛了	tai tong le	430
 太痛了吧	tai tong le ba	430
 抬头	tai tou	183170
+太透	tai tou	111
 # 台头	tai tou	0
 抬头不见低头见	tai tou bu jian di tou jian	1020
 抬头的一片天	tai tou de yi pian tian	100
@@ -371893,6 +372603,7 @@ sort: by_weight
 特定方式	te ding fang shi	915
 特定机电产品进口管理实施细则	te ding ji dian chan pin jin kou guan li shi shi xi ze	3
 特丁基对苯二酚	te ding ji dui ben er fen	104
+特定联系	te ding lian xi	111
 特定区域	te ding qu yu	4915
 特定人物	te ding ren wu	660
 特定时段交易操纵	te ding shi duan jiao yi cao zong	29
@@ -372200,6 +372911,7 @@ sort: by_weight
 特殊津贴	te shu jin tie	18590
 特殊利益	te shu li yi	6930
 特殊利益集团	te shu li yi ji tuan	4300
+特殊联系	te shu lian xi	111
 特殊目的信托	te shu mu di xin tuo	75
 特殊品种	te shu pin zhong	970
 特殊气味	te shu qi wei	1830
@@ -372954,6 +373666,7 @@ sort: by_weight
 提供会计	ti gong kuai ji	111
 提供劳务	ti gong lao wu	13665
 提供了	ti gong le	500636
+提供联系	ti gong lian xi	111
 提供良好	ti gong liang hao	5845
 提供免费	ti gong mian fei	65970
 提供情报	ti gong qing bao	1860
@@ -373350,6 +374063,7 @@ sort: by_weight
 提前结束	ti qian jie shu	5040
 提前竣工	ti qian jun gong	1500
 提前来	ti qian lai	1425
+提前联系	ti qian lian xi	111
 提前量	ti qian liang	2675
 提前落实	ti qian luo shi	100
 提前拿	ti qian na	200
@@ -374616,6 +375330,7 @@ sort: by_weight
 添加剂厂	tian jia ji chang	1035
 田家几日闲	tian jia ji ri xian	5
 添加节点	tian jia jie dian	2492
+添加联系人	tian jia lian xi ren	111
 天假良缘	tian jia liang yuan	111
 田家岭	tian jia ling	8
 天假其便	tian jia qi bian	111
@@ -375383,6 +376098,7 @@ sort: by_weight
 恬然居	tian ran ju	1
 天然抗体	tian ran kang ti	23
 天然矿	tian ran kuang	106
+天然联系	tian ran lian xi	111
 天然林	tian ran lin	17340
 天然林保护工程财政资金管理规定	tian ran lin bao hu gong cheng cai zheng zi jin guan li gui ding	6
 天然蜜蜡	tian ran mi la	105
@@ -375758,6 +376474,7 @@ sort: by_weight
 天天看	tian tian kan	5705
 天天快乐	tian tian kuai le	10095
 天天来	tian tian lai	4760
+天天联系	tian tian lian xi	111
 甜甜美美	tian tian mei mei	185
 甜甜蜜蜜	tian tian mi mi	4700
 天天免费	tian tian mian fei	4895
@@ -376042,9 +376759,9 @@ sort: by_weight
 天仙子	tian xian zi	1605
 天仙子胺	tian xian zi an	15
 天线座	tian xian zuo	64
-天香	tian xiang	17795
 天象	tian xiang	15655
 甜香	tian xiang	5690
+天香	tian xiang	2
 添箱	tian xiang	1
 # 天祥	tian xiang	0
 # 天翔	tian xiang	0
@@ -376075,6 +376792,7 @@ sort: by_weight
 天蝎宫	tian xie gong	330
 填写过	tian xie guo	111
 天蝎蝴蝶	tian xie hu die	35
+填写联系方式	tian xie lian xi fang shi	111
 天蝎玫瑰	tian xie mei gui	1
 填写内容	tian xie nei rong	6800
 天蝎女	tian xie nv	865
@@ -381929,6 +382647,7 @@ sort: by_weight
 头顶生疮	tou ding sheng chuang	25
 偷东摸西	tou dong mo xi	111
 偷东西	tou dong xi	8475
+头都	tou dou	1111
 头兜	tou dou	340
 头都疼	tou dou teng	285
 偷渡	tou du	12465
@@ -381978,6 +382697,7 @@ sort: by_weight
 头盖骨	tou gai gu	6320
 投稿	tou gao	177520
 偷搞	tou gao	15
+投稿联系	tou gao lian xi	111
 投稿人	tou gao ren	2720
 头高数丈触山回	tou gao shu zhang chu shan hui	1
 头高头低	tou gao tou di	2
@@ -382586,6 +383306,7 @@ sort: by_weight
 透透风	tou tou feng	275
 偷偷干	tou tou gan	115
 偷偷看	tou tou kan	2475
+偷偷联系	tou tou lian xi	111
 偷偷摸摸	tou tou mo mo	13565
 头头脑脑	tou tou nao nao	1360
 透透气	tou tou qi	4180
@@ -383966,6 +384687,7 @@ sort: by_weight
 突然来到	tu ran lai dao	1855
 突然离开	tu ran li kai	1950
 突然离去	tu ran li qu	1050
+突然联系	tu ran lian xi	111
 突然露出	tu ran lou chu	945
 突然露出	tu ran lu chu	945
 突然落下	tu ran luo xia	430
@@ -384202,6 +384924,7 @@ sort: by_weight
 突突	tu tu	7180
 吐吐	tu tu	4350
 涂涂	tu tu	1935
+屠屠	tu tu	1111
 凸凸凹凹	tu tu ao ao	10
 图图表	tu tu biao	23
 秃秃的	tu tu de	155
@@ -386041,6 +386764,8 @@ sort: by_weight
 拖拉	tuo la	21270
 托拉	tuo la	5570
 脱蜡	tuo la	1930
+托拉法尔加·劳	tuo la fa er jia lao	111
+托拉法尔加·罗	tuo la fa er jia luo	111
 拖拉机	tuo la ji	80145
 拖拉机厂	tuo la ji chang	1770
 拖拉机手	tuo la ji shou	760
@@ -386987,6 +387712,7 @@ sort: by_weight
 外部类	wai bu lei	9287
 外部链接	wai bu lian jie	20995
 外部联系	wai bu lian xi	1180
+外部联系人	wai bu lian xi ren	111
 外部矛盾	wai bu mao dun	325
 外部门	wai bu men	12
 外部命令	wai bu ming ling	3140
@@ -387374,6 +388100,7 @@ sort: by_weight
 外界的一切	wai jie de yi qie	100
 外接电源	wai jie dian yuan	10495
 外接口	wai jie kou	67
+外界联系	wai jie lian xi	111
 外接屏	wai jie ping	112
 外界人士	wai jie ren shi	510
 外接式	wai jie shi	1485
@@ -388244,6 +388971,7 @@ sort: by_weight
 万地名苑	wan di ming yuan	8
 晚点	wan dian	17895
 万点	wan dian	6490
+晚点联系	wan dian lian xi	111
 晚点聊	wan dian liao	858
 玩电脑	wan dian nao	10615
 晚点去	wan dian qu	844
@@ -390999,6 +391727,7 @@ sort: by_weight
 网连接	wang lian jie	1320
 王连庆	wang lian qing	2
 往脸上抹黑	wang lian shang mo hei	25
+网联系统	wang lian xi tong	111
 魍魉	wang liang	2975
 王亮	wang liang	1
 王良	wang liang	1
@@ -391199,6 +391928,7 @@ sort: by_weight
 网络理论	wang luo li lun	925
 网络连接	wang luo lian jie	51975
 网络连接状态	wang luo lian jie zhuang tai	1449
+网络联系	wang luo lian xi	111
 网络聊天	wang luo liao tian	6110
 网络邻居	wang luo lin ju	3415
 网络流	wang luo liu	6205
@@ -391745,6 +392475,7 @@ sort: by_weight
 往上拉	wang shang la	1605
 网上垃圾	wang shang la ji	150
 网上恋情	wang shang lian qing	80
+网上联系	wang shang lian xi	111
 网上聊天	wang shang liao tian	7665
 网上邻居	wang shang lin ju	19725
 网上买	wang shang mai	3630
@@ -391965,9 +392696,13 @@ sort: by_weight
 王塘村	wang tang cun	11
 王堂村村委会	wang tang cun cun wei hui	5
 王堂村委会	wang tang cun wei hui	1
-王涛	wang tao	10670
-汪涛	wang tao	1895
-王韬	wang tao	239
+忘掏	wang tao	1111
+王涛	wang tao	3
+汪涛	wang tao	1
+# 王韬	wang tao	0
+忘掏出	wang tao chu	111
+忘掏出来	wang tao chu lai	111
+忘掏出来了	wang tao chu lai le	111
 网特	wang te	2925
 罔替	wang ti	500
 望天	wang tian	13070
@@ -392028,6 +392763,7 @@ sort: by_weight
 旺旺集团	wang wang ji tuan	572
 汪汪叫	wang wang jiao	380
 往往来来	wang wang lai lai	195
+旺旺联系	wang wang lian xi	111
 往往取酒还独倾	wang wang qu jiu hai du qing	1
 望望然去之	wang wang ran qu zhi	6
 往往杀长吏	wang wang sha zhang li	1
@@ -392587,6 +393323,7 @@ sort: by_weight
 网站监控	wang zhan jian kong	97
 网站建设	wang zhan jian she	174840
 网站开发	wang zhan kai fa	20605
+网站联系	wang zhan lian xi	111
 网站流量	wang zhan liu liang	17645
 网站名	wang zhan ming	382
 网站模板	wang zhan mu ban	5580
@@ -394760,13 +395497,13 @@ sort: by_weight
 微冷	wei leng	1255
 畏冷	wei leng	365
 微冷的	wei leng de	340
-为例	wei li	304300
 威力	wei li	159415
-微粒	wei li	32990
-微利	wei li	25430
-为利	wei li	10315
-违例	wei li	7875
-伟力	wei li	3630
+为例	wei li	30430
+微粒	wei li	12990
+微利	wei li	5430
+违例	wei li	787
+为利	wei li	103
+伟力	wei li	36
 尾立	wei li	1
 # 为力	wei li	0
 # 伟丽	wei li	0
@@ -394812,6 +395549,10 @@ sort: by_weight
 微粒子	wei li zi	2005
 威廉	wei lian	84815
 未联合	wei lian he	5
+威廉·亨利	wei lian heng li	111
+威廉·亨利·盖茨	wei lian heng li gai ci	111
+威廉·亨利·盖茨三世	wei lian heng li gai ci san shi	111
+威廉·基德	wei lian ji de	111
 未连接	wei lian jie	2375
 螱蠊科	wei lian ke	1
 威廉姆斯	wei lian mu si	18135
@@ -394822,6 +395563,7 @@ sort: by_weight
 威廉斯塔德	wei lian si ta de	8
 威廉托马斯	wei lian tuo ma si	1
 威廉王子	wei lian wang zi	1735
+未联系	wei lian xi	111
 威廉一世	wei lian yi shi	4
 微量	wei liang	35455
 微凉	wei liang	5600
@@ -395014,6 +395756,7 @@ sort: by_weight
 微秒	wei miao	4545
 微妙变化	wei miao bian hua	4045
 微妙的	wei miao de	35795
+微妙联系	wei miao lian xi	111
 惟妙惟肖	wei miao wei xiao	3772
 微妙玄通	wei miao xuan tong	39
 未灭	wei mie	2275
@@ -396691,6 +397434,9 @@ sort: by_weight
 微信接入	wei xin jie ru	116
 微信开发	wei xin kai fa	1781
 微信开放平台	wei xin kai fang ping tai	1021
+微信联系	wei xin lian xi	111
+微信联系方式	wei xin lian xi fang shi	111
+微信联系人	wei xin lian xi ren	111
 唯心论	wei xin lun	3775
 维新派	wei xin pai	3475
 微信朋友圈	wei xin peng you quan	1531
@@ -397003,6 +397749,7 @@ sort: by_weight
 伟易达集团	wei yi da ji tuan	2
 唯一代表	wei yi dai biao	4344
 唯一的	wei yi de	338530
+唯一的联系	wei yi de lian xi	111
 唯一的慰藉	wei yi de wei jie	111
 唯一的一	wei yi de yi	100
 唯一的一次	wei yi de yi ci	100
@@ -397378,6 +398125,7 @@ sort: by_weight
 位置控制	wei zhi kong zhi	2140
 位址栏	wei zhi lan	30
 微之炼秋石	wei zhi lian qiu shi	1
+未知联系人	wei zhi lian xi ren	111
 未知量	wei zhi liang	470
 伪指令	wei zhi ling	1848
 微指令	wei zhi ling	271
@@ -398248,6 +398996,7 @@ sort: by_weight
 文化快餐	wen hua kuai can	425
 文化垃圾	wen hua la ji	9999
 文华里	wen hua li	13
+文化联系	wen hua lian xi	111
 文化领域	wen hua ling yu	8500
 文化路	wen hua lu	19690
 文华路	wen hua lu	1275
@@ -400134,6 +400883,7 @@ sort: by_weight
 我不快乐	wo bu kuai le	770
 我不累	wo bu lei	1285
 我不理你了	wo bu li ni le	520
+我不联系	wo bu lian xi	111
 我不买	wo bu mai	1428
 我不卖了	wo bu mai le	139
 我不忙	wo bu mang	150
@@ -400322,7 +401072,9 @@ sort: by_weight
 卧床上	wo chuang shang	280
 龌龊	wo chuo	13190
 龌龊的	wo chuo de	6050
-沃茨	wo ci	7290
+我次	wo ci	3333
+我刺	wo ci	2222
+# 沃茨	wo ci	0
 我从	wo cong	185440
 我从不	wo cong bu	13410
 我从此去钓东海	wo cong ci qu diao dong hai	2
@@ -401047,6 +401799,7 @@ sort: by_weight
 我记不清	wo ji bu qing	64
 我寄愁心与明月	wo ji chou xin yu ming yue	9
 我记得	wo ji de	78170
+我记得是	wo ji de shi	9999
 沃基凤凰螺	wo ji feng huang luo	1
 我几乎	wo ji hu	40635
 我妓今朝如花月	wo ji jin zhao ru hua yue	2
@@ -401352,6 +402105,7 @@ sort: by_weight
 我俩	wo lia	51625
 我连	wo lian	40710
 我恋	wo lian	4200
+我联系	wo lian xi	111
 我靓我秀	wo liang wo xiu	1
 我了解	wo liao jie	13785
 我了解你	wo liao jie ni	985
@@ -403973,6 +404727,7 @@ sort: by_weight
 无法可想	wu fa ke xiang	1135
 无法控制	wu fa kong zhi	27875
 无法连接	wu fa lian jie	5978
+无法联系	wu fa lian xi	111
 无法了解	wu fa liao jie	5370
 无法履行	wu fa lv xing	8120
 无法弥补	wu fa mi bu	6995
@@ -403980,6 +404735,7 @@ sort: by_weight
 无法平息	wu fa ping xi	755
 无法破解	wu fa po jie	1405
 无法启动	wu fa qi dong	17240
+无法取得联系	wu fa qu de lian xi	111
 无法忍耐	wu fa ren nai	1015
 无法忍受	wu fa ren shou	28005
 无法入睡	wu fa ru shui	6585
@@ -404197,6 +404953,8 @@ sort: by_weight
 无感情	wu gan qing	515
 无感我帨兮	wu gan wo shui xi	2
 无感应	wu gan ying	1345
+无感知	wu gan zhi	3333
+无感知的	wu gan zhi de	111
 吴刚	wu gang	15885
 钨钢	wu gang	6110
 武钢	wu gang	3715
@@ -405715,6 +406473,7 @@ sort: by_weight
 物联网开发	wu lian wang kai fa	161
 物联网世界	wu lian wang shi jie	40
 无廉无耻	wu lian wu chi	120
+无联系	wu lian xi	111
 五莲县	wu lian xian	2495
 无廉鲜耻	wu lian xian chi	111
 五敛子	wu lian zi	9999
@@ -406375,18 +407134,18 @@ sort: by_weight
 武器	wu qi	500262
 雾气	wu qi	32785
 五期	wu qi	10785
-吴起	wu qi	10225
-五七	wu qi	9605
 无期	wu qi	7780
-无奇	wu qi	3950
+五七	wu qi	4605
 无妻	wu qi	3150
 舞起	wu qi	2900
 误期	wu qi	1590
-吴旗	wu qi	1265
-务期	wu qi	825
-梧栖	wu qi	210
-五旗	wu qi	7
-吴绮	wu qi	1
+务期	wu qi	2
+# 五旗	wu qi	0
+# 吴旗	wu qi	0
+# 吴绮	wu qi	0
+# 吴起	wu qi	0
+# 无奇	wu qi	0
+# 梧栖	wu qi	0
 乌七八糟	wu qi ba zao	1645
 无奇不有	wu qi bu you	7550
 武器厂	wu qi chang	40
@@ -407242,6 +408001,7 @@ sort: by_weight
 吴淑珍	wu shu zhen	4455
 武术指导	wu shu zhi dao	3640
 梧鼠之技	wu shu zhi ji	1
+五刷	wu shua	5555
 无刷电机	wu shua dian ji	3375
 无刷新	wu shua xin	1578
 吾衰竟谁陈	wu shuai jing shei chen	2
@@ -407336,8 +408096,8 @@ sort: by_weight
 无私之光	wu si zhi guang	1
 吾斯之未能信	wu si zhi wei neng xin	2
 无丝竹之乱耳	wu si zhu zhi luan er	1180
-武松	wu song	26085
 雾凇	wu song	7005
+武松	wu song	2608
 # 吴淞	wu song	0
 雾松避难所	wu song bi nan suo	1
 武松打虎	wu song da hu	1975
@@ -414268,12 +415028,12 @@ sort: by_weight
 下丹田	xia dan tian	3820
 下单翼	xia dan yi	185
 下档	xia dang	3135
-下到	xia dao	47505
 吓到	xia dao	16610
 吓倒	xia dao	12150
-下道	xia dao	10585
-下刀	xia dao	3870
+下到	xia dao	4750
 侠盗	xia dao	3535
+下刀	xia dao	387
+# 下道	xia dao	0
 吓到了	xia dao le	1001
 下导流板	xia dao liu ban	35
 下道齐桓	xia dao qi huan	30
@@ -417609,6 +418369,7 @@ sort: by_weight
 显然会	xian ran hui	4305
 显然能	xian ran neng	435
 显然是	xian ran shi	105970
+显然已经没法	xian ran yi jing mei fa	111
 掀髯一笑	xian ran yi xiao	111
 显然有	xian ran you	6575
 显然在	xian ran zai	6120
@@ -417730,6 +418491,7 @@ sort: by_weight
 先上传截屏	xian shang chuan jie ping	68
 线上访谈	xian shang fang tan	87
 先上来	xian shang lai	430
+线上联系	xian shang lian xi	111
 先上去	xian shang qu	875
 现上市	xian shang shi	190
 线上推送	xian shang tui song	75
@@ -418724,6 +419486,7 @@ sort: by_weight
 现在国际	xian zai guo ji	2230
 现在国内	xian zai guo nei	12050
 现在还不知道	xian zai hai bu zhi dao	3205
+现在还好吧	xian zai hai hao ba	111
 现在还好吗	xian zai hai hao ma	800
 现在还是	xian zai hai shi	64
 现在还要	xian zai hai yao	3200
@@ -418876,17 +419639,17 @@ sort: by_weight
 限制	xian zhi	500607
 闲置	xian zhi	89840
 先知	xian zhi	42345
-限值	xian zhi	30920
-县志	xian zhi	25990
-县直	xian zhi	22395
-现职	xian zhi	20680
-现值	xian zhi	19870
-县治	xian zhi	7130
 贤侄	xian zhi	4865
-纤指	xian zhi	2185
-限止	xian zhi	1755
 闲职	xian zhi	1100
-鲜支	xian zhi	35
+纤指	xian zhi	6
+限值	xian zhi	5
+现职	xian zhi	4
+现值	xian zhi	3
+县治	xian zhi	2
+鲜支	xian zhi	1
+# 县志	xian zhi	0
+# 县直	xian zhi	0
+# 限止	xian zhi	0
 限制版	xian zhi ban	510
 闲置不用	xian zhi bu yong	1890
 先知长刀	xian zhi chang dao	1
@@ -419515,6 +420278,7 @@ sort: by_weight
 相对分子质量	xiang dui fen zi zhi liang	3325
 相对负刑事责任时期	xiang dui fu xing shi ze ren shi qi	7
 相对高度	xiang dui gao du	3005
+相对还好	xiang dui hai hao	111
 相对缓脉	xiang dui huan mai	8
 相对极大	xiang dui ji da	10
 相对极小	xiang dui ji xiao	5
@@ -419867,6 +420631,7 @@ sort: by_weight
 相关会计处理	xiang guan kuai ji chu li	111
 相关联	xiang guan lian	29715
 相关链接	xiang guan lian jie	84975
+相关联系人	xiang guan lian xi ren	111
 相观民之计极	xiang guan min zhi ji ji	1
 相关内容	xiang guan nei rong	115365
 相关匹配	xiang guan pi pei	224
@@ -420448,6 +421213,7 @@ sort: by_weight
 相怜同病	xiang lian tong bing	111
 香连丸	xiang lian wan	16
 相联系	xiang lian xi	41240
+想联系	xiang lian xi	111
 响亮	xiang liang	62345
 向量	xiang liang	38185
 箱梁	xiang liang	4785
@@ -420678,6 +421444,9 @@ sort: by_weight
 项目可行性报告	xiang mu ke xing xing bao gao	1550
 项目控制	xiang mu kong zhi	2200
 项目立项	xiang mu li xiang	11490
+项目联系	xiang mu lian xi	111
+项目联系方式	xiang mu lian xi fang shi	111
+项目联系人	xiang mu lian xi ren	111
 项目联展	xiang mu lian zhan	35
 项目流程	xiang mu liu cheng	481
 项目落实	xiang mu luo shi	100
@@ -420779,6 +421548,7 @@ sort: by_weight
 想你知道	xiang ni zhi dao	195
 想念	xiang nian	89830
 享年	xiang nian	19185
+想念就联系	xiang nian jiu lian xi	111
 想念你	xiang nian ni	8525
 想念他	xiang nian ta	2865
 想念我	xiang nian wo	2410
@@ -420968,7 +421738,9 @@ sort: by_weight
 详情度理	xiang qing duo li	111
 享清福	xiang qing fu	1855
 想请教	xiang qing jiao	7705
+详情联系	xiang qing lian xi	111
 详情请见	xiang qing qing jian	9590
+详情请联系	xiang qing qing lian xi	111
 相庆弹冠	xiang qing tan guan	111
 响穷彭蠡之滨	xiang qiong peng li zhi bin	15
 相求	xiang qiu	2995
@@ -421593,6 +422365,7 @@ sort: by_weight
 详细解答	xiang xi jie da	9205
 详细介绍	xiang xi jie shao	231905
 湘西辣椒	xiang xi la jiao	2
+详细联系方式	xiang xi lian xi fang shi	111
 详细了解	xiang xi liao jie	33040
 详细列出	xiang xi lie chu	3010
 详细列举	xiang xi lie ju	485
@@ -422533,6 +423306,7 @@ sort: by_weight
 小便短赤	xiao bian duan chi	85
 小辫儿	xiao bian er	865
 小蝙蝠亚目	xiao bian fu ya mu	36
+小编联系	xiao bian lian xi	111
 小便淋沥	xiao bian lin li	2
 小便频数	xiao bian pin shuo	64
 小便器	xiao bian qi	2525
@@ -428013,6 +428787,9 @@ sort: by_weight
 歇马	xie ma	1600
 歇马店	xie ma dian	3
 邪马台国	xie ma tai guo	1430
+血脉	xie mai	40600
+血脉贲张	xie mai ben zhang	1111
+血脉联系	xie mai lian xi	111
 血脉相连	xie mai xiang lian	3125
 血脉相通	xie mai xiang tong	600
 写满	xie man	20950
@@ -428141,6 +428918,7 @@ sort: by_weight
 蟹肉	xie rou	7630
 蟹肉羹	xie rou geng	48
 蟹肉罐头	xie rou guan tou	55
+血肉联系	xie rou lian xi	111
 血肉模糊	xie rou mo hu	5695
 蟹肉泥	xie rou ni	1
 蟹肉青瓜沙律	xie rou qing gua sha lv	1
@@ -428334,6 +429112,7 @@ sort: by_weight
 协调解决	xie tiao jie jue	26975
 协调局	xie tiao ju	3540
 协调控制	xie tiao kong zhi	132
+协调联系	xie tiao lian xi	111
 协调落实	xie tiao luo shi	100
 协调能力	xie tiao neng li	32030
 协调配合	xie tiao pei he	24040
@@ -428716,11 +429495,14 @@ sort: by_weight
 屑榆为粥	xie yu wei zhou	111
 谢雨欣	xie yu xin	11
 血雨腥风	xie yu xing feng	6065
+血缘	xie yuan	22100
 挟怨	xie yuan	160
-谢园	xie yuan	31
+血源	xie yuan	2
+# 谢园	xie yuan	0
 谢远定	xie yuan ding	1
 斜缘华溪蟹	xie yuan hua xi xie	1
 挟冤记仇	xie yuan ji chou	111
+血缘联系	xie yuan lian xi	111
 血源性	xie yuan xing	1210
 血源性肺脓肿	xie yuan xing fei nong zhong	1
 斜圆锥	xie yuan zhui	80
@@ -430975,6 +431757,7 @@ sort: by_weight
 新联村	xin lian cun	201
 信联股份	xin lian gu fen	12500
 新恋情	xin lian qing	2820
+新联系	xin lian xi	111
 新联想	xin lian xiang	410
 新联小学	xin lian xiao xue	18
 心连心	xin lian xin	12050
@@ -432320,6 +433103,7 @@ sort: by_weight
 新西兰元	xin xi lan yuan	2020
 新西兰圆尾鹱	xin xi lan yuan wei hu	1
 信息类	xin xi lei	12860
+信息联系	xin xi lian xi	111
 信息量	xin xi liang	32710
 信息量大	xin xi liang da	9725
 信息流	xin xi liu	32015
@@ -433245,6 +434029,7 @@ sort: by_weight
 新竹市	xin zhu shi	2215
 新诛仙	xin zhu xian	2221
 新竹县	xin zhu xian	1165
+心主血脉	xin zhu xie mai	28
 心主血脉	xin zhu xue mai	28
 心主言	xin zhu yan	3
 新主张	xin zhu zhang	5165
@@ -433942,6 +434727,7 @@ sort: by_weight
 性格不合	xing ge bu he	2395
 行个方便	xing ge fang bian	775
 性格分析	xing ge fen xi	1740
+性格还好	xing ge hai hao	111
 性格化	xing ge hua	765
 性格婚检	xing ge hun jian	21
 行歌尽落梅	xing ge jin luo mei	1
@@ -436479,6 +437265,7 @@ sort: by_weight
 熊猫牌	xiong mao pai	570
 熊猫品竹	xiong mao pin zhu	12
 熊猫犬	xiong mao quan	94
+熊猫人	xiong mao ren	1111
 熊猫烧香	xiong mao shao xiang	77
 熊猫笋	xiong mao sun	65
 熊猫头	xiong mao tou	3333
@@ -438733,6 +439520,7 @@ sort: by_weight
 需要层次论	xu yao ceng ci lun	106
 需要大家	xu yao da jia	16520
 需要的话	xu yao de hua	6270
+需要的联系	xu yao de lian xi	111
 需要提防	xu yao di fang	111
 需要点	xu yao dian	67
 需要对	xu yao dui	7933
@@ -438748,6 +439536,7 @@ sort: by_weight
 需要经过	xu yao jing guo	19400
 需要开	xu yao kai	68
 需要理由	xu yao li you	1895
+需要联系	xu yao lian xi	111
 需要量	xu yao liang	16065
 需要了解	xu yao liao jie	19980
 需要吗	xu yao ma	4675
@@ -439558,6 +440347,7 @@ sort: by_weight
 选色征歌	xuan se zheng ge	1
 悬赏	xuan shang	55265
 选上	xuan shang	15090
+玄觞	xuan shang	2
 悬赏分	xuan shang fen	13430
 悬赏广告	xuan shang guang gao	1620
 悬赏缉拿	xuan shang ji na	280
@@ -440606,6 +441396,7 @@ sort: by_weight
 雪落下的声音	xue luo xia de sheng yin	100
 血脉	xue mai	40600
 血脉贲张	xue mai ben zhang	1111
+血脉联系	xue mai lian xi	111
 血脉相连	xue mai xiang lian	3125
 血脉相通	xue mai xiang tong	600
 薛曼	xue man	55
@@ -440756,6 +441547,7 @@ sort: by_weight
 血肉	xue rou	41775
 血肉横飞	xue rou heng fei	3640
 血肉狼藉	xue rou lang ji	111
+血肉联系	xue rou lian xi	111
 血肉模糊	xue rou mo hu	5695
 血肉相连	xue rou xiang lian	2360
 血肉之躯	xue rou zhi qu	6950
@@ -441232,6 +442024,7 @@ sort: by_weight
 学校会计	xue xiao kuai ji	111
 学校类型	xue xiao lei xing	4115
 学校里	xue xiao li	85485
+学校联系	xue xiao lian xi	111
 学校令	xue xiao ling	2218
 学校领导	xue xiao ling dao	37840
 学校落实	xue xiao luo shi	100
@@ -441425,6 +442218,7 @@ sort: by_weight
 学院街	xue yuan jie	66
 学源街	xue yuan jie	29
 雪原巨人	xue yuan ju ren	1
+血缘联系	xue yuan lian xi	111
 学院领导	xue yuan ling dao	8650
 学院路	xue yuan lu	21490
 学苑路	xue yuan lu	114
@@ -445740,9 +446534,10 @@ sort: by_weight
 岩溶景观	yan rong jing guan	455
 盐溶液	yan rong ye	3020
 烟绒紫	yan rong zi	1
-眼肉	yan rou	8618
 腌肉	yan rou	2365
-鷃肉	yan rou	1
+烟肉	yan rou	3
+鷃肉	yan rou	2
+眼肉	yan rou	1
 烟肉蛋麦满分	yan rou dan mai man fen	6
 俨如	yan ru	2755
 严如熤	yan ru yi	1
@@ -446917,6 +447712,7 @@ sort: by_weight
 验证框架	yan zheng kuang jia	1037
 验证码	yan zheng ma	112025
 验证码识别	yan zheng ma shi bie	354
+验证器	yan zheng qi	3333
 验证人	yan zheng ren	400
 严正声明	yan zheng sheng ming	15480
 验证手机号	yan zheng shou ji hao	283
@@ -450005,6 +450801,7 @@ sort: by_weight
 药理作用	yao li zuo yong	13265
 要脸	yao lian	7335
 腰链	yao lian	2660
+要联系	yao lian xi	111
 遥怜小儿女	yao lian xiao er nv	4
 药量	yao liang	10985
 要凉	yao liang	5555
@@ -451642,6 +452439,8 @@ sort: by_weight
 页固定	ye gu ding	5
 也怪	ye guai	10405
 野怪	ye guai	9999
+也管	ye guan	7777
+夜观	ye guan	111
 也管不了	ye guan bu liao	64
 液罐车	ye guan che	236
 夜光	ye guang	20535
@@ -451670,6 +452469,7 @@ sort: by_weight
 也还	ye hai	80865
 液氦	ye hai	525
 业海	ye hai	460
+也还好	ye hai hao	111
 也还会	ye hai hui	101
 也还没睡	ye hai mei shui	65
 也还没有	ye hai mei you	76
@@ -452111,6 +452911,8 @@ sort: by_weight
 也没到	ye mei dao	76
 也没多少	ye mei duo shao	62
 也没法	ye mei fa	2
+也没法儿复现	ye mei fa er fu xian	111
+也没法复现	ye mei fa fu xian	111
 也没给	ye mei gei	65
 野玫瑰	ye mei gui	4960
 也没接	ye mei jie	64
@@ -452710,6 +453512,8 @@ sort: by_weight
 业务理解	ye wu li jie	260
 业务利润	ye wu li run	8485
 业务联系	ye wu lian xi	47055
+业务联系电话	ye wu lian xi dian hua	111
+业务联系人	ye wu lian xi ren	111
 业务量	ye wu liang	27935
 也无聊	ye wu liao	520
 业务领域	ye wu ling yu	16285
@@ -452740,6 +453544,7 @@ sort: by_weight
 也无言	ye wu yan	490
 野无遗贤	ye wu yi xian	111
 业务员	ye wu yuan	165860
+业务员联系	ye wu yuan lian xi	111
 业务运作	ye wu yun zuo	6265
 业务章	ye wu zhang	67
 业务招待费	ye wu zhao dai fei	4895
@@ -453549,15 +454354,15 @@ sort: by_weight
 一白遮三丑	yi bai zhe san chou	315
 一百周年	yi bai zhou nian	5785
 一般	yi ban	501962
-一半	yi ban	382965
-一班	yi ban	83030
+一半	yi ban	82965
 已办	yi ban	24525
-一版	yi ban	23410
-一斑	yi ban	13020
-一板	yi ban	5110
-一瓣	yi ban	4395
+一班	yi ban	3030
+一版	yi ban	2341
 乙班	yi ban	995
-驿坂	yi ban	15
+一瓣	yi ban	439
+一板	yi ban	51
+# 一斑	yi ban	0
+# 驿坂	yi ban	0
 一般啊	yi ban a	1890
 一般吧	yi ban ba	2110
 一般般	yi ban ban	8050
@@ -455367,6 +456172,7 @@ sort: by_weight
 一定价格	yi ding jia ge	540
 一定可以	yi ding ke yi	24640
 一定困难	yi ding kun nan	4440
+一定联系	yi ding lian xi	111
 一定难度	yi ding nan du	6500
 一定能	yi ding neng	80245
 一定能够	yi ding neng gou	26295
@@ -457006,11 +457812,13 @@ sort: by_weight
 以后不久	yi hou bu jiu	1045
 以后不能	yi hou bu neng	291
 以后不要	yi hou bu yao	207
+以后常联系	yi hou chang lian xi	111
 以后会	yi hou hui	35950
 以后见	yi hou jian	990
 以后就	yi hou jiu	63135
 以后可以	yi hou ke yi	99
 以后了	yi hou le	97
+以后联系	yi hou lian xi	111
 以后聊	yi hou liao	60
 以后面	yi hou mian	228
 以后我	yi hou wo	37925
@@ -457167,6 +457975,7 @@ sort: by_weight
 一挥而成	yi hui er cheng	111
 一会儿后	yi hui er hou	4060
 一挥而就	yi hui er jiu	2080
+一会儿再和你联系	yi hui er zai he ni lian xi	111
 一会儿再和您联系	yi hui er zai he nin lian xi	15
 一会儿再联系	yi hui er zai lian xi	10
 易挥发	yi hui fa	2295
@@ -457461,6 +458270,8 @@ sort: by_weight
 一家三口	yi jia san kou	3333
 易家山	yi jia shan	1
 议价生	yi jia sheng	5
+一家是	yi jia shi	3333
+一加十	yi jia shi	11
 一家书	yi jia shu	34
 一家四口	yi jia si kou	3333
 以家庭	yi jia ting	15510
@@ -457913,11 +458724,14 @@ sort: by_weight
 已经可以	yi jing ke yi	36885
 已经来到	yi jing lai dao	5460
 已经来临	yi jing lai lin	8250
+已经联系	yi jing lian xi	111
+已经联系了	yi jing lian xi le	111
 已经连续	yi jing lian xu	20575
 已经列入	yi jing lie ru	2705
 怡景路	yi jing lu	44
 已经麻木	yi jing ma mu	1130
 已经买了	yi jing mai le	397
+已经没法	yi jing mei fa	111
 已经没有	yi jing mei you	64190
 已经明白	yi jing ming bai	3285
 已经明确	yi jing ming que	14170
@@ -458661,6 +459475,7 @@ sort: by_weight
 依莲	yi lian	1145
 一连半个	yi lian ban ge	5
 依恋不舍	yi lian bu she	111
+一脸不悦	yi lian bu yue	111
 一连串	yi lian chuan	57895
 已怜根损斩新栽	yi lian gen sun zhan xin zai	1
 依恋河犸	yi lian he ma	9
@@ -458678,6 +459493,7 @@ sort: by_weight
 一链网	yi lian wang	87
 以廉为荣	yi lian wei rong	60
 已联系	yi lian xi	1180
+一联系	yi lian xi	111
 依莲轩	yi lian xuan	92
 一连一排	yi lian yi pai	90
 一帘幽梦	yi lian you meng	3355
@@ -460117,6 +460933,7 @@ sort: by_weight
 一千零一	yi qian ling yi	2200
 一千零一夜	yi qian ling yi ye	5780
 一千六百万	yi qian liu bai wan	555
+以前没法做的事	yi qian mei fa zuo de shi	111
 一千米	yi qian mi	13295
 一千名	yi qian ming	1790
 一千年	yi qian nian	13795
@@ -460195,12 +461012,15 @@ sort: by_weight
 一切的一切	yi qie de yi qie	100
 一切东西	yi qie dong xi	5700
 一切都	yi qie dou	219615
+一切都还好	yi qie dou hai hao	111
 一切都是	yi qie dou shi	63470
 一切都已	yi qie dou yi	3640
 一切都在	yi qie dou zai	11020
 一切方法	yi qie fang fa	1420
 一切费用	yi qie fei yong	13865
 一切工作	yi qie gong zuo	23045
+一切还好	yi qie hai hao	111
+一切还好吗	yi qie hai hao ma	100
 一切合理措施	yi qie he li cuo shi	51
 一切后果	yi qie hou guo	51975
 一切活动	yi qie huo dong	11130
@@ -462685,13 +463505,13 @@ sort: by_weight
 乙烯酯	yi xi zhi	68
 一席之地	yi xi zhi di	26855
 一夕之间	yi xi zhi jian	1705
-以下	yi xia	502046
 一下	yi xia	501464
+以下	yi xia	50204
 遗下	yi xia	4175
 一吓	yi xia	3670
-翼下	yi xia	1830
 意下	yi xia	1630
 义侠	yi xia	1200
+# 翼下	yi xia	0
 一下啊	yi xia a	553
 一下唉	yi xia ai	93
 以下爱	yi xia ai	68
@@ -463943,6 +464763,7 @@ sort: by_weight
 颐源居	yi yuan ju	40
 一愿郎君千岁	yi yuan lang jun qian sui	1
 医院里	yi yuan li	34725
+医院联系	yi yuan lian xi	111
 怡园路	yi yuan lu	44
 一元论	yi yuan lun	3515
 议员们	yi yuan men	3110
@@ -464148,6 +464969,7 @@ sort: by_weight
 一张白纸	yi zhang bai zhi	11245
 倚杖柴门外	yi zhang chai men wai	3
 宜章臭蛙	yi zhang chou wa	1
+一张丑照	yi zhang chou zhao	111
 一张床	yi zhang chuang	13400
 仪仗队	yi zhang dui	5115
 一张光盘	yi zhang guang pan	5400
@@ -464381,6 +465203,7 @@ sort: by_weight
 一肢半节	yi zhi ban jie	1
 一枝半叶	yi zhi ban ye	80
 一至半夜	yi zhi ban ye	1
+一直保持着联系	yi zhi bao chi zhe lian xi	111
 一直报怨	yi zhi bao yuan	435
 以直报怨	yi zhi bao yuan	86
 以直抱怨	yi zhi bao yuan	6
@@ -464483,6 +465306,7 @@ sort: by_weight
 一致了	yi zhi le	1180
 益智类	yi zhi lei	12610
 意志力	yi zhi li	23520
+一直联系	yi zhi lian xi	111
 一至六级残疾军人医疗保障办法	yi zhi liu ji can ji jun ren yi liao bao zhang ban fa	43
 翼指龙	yi zhi long	21
 抑制率	yi zhi lv	1700
@@ -464613,6 +465437,7 @@ sort: by_weight
 以至于无为	yi zhi yu wu wei	1
 易之缘	yi zhi yuan	18
 一直在	yi zhi zai	289285
+一直在联系	yi zhi zai lian xi	111
 一直在找	yi zhi zai zhao	1885
 一直站	yi zhi zhan	3820
 一直涨	yi zhi zhang	1231
@@ -464660,6 +465485,7 @@ sort: by_weight
 异种抗体	yi zhong kang ti	1
 异种抗原	yi zhong kang yuan	2
 以中科院	yi zhong ke yuan	645
+一种联系	yi zhong lian xi	111
 怡众名城	yi zhong ming cheng	6
 一种鸟	yi zhong niao	1755
 一种奇迹	yi zhong qi ji	111
@@ -465742,6 +466568,7 @@ sort: by_weight
 因果	yin guo	59500
 因果报应	yin guo bao ying	6060
 因果关系	yin guo guan xi	46565
+因果联系	yin guo lian xi	111
 因果联想	yin guo lian xiang	2
 因果论	yin guo lun	445
 因果逻辑	yin guo luo ji	29
@@ -468196,6 +469023,8 @@ sort: by_weight
 应该改变	ying gai gai bian	2595
 应该高兴	ying gai gao xing	1575
 应该更加	ying gai geng jia	4495
+应该还好	ying gai hai hao	111
+应该还好吧	ying gai hai hao ba	111
 应该还是	ying gai hai shi	8005
 应该好好反省	ying gai hao hao fan xing	100
 应该好找	ying gai hao zhao	15
@@ -468897,7 +469726,8 @@ sort: by_weight
 璎珞宝珠	ying luo bao zhu	4
 影落清波十里红	ying luo qing bo shi li hong	3
 缨络丝带	ying luo si dai	5
-赢麻	ying ma	9999
+赢吗	ying ma	5555
+赢麻	ying ma	4444
 赢麻了	ying ma le	9999
 英买里镇	ying mai li zhen	1
 盈满	ying man	4440
@@ -472449,11 +473279,11 @@ sort: by_weight
 邮戳	you chuo	21990
 邮戳为凭	you chuo wei ping	195
 由此	you ci	500271
-有此	you ci	62885
 有次	you ci	25975
 有刺	you ci	6470
-有词	you ci	2995
-釉瓷	you ci	2875
+有此	you ci	628
+有词	you ci	299
+釉瓷	you ci	287
 有刺才女虫	you ci cai nv chong	1
 优刺鳄	you ci e	1
 由此而来	you ci er lai	8960
@@ -474095,6 +474925,7 @@ sort: by_weight
 有健康	you jian kang	8335
 有间可乘	you jian ke cheng	111
 有监控	you jian kong	82
+邮件联系	you jian lian xi	111
 邮件列表	you jian lie biao	30365
 油煎毛豆腐	you jian mao dou fu	76
 诱奸门	you jian men	9
@@ -474399,6 +475230,7 @@ sort: by_weight
 诱空	you kong	53
 有孔版	you kong ban	3
 有空不	you kong bu	739
+有空常联系	you kong chang lian xi	111
 犹恐巢中饥	you kong chao zhong ji	1
 有孔虫目	you kong chong mu	4
 有空儿	you kong er	9999
@@ -475859,6 +476691,7 @@ sort: by_weight
 有什么好笑的	you shen me hao xiao de	1260
 有什么看法	you shen me kan fa	12085
 有什么嘛	you shen me ma	304
+有什么前途	you shen me qian tu	111
 有什么区别	you shen me qu bie	33510
 有什么事	you shen me shi	28590
 有什么事吗	you shen me shi ma	8685
@@ -476950,6 +477783,7 @@ sort: by_weight
 邮箱了	you xiang le	742
 邮箱里面	you xiang li mian	228
 又想立牌坊	you xiang li pai fang	160
+邮箱联系	you xiang lian xi	111
 邮箱吗	you xiang ma	67
 有想买	you xiang mai	440
 邮箱名称	you xiang ming cheng	111
@@ -489124,6 +489958,8 @@ sort: by_weight
 杂面	za mian	675
 咂摸	za mo	925
 杂木	za mu	5805
+咋那么怂	za na me song	3333
+咋那么𪨊	za na me song	2
 杂念	za nian	18825
 咋弄	za nong	645
 杂牌	za pai	13885
@@ -489630,6 +490466,7 @@ sort: by_weight
 在此间	zai ci jian	12590
 在此刻	zai ci ke	5570
 再次肯定	zai ci ken ding	480
+再次联系	zai ci lian xi	111
 在此排队	zai ci pai dui	65
 在此期间	zai ci qi jian	49325
 在此前	zai ci qian	9855
@@ -490675,6 +491512,8 @@ sort: by_weight
 在脸上	zai lian shang	27170
 在练习	zai lian xi	11235
 再联系	zai lian xi	7535
+在联系	zai lian xi	111
+再联系吧	zai lian xi ba	111
 在联想	zai lian xiang	4140
 在连续	zai lian xu	22805
 载量	zai liang	4935
@@ -491657,6 +492496,7 @@ sort: by_weight
 在午后	zai wu hou	2200
 在乌克兰	zai wu ke lan	2630
 在屋里	zai wu li	11800
+再无联系	zai wu lian xi	111
 在屋内	zai wu nei	4505
 在五年	zai wu nian	3785
 再污染	zai wu ran	405
@@ -491955,7 +492795,9 @@ sort: by_weight
 在业	zai ye	6020
 再也不	zai ye bu	53405
 再也不会	zai ye bu hui	15760
+再也不会联系	zai ye bu hui lian xi	111
 再也不肯	zai ye bu ken	1490
+再也不联系	zai ye bu lian xi	111
 再也不能	zai ye bu neng	16435
 再也不是	zai ye bu shi	6015
 再也不提这件事	zai ye bu ti zhe jian shi	980
@@ -491966,6 +492808,7 @@ sort: by_weight
 在夜里	zai ye li	11570
 再也没	zai ye mei	29980
 再也没有	zai ye mei you	41130
+再也没有联系	zai ye mei you lian xi	111
 在野外	zai ye wai	18405
 在夜晚	zai ye wan	10925
 在业务	zai ye wu	75
@@ -493818,6 +494661,9 @@ sort: by_weight
 择书如择友	ze shu ru ze you	90
 择水	ze shui	63
 则说	ze shuo	38070
+则他	ze ta	3333
+则她	ze ta	2222
+则它	ze ta	1
 赜探隐索	ze tan yin suo	1
 则提高	ze ti gao	1305
 泽田	ze tian	29
@@ -496639,9 +497485,9 @@ sort: by_weight
 张朝阳	zhang chao yang	19810
 章程	zhang cheng	552307
 长成	zhang cheng	28550
-张成	zhang cheng	12030
 涨成	zhang cheng	1210
-张承	zhang cheng	342
+# 张成	zhang cheng	0
+# 张承	zhang cheng	0
 章程草案	zhang cheng cao an	2345
 长城黑白激光打印机	zhang cheng hei bai ji guang da yin ji	87
 长城黑白激光多功能一体机	zhang cheng hei bai ji guang duo gong neng yi ti ji	87
@@ -496651,19 +497497,19 @@ sort: by_weight
 张承志	zhang cheng zhi	113
 张承宗	zhang cheng zong	2000
 张弛	zhang chi	7155
-张驰	zhang chi	3300
 杖笞	zhang chi	40
+# 张驰	zhang chi	0
 长翅膀的钱	zhang chi bang de qian	3333
 丈尺权衡	zhang chi quan heng	1
 张重华	zhang chong hua	1
-张丑	zhang chou	10
+长丑了	zhang chou le	111
+张丑照	zhang chou zhao	10
+张丑照片	zhang chou zhao pian	10
 长出	zhang chu	69890
-张楚	zhang chu	5460
 掌厨	zhang chu	970
+张楚	zhang chu	2
 长出来	zhang chu lai	5785
-张川	zhang chuan	1860
-张川锅盔	zhang chuan guo kui	6
-张川羊羔肉	zhang chuan yang gao rou	7
+张川	zhang chuan	2
 长疮	zhang chuang	860
 张创伟	zhang chuang wei	12
 张纯	zhang chun	311
@@ -496708,13 +497554,13 @@ sort: by_weight
 张大夫	zhang dai fu	111
 账单	zhang dan	27385
 仗胆	zhang dan	9999
-张丹	zhang dan	2289
+张丹	zhang dan	2
 张丹丹	zhang dan dan	614
 张丹枫	zhang dan feng	2130
 张丹凤	zhang dan feng	391
 张丹露	zhang dan lu	7
 张丹奕	zhang dan yi	187
-张当	zhang dang	30
+# 张当	zhang dang	0
 章党街道	zhang dang jie dao	1
 涨到	zhang dao	43905
 长到	zhang dao	32120
@@ -499014,6 +499860,7 @@ sort: by_weight
 赵连城	zhao lian cheng	15
 赵连芳	zhao lian fang	13
 招联社区	zhao lian she qu	1
+找联系	zhao lian xi	111
 照亮	zhao liang	43545
 着凉	zhao liang	11845
 赵亮	zhao liang	4025
@@ -499187,6 +500034,7 @@ sort: by_weight
 招聘兼职	zhao pin jian zhi	6490
 招聘考试	zhao pin kao shi	1840
 招聘会计	zhao pin kuai ji	111
+招聘联系	zhao pin lian xi	111
 招聘启事	zhao pin qi shi	8310
 招聘期限	zhao pin qi xian	17005
 招聘人才	zhao pin ren cai	10720
@@ -499973,9 +500821,13 @@ sort: by_weight
 遮不了	zhe bu liao	190
 这不能	zhe bu neng	70
 这部片子	zhe bu pian zi	13240
+这不如	zhe bu ru	3333
 这不是	zhe bu shi	188095
 这不是我	zhe bu shi wo	6535
 这不属于	zhe bu shu yu	336
+这不太	zhe bu tai	3333
+这不太好	zhe bu tai hao	3333
+这不太好吧	zhe bu tai hao ba	3333
 这步田地	zhe bu tian di	1585
 这部戏	zhe bu xi	9050
 这不行	zhe bu xing	2145
@@ -500451,7 +501303,9 @@ sort: by_weight
 这锅	zhe guo	9999
 蜇过	zhe guo	1180
 这还	zhe hai	84740
+这还不	zhe hai bu	3333
 这还不够	zhe hai bu gou	3425
+这还不如	zhe hai bu ru	3333
 这还不是	zhe hai bu shi	5245
 这还不算	zhe hai bu suan	339
 这还差不多	zhe hai cha bu duo	2795
@@ -501180,6 +502034,7 @@ sort: by_weight
 这日	zhe ri	8465
 遮日	zhe ri	870
 这日子	zhe ri zi	4090
+这日子没法过了	zhe ri zi mei fa guo le	111
 柘荣	zhe rong	1835
 柘荣县	zhe rong xian	1370
 这肉	zhe rou	1111
@@ -503099,8 +503954,8 @@ sort: by_weight
 真死	zhen si	1070
 真丝绸	zhen si chou	1095
 真丝面料	zhen si mian liao	1245
-真𪨊	zhen song	9999
 真怂	zhen song	1111
+真𪨊	zhen song	2
 震悚	zhen song	1
 贞松劲柏	zhen song jing bai	111
 帧速	zhen su	3140
@@ -504864,11 +505719,11 @@ sort: by_weight
 拯民	zheng min	640
 政民路	zheng min lu	23
 证明	zheng ming	500700
-争鸣	zheng ming	14415
 正名	zheng ming	14365
-正明	zheng ming	9680
 征名	zheng ming	2905
 挣命	zheng ming	480
+争鸣	zheng ming	144
+# 正明	zheng ming	0
 整明白	zheng ming bai	905
 证明不了	zheng ming bu liao	111
 证明材料	zheng ming cai liao	100245
@@ -506124,6 +506979,7 @@ sort: by_weight
 政治力量	zheng zhi li liang	7300
 政治理论	zheng zhi li lun	54030
 政治理念	zheng zhi li nian	2435
+政治联系	zheng zhi lian xi	111
 政治领导	zheng zhi ling dao	3915
 政治流氓	zheng zhi liu mang	250
 整肢龙虾	zheng zhi long xia	12
@@ -507019,9 +507875,9 @@ sort: by_weight
 志丹县	zhi dan xian	1040
 只当	zhi dang	18110
 治党	zhi dang	10245
-至当	zhi dang	5335
-志当	zhi dang	1270
 值当	zhi dang	1235
+志当	zhi dang	3
+至当	zhi dang	2
 至当不易	zhi dang bu yi	5
 植党树私	zhi dang shu si	111
 至当无易	zhi dang wu yi	1
@@ -507036,11 +507892,11 @@ sort: by_weight
 只道	zhi dao	14510
 之岛	zhi dao	10875
 直道	zhi dao	8945
-至道	zhi dao	5815
 直捣	zhi dao	5680
-指到	zhi dao	5300
-执刀	zhi dao	1905
 直刀	zhi dao	1770
+# 执刀	zhi dao	0
+# 指到	zhi dao	0
+# 至道	zhi dao	0
 知道啊	zhi dao a	11020
 知道吧	zhi dao ba	14710
 治道变革与法精神转型	zhi dao bian ge yu fa jing shen zhuan xing	1
@@ -507062,6 +507918,7 @@ sort: by_weight
 指导纲要	zhi dao gang yao	5960
 指导工作	zhi dao gong zuo	37315
 指导孩子	zhi dao hai zi	2965
+智导互联系统	zhi dao hu lian xi tong	111
 直捣黄龙	zhi dao huang long	1540
 指导记录	zhi dao ji lu	229
 制导技术	zhi dao ji shu	530
@@ -507152,6 +508009,7 @@ sort: by_weight
 知道中国	zhi dao zhong guo	5720
 指导中心	zhi dao zhong xin	25890
 知道自己	zhi dao zi ji	132315
+知道自己没法	zhi dao zi ji mei fa	111
 指导组	zhi dao zu	9720
 直到最近	zhi dao zui jin	5570
 指导作用	zhi dao zuo yong	26130
@@ -507301,6 +508159,7 @@ sort: by_weight
 指定金钱信托	zhi ding jin qian xin tuo	1
 指定经营	zhi ding jing ying	1150
 制订了	zhi ding le	38320
+指定联系人	zhi ding lian xi ren	111
 指定买家	zhi ding mai jia	68
 指定目录	zhi ding mu lu	15632
 指定期限	zhi ding qi xian	365
@@ -508094,6 +508953,7 @@ sort: by_weight
 指挥舱	zhi hui cang	515
 指挥场	zhi hui chang	1
 指挥车	zhi hui che	3865
+智慧车联系统	zhi hui che lian xi tong	111
 智慧城市	zhi hui cheng shi	500
 指挥处	zhi hui chu	220
 指挥大师	zhi hui da shi	1040
@@ -508391,6 +509251,7 @@ sort: by_weight
 直接档	zhi jie dang	95
 直接到	zhi jie dao	560
 只接到	zhi jie dao	260
+直接的联系	zhi jie de lian xi	111
 直接点击	zhi jie dian ji	43440
 直接电缆连接	zhi jie dian lan lian jie	600
 直接调用	zhi jie diao yong	7430
@@ -508849,6 +509710,7 @@ sort: by_weight
 直链淀粉	zhi lian dian fen	2040
 支链淀粉	zhi lian dian fen	60
 支链反应	zhi lian fan ying	20
+智联系统	zhi lian xi tong	111
 直连线	zhi lian xian	445
 智联招聘	zhi lian zhao pin	305
 质量	zhi liang	501365
@@ -509371,6 +510233,8 @@ sort: by_weight
 职能部门	zhi neng bu men	107475
 智能不足	zhi neng bu zu	285
 智能材料	zhi neng cai liao	1515
+智能车联系统	zhi neng che lian xi tong	111
+智能车载互联系统	zhi neng che zai hu lian xi tong	111
 智能陈桥	zhi neng chen qiao	247
 智能处理	zhi neng chu li	1295
 智能大厦	zhi neng da sha	3510
@@ -509387,6 +510251,7 @@ sort: by_weight
 只能怪	zhi neng guai	6575
 质能关系式	zhi neng guan xi shi	115
 职能管辖	zhi neng guan xia	160
+智能互联系统	zhi neng hu lian xi tong	111
 智能化	zhi neng hua	151605
 职能化	zhi neng hua	650
 智能化犯罪	zhi neng hua fan zui	20
@@ -509442,6 +510307,7 @@ sort: by_weight
 智能天线	zhi neng tian xian	2190
 只能通过	zhi neng tong guo	151
 智能网	zhi neng wang	7410
+智能网联系统	zhi neng wang lian xi tong	111
 智能五笔	zhi neng wu bi	1155
 智能武器	zhi neng wu qi	125
 智能系统	zhi neng xi tong	10325
@@ -510105,6 +510971,7 @@ sort: by_weight
 知识扩展	zhi shi kuo zhan	223
 知识类	zhi shi lei	1695
 指事类情	zhi shi lei qing	111
+知识联系	zhi shi lian xi	111
 指示猎犬	zhi shi lie quan	186
 知识领域	zhi shi ling yu	5510
 知识论	zhi shi lun	4215
@@ -511669,6 +512536,7 @@ sort: by_weight
 制约因素	zhi yue yin su	17395
 制约着	zhi yue zhe	19865
 织云	zhi yun	1200
+之韵	zhi yun	11
 # 志耘	zhi yun	0
 # 芷筠	zhi yun	0
 致运动员	zhi yun dong yuan	40
@@ -512800,6 +513668,8 @@ sort: by_weight
 重点教育	zhong dian jiao yu	1020
 重点课题	zhong dian ke ti	14545
 中电联	zhong dian lian	2395
+重点联系	zhong dian lian xi	111
+重点联系企业	zhong dian lian xi qi ye	111
 重点领域	zhong dian ling yu	26625
 重点论	zhong dian lun	1040
 重点落实	zhong dian luo shi	100
@@ -512936,6 +513806,7 @@ sort: by_weight
 终端框	zhong duan kuang	5
 中断了	zhong duan le	9555
 终端连接	zhong duan lian jie	1020
+中断联系	zhong duan lian xi	111
 中断流程	zhong duan liu cheng	136
 终端命令	zhong duan ming ling	2207
 终端命令行	zhong duan ming ling hang	111
@@ -516228,6 +517099,7 @@ sort: by_weight
 中途相遇法	zhong tu xiang yu fa	68
 中途休息	zhong tu xiu xi	1210
 中途夭折	zhong tu yao zhe	1065
+中推	zhong tui	111
 中屯	zhong tun	18
 中屯乡	zhong tun xiang	12
 重托	zhong tuo	17085
@@ -517045,6 +517917,7 @@ sort: by_weight
 重要角色	zhong yao jue se	15715
 重要课题	zhong yao ke ti	18435
 重要力量	zhong yao li liang	29605
+重要联系	zhong yao lian xi	111
 中药疗法	zhong yao liao fa	420
 重要吗	zhong yao ma	6045
 中药名	zhong yao ming	345
@@ -519162,6 +520035,7 @@ sort: by_weight
 助动词	zhu dong ci	3700
 主动的	zhu dong de	66695
 主动地	zhu dong de	6695
+主动的联系	zhu dong de lian xi	111
 主动动词	zhu dong dong ci	24
 主动防御	zhu dong fang yu	208
 主动分频	zhu dong fen pin	20
@@ -519173,6 +520047,8 @@ sort: by_weight
 主动进攻	zhu dong jin gong	3080
 主动精神	zhu dong jing shen	2285
 主动力	zhu dong li	1820
+主动联系	zhu dong lian xi	111
+主动联系企业	zhu dong lian xi qi ye	111
 主动轮	zhu dong lun	775
 主动落实	zhu dong luo shi	100
 主动脉	zhu dong mai	16390
@@ -521483,6 +522359,8 @@ sort: by_weight
 主要会计数据	zhu yao kuai ji shu ju	111
 主要来源	zhu yao lai yuan	27120
 主要力量	zhu yao li liang	10180
+主要联系	zhu yao lian xi	111
+主要联系人	zhu yao lian xi ren	111
 主要林木品种审定办法	zhu yao lin mu pin zhong shen ding ban fa	10
 主要领导	zhu yao ling dao	105455
 主要矛盾	zhu yao mao dun	30050
@@ -522172,6 +523050,7 @@ sort: by_weight
 抓尖要强	zhua jian yao qiang	111
 抓紧	zhua jin	142680
 抓进	zhua jin	4100
+抓紧联系	zhua jin lian xi	111
 抓紧落实	zhua jin luo shi	100
 抓进去	zhua jin qu	5555
 抓紧区	zhua jin qu	72
@@ -522669,6 +523548,7 @@ sort: by_weight
 专家经验	zhuan jia jing yan	835
 专家局	zhuan jia ju	5230
 专家库	zhuan jia ku	815
+专家联系	zhuan jia lian xi	111
 专家论证	zhuan jia lun zheng	9885
 专家们	zhuan jia men	83645
 专家门诊	zhuan jia men zhen	11930
@@ -523062,6 +523942,7 @@ sort: by_weight
 转任	zhuan ren	9610
 专任	zhuan ren	3380
 专任教师	zhuan ren jiao shi	30665
+专人联系	zhuan ren lian xi	111
 转日莲	zhuan ri lian	9999
 转入	zhuan ru	165730
 转入地	zhuan ru di	2675
@@ -523586,6 +524467,12 @@ sort: by_weight
 转载	zhuan zai	500541
 转载稿	zhuan zai gao	24160
 转载类	zhuan zai lei	15
+转载联系	zhuan zai lian xi	111
+转载请联系	zhuan zai qing lian xi	111
+转载请联系后台	zhuan zai qing lian xi hou tai	111
+转载请联系授权	zhuan zai qing lian xi shou quan	111
+转载请联系原作者	zhuan zai qing lian xi yuan zuo zhe	111
+转载请联系作者	zhuan zai qing lian xi zuo zhe	111
 转载请注明	zhuan zai qing zhu ming	111700
 转灾为福	zhuan zai wei fu	111
 转载者	zhuan zai zhe	2545
@@ -524781,6 +525668,7 @@ sort: by_weight
 追踪	zhui zong	132325
 追踪报道	zhui zong bao dao	4440
 追踪程序	zhui zong cheng xu	162
+追踪弹	zhui zong dan	111
 追踪调查	zhui zong diao cha	3415
 追踪恶魔	zhui zong e mo	4
 追踪巨人	zhui zong ju ren	1
@@ -527366,6 +528254,7 @@ sort: by_weight
 自然冷却	zi ran leng que	1780
 自然力	zi ran li	6390
 自然连接	zi ran lian jie	39
+自然联系	zi ran lian xi	111
 自然疗法	zi ran liao fa	3825
 自然岭	zi ran ling	23
 自然岭路	zi ran ling lu	5
@@ -527581,8 +528470,8 @@ sort: by_weight
 滋事	zi shi	5890
 自视	zi shi	4695
 自食	zi shi	3060
-自适	zi shi	2730
 籽实	zi shi	1140
+自适	zi shi	27
 自是白衣卿相	zi shi bai yi qing xiang	2
 紫式部	zi shi bu	13
 自是不归归便得	zi shi bu gui gui bian de	1
@@ -528176,6 +529065,7 @@ sort: by_weight
 资讯科技	zi xun ke ji	10755
 资讯来源	zi xun lai yuan	15430
 资讯栏	zi xun lan	765
+咨询联系	zi xun lian xi	111
 咨询内容	zi xun nei rong	13430
 资讯内容	zi xun nei rong	7975
 咨询热线	zi xun re xian	93595
@@ -529036,6 +529926,7 @@ sort: by_weight
 总部经济	zong bu jing ji	9275
 总布局	zong bu ju	145
 总不可	zong bu ke	555
+总部联系	zong bu lian xi	111
 总不能	zong bu neng	32570
 总不能避免	zong bu neng bi mian	2
 总部人员	zong bu ren yuan	545
@@ -530360,6 +531251,7 @@ sort: by_weight
 走访调查	zou fang diao cha	2930
 走方郎中	zou fang lang zhong	135
 走访了	zou fang le	37335
+走访联系	zou fang lian xi	111
 走访前	zou fang qian	68
 揍飞	zou fei	9999
 走风	zou feng	300
@@ -531292,6 +532184,7 @@ sort: by_weight
 祖望	zu wang	5305
 组委	zu wei	35375
 组委会	zu wei hui	229965
+组委会联系方式	zu wei hui lian xi fang shi	111
 足慰平生	zu wei ping sheng	111
 组文件	zu wen jian	500
 租屋	zu wu	95435
@@ -532287,6 +533180,7 @@ sort: by_weight
 最后一场	zui hou yi chang	13255
 最后一次	zui hou yi ci	99120
 最后一次的	zui hou yi ci de	3275
+最后一次联系	zui hou yi ci lian xi	111
 最后一个	zui hou yi ge	139935
 最后一公里	zui hou yi gong li	3610
 最后一集	zui hou yi ji	9999
@@ -532445,12 +533339,16 @@ sort: by_weight
 最近访问	zui jin fang wen	4065
 最近更新	zui jin geng xin	32805
 最近公共祖先	zui jin gong gong zu xian	1555
+最近还好	zui jin hai hao	111
+最近还好吧	zui jin hai hao ba	111
 最近还好吗	zui jin hai hao ma	470
 最近好吗	zui jin hao ma	1330
 最近很忙吗	zui jin hen mang ma	135
 最近几年	zui jin ji nian	31455
 最近几天	zui jin ji tian	8065
 最近可好	zui jin ke hao	505
+最近联系	zui jin lian xi	111
+最近联系人	zui jin lian xi ren	111
 最近两年	zui jin liang nian	8325
 最近流行	zui jin liu xing	3205
 最近忙不	zui jin mang bu	45
