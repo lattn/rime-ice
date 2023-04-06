@@ -1499,10 +1499,11 @@
 # 「豆夹」→「豆荚」
 # 「张驰有度」→「张弛有度」
 # 「出场设置」→「出厂设置」
+# 「泼口大骂」→「破口大骂」
 #///
 ---
 name: base
-version: "2023-04-05"
+version: "2023-04-06"
 sort: by_weight
 ...
 # +_+
@@ -16201,8 +16202,8 @@ sort: by_weight
 保守主义	bao shou zhu yi	10615
 报数	bao shu	5910
 保熟	bao shu	5700
-宝树	bao shu	5600
-宝书	bao shu	2970
+宝树	bao shu	3
+宝书	bao shu	2
 枹树	bao shu	1
 曝书见竹	bao shu jian zhu	1
 鲍叔牙	bao shu ya	2485
@@ -32582,7 +32583,7 @@ sort: by_weight
 不开心呢	bu kai xin ne	223
 不开眼	bu kai yan	870
 不看	bu kan	101160
-不堪	bu kan	80070
+不堪	bu kan	8007
 不刊登	bu kan deng	1795
 不堪逢苦热	bu kan feng ku re	1
 不看佛面看金面	bu kan fo mian kan jin mian	1
@@ -34794,6 +34795,7 @@ sort: by_weight
 不说出	bu shuo chu	1710
 不说话	bu shuo hua	42310
 不说话了	bu shuo hua le	5480
+不说话没人当你是哑吧	bu shuo hua mei ren dang ni shi ya ba	111
 不说谎	bu shuo huang	1615
 不说就算了	bu shuo jiu suan le	250
 不说拉倒	bu shuo la dao	90
@@ -44898,6 +44900,7 @@ sort: by_weight
 常居	chang ju	296
 肠聚集性大肠杆菌	chang ju ji xing da chang gan jun	1
 长距离	chang ju li	18435
+长句子	chang ju zi	111
 长卷	chang juan	12010
 长卷毛猎犬	chang juan mao lie quan	1
 猖獗	chang jue	24300
@@ -49594,6 +49597,7 @@ sort: by_weight
 嗔着	chen zhe	215
 趁这个	chen zhe ge	5145
 沉着脸	chen zhe lian	3865
+趁着没人	chen zhe mei ren	111
 陈哲男	chen zhe nan	935
 陈真	chen zhen	5110
 陈震	chen zhen	1
@@ -55874,6 +55878,7 @@ sort: by_weight
 除此	chu ci	12425
 楚辞	chu ci	11140
 出此	chu ci	10810
+出词	chu ci	111
 初次登场	chu ci deng chang	690
 初次登台	chu ci deng tai	455
 除此而外	chu ci er wai	2385
@@ -59084,6 +59089,7 @@ sort: by_weight
 窗扉	chuang fei	760
 窗缝	chuang feng	1545
 窗格	chuang ge	16510
+创个	chuang ge	1111
 窗格中	chuang ge zhong	156
 窗格子	chuang ge zi	335
 窗钩	chuang gou	145
@@ -78463,7 +78469,7 @@ sort: by_weight
 登喜路	deng xi lu	4440
 邓希贤	deng xi xian	49
 等下	deng xia	23550
-灯下	deng xia	22590
+灯下	deng xia	2259
 等下啊	deng xia a	65
 等下班	deng xia ban	378
 灯下草虫鸣	deng xia cao chong ming	2
@@ -84595,6 +84601,7 @@ sort: by_weight
 电话铃响	dian hua ling xiang	1980
 电话录音	dian hua lu yin	7335
 电化铝	dian hua lv	2045
+电话没人接	dian hua mei ren jie	111
 碘化钠	dian hua na	400
 电话前缀	dian hua qian zhui	1
 电话窃听	dian hua qie ting	585
@@ -92022,7 +92029,10 @@ sort: by_weight
 都没了	dou mei le	16360
 都没买	dou mei mai	157
 都没人	dou mei ren	3
+都没人管	dou mei ren guan	111
+都没人管理	dou mei ren guan li	111
 都没人买	dou mei ren mai	129
+都没人知道	dou mei ren zhi dao	111
 都没什么	dou mei shen me	8740
 都没事	dou mei shi	2575
 都没睡	dou mei shui	156
@@ -103030,6 +103040,7 @@ sort: by_weight
 发现了个	fa xian le ge	330735
 发现矛盾	fa xian mao dun	525
 发现美	fa xian mei	3210
+发现没人	fa xian mei ren	111
 发现情况	fa xian qing kuang	3200
 发现权	fa xian quan	1255
 发现人	fa xian ren	3960
@@ -119538,6 +119549,9 @@ sort: by_weight
 # 嘎拉	ga la	0
 旮旯儿	ga la er	180
 伽拉狭螨	ga la xia man	1
+尬了	ga le	3333
+噶了	ga le	1111
+嘎了	ga le	111
 咖喱	ga li	44292
 咖喱菜花	ga li cai hua	44
 咖喱炒蛤	ga li chao ge	1
@@ -127952,6 +127966,9 @@ sort: by_weight
 根本就是	gen ben jiu shi	26000
 根本利益	gen ben li yi	102970
 根本没法看	gen ben mei fa kan	111
+根本没人	gen ben mei ren	111
+根本没人管	gen ben mei ren guan	111
+根本没人用	gen ben mei ren yong	111
 根本目的	gen ben mu di	18410
 根本扭转	gen ben niu zhuan	2725
 根本任务	gen ben ren wu	21515
@@ -127995,11 +128012,13 @@ sort: by_weight
 跟单员	gen dan yuan	12905
 跟到	gen dao	7015
 根刀菜	gen dao cai	1
-根的	gen de	25150
+跟得	gen de	7777
 跟的	gen de	6970
+根的	gen de	25
 跟得比	gen de bi	70
 跟的牌	gen de pai	1
 跟得上	gen de shang	4980
+跟得太	gen de tai	111
 根德营子乡	gen de ying zi xiang	1
 根底	gen di	6325
 根蒂	gen di	860
@@ -147855,6 +147874,7 @@ sort: by_weight
 海子角社区	hai zi jiao she qu	1
 海子角西里	hai zi jiao xi li	4
 海字口	hai zi kou	3
+孩子没人带	hai zi mei ren dai	111
 孩子们	hai zi men	285260
 孩子呢	hai zi ne	8680
 孩子气	hai zi qi	11850
@@ -159842,6 +159862,7 @@ sort: by_weight
 后面还有	hou mian hai you	63
 猴面花	hou mian hua	3
 后面就	hou mian jiu	64
+后面没人	hou mian mei ren	111
 后面再补	hou mian zai bu	68
 后面站	hou mian zhan	325
 候命	hou ming	890
@@ -174795,6 +174816,7 @@ sort: by_weight
 基本路线	ji ben lu xian	24110
 基本落实	ji ben luo shi	100
 基本矛盾	ji ben mao dun	5855
+基本没人	ji ben mei ren	111
 基本面	ji ben mian	45785
 基本苗	ji ben miao	2225
 基本名	ji ben ming	390
@@ -176639,6 +176661,8 @@ sort: by_weight
 及户口本	ji hu kou ben	68
 几乎每	ji hu mei	4437
 几乎每次	ji hu mei ci	3600
+几乎没人	ji hu mei ren	111
+几乎没人知道	ji hu mei ren zhi dao	111
 几乎每天	ji hu mei tian	15565
 几乎没有	ji hu mei you	115580
 几乎全部	ji hu quan bu	23535
@@ -182763,6 +182787,7 @@ sort: by_weight
 加里曼丹长尾阔嘴鸟	jia li man dan chang wei kuo zui niao	1
 加里曼丹岛	jia li man dan dao	645
 加里曼黄粉蝶	jia li man huang fen die	1
+家里没人	jia li mei ren	111
 家里面	jia li mian	5040
 加利纳	jia li na	5
 加利那小鹟	jia li na xiao weng	1
@@ -205183,6 +205208,8 @@ sort: by_weight
 就看你	jiu kan ni	12000
 就看透了	jiu kan tou le	75
 就看着	jiu kan zhe	2500
+就靠	jiu kao	5555
+就考	jiu kao	111
 就靠他	jiu kao ta	333
 就靠她	jiu kao ta	222
 就靠它	jiu kao ta	111
@@ -216075,6 +216102,7 @@ sort: by_weight
 可怜今夕月	ke lian jin xi yue	3
 可怜九月初三夜	ke lian jiu yue chu san ye	4
 可怜了	ke lian le	4425
+可怜没人爱	ke lian mei ren ai	111
 可怜青冢已芜没	ke lian qing zhong yi wu mei	1
 可怜人	ke lian ren	2745
 可怜身上衣正单	ke lian shen shang yi zheng dan	6
@@ -217323,6 +217351,8 @@ sort: by_weight
 可以包括	ke yi bao kuo	8230
 可以保险	ke yi bao xian	45
 可以被	ke yi bei	73
+刻意避开	ke yi bi kai	222
+可以避开	ke yi bi kai	111
 可以避免	ke yi bi mian	41760
 可以变换	ke yi bian huan	1240
 可以编辑	ke yi bian ji	18165
@@ -225793,6 +225823,8 @@ sort: by_weight
 老船长	lao chuan zhang	300
 酪醇	lao chun	1
 劳春燕	lao chun yan	659
+老词	lao ci	1111
+老词儿	lao ci er	111
 老粗	lao cu	1350
 劳瘁	lao cui	999
 劳村	lao cun	32
@@ -255501,7 +255533,7 @@ sort: by_weight
 梅尔维尔鲸	mei er wei er jing	1
 美尔雅	mei er ya	5175
 没法	mei fa	96430
-美发	mei fa	53795
+美发	mei fa	5379
 美法	mei fa	1875
 没法办	mei fa ban	111
 没法保证	mei fa bao zheng	111
@@ -255587,6 +255619,7 @@ sort: by_weight
 没法想象	mei fa xiang xiang	111
 没法写	mei fa xie	68
 没法修	mei fa xiu	111
+没法修改	mei fa xiu gai	111
 没法选	mei fa xuan	111
 没法学	mei fa xue	111
 美发学校	mei fa xue xiao	275
@@ -257031,6 +257064,7 @@ sort: by_weight
 每千克	mei qian ke	8490
 没钱了	mei qian le	6100
 没钱买	mei qian mai	6990
+没钱没人脉	mei qian mei ren mai	111
 没签名	mei qian ming	77
 每千人	mei qian ren	4270
 没前途	mei qian tu	2520
@@ -257085,67 +257119,268 @@ sort: by_weight
 魅人	mei ren	625
 美仁	mei ren	13
 没人啊	mei ren a	815
+没人爱	mei ren ai	111
+没人帮	mei ren bang	111
+没人帮忙	mei ren bang mang	111
 美人豹	mei ren bao	4980
 没人报	mei ren bao	747
 没人比你	mei ren bi ni	9999
 没人逼你	mei ren bi ni	1111
+没人比我	mei ren bi wo	111
+没人比我更	mei ren bi wo geng	111
+没人比我更懂	mei ren bi wo geng dong	111
 美人不坏	mei ren bu huai	1
 美人不来空断肠	mei ren bu lai kong duan chang	1
+没人不喜欢	mei ren bu xi huan	111
+没人不知道	mei ren bu zhi dao	111
+没人才	mei ren cai	111
+没人查	mei ren cha	111
+没人唱	mei ren chang	111
+没人抄	mei ren chao	111
+没人吃	mei ren chi	111
 美人迟暮	mei ren chi mu	995
+没人宠	mei ren chong	111
+没人出	mei ren chu	111
 美人出南国	mei ren chu nan guo	1
 美仁村	mei ren cun	1
+没人打	mei ren da	111
+没人搭理	mei ren da li	111
+没人打扰	mei ren da rao	111
+没人带	mei ren dai	111
+没人带孩子	mei ren dai hai zi	111
+没人的地方	mei ren de di fang	111
+没人点	mei ren dian	111
+没人点赞	mei ren dian zan	111
+没人懂	mei ren dong	111
 美人儿	mei ren er	8945
 每人而悦之	mei ren er yue zhi	1
+没人发现	mei ren fa xian	111
+没人发现我	mei ren fa xian wo	111
 没人敢	mei ren gan	9999
 没人干	mei ren gan	1111
 美人肝	mei ren gan	1
+没人敢称	mei ren gan cheng	111
+没人敢称第一	mei ren gan cheng di yi	111
+没人敢动	mei ren gan dong	111
+没人敢管	mei ren gan guan	111
+没人敢接	mei ren gan jie	111
+没人敢接的	mei ren gan jie de	111
+没人敢买	mei ren gan mai	111
+没人敢碰	mei ren gan peng	111
+没人敢娶	mei ren gan qu	111
+没人敢惹	mei ren gan re	111
+没人敢说	mei ren gan shuo	111
+没人敢说第一	mei ren gan shuo di yi	111
+没人敢追	mei ren gan zhui	111
+没人敢做	mei ren gan zuo	111
+没人告诉	mei ren gao su	111
 没人跟	mei ren gen	199
+没人跟你抢	mei ren gen ni qiang	111
 美人沟	mei ren gou	2
 没人管	mei ren guan	8425
 美人关	mei ren guan	1415
+没人管得了	mei ren guan de liao	111
+没人管得了你	mei ren guan de liao ni	111
+没人管得了你了	mei ren guan de liao ni le	111
+没人管得了你了是吧	mei ren guan de liao ni le shi ba	111
+没人管了	mei ren guan le	111
+没人管理	mei ren guan li	111
+没人关心	mei ren guan xin	111
+没人关注	mei ren guan zhu	111
 没任何	mei ren he	6845
+没人喝	mei ren he	111
+没人喝酒	mei ren he jiu	111
+没人黑	mei ren hei	111
+没人哄	mei ren hong	111
 美人红	mei ren hong	8
+没人怀疑	mei ren huai yi	111
+没人会	mei ren hui	111
+没人会看	mei ren hui kan	111
+没人会喜欢	mei ren hui xi huan	111
+没人会想到	mei ren hui xiang dao	111
+没人会相信	mei ren hui xiang xin	111
+没人会在乎	mei ren hui zai hu	111
+没人会在意	mei ren hui zai yi	111
+没人会知道	mei ren hui zhi dao	111
 美人计	mei ren ji	8220
+没人记得	mei ren ji de	111
+没人记得你	mei ren ji de ni	111
+没人记得你们	mei ren ji de ni men	111
+没人记得他	mei ren ji de ta	333
+没人记得她	mei ren ji de ta	222
+没人记得它	mei ren ji de ta	1
+没人记得他们	mei ren ji de ta men	333
+没人记得她们	mei ren ji de ta men	222
+没人记得它们	mei ren ji de ta men	1
+没人记得我	mei ren ji de wo	111
+没人记得我们	mei ren ji de wo men	111
+没人捡	mei ren jian	111
+没人见过	mei ren jian guo	111
 美人蕉	mei ren jiao	3455
+没人教	mei ren jiao	111
 没人接	mei ren jie	6595
+没人接盘	mei ren jie pan	111
 没人进	mei ren jin	300
+没人救	mei ren jiu	111
+没人居住	mei ren ju zhu	111
 美人卷珠帘	mei ren juan zhu lian	3
 没人开	mei ren kai	111
 没人看	mei ren kan	3710
+没人看到	mei ren kan dao	111
+没人看过	mei ren kan guo	111
+没人看好	mei ren kan hao	111
+没人看见	mei ren kan jian	111
+没人看见我	mei ren kan jian wo	111
+没人看见我进来	mei ren kan jian wo jin lai	111
+没人考虑	mei ren kao lv	111
+没人考虑过	mei ren kao lv guo	111
+没人可说	mei ren ke shuo	111
 没人来	mei ren lai	6640
 美人懒态燕脂愁	mei ren lan tai yan zhi chou	1
+没人了	mei ren le	111
 没人理	mei ren li	3400
+没人理会	mei ren li hui	111
+没人理解	mei ren li jie	111
+没人理我	mei ren li wo	111
+没人领	mei ren ling	111
+没人吗	mei ren ma	111
+没人骂	mei ren ma	111
+没人买	mei ren mai	111
+没人卖	mei ren mai	111
+没人脉	mei ren mai	111
 美人梅	mei ren mei	1540
 每人每次	mei ren mei ci	3145
 每人每年	mei ren mei nian	19245
 每人每天	mei ren mei tian	19830
 没仁没义	mei ren mei yi	1
 美人面	mei ren mian	3
+没人拿	mei ren na	111
+没人拿走	mei ren na zou	111
+没人能	mei ren neng	111
+没人能比	mei ren neng bi	111
+没人能懂	mei ren neng dong	111
+没人能管	mei ren neng guan	111
+没人能管理	mei ren neng guan li	111
+没人能救	mei ren neng jiu	111
+没人能说	mei ren neng shuo	111
+没人能想到	mei ren neng xiang dao	111
+没人能知道	mei ren neng zhi dao	111
+没人能做	mei ren neng zuo	111
+没人能做到	mei ren neng zuo dao	111
 没人陪	mei ren pei	1111
+没人陪伴	mei ren pei ban	111
+没人陪我玩	mei ren pei wo wan	111
+没人品	mei ren pin	111
+没人评论	mei ren ping lun	111
+没人气	mei ren qi	111
+没人抢	mei ren qiang	111
+没人请	mei ren qing	111
+没人请客	mei ren qing ke	111
+没人情味	mei ren qing wei	111
+没人娶	mei ren qu	111
 没人去	mei ren qu	12
+没人权	mei ren quan	111
+没人认领	mei ren ren ling	111
+没人认识	mei ren ren shi	111
+没人认识你	mei ren ren shi ni	111
+没人认识你们	mei ren ren shi ni men	111
+没人认识他	mei ren ren shi ta	333
+没人认识她	mei ren ren shi ta	222
+没人认识它	mei ren ren shi ta	1
+没人认识他们	mei ren ren shi ta men	333
+没人认识她们	mei ren ren shi ta men	222
+没人认识它们	mei ren ren shi ta men	1
+没人认识我	mei ren ren shi wo	111
+没人认识我们	mei ren ren shi wo men	111
 美人如花隔云端	mei ren ru hua ge yun duan	9
 没人时	mei ren shi	625
 没认识	mei ren shi	510
+没人收	mei ren shou	111
+没人收购	mei ren shou gou	111
 美人首饰侯王印	mei ren shou shi hou wang yin	2
+没人收走	mei ren shou zou	111
+没人说	mei ren shuo	111
+没人说话	mei ren shuo hua	111
+没人说你啥	mei ren shuo ni sha	111
+没人送	mei ren song	111
+没人送礼	mei ren song li	111
 美人踏上歌舞来	mei ren ta shang ge wu lai	1
 没人疼	mei ren teng	1040
+没人疼爱	mei ren teng ai	111
+没人疼的	mei ren teng de	111
+没人疼没人爱	mei ren teng mei ren ai	111
+没人提	mei ren ti	111
+没人提醒	mei ren ti xing	111
+没人听	mei ren ting	111
+没人同情	mei ren tong qing	111
 没人投入	mei ren tou ru	75
+没人玩	mei ren wan	111
+没人玩儿	mei ren wan er	111
+没人味	mei ren wei	111
+没人味儿	mei ren wei er	111
+没人问	mei ren wen	111
+没人问候	mei ren wen hou	111
 没任务	mei ren wu	548
+没人稀罕	mei ren xi han	111
+没人喜欢	mei ren xi huan	111
 美人香草	mei ren xiang cao	19
+没人想到	mei ren xiang dao	111
+没人相信	mei ren xiang xin	111
+没人信	mei ren xin	111
 美人心机	mei ren xin ji	1005
+没人心疼	mei ren xin teng	111
 没人性	mei ren xing	2390
+没人修	mei ren xiu	111
+没人选	mei ren xuan	111
+没人烟	mei ren yan	111
+没人养	mei ren yang	111
 没人要	mei ren yao	4885
 没人要啊	mei ren yao a	190
+没人要的	mei ren yao de	111
+没人要的孩子	mei ren yao de hai zi	111
+没人要的小孩	mei ren yao de xiao hai	111
 美人一笑褰珠箔	mei ren yi xiao qian zhu bo	2
+没人用	mei ren yong	111
+没人用过	mei ren yong guo	111
 美人鱼	mei ren yu	23885
+没人愿	mei ren yuan	111
+没人缘	mei ren yuan	111
+没人愿意	mei ren yuan yi	111
+没人愿意来	mei ren yuan yi lai	111
+没人愿意做	mei ren yuan yi zuo	111
 没人约	mei ren yue	637
 每人月	mei ren yue	12
 没人在	mei ren zai	386
+没人在乎	mei ren zai hu	111
+没人在家	mei ren zai jia	111
 美人在时花满堂	mei ren zai shi hua man tang	1
+没人在意	mei ren zai yi	111
 美人帐下犹歌舞	mei ren zhang xia you ge wu	2
+没人找	mei ren zhao	111
+没人罩	mei ren zhao	111
+没人找到	mei ren zhao dao	111
+没人照顾	mei ren zhao gu	111
+没人照看	mei ren zhao kan	111
+没人罩着	mei ren zhao zhe	111
 美人痣	mei ren zhi	1525
 没人知	mei ren zhi	1195
 美人志	mei ren zhi	189
+没人支持	mei ren zhi chi	111
+没人指导	mei ren zhi dao	111
+没人知道	mei ren zhi dao	111
+没人种	mei ren zhong	111
+没人种地	mei ren zhong di	111
+没人住	mei ren zhu	111
+没人注意	mei ren zhu yi	111
+没人注意到	mei ren zhu yi dao	111
+没人抓	mei ren zhua	111
+没人抓捕	mei ren zhua bu	111
+没人抓住	mei ren zhua zhu	111
+没人追	mei ren zhui	111
+没人追求	mei ren zhui qiu	111
+没人做	mei ren zuo	111
+没人坐	mei ren zuo	111
+没人做饭	mei ren zuo fan	111
 每日	mei ri	500254
 美日	mei ri	26795
 每日报平安	mei ri bao ping an	1
@@ -279786,7 +280021,8 @@ sort: by_weight
 农艺	nong yi	7245
 弄一把	nong yi ba	83
 弄一次	nong yi ci	73
-弄一点	nong yi dian	71
+弄一点	nong yi dian	710
+浓一点	nong yi dian	11
 弄一份	nong yi fen	12
 弄一个	nong yi ge	12
 农艺师	nong yi shi	11155
@@ -289844,7 +290080,6 @@ sort: by_weight
 破空	po kong	11915
 破口	po kou	5610
 破口大骂	po kou da ma	16540
-泼口大骂	po kou da ma	111
 破口而出	po kou er chu	111
 破口怒骂	po kou nu ma	2
 破口伤人	po kou shang ren	111
@@ -319701,6 +319936,7 @@ sort: by_weight
 若轻云之蔽月	ruo qing yun zhi bi yue	1
 若然	ruo ran	6525
 若热	ruo re	860
+若人	ruo ren	3333
 弱肉强食	ruo rou qiang shi	8350
 若入前为寿	ruo ru qian wei shou	1
 弱弱	ruo ruo	1111
@@ -322041,6 +322277,7 @@ sort: by_weight
 三年后	san nian hou	24490
 三年化碧	san nian hua bi	275
 三年级	san nian ji	89855
+三年级的美女没人追	san nian ji de mei nv mei ren zhui	111
 三年计划	san nian ji hua	1040
 三年来	san nian lai	31735
 三年流落巴山道	san nian liu luo ba shan dao	1
@@ -329450,6 +329687,7 @@ sort: by_weight
 上学年	shang xue nian	156
 上学期	shang xue qi	29060
 上学时	shang xue shi	9680
+上学时没人追	shang xue shi mei ren zhui	111
 尚学堂	shang xue tang	586
 商学系	shang xue xi	405
 上学校	shang xue xiao	1970
@@ -331994,6 +332232,7 @@ sort: by_weight
 蛇纹	she wen	1965
 舌吻	she wen	1195
 蛇纹石	she wen shi	1695
+射我	she wo	1111
 蛇窝	she wo	58
 舍我其谁	she wo qi shei	6250
 舍我其谁也	she wo qi shei ye	7
@@ -332575,6 +332814,7 @@ sort: by_weight
 申辩	shen bian	36305
 神鞭	shen bian	2110
 身边的人和事	shen bian de ren he shi	111
+身边没人	shen bian mei ren	111
 申辩权	shen bian quan	3655
 身边人	shen bian ren	5950
 身边走过	shen bian zou guo	5305
@@ -343838,6 +344078,7 @@ sort: by_weight
 时尚服饰	shi shang fu shi	7025
 时尚感	shi shang gan	9315
 试上高楼清入骨	shi shang gao lou qing ru gu	5
+世上根本没人	shi shang gen ben mei ren	111
 是上海	shi shang hai	512
 使上海	shi shang hai	387
 时尚化	shi shang hua	8295
@@ -365851,6 +366092,9 @@ sort: by_weight
 他跟我	ta gen wo	12
 他更	ta geng	43080
 她更	ta geng	22400
+他更惨	ta geng can	3333
+她更惨	ta geng can	2222
+它更惨	ta geng can	2
 塔公	ta gong	5135
 塔公草原	ta gong cao yuan	2385
 塔公寺	ta gong si	2150
@@ -367957,6 +368201,7 @@ sort: by_weight
 太美丽	tai mei li	4525
 太美丽了	tai mei li le	855
 太美妙了	tai mei miao le	1810
+太没人性	tai mei ren xing	111
 太美亚	tai mei ya	65
 太没用了	tai mei yong le	430
 太闷	tai men	1915
@@ -381285,6 +381530,8 @@ sort: by_weight
 通时合变	tong shi he bian	1
 同时呼吁	tong shi hu yu	1605
 同是宦游人	tong shi huan you ren	3
+同时会	tong shi hui	3333
+同事会	tong shi hui	11
 同事家	tong shi jia	2070
 同时间	tong shi jian	4200
 同时结合	tong shi jie he	9360
@@ -391379,6 +391626,9 @@ sort: by_weight
 王记面馆	wang ji mian guan	24
 忘记你	wang ji ni	12725
 汪继培	wang ji pei	1
+忘记签	wang ji qian	111
+王季迁	wang ji qian	1
+忘记签到	wang ji qian dao	111
 王季思	wang ji si	14
 忘记他	wang ji ta	6475
 忘记她	wang ji ta	4275
@@ -397408,13 +397658,13 @@ sort: by_weight
 威胁要	wei xie yao	2960
 威胁着	wei xie zhe	13220
 微信	wei xin	991180
-威信	wei xin	47470
-维新	wei xin	16480
-唯心	wei xin	11655
-违心	wei xin	10230
-为信	wei xin	3670
-维信	wei xin	2425
-委心	wei xin	375
+威信	wei xin	4747
+唯心	wei xin	2655
+违心	wei xin	1023
+维新	wei xin	480
+委心	wei xin	2
+# 为信	wei xin	0
+# 维信	wei xin	0
 唯心辩证法	wei xin bian zheng fa	210
 维新村	wei xin cun	16
 微信登录	wei xin deng lu	603
@@ -401010,6 +401260,8 @@ sort: by_weight
 我插	wo cha	1000
 我叉	wo cha	999
 我差	wo cha	111
+我查查	wo cha cha	3333
+我叉叉	wo cha cha	111
 我差点	wo cha dian	15985
 我查过	wo cha guo	64
 我插进去	wo cha jin qu	11
@@ -406367,6 +406619,7 @@ sort: by_weight
 物理疗法	wu li liao fa	3805
 五里岭村	wu li ling cun	11
 无礼貌	wu li mao	240
+屋里没人	wu li mei ren	111
 物理媒体连接	wu li mei ti lian jie	16
 物理民情	wu li min qing	111
 物理名称	wu li ming cheng	45
@@ -419759,6 +420012,8 @@ sort: by_weight
 现状分析	xian zhuang fen xi	13495
 线装书	xian zhuang shu	2105
 仙庄乡	xian zhuang xiang	1
+掀桌	xian zhuo	3333
+献拙	xian zhuo	1111
 仙子	xian zi	63845
 弦子	xian zi	4865
 馅子	xian zi	525
@@ -431678,6 +431933,7 @@ sort: by_weight
 心理疗法	xin li liao fa	170
 心里美	xin li mei	2935
 心里没底	xin li mei di	4385
+心里没人	xin li mei ren	111
 心里迷瞪	xin li mi deng	9999
 心理描写	xin li miao xie	3440
 心里明白	xin li ming bai	8755
@@ -452924,6 +453180,7 @@ sort: by_weight
 也没买	ye mei mai	101
 也没签	ye mei qian	231
 也没钱	ye mei qian	64
+也没人	ye mei ren	111
 也没撒	ye mei sa	66
 也没什么	ye mei shen me	61050
 也没事	ye mei shi	3185
@@ -463776,7 +464033,9 @@ sort: by_weight
 一些半些	yi xie ban xie	2
 一些帮助	yi xie bang zhu	7530
 一蟹不如一蟹	yi xie bu ru yi xie	100
-一些厂	yi xie chang	460
+一些长	yi xie chang	111
+一些厂	yi xie chang	46
+一些长句子	yi xie chang ju zi	111
 一些单位	yi xie dan wei	11800
 一些地方	yi xie di fang	371
 一些东西	yi xie dong xi	34385
@@ -470342,7 +470601,8 @@ sort: by_weight
 英威	ying wei	1740
 颖维	ying wei	70
 缨尾虫	ying wei chong	1
-英伟达	ying wei da	499
+英伟达	ying wei da	9999
+英威达	ying wei da	1
 缨尾目	ying wei mu	7
 英威腾	ying wei teng	18
 硬尾鸭	ying wei ya	10
@@ -475741,6 +476001,7 @@ sort: by_weight
 又没钱	you mei qian	1780
 又没惹你	you mei re ni	93
 有没人	you mei ren	981
+又没人	you mei ren	111
 又没人逼你	you mei ren bi ni	111
 右美沙芬	you mei sha fen	41
 右美沙芬片	you mei sha fen pian	4
@@ -494925,6 +495186,7 @@ sort: by_weight
 怎么撩	zen me liao	100
 怎么落实	zen me luo shi	100
 怎么卖	zen me mai	3295
+怎么没人管	zen me mei ren guan	111
 怎么没有	zen me mei you	27395
 怎么能	zen me neng	93630
 怎么弄	zen me nong	7350
@@ -499425,6 +499687,7 @@ sort: by_weight
 找个地方	zhao ge di fang	15010
 找个活儿	zhao ge huo er	45
 找个理由	zhao ge li you	3825
+找个没人的地方	zhao ge mei ren de di fang	111
 朝歌暮舞	zhao ge mu wu	111
 朝歌暮弦	zhao ge mu xian	111
 朝歌暮宴	zhao ge mu yan	1
@@ -503654,6 +503917,7 @@ sort: by_weight
 珍眉	zhen mei	520
 珍妹	zhen mei	470
 真没劲	zhen mei jin	1565
+真没人	zhen mei ren	111
 真没啥	zhen mei sha	86
 真美诗	zhen mei shi	62
 真没想到	zhen mei xiang dao	11875
