@@ -1503,7 +1503,7 @@
 #///
 ---
 name: base
-version: "2023-04-06"
+version: "2023-04-08"
 sort: by_weight
 ...
 # +_+
@@ -13547,7 +13547,7 @@ sort: by_weight
 板屋	ban wu	655
 半雾半云	ban wu ban yun	5
 班务会	ban wu hui	470
-伴舞乐队	ban wu le dui	15
+伴舞乐队	ban wu yue dui	15
 扮戏	ban xi	9999
 半溪	ban xi	15
 半喜半忧	ban xi ban you	110
@@ -36950,7 +36950,8 @@ sort: by_weight
 不招标	bu zhao biao	78
 不着调	bu zhao diao	960
 不着急	bu zhao ji	6575
-不着了	bu zhao le	2550
+不找了	bu zhao le	5555
+不着了	bu zhao le	255
 不找零	bu zhao ling	865
 不找你	bu zhao ni	7
 不着人	bu zhao ren	265
@@ -41610,7 +41611,7 @@ sort: by_weight
 测试流程	ce shi liu cheng	1372
 测试码	ce shi ma	62
 测试命令	ce shi ming ling	1339
-测试模块	ce shi mu kuai	1240
+测试模块	ce shi mo kuai	1240
 测试篇	ce shi pian	245
 测试评估	ce shi ping gu	192
 测试评审	ce shi ping shen	53
@@ -56664,7 +56665,7 @@ sort: by_weight
 处理框	chu li kuang	13
 处理量	chu li liang	7685
 处理流	chu li liu	1585
-处理模块	chu li mu kuai	2670
+处理模块	chu li mo kuai	2670
 处理能力	chu li neng li	39055
 处理品	chu li pin	3090
 处理器调度	chu li qi diao du	451
@@ -61052,7 +61053,6 @@ sort: by_weight
 磁各庄	ci ge zhuang	33
 磁各庄桥	ci ge zhuang qiao	14
 赐给	ci gei	22355
-次给付义务	ci gei fu yi wu	29
 赐给我	ci gei wo	4610
 词根	ci gen	8825
 词根语	ci gen yu	9999
@@ -61154,6 +61154,7 @@ sort: by_weight
 刺激法	ci ji fa	955
 刺激反应	ci ji fan ying	153
 刺激粉袋	ci ji fen dai	1
+次给付义务	ci ji fu yi wu	29
 此计划	ci ji hua	3130
 次级火焰石	ci ji huo yan shi	1
 刺激剂	ci ji ji	49
@@ -62108,7 +62109,6 @@ sort: by_weight
 从各方面	cong ge fang mian	8470
 从各个	cong ge ge	13945
 从各个方面	cong ge ge fang mian	5300
-从给付义务	cong gei fu yi wu	116
 从根本上	cong gen ben shang	148915
 从公	cong gong	705
 从公司	cong gong si	1
@@ -62161,6 +62161,7 @@ sort: by_weight
 聪慧过人	cong hui guo ren	1390
 丛集	cong ji	1165
 从基本面	cong ji ben mian	2045
+从给付义务	cong ji fu yi wu	116
 葱蓟马	cong ji ma	63
 从即日起	cong ji ri qi	20520
 从技术上	cong ji shu shang	12220
@@ -72036,8 +72037,8 @@ sort: by_weight
 代位	dai wei	6700
 戴维·拜恩	dai wei bai en	111
 代韦波串房虫	dai wei bo chuan fang chong	1
-代为给付	dai wei gei fu	20
 代位继承	dai wei ji cheng	1995
+代为给付	dai wei ji fu	20
 带尾锯鲂𫚒	dai wei ju fang fu	1
 代为清偿	dai wei qing chang	1033
 代位清偿	dai wei qing chang	81
@@ -98947,6 +98948,9 @@ sort: by_weight
 摁钉	en ding	40
 恩断义绝	en duan yi jue	1140
 恩断意绝	en duan yi jue	13
+嗯对	en dui	9999
+嗯对对	en dui dui	9999
+嗯对对对	en dui dui dui	9999
 恩多成怨	en duo cheng yuan	111
 嗯嗯	en en	9999
 恩恩爱爱	en en ai ai	3390
@@ -104127,7 +104131,6 @@ sort: by_weight
 泛海酒店	fan hai jiu dian	2
 返还式	fan hai shi	87
 范海辛	fan hai xin	1335
-返还原物	fan hai yuan wu	2435
 返汉	fan han	565
 泛函分析	fan han fen xi	2240
 反函数	fan han shu	3110
@@ -104175,6 +104178,7 @@ sort: by_weight
 翻花样	fan hua yang	1180
 翻花痔	fan hua zhi	1
 返还	fan huan	169165
+返还原物	fan huan yuan wu	2435
 泛黄	fan huang	13315
 反黄	fan huang	3670
 贩黄	fan huang	760
@@ -126799,7 +126803,7 @@ sort: by_weight
 歌曲名称	ge qu ming cheng	32550
 歌曲名字	ge qu ming zi	4945
 歌曲排行	ge qu pai hang	5870
-歌曲排行榜	ge qu pai xing bang	4735
+歌曲排行榜	ge qu pai hang bang	4735
 歌曲试听	ge qu shi ting	3130
 歌曲视听	ge qu shi ting	416
 各取所长	ge qu suo chang	665
@@ -127791,7 +127795,6 @@ sort: by_weight
 给多少	gei duo shao	2960
 给方案	gei fang an	228
 给分	gei fen	14580
-给付性保险合同	gei fu xing bao xian he tong	4
 给该公司	gei gai gong si	1480
 给盖上	gei gai shang	140
 给个	gei ge	9999
@@ -129252,7 +129255,7 @@ sort: by_weight
 宫本	gong ben	111
 工本费	gong ben fei	44785
 宫本恒靖	gong ben heng jing	4
-宫本武藏	gong ben wu cang	19
+宫本武藏	gong ben wu zang	19
 宫本直毅	gong ben zhi yi	1
 工笔	gong bi	15155
 公比	gong bi	1005
@@ -146463,10 +146466,6 @@ sort: by_weight
 海枯见底	hai ku jian di	1
 海枯石烂	hai ku shi lan	7945
 还快	hai kuai	11445
-还款计划	hai kuan ji hua	7
-还款凭证	hai kuan ping zheng	68
-还款期	hai kuan qi	10
-还款至	hai kuan zhi	68
 海况	hai kuang	1585
 海葵	hai kui	9999
 海昆肾喜胶囊	hai kun shen xi jiao nang	5
@@ -154189,7 +154188,7 @@ sort: by_weight
 贺新郎	he xin lang	2320
 核心力量	he xin li liang	5445
 核心理念	he xin li nian	12965
-核心模块	he xin mu kuai	2570
+核心模块	he xin mo kuai	2570
 核心内容	he xin nei rong	26575
 核心能力	he xin neng li	19075
 贺新年	he xin nian	3120
@@ -166596,8 +166595,12 @@ sort: by_weight
 欢快的	huan kuai de	29700
 还款	huan kuan	126695
 还款额	huan kuan e	12445
+还款计划	huan kuan ji hua	7
+还款凭证	huan kuan ping zheng	68
+还款期	huan kuan qi	10
 还款钱	huan kuan qian	68
 还款页	huan kuan ye	68
+还款至	huan kuan zhi	68
 患狂犬病	huan kuang quan bing	725
 换来	huan lai	70235
 唤来	huan lai	3655
@@ -176176,6 +176179,7 @@ sort: by_weight
 肌肤若冰雪	ji fu ruo bing xue	2
 极负盛名	ji fu sheng ming	111
 集肤效应	ji fu xiao ying	10
+给付性保险合同	ji fu xing bao xian he tong	4
 骥伏盐车	ji fu yan che	111
 骥服盐车	ji fu yan che	111
 给付义务	ji fu yi wu	2230
@@ -192254,7 +192258,6 @@ sort: by_weight
 教学管理	jiao xue guan li	58680
 教学光盘	jiao xue guang pan	19375
 教学过程	jiao xue guo cheng	72930
-教学行为	jiao xue hang wei	10135
 教学环节	jiao xue huan jie	18285
 教学活动	jiao xue huo dong	51055
 教学机	jiao xue ji	390
@@ -192310,6 +192313,7 @@ sort: by_weight
 教学效果	jiao xue xiao guo	37125
 教学效率	jiao xue xiao lv	5850
 教学性	jiao xue xing	550
+教学行为	jiao xue xing wei	10135
 教学研究	jiao xue yan jiu	45705
 教学要点	jiao xue yao dian	1420
 教学仪器	jiao xue yi qi	17340
@@ -203565,14 +203569,17 @@ sort: by_weight
 精要	jing yao	13505
 竟要	jing yao	5565
 # 景耀	jing yao	0
-京药监	jing yao jian	215
+竟要见	jing yao jian	333
+京药监	jing yao jian	2
+京药监发	jing yao jian fa	111
 颈腰康胶囊	jing yao kang jiao nang	1
 敬业	jing ye	106485
 精液	jing ye	76525
 竟也	jing ye	22370
-茎叶	jing ye	9870
-静夜	jing ye	7325
-竟夜	jing ye	590
+茎叶	jing ye	1870
+静夜	jing ye	1325
+京爷	jing ye	111
+竟夜	jing ye	3
 井野	jing ye	2
 敬业爱岗	jing ye ai gang	6590
 精液常规检查	jing ye chang gui jian cha	20
@@ -220088,6 +220095,7 @@ sort: by_weight
 枯苗望雨	ku miao wang yu	1
 苦命	ku ming	9740
 苦命的人	ku ming de ren	495
+库模块	ku mo kuai	265
 枯木	ku mu	8070
 库姆	ku mu	2525
 苦木	ku mu	7
@@ -220097,7 +220105,6 @@ sort: by_weight
 枯木逢春	ku mu feng chun	1495
 枯木怪石图	ku mu guai shi tu	5
 枯木花开	ku mu hua kai	111
-库模块	ku mu kuai	265
 枯木猫	ku mu mao	1
 枯木生花	ku mu sheng hua	111
 枯木死灰	ku mu si hui	111
@@ -242620,9 +242627,9 @@ sort: by_weight
 # 流洋	liu yang	0
 刘杨村	liu yang cun	9
 浏阳道	liu yang dao	1
-硫氧还蛋白还原酶	liu yang hai dan bai huan yuan mei	1
 浏阳河	liu yang he	5185
 浏阳河路	liu yang he lu	42
+硫氧还蛋白还原酶	liu yang huan dan bai huan yuan mei	1
 浏阳茴饼	liu yang hui bing	15
 六阳会首	liu yang hui shou	111
 六阳魁首	liu yang kui shou	111
@@ -265844,10 +265851,13 @@ sort: by_weight
 模块化方法	mo kuai hua fang fa	116
 模块化开发	mo kuai hua kai fa	954
 模块加载	mo kuai jia zai	3244
+模块结构	mo kuai jie gou	1490
 模块开发	mo kuai kai fa	1689
+模块名	mo kuai ming	940
 模块驱动	mo kuai qu dong	288
 模块设计	mo kuai she ji	3090
 模块外	mo kuai wai	1029
+模块文件	mo kuai wen jian	745
 模块问题	mo kuai wen ti	54
 模块箱	mo kuai xiang	290
 模块性	mo kuai xing	424
@@ -267834,9 +267844,6 @@ sort: by_weight
 目空余子	mu kong yu zi	1
 木口亚矢	mu kou ya shi	1
 木块	mu kuai	10980
-模块结构	mu kuai jie gou	1490
-模块名	mu kuai ming	940
-模块文件	mu kuai wen jian	745
 募款	mu kuan	2775
 钼矿	mu kuang	3530
 木框	mu kuang	2740
@@ -283057,8 +283064,8 @@ sort: by_weight
 盘庚迁殷	pan geng qian yin	385
 泮宫	pan gong	250
 攀供	pan gong	60
-判工行为	pan gong hang wei	3
 潘恭寿	pan gong shou	1
+判工行为	pan gong xing wei	3
 盘古	pan gu	21905
 盘古宾馆	pan gu bin guan	64
 盘古开天地	pan gu kai tian di	1165
@@ -288770,8 +288777,6 @@ sort: by_weight
 苹果主题	ping guo zhu ti	378
 平海公寓	ping hai gong yu	8
 平海路	ping hai lu	195
-平行处理	ping hang chu li	320
-平行坐标	ping hang zuo biao	5
 平和	ping he	119605
 评核	ping he	4550
 凭河暴虎	ping he bao hu	111
@@ -289584,6 +289589,7 @@ sort: by_weight
 平行测定	ping xing ce ding	975
 平行长逍遥蛛	ping xing chang xiao yao zhu	1
 平行长蟹蛛	ping xing chang xie zhu	1
+平行处理	ping xing chu li	320
 平行度	ping xing du	2275
 平行盾板蛛	ping xing dun ban zhu	1
 平行发展	ping xing fa zhan	840
@@ -289608,6 +289614,7 @@ sort: by_weight
 平行于	ping xing yu	4665
 平行语料库	ping xing yu liao ku	86
 平行直线	ping xing zhi xian	455
+平行坐标	ping xing zuo biao	5
 平行作业	ping xing zuo ye	245
 平胸	ping xiong	4930
 平胸超目	ping xiong chao mu	1
@@ -304015,7 +304022,7 @@ sort: by_weight
 清坑	qing keng	1
 青坑水库	qing keng shui ku	27
 清空	qing kong	56955
-晴空	qing kong	20450
+晴空	qing kong	2045
 晴空霹雳	qing kong pi li	111
 清空前	qing kong qian	1180
 晴空如洗	qing kong ru xi	50
@@ -319199,8 +319206,8 @@ sort: by_weight
 软件类型	ruan jian lei xing	70310
 软件描述	ruan jian miao shu	3040
 软件名称	ruan jian ming cheng	129360
+软件模块	ruan jian mo kuai	3360
 软件模拟	ruan jian mo ni	1555
-软件模块	ruan jian mu kuai	3360
 软件目录	ruan jian mu lu	1140
 软件能力	ruan jian neng li	1075
 软件逆向	ruan jian ni xiang	59
@@ -334105,7 +334112,7 @@ sort: by_weight
 审美	shen mei	133445
 申梅	shen mei	4
 审美标准	shen mei biao zhun	4380
-审美差异	shen mei chai yi	165
+审美差异	shen mei cha yi	165
 审美对象	shen mei dui xiang	1965
 审美感受	shen mei gan shou	1810
 审美观	shen mei guan	17795
@@ -343365,7 +343372,7 @@ sort: by_weight
 食品生产	shi pin sheng chan	74575
 食品市场	shi pin shi chang	11155
 视频输出	shi pin shu chu	16245
-视频数据	shi pin shuo ju	4035
+视频数据	shi pin shu ju	4035
 视频缩略图	shi pin suo lve tu	438
 食品摊	shi pin tan	195
 食品添加剂	shi pin tian jia ji	42740
@@ -352065,8 +352072,8 @@ sort: by_weight
 输入脉冲	shu ru mai chong	90
 输入密码	shu ru mi ma	31335
 输入命令	shu ru ming ling	5815
+输入模块	shu ru mo kuai	2860
 输入模式	shu ru mo shi	2292
-输入模块	shu ru mu kuai	2860
 输入能	shu ru neng	30
 鼠入牛角	shu ru niu jiao	1
 输入区	shu ru qu	935
@@ -355705,7 +355712,7 @@ sort: by_weight
 水米无交	shui mi wu jiao	9999
 水密性	shui mi xing	1145
 睡眠	shui mian	210445
-水面	shui mian	129610
+水面	shui mian	1296
 睡眠不足	shui mian bu zu	15895
 水面初平云脚低	shui mian chu ping yun jiao di	1
 睡眠方式	shui mian fang shi	600
@@ -383801,7 +383808,6 @@ sort: by_weight
 投资规划	tou zi gui hua	2145
 投资规模	tou zi gui mo	37960
 投资国	tou zi guo	2025
-投资行为	tou zi hang wei	12490
 投资合同	tou zi he tong	1805
 投资环境	tou zi huan jing	89990
 投资回报	tou zi hui bao	34415
@@ -383870,6 +383876,7 @@ sort: by_weight
 投资性	tou zi xing	22200
 投资型	tou zi xing	8560
 偷自行车	tou zi xing che	510
+投资行为	tou zi xing wei	12490
 投资需求	tou zi xu qiu	11510
 投资选择	tou zi xuan ze	3075
 投资学	tou zi xue	4705
@@ -413715,11 +413722,11 @@ sort: by_weight
 系统描述	xi tong miao shu	845
 系统名	xi tong ming	1085
 系统命令	xi tong ming ling	3482
+系统模块	xi tong mo kuai	2570
 系统模拟	xi tong mo ni	195
 系统默认	xi tong mo ren	8980
 系统模型	xi tong mo xing	2865
 系统目标	xi tong mu biao	1695
-系统模块	xi tong mu kuai	2570
 系统目录	xi tong mu lu	10105
 系统目录表	xi tong mu lu biao	13
 系统内存	xi tong nei cun	9755
@@ -415230,7 +415237,7 @@ sort: by_weight
 瑕疵出资股东	xia ci chu zi gu dong	12
 瑕疵担保	xia ci dan bao	1647
 瑕疵担保责任	xia ci dan bao ze ren	1134
-瑕疵给付	xia ci gei fu	33
+瑕疵给付	xia ci ji fu	33
 下次见	xia ci jian	1380
 下次课	xia ci ke	77
 下次聊	xia ci liao	90
@@ -416832,7 +416839,7 @@ sort: by_weight
 下载量	xia zai liang	15090
 下载铃声	xia zai ling sheng	6840
 下载免费	xia zai mian fei	7770
-下载排行	xia zai pai xing	36640
+下载排行	xia zai pai hang	36640
 下载器	xia zai qi	9240
 下载区	xia zai qu	14870
 下载软件	xia zai ruan jian	56200
@@ -440895,7 +440902,6 @@ sort: by_weight
 选择管	xuan ze guan	8
 选择过	xuan ze guo	1350
 选择过程	xuan ze guo cheng	1880
-选择行为	xuan ze hang wei	905
 选择好	xuan ze hao	22025
 选择机会	xuan ze ji hui	4665
 选择记录	xuan ze ji lu	315
@@ -440954,6 +440960,7 @@ sort: by_weight
 选择性合同	xuan ze xing he tong	12
 选择性缄默症	xuan ze xing jian mo zheng	5
 选择性培养基	xuan ze xing pei yang ji	1
+选择行为	xuan ze xing wei	905
 选择性注意	xuan ze xing zhu yi	9
 选择压力	xuan ze ya li	30
 选择者	xuan ze zhe	870
@@ -448805,9 +448812,9 @@ sort: by_weight
 氧化钴	yang hua gu	1450
 氧化硅	yang hua gui	100
 氧化过程	yang hua guo cheng	1380
-氧化还原反应	yang hua hai yuan fan ying	4635
 氧化还原	yang hua huan yuan	4110
 氧化还原电位	yang hua huan yuan dian wei	22
+氧化还原反应	yang hua huan yuan fan ying	4635
 氧化剂	yang hua ji	12755
 氧化技术	yang hua ji shu	765
 氧化钾	yang hua jia	1340
@@ -467593,9 +467600,9 @@ sort: by_weight
 音频设备	yin pin she bei	6100
 音频视频	yin pin shi pin	6105
 音频输出	yin pin shu chu	13600
+音频数据	yin pin shu ju	3100
 音频数据库	yin pin shu ju ku	32
 音频输入	yin pin shu ru	9930
-音频数据	yin pin shuo ju	3100
 音频文件	yin pin wen jian	22825
 音频线	yin pin xian	4800
 音频信号	yin pin xin hao	10905
@@ -468653,7 +468660,7 @@ sort: by_weight
 音乐疗法	yin yue liao fa	1490
 音乐录影	yin yue lu ying	102
 音乐迷	yin yue mi	1120
-音乐排行榜	yin yue pai xing bang	2250
+音乐排行榜	yin yue pai hang bang	2250
 音乐喷泉	yin yue pen quan	6745
 音乐片	yin yue pian	1590
 音乐品	yin yue pin	15
@@ -469720,7 +469727,7 @@ sort: by_weight
 赢奸卖俏	ying jian mai qiao	3
 嬴奸买俏	ying jian mai qiao	1
 硬件描述语言	ying jian miao shu yu yan	211
-硬件模块	ying jian mu kuai	665
+硬件模块	ying jian mo kuai	665
 硬件配置	ying jian pei zhi	22250
 硬件配置文件	ying jian pei zhi wen jian	2065
 硬件平台	ying jian ping tai	11090
@@ -478991,7 +478998,7 @@ sort: by_weight
 优裕	you yu	4185
 幼鱼	you yu	3805
 优育	you yu	1600
-优遇	you yu	650
+优遇	you yu	2
 # 友于	you yu	0
 # 友渔	you yu	0
 # 右玉	you yu	0
@@ -489111,8 +489118,6 @@ sort: by_weight
 蕴涵式	yun han shi	40
 蕴含式	yun han shi	2
 蕴含着	yun han zhe	24565
-运行参数	yun hang can shu	4175
-运行数据	yun hang shu ju	2755
 运河	yun he	57615
 云和	yun he	16075
 云鹤	yun he	5910
@@ -489795,6 +489800,7 @@ sort: by_weight
 运行报错	yun xing bao cuo	1072
 运行比	yun xing bi	415
 运行不了	yun xing bu liao	111
+运行参数	yun xing can shu	4175
 运行测试	yun xing ce shi	8323
 运行成本	yun xing cheng ben	12515
 运行程序	yun xing cheng xu	18165
@@ -489842,6 +489848,7 @@ sort: by_weight
 运行时权限	yun xing shi quan xian	726
 运行时异常	yun xing shi yi chang	5197
 运行时诊断	yun xing shi zhen duan	15
+运行数据	yun xing shu ju	2755
 运行速度	yun xing su du	32240
 运行态	yun xing tai	12
 运行特性	yun xing te xing	645
@@ -492840,7 +492847,7 @@ sort: by_weight
 在线公司	zai xian gong si	1200
 在线购物	zai xian gou wu	10900
 在线观看	zai xian guan kan	48100
-再现还原	zai xian hai yuan	75
+再现还原	zai xian huan yuan	75
 在线回复	zai xian hui fu	1460
 在线激情	zai xian ji qing	585
 在线技术	zai xian ji shu	6695
@@ -501021,8 +501028,8 @@ sort: by_weight
 这本身	zhe ben shen	17840
 这本书	zhe ben shu	99355
 这比	zhe bi	75825
-这笔	zhe bi	66950
-遮蔽	zhe bi	26055
+这笔	zhe bi	6695
+遮蔽	zhe bi	2605
 遮蔽了	zhe bi le	213
 这比那	zhe bi na	64
 这笔钱	zhe bi qian	30695
@@ -511096,8 +511103,8 @@ sort: by_weight
 之声音	zhi sheng yin	470
 制胜之道	zhi sheng zhi dao	1725
 至圣至明	zhi sheng zhi ming	4
-只是	zhi shi	501362
-知识	zhi shi	500969
+只是	zhi shi	901362
+知识	zhi shi	309969
 之时	zhi shi	308510
 指示	zhi shi	298860
 致使	zhi shi	284405
@@ -516204,12 +516211,12 @@ sort: by_weight
 中间中华乳齿象	zhong jian zhong hua ru chi xiang	1
 中间轴常啮合齿轮	zhong jian zhou chang nie he chi lun	3
 中间状态	zhong jian zhuang tai	1630
-中将	zhong jiang	135760
 中奖	zhong jiang	106960
 终将	zhong jiang	47900
-重奖	zhong jiang	17130
-众将	zhong jiang	15195
-中江	zhong jiang	7205
+重奖	zhong jiang	1130
+中将	zhong jiang	376
+众将	zhong jiang	151
+# 中江	zhong jiang	0
 中奖彩票	zhong jiang cai piao	4510
 中江地产	zhong jiang di chan	2
 中江挂面	zhong jiang gua mian	44
