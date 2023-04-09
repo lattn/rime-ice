@@ -8,7 +8,6 @@
 #
 # 词库组成：
 # - [华宇野风系统词库](http://bbs.pinyin.thunisoft.com/forum.php?mod=viewthread&tid=30049)
-# - [华宇拼音输入法官方词库](https://pinyin.thunisoft.com/index.html)，感谢 @Huandeep 整理 https://github.com/iDvel/rime-ice/issues/56
 # - [清华大学开源词库](https://github.com/thunlp/THUOCL)
 # - [现代汉语常用词表](https://gist.github.com/indiejoseph/eae09c673460aa0b56db)
 # - [现代汉语词典](https://forum.freemdict.com/t/topic/12102)，感谢 @Huandeep 整理 https://github.com/iDvel/rime-ice/issues/11
@@ -1501,10 +1500,20 @@
 # 「出场设置」→「出厂设置」
 # 「泼口大骂」→「破口大骂」
 # 「由其」→「尤其」
+# 「大夥、合夥」→「大伙、合伙」
+# 「飒沓 sa da」→「sa ta」
+# 「阿卢巴」→「阿鲁巴」
+# 「吉里巴斯」→「基里巴斯」
+# 「玛利奥、玛丽奥」→「马里奥」
+# 「毛利塔尼亚」→「毛里塔尼亚」
+# 「塞拉里昂」→「塞拉利昂」
+# 「苏利南」→「苏里南」
+# 「东蒂汶」→「东帝汶」
+# 「塞普路斯」→「塞浦路斯」
 #///
 ---
 name: base
-version: "2023-04-08"
+version: "2023-04-11"
 sort: by_weight
 ...
 # +_+
@@ -1643,6 +1652,7 @@ sort: by_weight
 阿二	a er	2150
 阿尔巴	a er ba	2110
 阿尔巴尼亚	a er ba ni ya	8750
+阿尔巴尼亚共和国	a er ba ni ya gong he guo	9999
 阿尔巴尼亚人	a er ba ni ya ren	225
 阿尔巴尼亚小鱥	a er ba ni ya xiao gui	1
 阿尔巴特	a er ba te	775
@@ -1673,6 +1683,7 @@ sort: by_weight
 阿尔及尔	a er ji er	2690
 阿尔及尔大学	a er ji er da xue	15
 阿尔及利亚	a er ji li ya	17070
+阿尔及利亚民主人民共和国	a er ji li ya min zhu ren min gong he guo	9999
 阿尔及利亚䴓	a er ji li ya shi	2
 阿尔金山	a er jin shan	381
 阿尔金山脉	a er jin shan mai	70
@@ -1736,6 +1747,7 @@ sort: by_weight
 阿根廷	a gen ting	105480
 阿根廷杜高犬	a gen ting du gao quan	37
 阿根廷队	a gen ting dui	6925
+阿根廷共和国	a gen ting gong he guo	9999
 阿根廷古袋兽	a gen ting gu dai shou	1
 阿根廷人	a gen ting ren	4545
 阿根廷小霸鹟	a gen ting xiao ba weng	1
@@ -1768,6 +1780,7 @@ sort: by_weight
 阿合奇	a he qi	295
 阿合其农场	a he qi nong chang	4
 阿合奇县	a he qi xian	555
+阿赫韦南马	a he wei nan ma	111
 阿合亚乡	a he ya xiang	1
 阿合牙孜牧场	a he ya zi mu chang	1
 阿黑皮素原	a hei pi su yuan	2
@@ -1876,6 +1889,7 @@ sort: by_weight
 阿拉伯数字	a la bo shu zi	21935
 阿拉伯糖	a la bo tang	21
 阿拉伯文	a la bo wen	4525
+阿拉伯叙利亚共和国	a la bo xu li ya gong he guo	9999
 阿拉伯语	a la bo yu	16615
 阿拉伯鱼医生	a la bo yu yi sheng	1
 阿拉伯啄木鸟	a la bo zhuo mu niao	1
@@ -2024,6 +2038,7 @@ sort: by_weight
 阿曼尼莎汗	a man ni sha han	10
 阿曼琪	a man qi	3
 阿曼瑟尔	a man se er	1
+阿曼苏丹国	a man su dan guo	9999
 阿曼湾宫廷芋螺	a man wan gong ting yu luo	1
 阿曼湾小眼宝螺	a man wan xiao yan bao luo	1
 阿芒荫眼蝶	a mang yin yan die	1
@@ -3218,6 +3233,7 @@ sort: by_weight
 埃塞俄比亚傍人	ai sai e bi ya bang ren	1
 埃塞俄比亚北山羊	ai sai e bi ya bei shan yang	1
 埃塞俄比亚高原兔	ai sai e bi ya gao yuan tu	1
+埃塞俄比亚联邦民主共和国	ai sai e bi ya lian bang min zhu gong he guo	9999
 埃塞俄比亚人	ai sai e bi ya ren	440
 爱赛尔·魏玛	ai sai er wei ma	100
 爱色	ai se	1515
@@ -3651,6 +3667,10 @@ sort: by_weight
 安安心心	an an xin xin	2595
 安安逸逸	an an yi yi	185
 按安置	an an zhi	260
+安吧	an ba	5555
+俺爸	an ba	2222
+暗坝	an ba	111
+安巴	an ba	2
 俺爸俺妈	an ba an ma	136
 安白泰姆海蛳螺	an bai tai mu hai si luo	1
 案板	an ban	6330
@@ -3835,6 +3855,7 @@ sort: by_weight
 按倒	an dao	1111
 按到底	an dao di	149
 安道尔	an dao er	3295
+安道尔公国	an dao er gong guo	9999
 按道理	an dao li	4905
 按道理说	an dao li shuo	1120
 俺的	an de	19090
@@ -4059,6 +4080,7 @@ sort: by_weight
 安哥拉	an ge la	12475
 安格拉	an ge la	880
 安哥拉队	an ge la dui	535
+安哥拉共和国	an ge la gong he guo	9999
 安哥拉乐园维达鸟	an ge la le yuan wei da niao	1
 安格鲁貂	an ge lu diao	1
 安戈洛环形山	an ge luo huan xing shan	51
@@ -4354,8 +4376,8 @@ sort: by_weight
 按甲休兵	an jia xiu bing	111
 安嘉英	an jia ying	58
 安家庄	an jia zhuang	61
-案件	an jian	500412
 按键	an jian	198530
+案件	an jian	100412
 安检	an jian	27005
 暗箭	an jian	26800
 暗间	an jian	25000
@@ -6102,6 +6124,7 @@ sort: by_weight
 奥迪勒芒	ao di lei mang	172
 奥地利	ao di li	91930
 奥地利队	ao di li dui	515
+奥地利共和国	ao di li gong he guo	9999
 奥地利黑褐猎犬	ao di li hei he lie quan	1
 奥地利民法典	ao di li min fa dian	100
 奥地利平犬	ao di li ping quan	1
@@ -7051,6 +7074,7 @@ sort: by_weight
 巴布亚号耳蝠	ba bu ya hao er fu	1
 巴布亚毛腿夜鹰	ba bu ya mao tui ye ying	1
 巴布亚新几内亚	ba bu ya xin ji nei ya	4050
+巴布亚新几内亚独立国	ba bu ya xin ji nei ya du li guo	9999
 巴布延海峡	ba bu yan hai xia	15
 把不住	ba bu zhu	400
 八不准	ba bu zhun	1860
@@ -7437,6 +7461,8 @@ sort: by_weight
 巴哈	ba ha	9760
 巴哈尔路	ba ha er lu	21
 巴哈马	ba ha ma	5060
+巴哈马国	ba ha ma guo	9999
+巴哈马国家	ba ha ma guo jia	9999
 巴哈马林星蜂鸟	ba ha ma lin xing feng niao	1
 巴哈马群岛	ba ha ma qun dao	1415
 巴哈马群岛仿鲸鱼	ba ha ma qun dao fang jing yu	1
@@ -7513,6 +7539,7 @@ sort: by_weight
 巴基斯坦	ba ji si tan	86240
 巴基斯坦队	ba ji si tan dui	205
 巴基斯坦古鲸	ba ji si tan gu jing	17
+巴基斯坦伊斯兰共和国	ba ji si tan yi si lan gong he guo	9999
 巴基斯坦真盔鰕虎	ba ji si tan zhen kui xia hu	1
 巴戟天	ba ji tian	94
 扒鸡腿儿	ba ji tui er	13
@@ -7701,6 +7728,7 @@ sort: by_weight
 巴拉圭宝丽鱼	ba la gui bao li yu	1
 巴拉圭布琼丽鱼	ba la gui bu qiong li yu	1
 巴拉圭队	ba la gui dui	785
+巴拉圭共和国	ba la gui gong he guo	9999
 巴拉圭凯门鳄	ba la gui kai men e	1
 巴拉圭人	ba la gui ren	110
 巴拉圭无颊齿脂鲤	ba la gui wu jia chi zhi li	1
@@ -7861,6 +7889,7 @@ sort: by_weight
 巴林路	ba lin lu	9
 巴林石	ba lin shi	1325
 巴林塘海峡	ba lin tang hai xia	175
+巴林王国	ba lin wang guo	9999
 巴林右旗	ba lin you qi	1430
 巴林站	ba lin zhan	180
 巴林左旗	ba lin zuo qi	1180
@@ -7985,6 +8014,7 @@ sort: by_weight
 巴拿马	ba na ma	16645
 巴拿马城	ba na ma cheng	610
 巴拿马粗盔鲶	ba na ma cu kui nian	1
+巴拿马共和国	ba na ma gong he guo	9999
 巴拿马奇棘鱼	ba na ma qi ji yu	1
 巴拿马人	ba na ma ren	55
 巴拿马细潜鱼	ba na ma xi qian yu	1
@@ -8523,6 +8553,8 @@ sort: by_weight
 巴西蓝颊亚马孙鹦哥	ba xi lan jia ya ma sun ying ge	1
 巴西勒鲸	ba xi lei jing	1
 巴西利亚	ba xi li ya	2375
+巴西联邦	ba xi lian bang	9999
+巴西联邦共和国	ba xi lian bang gong he guo	9999
 巴西盲视水虎鱼	ba xi mang shi shui hu yu	1
 巴西莫氏溪鳉	ba xi mo shi xi jiang	1
 巴西乔氏溪脂鲤	ba xi qiao shi xi zhi li	1
@@ -10100,7 +10132,9 @@ sort: by_weight
 百口难分	bai kou nan fen	111
 百口同声	bai kou tong sheng	1
 百块	bai kuai	4840
-百矿	bai kuang	9
+白框	bai kuang	1111
+# 百矿	bai kuang	0
+白矿油	bai kuang you	111
 白盔	bai kui	455
 百揆时叙	bai kui shi xu	3
 摆阔	bai kuo	2265
@@ -15361,6 +15395,7 @@ sort: by_weight
 宝嘉丽	bao jia li	38
 保加利亚	bao jia li ya	28455
 保加利亚队	bao jia li ya dui	585
+保加利亚共和国	bao jia li ya gong he guo	9999
 保加利亚人	bao jia li ya ren	820
 包加密	bao jia mi	105
 宝珈枪吻海龙	bao jia qiang wen hai long	1
@@ -19200,6 +19235,7 @@ sort: by_weight
 北马里亚纳群岛	bei ma li ya na qun dao	334
 北马路	bei ma lu	46
 北马其顿	bei ma qi dun	3333
+北马其顿共和国	bei ma qi dun gong he guo	9999
 北马桥	bei ma qiao	1
 北马庄	bei ma zhuang	3
 被埋	bei mai	10925
@@ -19314,6 +19350,7 @@ sort: by_weight
 鹎鸟	bei niao	1
 贝宁	bei ning	629
 # 北宁	bei ning	0
+贝宁共和国	bei ning gong he guo	9999
 北宁市	bei ning shi	1145
 北宁铁路	bei ning tie lu	110
 被扭曲	bei niu qu	4820
@@ -22295,6 +22332,7 @@ sort: by_weight
 比利时人	bi li shi ren	1720
 比利时特弗伦犬	bi li shi te fu lun quan	6
 比例失调	bi li shi tiao	4940
+比利时王国	bi li shi wang guo	9999
 比利时帐幕石燕	bi li shi zhang mu shi yan	1
 比历史最高水平	bi li shi zui gao shui ping	80
 比例税	bi li shui	9999
@@ -28730,6 +28768,7 @@ sort: by_weight
 波茨坦	bo ci tan	4195
 波茨坦会议	bo ci tan hui yi	460
 博茨瓦纳	bo ci wa na	4010
+博茨瓦纳共和国	bo ci wa na gong he guo	9999
 博茨瓦纳国家动物园	bo ci wa na guo jia dong wu yuan	1
 博村	bo cun	7
 拨错号	bo cuo hao	695
@@ -29161,6 +29200,7 @@ sort: by_weight
 波澜动远空	bo lan dong yuan kong	1
 波澜独老成	bo lan du lao cheng	1
 波兰队	bo lan dui	1740
+波兰共和国	bo lan gong he guo	9999
 博览古今	bo lan gu jin	23
 波兰馆	bo lan guan	326
 博览会	bo lan hui	216305
@@ -29310,6 +29350,8 @@ sort: by_weight
 玻利维亚凤凰	bo li wei ya feng huang	17
 玻利维亚歌鹀	bo li wei ya ge wu	1
 玻利维亚寡脂鲤	bo li wei ya gua zhi li	1
+玻利维亚国	bo li wei ya guo	9999
+玻利维亚国家	bo li wei ya guo jia	9999
 玻利维亚合鳃鱼	bo li wei ya he sai yu	1
 玻利维亚虎猫	bo li wei ya hu mao	1
 玻利维亚娇鹟	bo li wei ya jiao weng	1
@@ -30669,6 +30711,7 @@ sort: by_weight
 不但如此	bu dan ru ci	5440
 不但是	bu dan shi	32515
 不单是	bu dan shi	14590
+不丹王国	bu dan wang guo	9999
 不耽误	bu dan wu	5135
 不担心	bu dan xin	12075
 不但学	bu dan xue	1290
@@ -33247,6 +33290,7 @@ sort: by_weight
 布隆	bu long	1
 # 布龙	bu long	0
 布隆迪	bu long di	3520
+布隆迪共和国	bu long di gong he guo	9999
 布龙公路	bu long gong lu	58
 布隆过滤器	bu long guo lv qi	530
 布隆斯格罗夫龙	bu long si ge luo fu long	1
@@ -36171,6 +36215,7 @@ sort: by_weight
 不幸逝世	bu xing shi shi	2015
 不兴旺	bu xing wang	295
 不行呀	bu xing ya	2720
+不行也行	bu xing ye xing	111
 不幸遇害	bu xing yu hai	315
 不幸遇难	bu xing yu nan	2440
 不幸遭遇	bu xing zao yu	4675
@@ -37043,6 +37088,7 @@ sort: by_weight
 不知乘月几人归	bu zhi cheng yue ji ren gui	3
 不支持	bu zhi chi	184060
 不知耻	bu zhi chi	765
+不支持的	bu zhi chi de	333
 不知愁思落谁家	bu zhi chou si luo shei jia	1180
 不知愁思落谁家	bu zhi chou si luo shui jia	1180
 不支出	bu zhi chu	68
@@ -37475,6 +37521,7 @@ sort: by_weight
 擦不掉	ca bu diao	2100
 擦擦	ca ca	13140
 擦擦洗洗	ca ca xi xi	130
+擦车	ca che	3333
 擦除	ca chu	14825
 擦出	ca chu	8765
 擦除器	ca chu qi	355
@@ -48704,7 +48751,6 @@ sort: by_weight
 晨昏温情	chen hun wen qing	1
 陈货	chen huo	735
 趁火打劫	chen huo da jie	5660
-趁夥打劫	chen huo da jie	1
 趁火打劫计	chen huo da jie ji	1
 趁火打劫之计	chen huo da jie zhi ji	1
 尘火谷	chen huo gu	1
@@ -50357,9 +50403,10 @@ sort: by_weight
 成规陋习	cheng gui lou xi	5
 成贵族	cheng gui zu	35
 成果	cheng guo	500453
-城郭	cheng guo	6760
 撑过	cheng guo	2445
+城郭	cheng guo	676
 乘过	cheng guo	635
+城国	cheng guo	11
 成果报告	cheng guo bao gao	2655
 成果表	cheng guo biao	199
 成果鉴定	cheng guo jian ding	8935
@@ -56914,6 +56961,7 @@ sort: by_weight
 出奇划策	chu qi hua ce	1
 初期会盟津	chu qi hui meng jin	1
 出奇迹	chu qi ji	111
+出奇迹了	chu qi ji le	111
 储奇门	chu qi men	226
 出奇取胜	chu qi qu sheng	1
 出气筒	chu qi tong	3455
@@ -60805,6 +60853,7 @@ sort: by_weight
 辍学	chuo xue	36475
 辍学率	chuo xue lv	4620
 辍演	chuo yan	20
+戳一	chuo yi	111
 啜饮	chuo yin	3110
 戳印	chuo yin	395
 啜英咀华	chuo ying ju hua	5
@@ -65452,6 +65501,7 @@ sort: by_weight
 大的鼓舞	da de gu wu	3710
 打得好	da de hao	3525
 答得好	da de hao	450
+大的好	da de hao	111
 大得很	da de hen	2260
 答得很	da de hen	820
 打得很	da de hen	2
@@ -66737,6 +66787,8 @@ sort: by_weight
 打击报复	da ji bao fu	25815
 打击报复举报人	da ji bao fu ju bao ren	1875
 大级别	da ji bie	1425
+打几场	da ji chang	333
+大机场	da ji chang	222
 搭计程车	da ji cheng che	725
 打基础	da ji chu	17175
 大吉大利	da ji da li	5595
@@ -67309,8 +67361,8 @@ sort: by_weight
 大浪淘沙	da lang tao sha	8385
 达浪乡	da lang xiang	6
 大崀镇	da lang zhen	13
-打捞	da lao	24480
 大佬	da lao	17240
+打捞	da lao	5480
 大牢	da lao	4800
 打牢	da lao	3333
 # 大老	da lao	0
@@ -67908,6 +67960,8 @@ sort: by_weight
 大猫熊	da mao xiong	9999
 打毛衣	da mao yi	700
 大帽子	da mao zi	3385
+大么	da me	2222
+打么	da me	1111
 大妹	da mei	1770
 大霉	da mei	915
 大媒	da mei	710
@@ -75536,6 +75590,7 @@ sort: by_weight
 到底是谁	dao di shi shei	18265
 到底是什么	dao di shi shen me	35900
 到底是谁	dao di shi shui	18265
+到底行不行啊	dao di xing bu xing a	111
 到底应该	dao di ying gai	9040
 到底有	dao di you	46215
 到底有多少	dao di you duo shao	10985
@@ -87116,7 +87171,7 @@ sort: by_weight
 蝶狂蜂乱	die kuang feng luan	111
 蝶兰	die lan	230
 蝶浪蜂狂	die lang feng kuang	111
-跌了	die le	15300
+跌了	die le	5300
 叠了	die le	945
 叠了起来	die le qi lai	940
 蝶类	die lei	600
@@ -88909,7 +88964,7 @@ sort: by_weight
 东堤横街	dong di heng jie	1
 动地惊天	dong di jing tian	111
 东帝汶	dong di wen	3830
-东蒂汶	dong di wen	10
+东帝汶民主共和国	dong di wen min zhu gong he guo	9999
 动点	dong dian	5195
 懂点	dong dian	3655
 东电	dong dian	3255
@@ -91670,6 +91725,7 @@ sort: by_weight
 都兜到了	dou dou dao le	100
 兜兜风	dou dou feng	1010
 兜兜裤儿	dou dou ku er	9999
+逗逗乐乐	dou dou le le	100
 抖抖瑟瑟	dou dou se se	6
 抖抖擞擞	dou dou sou sou	70
 抖抖索索	dou dou suo suo	875
@@ -92876,12 +92932,12 @@ sort: by_weight
 堵缝	du feng	170
 杜甫	du fu	55460
 督抚	du fu	5000
-都府	du fu	3485
 肚腹	du fu	3325
-督府	du fu	2525
 独夫	du fu	1285
 妒妇	du fu	730
 毒妇	du fu	500
+督府	du fu	2
+# 都府	du fu	0
 杜甫草堂	du fu cao tang	4270
 杜父底尾鳕	du fu di wei xue	1
 杜夫海纳	du fu hai na	210
@@ -95887,6 +95943,8 @@ sort: by_weight
 对应角	dui ying jiao	475
 对应起来	dui ying qi lai	61
 对影三人	dui ying san ren	111
+对应上	dui ying shang	3333
+对应上了	dui ying shang le	333
 对应物	dui ying wu	950
 对映异构	dui ying yi gou	110
 对应于	dui ying yu	16270
@@ -96743,6 +96801,7 @@ sort: by_weight
 # 多搁	duo ge	0
 多个部	duo ge bu	298
 多个对一个	duo ge dui yi ge	5
+多哥共和国	duo ge gong he guo	1
 多个机	duo ge ji	12
 多个家	duo ge jia	10
 多个家庭	duo ge jia ting	85
@@ -97265,6 +97324,7 @@ sort: by_weight
 多面性	duo mian xing	1700
 惰民	duo min	110
 多民族	duo min zu	15460
+多民族玻利维亚国	duo min zu bo li wei ya guo	111
 多民族国家	duo min zu guo jia	5230
 多名	duo ming	294000
 夺命	duo ming	11915
@@ -97620,8 +97680,8 @@ sort: by_weight
 多算	duo suan	2695
 多岁	duo sui	93555
 剁碎	duo sui	5285
-多所	duo suo	33475
 哆嗦	duo suo	26365
+多所	duo suo	3347
 多索茶碱	duo suo cha jian	58
 多索茶碱注射液	duo suo cha jian zhu she ye	1
 多所大学	duo suo da xue	6130
@@ -98262,6 +98322,7 @@ sort: by_weight
 恶古乡	e gu xiang	26
 厄瓜多尔	e gua duo er	16440
 厄瓜多尔队	e gua duo er dui	530
+厄瓜多尔共和国	e gua duo er gong he guo	9999
 厄瓜多尔姬啄木鸟	e gua duo er ji zhuo mu niao	1
 厄瓜多尔鸺鹠	e gua duo er xiu liu	1
 厄瓜多尔蚁鵙	e gua duo er yi ju	1
@@ -98403,6 +98464,8 @@ sort: by_weight
 厄里斯	e li si	250
 鳄梨糖醇	e li tang chun	1
 厄立特里亚	e li te li ya	2310
+厄立特里亚国	e li te li ya guo	9999
+厄立特里亚国家	e li te li ya guo jia	9999
 俄联邦	e lian bang	6680
 恶劣	e lie	117180
 腭裂	e lie	6905
@@ -99953,6 +100016,7 @@ sort: by_weight
 耳孔	er kong	2275
 二空观	er kong guan	8
 儿口	er kou	7
+二口之家	er kou zhi jia	111
 而哭	er ku	5770
 而苦恼	er ku nao	12155
 而哭泣	er ku qi	3750
@@ -103865,6 +103929,7 @@ sort: by_weight
 反帝反封建	fan di fan feng jian	6460
 梵蒂冈	fan di gang	8915
 梵蒂冈城	fan di gang cheng	445
+梵蒂冈城国	fan di gang cheng guo	9999
 梵蒂冈教皇	fan di gang jiao huang	130
 犯嘀咕	fan di gu	2120
 反地理编码	fan di li bian ma	381
@@ -106461,8 +106526,8 @@ sort: by_weight
 方解石粉	fang jie shi fen	240
 放进	fang jin	98790
 方今	fang jin	6670
-方巾	fang jin	6505
-放尽	fang jin	1130
+方巾	fang jin	65
+放尽	fang jin	11
 仿金箔	fang jin bo	5
 方巾长袍	fang jin chang pao	1
 方巾阔服	fang jin kuo fu	111
@@ -108740,6 +108805,7 @@ sort: by_weight
 飞机大战	fei ji da zhan	272
 斐济带纹鬣蜥	fei ji dai wen lie xi	1
 非机动车	fei ji dong che	52250
+斐济共和国	fei ji gong he guo	9999
 非机构	fei ji gou	12
 飞机骨架	fei ji gu jia	10
 斐济冠状鬣蜥	fei ji guan zhuang lie xi	1
@@ -109049,6 +109115,7 @@ sort: by_weight
 菲律宾短吻长尾鳕	fei lv bin duan wen chang wei xue	1
 菲律宾队	fei lv bin dui	190
 菲律宾肥角锹形虫	fei lv bin fei jiao qiao xing chong	1
+菲律宾共和国	fei lv bin gong he guo	9999
 菲律宾海氏小带鰕	fei lv bin hai shi xiao dai xia	1
 菲律宾卷管螺	fei lv bin juan guan luo	1
 菲律宾鳞鳍梅鲷	fei lv bin lin qi mei diao	1
@@ -110931,6 +110998,7 @@ sort: by_weight
 分栏	fen lan	6055
 粉蓝	fen lan	4005
 芬兰队	fen lan dui	315
+芬兰共和国	fen lan gong he guo	9999
 芬兰拉普赫德犬	fen lan la pu he de quan	1
 分栏目	fen lan mu	12
 粉蓝飘香	fen lan piao xiang	1
@@ -111544,6 +111612,7 @@ sort: by_weight
 分它	fen ta	5555
 纷他	fen ta	3333
 纷她	fen ta	1111
+纷沓而至	fen ta er zhi	100
 酚酞	fen tai	3115
 分台	fen tai	1320
 芬太尼	fen tai ni	2210
@@ -114397,6 +114466,7 @@ sort: by_weight
 佛道	fo dao	22715
 佛的	fo de	46110
 佛得角	fo de jiao	2785
+佛得角共和国	fo de jiao gong he guo	9999
 佛灯	fo deng	1660
 佛殿	fo dian	12445
 佛典	fo dian	3955
@@ -122439,6 +122509,7 @@ sort: by_weight
 钢笔套	gang bi tao	55
 冈比西斯	gang bi xi si	145
 冈比亚	gang bi ya	1985
+冈比亚共和国	gang bi ya gong he guo	9999
 冈比亚红	gang bi ya hong	5
 冈比亚巨蝎	gang bi ya ju xie	1
 刚比亚宽带宝螺	gang bi ya kuan dai bao luo	1
@@ -122606,6 +122677,8 @@ sort: by_weight
 刚刚来	gang gang lai	1570
 刚刚落下帷幕	gang gang luo xia wei mu	100
 刚刚是	gang gang shi	2315
+刚刚睡	gang gang shui	3333
+刚刚睡醒	gang gang shui xing	3333
 刚刚说	gang gang shuo	209
 刚刚醒	gang gang xing	4190
 刚刚在	gang gang zai	20105
@@ -122963,7 +123036,8 @@ sort: by_weight
 刚收到	gang shou dao	7
 钢手镯	gang shou zhuo	6
 刚刷完	gang shua wan	70
-钢水	gang shui	4150
+刚睡	gang shui	5555
+钢水	gang shui	41
 刚说	gang shuo	21970
 钢丝	gang si	39860
 刚死	gang si	2430
@@ -126606,6 +126680,7 @@ sort: by_weight
 哥伦比亚队	ge lun bi ya dui	350
 哥伦比亚副项鳍鲶	ge lun bi ya fu xiang qi nian	1
 哥伦比亚高原	ge lun bi ya gao yuan	15
+哥伦比亚共和国	ge lun bi ya gong he guo	9999
 哥伦比亚红腿陆龟	ge lun bi ya hong tui lu gui	1
 哥伦比亚虎猫	ge lun bi ya hu mao	1
 哥伦比亚角鸮	ge lun bi ya jiao xiao	1
@@ -127161,6 +127236,7 @@ sort: by_weight
 哥斯达黎加粗指䲢	ge si da li jia cu zhi teng	1
 哥斯达黎加队	ge si da li jia dui	895
 哥斯达黎加割齿喉	ge si da li jia ge chi hou	1
+哥斯达黎加共和国	ge si da li jia gong he guo	9999
 哥斯达黎加吉氏指	ge si da li jia ji shi zhi	1
 哥斯达黎加老虎尾	ge si da li jia lao hu wei	1
 哥斯达黎加瓢鰕虎	ge si da li jia piao xia hu	1
@@ -133584,6 +133660,7 @@ sort: by_weight
 古巴队	gu ba dui	1890
 古芭顿	gu ba dun	1
 古巴蜂虎	gu ba feng hu	1
+古巴共和国	gu ba gong he guo	9999
 古巴瓜维那塘鳢	gu ba gua wei na tang li	1
 古巴光唇鲨	gu ba guang chun sha	1
 古巴红色金刚鹦鹉	gu ba hong se jin gang ying wu	1
@@ -141790,6 +141867,7 @@ sort: by_weight
 圭亚那副康吉鳗	gui ya na fu kang ji man	1
 圭亚那高原	gui ya na gao yuan	160
 圭亚那冠伞鸟	gui ya na guan san niao	1
+圭亚那合作共和国	gui ya na he zuo gong he guo	9999
 圭亚那红伞鸟	gui ya na hong san niao	1
 圭亚那裸背电鳗	gui ya na luo bei dian man	1
 圭亚那犬齿河脂鲤	gui ya na quan chi he zhi li	1
@@ -142087,6 +142165,7 @@ sort: by_weight
 归罪于	gui zui yu	4845
 鲑鳟鱼养殖技术	gui zun yu yang zhi ji shu	2
 跪坐	gui zuo	3840
+滚啊	gun a	9999
 滚鞍落马	gun an luo ma	111
 滚鞍下马	gun an xia ma	390
 滚吧	gun ba	9999
@@ -142168,6 +142247,7 @@ sort: by_weight
 滚落	gun luo	13380
 衮冕	gun mian	1
 滚木	gun mu	1130
+滚你	gun ni	111
 棍怕老狼	gun pa lao lang	87
 滚屏	gun ping	27955
 滚球	gun qiu	3360
@@ -146010,6 +146090,7 @@ sort: by_weight
 海底电缆	hai di dian lan	3960
 海底电缆敷设船	hai di dian lan fu she chuan	1
 海底电缆管道保护规定	hai di dian lan guan dao bao hu gui ding	15
+海地共和国	hai di gong he guo	9999
 海底光缆	hai di guang lan	13450
 海底火山	hai di huo shan	970
 骇地惊天	hai di jing tian	111
@@ -149531,6 +149612,7 @@ sort: by_weight
 航海学院	hang hai xue yuan	160
 航海业	hang hai ye	795
 行行	hang hang	11335
+行行出	hang hang chu	111
 行行出状元	hang hang chu zhuang yuan	3680
 行行企企	hang hang qi qi	5
 行行蛇蚓	hang hang she yin	1
@@ -150633,11 +150715,14 @@ sort: by_weight
 好老师	hao lao shi	12575
 好了	hao le	500313
 好了吧	hao le ba	4510
+好了疮疤	hao le chuang ba	111
+好了疮疤忘了疼	hao le chuang ba wang le teng	75
 好了疮疤忘了痛	hao le chuang ba wang le tong	75
 好乐迪	hao le di	1915
 好了好了	hao le hao le	8230
 好了叫我	hao le jiao wo	341
 好了吗	hao le ma	23965
+好了嘛	hao le ma	13965
 好了没啊	hao le mei a	95
 好了没有	hao le mei you	2930
 好乐门蛋黄酱	hao le men dan huang jiang	6
@@ -157456,6 +157541,7 @@ sort: by_weight
 洪都街道	hong du jie dao	3
 洪都拉斯	hong du la si	2814
 洪都拉斯白蝙蝠	hong du la si bai bian fu	1
+洪都拉斯共和国	hong du la si gong he guo	9999
 洪都拉斯黄颈亚马逊鹦鹉	hong du la si huang jing ya ma xun ying wu	1
 洪都拉斯郊狼	hong du la si jiao lang	1
 洪都拉斯卷毛	hong du la si juan mao	1
@@ -163301,16 +163387,17 @@ sort: by_weight
 华东政法学院	hua dong zheng fa xue yuan	7670
 滑动轴承	hua dong zhou cheng	2955
 画栋朱帘	hua dong zhu lian	1
-华都大酒店	hua dou da jiu dian	8
-华都饭店	hua dou fan dian	7
+花豆	hua dou	1111
 花都开好了	hua dou kai hao le	550
-华都肉鸡厂	hua dou rou ji chang	1
-华都中医医院	hua dou zhong yi yi yuan	34
 花都	hua du	37295
 华都	hua du	7990
+华都大酒店	hua du da jiu dian	8
+华都饭店	hua du fan dian	7
 划独木舟	hua du mu zhou	445
 花都区	hua du qu	14310
+华都肉鸡厂	hua du rou ji chang	1
 花都市	hua du shi	640
+华都中医医院	hua du zhong yi yi yuan	34
 花缎	hua duan	510
 划段	hua duan	385
 划断	hua duan	95
@@ -166382,6 +166469,7 @@ sort: by_weight
 缓缓的	huan huan de	30095
 缓缓而行	huan huan er xing	1910
 环环紧扣	huan huan jin kou	1890
+欢欢乐乐	huan huan le le	100
 缓缓落下	huan huan luo xia	100
 欢欢喜喜	huan huan xi xi	6055
 环环相扣	huan huan xiang kou	14585
@@ -175076,6 +175164,7 @@ sort: by_weight
 极不舒服	ji bu shu fu	1625
 吉布斯自由能	ji bu si zi you neng	45
 吉布提	ji bu ti	3205
+吉布提共和国	ji bu ti gong he guo	9999
 季布无二诺	ji bu wu er nuo	4
 几部戏	ji bu xi	460
 挤不下	ji bu xia	1180
@@ -175965,6 +176054,7 @@ sort: by_weight
 吉尔吉斯	ji er ji si	4045
 吉尔吉斯半人马	ji er ji si ban ren ma	1
 吉尔吉斯村	ji er ji si cun	1
+吉尔吉斯共和国	ji er ji si gong he guo	9999
 吉尔吉斯人	ji er ji si ren	120
 吉尔吉斯斯坦	ji er ji si si tan	9015
 吉尔佳思	ji er jia si	1
@@ -177469,6 +177559,7 @@ sort: by_weight
 # 集里	ji li	0
 基里奥犬	ji li ao quan	5
 基里巴斯	ji li ba si	1200
+基里巴斯共和国	ji li ba si gong he guo	9999
 鸡里爆	ji li bao	1
 辑里村	ji li cun	3
 吉利大虾	ji li da xia	1
@@ -178033,6 +178124,8 @@ sort: by_weight
 己内酰胺	ji nei xian an	3005
 几内亚	ji nei ya	6550
 几内亚比绍	ji nei ya bi shao	1760
+几内亚比绍共和国	ji nei ya bi shao gong he guo	9999
+几内亚共和国	ji nei ya gong he guo	9999
 几内亚巨人巴布蜘蛛	ji nei ya ju ren ba bu zhi zhu	1
 几内亚湾	ji nei ya wan	775
 肌内注射	ji nei zhu she	3355
@@ -183057,6 +183150,7 @@ sort: by_weight
 加拿大元	jia na da yuan	2225
 加拿大最高法院	jia na da zui gao fa yuan	451
 加纳队	jia na dui	1090
+加纳共和国	jia na gong he guo	9999
 加那利	jia na li	270
 加那利群岛	jia na li qun dao	1365
 加纳利群岛	jia na li qun dao	71
@@ -186664,6 +186758,7 @@ sort: by_weight
 柬埔寨食人水蛭	jian pu zhai shi ren shui zhi	1
 柬埔寨首都金边	jian pu zhai shou du jin bian	111
 柬埔寨舒鮨	jian pu zhai shu yi	1
+柬埔寨王国	jian pu zhai wang guo	9999
 柬埔寨宪法	jian pu zhai xian fa	51
 柬埔寨野牛	jian pu zhai ye niu	2
 柬埔寨银胸丝冠鸟	jian pu zhai yin xiong si guan niao	1
@@ -195747,6 +195842,7 @@ sort: by_weight
 借走了	jie zou le	830
 节奏明快	jie zou ming kuai	3205
 节奏轻快	jie zou qing kuai	600
+节奏拖沓	jie zou tuo ta	100
 节奏性	jie zou xing	1265
 捷足	jie zu	645
 捷足高才	jie zu gao cai	111
@@ -195786,6 +195882,7 @@ sort: by_weight
 劲霸鲍鱼汁	jin ba bao yu zhi	5
 津巴布韦	jin ba bu wei	10850
 津巴布韦队	jin ba bu wei dui	1
+津巴布韦共和国	jin ba bu wei gong he guo	9999
 劲霸橙汁	jin ba cheng zhi	4
 津霸公路	jin ba gong lu	21
 劲霸鸡汁	jin ba ji zhi	51
@@ -201997,6 +202094,9 @@ sort: by_weight
 静力	jing li	6025
 静立	jing li	4430
 惊栗	jing li	2315
+精力啊	jing li a	333
+经理啊	jing li a	222
+经历啊	jing li a	111
 经理部	jing li bu	9650
 精力不济	jing li bu ji	880
 镜里采花	jing li cai hua	1
@@ -204848,6 +204948,8 @@ sort: by_weight
 就好办	jiu hao ban	12
 就好比	jiu hao bi	29590
 就好了	jiu hao le	140830
+就好了吗	jiu hao le ma	23965
+就好了嘛	jiu hao le ma	13965
 九号楼	jiu hao lou	395
 九号码头	jiu hao ma tou	18
 九号桥	jiu hao qiao	2
@@ -207957,10 +208059,13 @@ sort: by_weight
 具亲和力	ju qin he li	117
 举亲举仇	ju qin ju chou	111
 剧情	ju qing	239025
+剧情不拖沓	ju qing bu tuo ta	100
 剧情简介	ju qing jian jie	40230
 剧情介绍	ju qing jie shao	28770
+剧情紧凑不拖沓	ju qing jin cou bu tuo ta	100
 举轻若重	ju qing ruo zhong	775
 橘庆太	ju qing tai	235
+剧情拖沓	ju qing tuo ta	100
 剧情王	ju qing wang	33
 居穷守约	ju qiong shou yue	111
 拘囚	ju qiu	280
@@ -211003,6 +211108,7 @@ sort: by_weight
 喀麦隆鹎	ka mai long bei	1
 喀麦隆短翅莺	ka mai long duan chi ying	1
 喀麦隆队	ka mai long dui	550
+喀麦隆共和国	ka mai long gong he guo	9999
 喀麦隆巨蛙	ka mai long ju wa	2
 喀麦隆人	ka mai long ren	325
 喀麦隆维达鸟	ka mai long wei da niao	1
@@ -211165,6 +211271,8 @@ sort: by_weight
 卡他	ka ta	3645
 卡塔尔	ka ta er	23890
 卡塔尔队	ka ta er dui	1430
+卡塔尔国	ka ta er guo	9999
+卡塔尔国家	ka ta er guo jia	9999
 卡塔利那金刚鹦鹉	ka ta li na jin gang ying wu	1
 卡塔尼亚	ka ta ni ya	3250
 卡他性结膜炎	ka ta xing jie mo yan	9
@@ -216242,6 +216350,7 @@ sort: by_weight
 珂罗版	ke luo ban	855
 克洛德	ke luo de	1135
 克罗地亚	ke luo di ya	20260
+克罗地亚共和国	ke luo di ya gong he guo	9999
 克罗地亚语	ke luo di ya yu	590
 柯洛洞	ke luo dong	10
 柯洛洞乡	ke luo dong xiang	2
@@ -216319,6 +216428,7 @@ sort: by_weight
 科摩罗鸫	ke mo luo dong	1
 科摩罗角鸮	ke mo luo jiao xiao	1
 科摩罗卷尾	ke mo luo juan wei	1
+科摩罗联盟	ke mo luo lian meng	9999
 科摩罗林鸽	ke mo luo lin ge	1
 科摩罗猫鲨	ke mo luo mao sha	1
 科莫歧须𬶏	ke mo qi xu wei	1
@@ -216807,6 +216917,7 @@ sort: by_weight
 可随着	ke sui zhe	2970
 客随主便	ke sui zhu bian	1180
 科索沃	ke suo wo	7635
+科索沃共和国	ke suo wo gong he guo	9999
 可他	ke ta	62685
 可她	ke ta	36400
 可太	ke tai	1111
@@ -216843,6 +216954,7 @@ sort: by_weight
 克特长靴	ke te chang xue	1
 克特的武器	ke te de wu qi	1
 科特迪瓦	ke te di wa	11635
+科特迪瓦共和国	ke te di wa gong he guo	9999
 克特盔甲	ke te kui jia	1
 咳特灵	ke te ling	10
 咳特灵胶囊	ke te ling jiao nang	35
@@ -216983,6 +217095,8 @@ sort: by_weight
 科威特	ke wei te	24125
 科威特城	ke wei te cheng	225
 科威特队	ke wei te dui	945
+科威特国	ke wei te guo	9999
+科威特国家	ke wei te guo jia	9999
 科威特人	ke wei te ren	305
 可委托	ke wei tuo	339
 颗卫星	ke wei xing	4685
@@ -217948,6 +218062,7 @@ sort: by_weight
 肯尼斯	ken ni si	2050
 肯尼亚	ken ni ya	23450
 肯尼亚队	ken ni ya dui	50
+肯尼亚共和国	ken ni ya gong he guo	9999
 肯尼亚角鸮	ken ni ya jiao xiao	1
 啃啮	ken nie	370
 肯佩斯	ken pei si	28
@@ -218029,7 +218144,7 @@ sort: by_weight
 坑点	keng dian	3333
 坑点儿	keng dian er	3333
 坑点钱	keng dian qian	333
-坑爹	keng die	1180
+坑爹	keng die	8180
 坑洞	keng dong	3505
 坑东	keng dong	28
 坑东村	keng dong cun	3
@@ -218230,6 +218345,8 @@ sort: by_weight
 空地上	kong di shang	13485
 空地税	kong di shui	42
 空地址	kong di zhi	388
+空掉	kong diao	1111
+空掉了	kong diao le	1111
 空蝶鞍	kong die an	1
 空蝶灯蛾	kong die deng e	1
 空洞	kong dong	58280
@@ -220683,7 +220800,8 @@ sort: by_weight
 快别说	kuai bie shuo	3333
 快别说了	kuai bie shuo le	3333
 快播	kuai bo	277
-快步	kuai bu	35350
+快不	kuai bu	6666
+快步	kuai bu	3535
 快不快	kuai bu kuai	785
 快不快乐	kuai bu kuai le	845
 快不了	kuai bu liao	625
@@ -224110,6 +224228,7 @@ sort: by_weight
 来苏之望	lai su zhi wang	1
 来岁	lai sui	18785
 莱索托	lai suo tuo	3315
+莱索托王国	lai suo tuo wang guo	9999
 来台	lai tai	8935
 莱太花卉	lai tai hua hui	101
 来谈	lai tan	9999
@@ -225894,9 +226013,12 @@ sort: by_weight
 劳德鲁普	lao de lu pu	21
 唠得起劲	lao de qi jin	30
 劳德西普	lao de xi pu	1
+老得像	lao de xiang	130
 老的一天	lao de yi tian	100
 捞得着	lao de zhao	15
-老得像	lao dei xiang	130
+老得	lao dei	3333
+老得帮	lao dei bang	1111
+老得帮人	lao dei bang ren	1111
 老弟	lao di	29620
 老底	lao di	3475
 涝地	lao di	495
@@ -227017,6 +227139,7 @@ sort: by_weight
 老窝铺乡	lao wo pu xiang	2
 老挝人	lao wo ren	450
 老挝人民共和国	lao wo ren min gong he guo	60
+老挝人民民主共和国	lao wo ren min min zhu gong he guo	9999
 老挝首都万象	lao wo shou du wan xiang	111
 劳我以少壮	lao wo yi shao zhuang	7
 劳务	lao wu	153435
@@ -227450,8 +227573,11 @@ sort: by_weight
 嘞嘞	le le	1111
 乐乐不殆	le le bu dai	1
 勒勒车	le le che	975
+乐乐法利	le le fa li	100
+乐乐和和	le le he he	100
 嘞嘞什么	le le shen me	1111
 乐乐陶陶	le le tao tao	1
+乐乐侠	le le xia	1
 乐乐熊	le le xiong	18
 # 乐利	le li	0
 # 乐力	le li	0
@@ -228889,6 +229015,7 @@ sort: by_weight
 篱笆房	li ba fang	21
 黎巴嫩	li ba nen	29695
 黎巴嫩队	li ba nen dui	800
+黎巴嫩共和国	li ba nen gong he guo	9999
 黎巴嫩人	li ba nen ren	780
 黎巴嫩首都贝鲁特	li ba nen shou du bei lu te	111
 篱笆女人和狗	li ba nv ren he gou	111
@@ -228967,11 +229094,14 @@ sort: by_weight
 篱壁间物	li bi jian wu	111
 利比里亚	li bi li ya	5993
 利比里亚长嘴𫚭	li bi li ya chang zui lie	1
+利比里亚共和国	li bi li ya gong he guo	9999
 利比里亚獴	li bi li ya meng	1
 犁鼻器	li bi qi	2
 犁壁山	li bi shan	1
 力比泰	li bi tai	18
 利比亚	li bi ya	18160
+利比亚国	li bi ya guo	9999
+利比亚国家	li bi ya guo jia	9999
 利比亚金蝎	li bi ya jin xie	1
 里边	li bian	66060
 里边儿	li bian er	350
@@ -232766,6 +232896,7 @@ sort: by_weight
 俩俩	lia lia	2222
 俩人	lia ren	36745
 俩叹号	lia tan hao	3333
+俩王	lia wang	6666
 俩月	lia yue	22222
 俩字	lia zi	222
 脸啊	lian a	1111
@@ -235540,6 +235671,7 @@ sort: by_weight
 良口	liang kou	249
 两口儿	liang kou er	1130
 两口塘	liang kou tang	23
+两口之家	liang kou zhi jia	111
 两口子	liang kou zi	13920
 粮库	liang ku	14110
 良苦	liang ku	1585
@@ -237412,6 +237544,7 @@ sort: by_weight
 列支	lie zhi	40025
 裂殖	lie zhi	757
 列支敦士登	lie zhi dun shi deng	3375
+列支敦士登公国	lie zhi dun shi deng gong guo	9999
 劣质奶粉	lie zhi nai fen	4005
 劣质品	lie zhi pin	1390
 裂植珊瑚	lie zhi shan hu	1
@@ -245675,6 +245808,7 @@ sort: by_weight
 鲁瑟兰村	lu se lan cun	4
 卢瑟氏丝鰕虎鱼	lu se shi si xia hu yu	1
 卢森堡	lu sen bao	19970
+卢森堡大公国	lu sen bao da gong guo	9999
 卢森堡人	lu sen bao ren	90
 卢森堡议会	lu sen bao yi hui	21
 卢森皮卡德	lu sen pi ka de	1
@@ -245938,6 +246072,7 @@ sort: by_weight
 鲁王	lu wang	2890
 路旺	lu wang	7
 卢旺达	lu wang da	7090
+卢旺达共和国	lu wang da gong he guo	9999
 露往霜来	lu wang shuang lai	1
 鹿网尾线虫	lu wang wei xian chong	1
 芦苇	lu wei	38995
@@ -250266,6 +250401,7 @@ sort: by_weight
 马达加斯加岛副狮	ma da jia si jia dao fu shi	1
 马达加斯加发声蟑螂	ma da jia si jia fa sheng zhang lang	4
 马达加斯加番茄蛙	ma da jia si jia fan qie wa	1
+马达加斯加共和国	ma da jia si jia gong he guo	9999
 马达加斯加果蝠	ma da jia si jia guo fu	1
 马达加斯加盲塘鳢	ma da jia si jia mang tang li	1
 马达加斯加潜鸭	ma da jia si jia qian ya	2
@@ -250397,6 +250533,7 @@ sort: by_weight
 马尔布鲁克绿猴	ma er bu lu ke lv hou	1
 马耳春风	ma er chun feng	1
 马尔代夫	ma er dai fu	16960
+马尔代夫共和国	ma er dai fu gong he guo	9999
 马尔地夫短额鲆	ma er di fu duan e ping	1
 马尔蒂尼	ma er di ni	6855
 玛尔丁	ma er ding	4
@@ -250421,6 +250558,7 @@ sort: by_weight
 玛尔斯	ma er si	550
 马耳他	ma er ta	9210
 马耳他队	ma er ta dui	5
+马耳他共和国	ma er ta gong he guo	9999
 马耳他海峡	ma er ta hai xia	10
 马耳他卷毛狮子犬	ma er ta juan mao shi zi quan	1
 马耳他刑事法典	ma er ta xing shi fa dian	5
@@ -250865,6 +251003,7 @@ sort: by_weight
 马拉维	ma la wei	3570
 麻辣味	ma la wei	1850
 马拉维非洲盲刺鳅	ma la wei fei zhou mang ci qiu	1
+马拉维共和国	ma la wei gong he guo	9999
 马拉维湖	ma la wei hu	175
 麻辣香锅	ma la xiang guo	1252
 麻辣香水鱼	ma la xiang shui yu	54
@@ -250948,10 +251087,10 @@ sort: by_weight
 # 马利	ma li	0
 玛丽安	ma li an	2040
 马里奥	ma li ao	8690
-玛利奥	ma li ao	81
 马里奥孔雀鱼	ma li ao kong que yu	1
 马力车重比	ma li che zhong bi	1
 马里恩岛𬶋南极鱼	ma li en dao ju nan ji yu	1
+马里共和国	ma li gong he guo	9999
 玛利苟斯	ma li gou si	2
 马利和我	ma li he wo	16
 麻理惠	ma li hui	24
@@ -252069,6 +252208,7 @@ sort: by_weight
 卖的	mai de	83365
 卖得	mai de	35250
 买得	mai de	17995
+买的吧	mai de ba	111
 卖得比	mai de bi	965
 买得比	mai de bi	110
 迈得比	mai de bi	85
@@ -254436,6 +254576,7 @@ sort: by_weight
 毛里求斯	mao li qiu si	8305
 毛里求斯岛	mao li qiu si dao	29
 毛里求斯粉鸽	mao li qiu si fen ge	1
+毛里求斯共和国	mao li qiu si gong he guo	9999
 毛里求斯角鲂𫚒	mao li qiu si jiao fang fu	1
 毛里求斯鹃鵙	mao li qiu si juan ju	1
 毛里求斯乐园钩虾	mao li qiu si le yuan gou xia	1
@@ -254444,8 +254585,8 @@ sort: by_weight
 貌离神合	mao li shen he	111
 毛里塔里亚蟾蜍	mao li ta li ya chan chu	1
 毛里塔尼亚	mao li ta ni ya	3440
-毛利塔尼亚	mao li ta ni ya	14
 毛里塔尼亚短颊鳗	mao li ta ni ya duan jia man	1
+毛里塔尼亚伊斯兰共和国	mao li ta ni ya yi si lan gong he guo	9999
 毛里坦猿人	mao li tan yuan ren	1
 毛里拖毡	mao li tuo zhan	1
 毛利元就	mao li yuan jiu	5
@@ -255558,8 +255699,8 @@ sort: by_weight
 梅尔维尔鲸	mei er wei er jing	1
 美尔雅	mei er ya	5175
 没法	mei fa	96430
-美发	mei fa	5379
-美法	mei fa	1875
+美发	mei fa	1379
+美法	mei fa	18
 没法办	mei fa ban	111
 没法保证	mei fa bao zheng	111
 没法比	mei fa bi	5660
@@ -255591,6 +255732,7 @@ sort: by_weight
 没法过	mei fa guo	111
 没发过来	mei fa guo lai	67
 没法过了	mei fa guo le	111
+没法和	mei fa he	1111
 没法呼吸	mei fa hu xi	111
 没法换	mei fa huan	73
 没法回答	mei fa hui da	111
@@ -256296,6 +256438,7 @@ sort: by_weight
 美纪	mei ji	8
 美稷	mei ji	2
 没几次	mei ji ci	63
+没记得	mei ji de	3333
 每季度	mei ji du	31165
 没几个	mei ji ge	10570
 没几个人	mei ji ge ren	4475
@@ -256659,6 +256802,7 @@ sort: by_weight
 美利坚	mei li jian	6840
 美利坚合众国	mei li jian he zhong guo	4710
 美利坚人	mei li jian ren	60
+梅利利亚	mei li li ya	9999
 梅丽路	mei li lu	18
 美丽马拉维丽鱼	mei li ma la wei li yu	1
 没礼貌	mei li mao	3280
@@ -258014,9 +258158,11 @@ sort: by_weight
 每碗	mei wan	1595
 没玩过	mei wan guo	3935
 梅湾街道	mei wan jie dao	20
+没完了是吧	mei wan le shi ba	111
 没完没了	mei wan mei liao	28235
 没完没了了	mei wan mei liao le	28235
 没完没了了吧	mei wan mei liao le ba	28235
+没完没了了是吧	mei wan mei liao le shi ba	111
 没玩什么	mei wan shen me	65
 没玩着	mei wan zhao	5
 没忘	mei wang	9999
@@ -258479,6 +258625,7 @@ sort: by_weight
 没有回音	mei you hui yin	2875
 没有获得	mei you huo de	11290
 没有基础	mei you ji chu	2460
+没有记得	mei you ji de	3333
 没有几个	mei you ji ge	10465
 没有机会	mei you ji hui	28125
 没有家	mei you jia	4150
@@ -261451,6 +261598,8 @@ sort: by_weight
 缅甸副双边鱼	mian dian fu shuang bian yu	1
 缅甸公司法	mian dian gong si fa	1
 缅甸环宇海龙	mian dian huan yu hai long	1
+缅甸联邦	mian dian lian bang	9999
+缅甸联邦共和国	mian dian lian bang gong he guo	9999
 缅甸莽	mian dian mang	8
 缅甸蜜蜂猫	mian dian mi feng mao	1
 缅甸人	mian dian ren	1190
@@ -263481,6 +263630,7 @@ sort: by_weight
 民主刚果	min zhu gang guo	75
 民主革命	min zhu ge ming	10640
 民主共和	min zhu gong he	2475
+民主共和国	min zhu gong he guo	9999
 民主管理	min zhu guan li	64940
 民主广场	min zhu guang chang	31
 民主国家	min zhu guo jia	6205
@@ -264952,16 +265102,17 @@ sort: by_weight
 明于治乱	ming yu zhi luan	19
 明御主机审计平台	ming yu zhu ji shen ji ping tai	87
 名誉主席	ming yu zhu xi	10000
-名园	ming yuan	10900
-明远	ming yuan	6330
 名媛	ming yuan	5915
 鸣冤	ming yuan	1440
-明园	ming yuan	395
+名园	ming yuan	109
+明远	ming yuan	63
+# 明园	ming yuan	0
 明元帝	ming yuan di	4
 鸣冤叫屈	ming yuan jiao qu	580
 命缘义轻	ming yuan yi qing	1
 明月	ming yue	118030
-名曰	ming yue	36380
+名曰	ming yue	363
+朙月	ming yue	1
 明月别枝惊鹊	ming yue bie zhi jing que	1180
 明月不谙离恨苦	ming yue bu an li hen ku	3
 明月不常圆	ming yue bu chang yuan	1
@@ -266023,6 +266174,7 @@ sort: by_weight
 摩洛哥队	mo luo ge dui	315
 摩洛哥腔吻鳕	mo luo ge qiang wen xue	1
 摩洛哥人	mo luo ge ren	670
+摩洛哥王国	mo luo ge wang guo	9999
 摩洛哥王者蜥	mo luo ge wang zhe xi	1
 没落贵族	mo luo gui zu	885
 莫洛基尼岛杯形珊瑚	mo luo ji ni dao bei xing shan hu	1
@@ -266106,6 +266258,7 @@ sort: by_weight
 莫娜	mo na	111
 摩纳哥	mo na ge	12565
 摩纳哥队	mo na ge dui	550
+摩纳哥公国	mo na ge gong guo	9999
 摩纳哥站	mo na ge zhan	380
 莫纳海峡	mo na hai xia	30
 莫那龙	mo na long	1
@@ -266360,6 +266513,7 @@ sort: by_weight
 莫桑比克百眼宝螺	mo sang bi ke bai yan bao luo	1
 莫桑比克腹瓢鰕虎	mo sang bi ke fu piao xia hu	1
 莫桑比克腹瓢鰕虎鱼	mo sang bi ke fu piao xia hu yu	1
+莫桑比克共和国	mo sang bi ke gong he guo	9999
 莫桑比克共和国议会	mo sang bi ke gong he guo yi hui	19
 莫桑比克海峡	mo sang bi ke hai xia	180
 莫桑比克海蠋鱼	mo sang bi ke hai zhu yu	1
@@ -266742,6 +266896,7 @@ sort: by_weight
 墨西哥副脂鳚	mo xi ge fu zhi wei	1
 墨西哥高原	mo xi ge gao yuan	220
 墨西哥鱥	mo xi ge gui	1
+墨西哥合众国	mo xi ge he zhong guo	9999
 墨西哥红尾	mo xi ge hong wei	3
 墨西哥红膝鸟蛛	mo xi ge hong xi niao zhu	1
 墨西哥虎鲨	mo xi ge hu sha	3
@@ -269423,6 +269578,7 @@ sort: by_weight
 哪门子	na men zi	4430
 纳米	na mi	178510
 纳米比亚	na mi bi ya	5525
+纳米比亚共和国	na mi bi ya gong he guo	9999
 纳米比亚沙漠测行蛇	na mi bi ya sha mo ce xing she	1
 纳米比亚侏膨蝰	na mi bi ya zhu peng kui	1
 纳米布沙漠甲虫	na mi bu sha mo jia chong	1
@@ -271040,6 +271196,7 @@ sort: by_weight
 南非多指鲉	nan fei duo zhi you	1
 南非歌百灵	nan fei ge bai ling	1
 南非歌鵖	nan fei ge bi	1
+南非共和国	nan fei gong he guo	3333
 南非共和国宪法	nan fei gong he guo xian fa	3
 南淝河路	nan fei he lu	62
 南非黑鹟	nan fei hei weng	1
@@ -272181,6 +272338,7 @@ sort: by_weight
 南宋人	nan song ren	460
 南塑	nan su	7
 南苏丹	nan su dan	3333
+南苏丹共和国	nan su dan gong he guo	9999
 难素之学	nan su zhi xue	1
 南孙村	nan sun cun	1
 南孙庄村	nan sun zhuang cun	2
@@ -273043,6 +273201,7 @@ sort: by_weight
 脑灵通	nao ling tong	1
 脑瘤	nao liu	6310
 瑙鲁	nao lu	2245
+瑙鲁共和国	nao lu gong he guo	9999
 脑颅骨	nao lu gu	29
 瑙鲁苇莺	nao lu wei ying	1
 闹乱子	nao luan zi	110
@@ -275012,6 +275171,7 @@ sort: by_weight
 你到底是谁	ni dao di shi shui	2965
 你到底是谁啊	ni dao di shi shui a	175
 你到底是谁呀	ni dao di shi shui ya	135
+你到底行不行啊	ni dao di xing bu xing a	111
 逆道乱常	ni dao luan chang	1
 你倒是	ni dao shi	9999
 你到时	ni dao shi	411
@@ -275316,6 +275476,7 @@ sort: by_weight
 倪光南	ni guang nan	4910
 拟规画圆	ni gui hua yuan	1
 你滚	ni gun	2310
+你滚啊	ni gun a	2310
 你过	ni guo	9999
 你国	ni guo	1111
 你过得还好吗	ni guo de hai hao ma	111
@@ -275463,6 +275624,7 @@ sort: by_weight
 你家啊	ni jia a	260
 尼加拉瓜	ni jia la gua	5930
 尼加拉瓜布拉姆脂	ni jia la gua bu la mu zhi	1
+尼加拉瓜共和国	ni jia la gua gong he guo	9999
 倪家桥	ni jia qiao	49
 倪家桥路	ni jia qiao lu	38
 你家人	ni jia ren	1510
@@ -276013,10 +276175,13 @@ sort: by_weight
 泥人张	ni ren zhang	3200
 尼日尔	ni ri er	3580
 尼日尔长嘴𫚭	ni ri er chang zui lie	1
+尼日尔共和国	ni ri er gong he guo	9999
 尼日尔河	ni ri er he	810
 尼日利亚	ni ri li ya	36605
 尼日利亚队	ni ri li ya dui	715
 尼日利亚精织雀	ni ri li ya jing zhi que	1
+尼日利亚联邦	ni ri li ya lian bang	9999
+尼日利亚联邦共和国	ni ri li ya lian bang gong he guo	9999
 尼日利亚四犬齿棱	ni ri li ya si quan chi leng	1
 拟日月贝科	ni ri yue bei ke	1
 呢绒	ni rong	5015
@@ -276455,6 +276620,7 @@ sort: by_weight
 你行	ni xing	8560
 你姓	ni xing	2195
 倪姓	ni xing	55
+你行不行啊	ni xing bu xing a	111
 逆行冲动	ni xing chong dong	1
 你姓啥	ni xing sha	111
 逆行射精	ni xing she jing	24
@@ -277750,6 +277916,7 @@ sort: by_weight
 尿裤	niao ku	3295
 鸟哭猿啼	niao ku yuan ti	1
 尿裤子	niao ku zi	2320
+尿裤子了	niao ku zi le	111
 鸟溃鱼散	niao kui yu san	111
 尿了	niao le	5555
 尿了一泡	niao le yi pao	1180
@@ -280635,6 +280802,7 @@ sort: by_weight
 挪威首都奥斯陆	nuo wei shou du ao si lu	111
 挪威水果布丁	nuo wei shui guo bu ding	1
 诺维斯基	nuo wei si ji	1460
+挪威王国	nuo wei wang guo	9999
 挪威小毛猛水蚤	nuo wei xiao mao meng shui zao	1
 诺维信	nuo wei xin	1250
 挪威语	nuo wei yu	2385
@@ -281274,7 +281442,7 @@ sort: by_weight
 哦没事	o mei shi	40
 哦哦	o o	9999
 噢噢	o o	1111
-噢噢噢	o o o	480
+噢噢噢	o o o	9999
 哦什么	o shen me	95
 哦什么哦	o shen me o	55
 哦我	o wo	111
@@ -281948,7 +282116,9 @@ sort: by_weight
 啪啦一声	pa la yi sheng	1111
 爬来	pa lai	840
 爬来爬去	pa lai pa qu	2695
+怕老	pa lao	3333
 帕劳	pa lao	1605
+帕劳共和国	pa lao gong he guo	9999
 怕老婆	pa lao po	6255
 怕了	pa le	27745
 爬了	pa le	15785
@@ -289931,6 +290101,7 @@ sort: by_weight
 破发	po fa	1111
 破发点	po fa dian	111
 破防	po fang	9999
+破房	po fang	1111
 破防了	po fang le	9999
 颇费	po fei	6385
 破费	po fei	6360
@@ -291247,6 +291418,7 @@ sort: by_weight
 葡萄牙	pu tao ya	72855
 葡萄牙波登哥犬	pu tao ya bo deng ge quan	1
 葡萄牙队	pu tao ya dui	3960
+葡萄牙共和国	pu tao ya gong he guo	9999
 葡萄牙人	pu tao ya ren	6380
 葡萄牙首都里斯本	pu tao ya shou du li si ben	111
 葡萄牙语	pu tao ya yu	11455
@@ -292662,9 +292834,12 @@ sort: by_weight
 汽缸数	qi gang shu	2320
 气缸套	qi gang tao	1585
 汽缸体	qi gang ti	420
+奇高	qi gao	6666
+起高	qi gao	3333
 起稿	qi gao	1335
 齐高	qi gao	945
 气高胆壮	qi gao dan zhuang	1
+起高了	qi gao le	111
 棋高一着	qi gao yi zhao	680
 其高者因而越之	qi gao zhe yin er yue zhi	3
 气高志大	qi gao zhi da	1
@@ -308139,7 +308314,7 @@ sort: by_weight
 去哭	qu ku	1111
 曲库乎乡	qu ku hu xiang	15
 区块	qu kuai	25940
-区块链	qu kuai lian	667
+区块链	qu kuai lian	6670
 区块链各场景	qu kuai lian ge chang jing	68
 区块链技术	qu kuai lian ji shu	483
 区块链视频	qu kuai lian shi pin	68
@@ -311470,7 +311645,7 @@ sort: by_weight
 群狼	qun lang	6120
 群雷闪	qun lei shan	1
 群里	qun li	41155
-群力	qun li	3750
+群力	qun li	1
 群力村	qun li cun	53
 群力胡同	qun li hu tong	1
 群里有	qun li you	101
@@ -319537,6 +319712,7 @@ sort: by_weight
 瑞典拉普杭犬	rui dian la pu hang quan	1
 瑞典农场犬	rui dian nong chang quan	1
 瑞典人	rui dian ren	4810
+瑞典王国	rui dian wang guo	9999
 瑞典文	rui dian wen	2435
 瑞典沃尔沃汽车公司	rui dian wo er wo qi che gong si	100
 瑞典语	rui dian yu	3880
@@ -319652,6 +319828,7 @@ sort: by_weight
 瑞士卷	rui shi juan	223
 瑞士咖啡人	rui shi ka fei ren	79
 芮氏刻肋海胆	rui shi ke lei hai dan	1
+瑞士联邦	rui shi lian bang	9999
 瑞士联合银行	rui shi lian he yin hang	735
 瑞氏普尔塔龙	rui shi pu er ta long	1
 瑞士人	rui shi ren	3720
@@ -320117,10 +320294,9 @@ sort: by_weight
 撒村	sa cun	1
 撒村发野	sa cun fa ye	1
 撒村骂街	sa cun ma jie	1
-飒沓	sa da	395
 萨大路	sa da lu	10
 萨达姆	sa da mu	115205
-飒沓如流星	sa da ru liu xing	6
+萨达姆·侯赛因	sa da mu hou sai yin	100
 萨达特	sa da te	662
 撒旦	sa dan	25035
 撒旦叶尾壁虎	sa dan ye wei bi hu	1
@@ -320157,6 +320333,7 @@ sort: by_weight
 萨尔图机场	sa er tu ji chang	26
 萨尔图区	sa er tu qu	3040
 萨尔瓦多	sa er wa duo	5765
+萨尔瓦多共和国	sa er wa duo gong he guo	9999
 萨尔瓦多郊狼	sa er wa duo jiao lang	1
 萨尔温江	sa er wen jiang	545
 萨尔温江高须鱼	sa er wen jiang gao xu yu	1
@@ -320301,6 +320478,7 @@ sort: by_weight
 萨摩亚侧带小公鱼	sa mo ya ce dai xiao gong yu	1
 萨摩亚船蛆	sa mo ya chuan qu	1
 萨摩亚笛鲷	sa mo ya di diao	1
+萨摩亚独立国	sa mo ya du li guo	9999
 萨摩亚黑水鸡	sa mo ya hei shui ji	1
 萨摩亚鸣鹃鵙	sa mo ya ming juan ju	1
 萨摩亚瓢鳍鰕虎鱼	sa mo ya piao qi xia hu yu	1
@@ -320388,6 +320566,8 @@ sort: by_weight
 萨斯	sa si	11800
 萨斯州	sa si zhou	233
 萨苏	sa su	5995
+飒沓	sa ta	395
+飒沓如流星	sa ta ru liu xing	6
 撒糖	sa tang	1111
 萨特	sa te	10975
 萨提纳尔	sa ti na er	1
@@ -320523,6 +320703,7 @@ sort: by_weight
 塞尔萨玛	sai er sa ma	7
 塞耳偷铃	sai er tou ling	1
 塞尔维亚	sai er wei ya	12000
+塞尔维亚共和国	sai er wei ya gong he guo	9999
 塞尔维亚和黑山	sai er wei ya he hei shan	79
 赛菲亚之罪	sai fei ya zhi zui	1
 噻吩	sai fen	1
@@ -320575,7 +320756,7 @@ sort: by_weight
 塞拉霸娇鹟	sai la ba jiao weng	1
 塞拉芬短吻狮子鱼	sai la fen duan wen shi zi yu	1
 塞拉利昂	sai la li ang	4751
-塞拉里昂	sai la li ang	58
+塞拉利昂共和国	sai la li ang gong he guo	9999
 塞拉摩岛	sai la mo dao	1
 塞拉摩人类	sai la mo ren lei	1
 塞拉斯	sai la si	2340
@@ -320643,6 +320824,7 @@ sort: by_weight
 塞内加尔蝶	sai nei jia er die	1
 塞内加尔多鳍鱼	sai nei jia er duo qi yu	34
 塞内加尔凤头百灵	sai nei jia er feng tou bai ling	1
+塞内加尔共和国	sai nei jia er gong he guo	9999
 塞内加尔蜜蜂	sai nei jia er mi feng	1
 塞内加尔弱蟌	sai nei jia er ruo cong	1
 塞内加尔树蛙	sai nei jia er shu wa	1
@@ -320665,6 +320847,7 @@ sort: by_weight
 赛跑者	sai pao zhe	335
 塞浦路斯	sai pu lu si	11175
 塞浦路斯鵖	sai pu lu si bi	1
+塞浦路斯共和国	sai pu lu si gong he guo	9999
 塞浦路斯闪蝶	sai pu lu si shan die	6
 塞浦路斯鼠	sai pu lu si shu	9
 塞浦路斯侏儒河马	sai pu lu si zhu ru he ma	1
@@ -320689,6 +320872,7 @@ sort: by_weight
 塞上香哪	sai shang xiang na	5
 塞上燕脂凝夜紫	sai shang yan zhi ning ye zi	1
 塞舌尔	sai she er	5015
+塞舌尔共和国	sai she er gong he guo	9999
 塞舌尔猫头鹰	sai she er mao tou ying	1
 赛事	sai shi	190485
 赛事安排	sai shi an pai	680
@@ -325311,6 +325495,7 @@ sort: by_weight
 沙塘湾街道	sha tang wan jie dao	11
 沙特	sha te	39570
 沙特阿拉伯	sha te a la bo	22440
+沙特阿拉伯王国	sha te a la bo wang guo	9999
 沙特队	sha te dui	1725
 沙特尔蓝猫	sha te er lan mao	2
 沙特尔猫	sha te er mao	13
@@ -331228,6 +331413,7 @@ sort: by_weight
 舍掉	she diao	1255
 设定	she ding	500364
 射钉	she ding	1415
+设定的值	she ding de zhi	111
 设定了	she ding le	33060
 射钉枪	she ding qiang	670
 设定权	she ding quan	1615
@@ -336341,6 +336527,7 @@ sort: by_weight
 圣盾祝福	sheng dun zhu fu	3
 圣多美	sheng duo mei	390
 圣多美和普林西比	sheng duo mei he pu lin xi bi	670
+圣多美和普林西比民主共和国	sheng duo mei he pu lin xi bi min zhu gong he guo	9999
 圣多美绿鸽	sheng duo mei lv ge	1
 圣多明各	sheng duo ming ge	355
 剩多少	sheng duo shao	66
@@ -337089,6 +337276,7 @@ sort: by_weight
 圣玛丽	sheng ma li	2650
 圣马力	sheng ma li	33
 圣马力诺	sheng ma li nuo	2920
+圣马力诺共和国	sheng ma li nuo gong he guo	9999
 圣马力诺伊莫拉赛道	sheng ma li nuo yi mo la sai dao	40
 圣玛利亚滨珊瑚	sheng ma li ya bin shan hu	1
 圣马龙	sheng ma long	28
@@ -346355,6 +346543,9 @@ sort: by_weight
 是以哪个	shi yi na ge	62
 十一年	shi yi nian	24275
 十一农场	shi yi nong chang	1
+示意牌	shi yi pai	3333
+是一排	shi yi pai	2222
+是一派	shi yi pai	111
 十一篇	shi yi pian	560
 十一区	shi yi qu	162
 十一人	shi yi ren	3690
@@ -354490,6 +354681,8 @@ sort: by_weight
 双驼薄躄鱼	shuang tuo bao bi yu	1
 爽歪歪	shuang wai wai	5815
 双腕	shuang wan	1005
+双亡	shuang wang	3333
+双王	shuang wang	1111
 双网卡	shuang wang ka	3020
 双卫	shuang wei	2320
 双威	shuang wei	1672
@@ -357439,6 +357632,7 @@ sort: by_weight
 说你了	shuo ni le	1050
 说你们	shuo ni men	11135
 说你呢	shuo ni ne	1620
+说你行	shuo ni xing	333
 说您	shuo nin	8745
 说评书	shuo ping shu	730
 说破	shuo po	6400
@@ -359237,6 +359431,7 @@ sort: by_weight
 斯里兰卡大盘尾	si li lan ka da pan wei	1
 斯里兰卡灰犀鸟	si li lan ka hui xi niao	1
 斯里兰卡鹩哥	si li lan ka liao ge	1
+斯里兰卡民主社会主义共和国	si li lan ka min zhu she hui zhu yi gong he guo	9999
 斯里兰卡墨头鱼	si li lan ka mo tou yu	1
 斯里兰卡啸鸫	si li lan ka xiao dong	1
 斯里兰卡肖蛸	si li lan ka xiao shao	1
@@ -359349,12 +359544,14 @@ sort: by_weight
 斯洛	si luo	6840
 斯洛伐克	si luo fa ke	13365
 斯洛伐克队	si luo fa ke dui	435
+斯洛伐克共和国	si luo fa ke gong he guo	9999
 斯洛伐克库瓦克犬	si luo fa ke ku wa ke quan	1
 斯洛伐克猎犬	si luo fa ke lie quan	1
 斯洛伐克人	si luo fa ke ren	240
 斯洛伐克硬毛指示猎犬	si luo fa ke ying mao zhi shi lie quan	1
 四落实	si luo shi	2525
 斯洛文尼亚	si luo wen ni ya	10820
+斯洛文尼亚共和国	si luo wen ni ya gong he guo	9999
 斯洛文尼亚人	si luo wen ni ya ren	265
 丝罗乡	si luo xiang	5
 思虑	si lv	15145
@@ -360403,6 +360600,7 @@ sort: by_weight
 四味荞包	si wei qiao bao	18
 四味山药膏	si wei shan yao gao	1
 斯威士兰	si wei shi lan	1710
+斯威士兰王国	si wei shi lan wang guo	9999
 四位数	si wei shu	3900
 四位数表	si wei shu biao	5
 思为双飞燕	si wei shuang fei yan	1
@@ -362269,6 +362467,7 @@ sort: by_weight
 苏丹	su dan	39240
 素淡	su dan	1685
 酥蛋包肉	su dan bao rou	1
+苏丹共和国	su dan gong he guo	9999
 苏丹红	su dan hong	23445
 苏丹花	su dan hua	1
 苏丹火怪	su dan huo guai	1
@@ -362589,6 +362788,7 @@ sort: by_weight
 俗丽	su li	335
 酥理玛	su li ma	47
 苏里南	su li nan	2870
+苏里南共和国	su li nan gong he guo	9999
 苏黎世	su li shi	12830
 苏黎士	su li shi	2320
 苏里乡	su li xiang	1
@@ -365182,6 +365382,8 @@ sort: by_weight
 索马杜林	suo ma du lin	5
 索马里	suo ma li	13860
 索马里红牡丹宝螺	suo ma li hong mu dan bao luo	1
+索马里联邦	suo ma li lian bang	9999
+索马里联邦共和国	suo ma li lian bang gong he guo	9999
 索马里人	suo ma li ren	555
 索马利亚	suo ma li ya	115
 索马里中华宝螺	suo ma li zhong hua bao luo	1
@@ -366219,6 +366421,7 @@ sort: by_weight
 塔吉克	ta ji ke	4280
 塔吉克人	ta ji ke ren	415
 塔吉克斯坦	ta ji ke si tan	8560
+塔吉克斯坦共和国	ta ji ke si tan gong he guo	9999
 塔吉克族	ta ji ke zu	2225
 塔吉乡	ta ji xiang	1
 他家	ta jia	93790
@@ -368911,6 +369114,7 @@ sort: by_weight
 太突然了	tai tu ran le	4225
 抬腿	tai tui	10050
 太拖拉	tai tuo la	3312
+太拖沓	tai tuo ta	100
 台湾	tai wan	500583
 太晚	tai wan	17565
 台湾阿内蛛	tai wan a nei zhu	1
@@ -369172,6 +369376,7 @@ sort: by_weight
 台网	tai wang	9555
 太旺	tai wang	3410
 泰王	tai wang	2890
+泰王国	tai wang guo	111
 泰王国经济贸易法律指南	tai wang guo jing ji mao yi fa lv zhi nan	5
 抬望眼	tai wang yan	1145
 太尉	tai wei	17790
@@ -370313,6 +370518,7 @@ sort: by_weight
 坦桑尼亚	tan sang ni ya	12640
 坦桑尼亚橄榄巴布	tan sang ni ya gan lan ba bu	1
 坦桑尼亚老虎尾巴布	tan sang ni ya lao hu wei ba bu	1
+坦桑尼亚联合共和国	tan sang ni ya lian he gong he guo	9999
 贪色	tan se	1810
 谈色紫黄	tan se zi huang	1
 摊晒	tan shai	555
@@ -371184,6 +371390,7 @@ sort: by_weight
 唐家沱	tang jia tuo	395
 唐家湾	tang jia wan	280
 塘家湾	tang jia wan	5
+汤加王国	tang jia wang guo	9999
 唐家巷	tang jia xiang	11
 唐家璇	tang jia xuan	11205
 唐家院子	tang jia yuan zi	60
@@ -373046,6 +373253,7 @@ sort: by_weight
 特丽纶	te li lun	245
 特立尼达	te li ni da	2260
 特立尼达和多巴哥	te li ni da he duo ba ge	4490
+特立尼达和多巴哥共和国	te li ni da he duo ba ge gong he guo	9999
 特里普	te li pu	4395
 特例入境	te li ru jing	68
 特莉丝·梅莉葛德	te li si mei li ge de	111
@@ -384387,6 +384595,7 @@ sort: by_weight
 土耳其队	tu er qi dui	720
 土耳其梵科迪斯猫	tu er qi fan ke di si mao	1
 土耳其弓背蚁	tu er qi gong bei yi	1
+土耳其共和国	tu er qi gong he guo	9999
 土耳其海峡	tu er qi hai xia	145
 土耳其黑肥尾蝎	tu er qi hei fei wei xie	1
 土耳其咖啡	tu er qi ka fei	410
@@ -384807,6 +385016,7 @@ sort: by_weight
 图内	tu nei	2390
 突尼斯	tu ni si	18145
 突尼斯队	tu ni si dui	465
+突尼斯共和国	tu ni si gong he guo	9999
 突尼斯海峡	tu ni si hai xia	35
 突尼西亚	tu ni xi ya	560
 兔年	tu nian	2205
@@ -387325,6 +387535,7 @@ sort: by_weight
 脱羧	tuo suo	6
 脱羧酶	tuo suo mei	1160
 拖沓	tuo ta	9405
+拖沓感	tuo ta gan	100
 托塔天王	tuo ta tian wang	1180
 脱胎	tuo tai	10965
 脱胎换骨	tuo tai huan gu	20560
@@ -387363,6 +387574,7 @@ sort: by_weight
 沱沱河	tuo tuo he	3735
 拖拖拉拉	tuo tuo la la	6200
 托托馍	tuo tuo mo	12
+拖拖沓沓	tuo tuo ta ta	100
 妥妥帖帖	tuo tuo tie tie	470
 沱沱网	tuo tuo wang	26
 橐驼之技	tuo tuo zhi ji	1
@@ -387791,6 +388003,7 @@ sort: by_weight
 挖泥	wa ni	1910
 挖泥船	wa ni chuan	1750
 瓦努阿图	wa nu a tu	3205
+瓦努阿图共和国	wa nu a tu gong he guo	9999
 瓦怒阿图若梅鲷	wa nu a tu ruo mei diao	1
 瓦努阿图冢雉	wa nu a tu zhong zhi	1
 瓦怒滑若梅鲷	wa nu hua ruo mei diao	1
@@ -391965,6 +392178,8 @@ sort: by_weight
 王乐泉	wang le quan	1814
 忘了他	wang le ta	3910
 忘了她	wang le ta	2525
+忘了疼	wang le teng	111
+忘了痛	wang le tong	111
 望了望	wang le wang	15525
 忘了我	wang le wo	9240
 忘了我吧	wang le wo ba	1410
@@ -396150,6 +396365,7 @@ sort: by_weight
 围内	wei nei	71
 微内核	wei nei he	1033
 委内瑞拉	wei nei rui la	28005
+委内瑞拉玻利瓦尔共和国	wei nei rui la bo li wa er gong he guo	9999
 委内瑞拉斗牛犬	wei nei rui la dou niu quan	1
 委内瑞拉队	wei nei rui la dui	100
 委内瑞拉粉红脚捕鸟蛛	wei nei rui la fen hong jiao bu niao zhu	1
@@ -401277,10 +401493,9 @@ sort: by_weight
 我操	wo cao	1374
 我肏	wo cao	1000
 卧槽马	wo cao ma	2120
-我草你妈	wo cao ni ma	333
-我操你妈	wo cao ni ma	222
-我肏你妈	wo cao ni ma	22
-我草泥马	wo cao ni ma	11
+我操你妈	wo cao ni ma	333
+我肏你妈	wo cao ni ma	222
+我草你妈	wo cao ni ma	111
 卧槽泥马	wo cao ni ma	1
 我操你妈了个逼	wo cao ni ma le ge bi	22
 我肏你妈了个逼	wo cao ni ma le ge bi	11
@@ -403414,7 +403629,7 @@ sort: by_weight
 我行	wo xing	34585
 我姓	wo xing	2730
 蜗行	wo xing	360
-沃姓	wo xing	10
+沃姓	wo xing	1
 我醒过来	wo xing guo lai	685
 蜗行牛步	wo xing niu bu	20
 我姓啥	wo xing sha	111
@@ -403814,6 +404029,8 @@ sort: by_weight
 我怎么知道呀	wo zen me zhi dao ya	5
 我怎能	wo zen neng	6550
 我赠红珠如赠心	wo zeng hong zhu ru zeng xin	1180
+我炸	wo zha	3333
+我炸死	wo zha si	111
 我摘下	wo zhai xia	960
 我站	wo zhan	120515
 我站在	wo zhan zai	34400
@@ -405233,6 +405450,7 @@ sort: by_weight
 五感	wu gan	1880
 # 吴淦	wu gan	0
 乌干达	wu gan da	9510
+乌干达共和国	wu gan da gong he guo	9999
 无感觉	wu gan jue	1010
 无感情	wu gan qing	515
 无感我帨兮	wu gan wo shui xi	2
@@ -406477,6 +406695,8 @@ sort: by_weight
 乌拉盖牧场	wu la gai mu chang	2
 乌拉圭	wu la gui	15495
 乌拉圭的	wu la gui de	690
+乌拉圭东岸	wu la gui dong an	9999
+乌拉圭东岸共和国	wu la gui dong an gong he guo	9999
 乌拉圭队	wu la gui dui	985
 乌拉圭回合	wu la gui hui he	4335
 乌拉圭人	wu la gui ren	475
@@ -410357,6 +410577,7 @@ sort: by_weight
 乌孜别克	wu zi bie ke	1445
 乌兹别克人	wu zi bie ke ren	160
 乌兹别克斯坦	wu zi bie ke si tan	14070
+乌兹别克斯坦共和国	wu zi bie ke si tan gong he guo	3
 乌兹别克斯坦共和国宪法	wu zi bie ke si tan gong he guo xian fa	3
 乌孜别克族	wu zi bie ke zu	925
 乌兹伯村庄	wu zi bo cun zhuang	1
@@ -410582,6 +410803,7 @@ sort: by_weight
 西班牙人	xi ban ya ren	14085
 西班牙首都马德里	xi ban ya shou du ma de li	111
 西班牙土豆煎蛋	xi ban ya tu dou jian dan	2
+西班牙王国	xi ban ya wang guo	9999
 西班牙文	xi ban ya wen	8425
 西班牙舞	xi ban ya wu	480
 西班牙喜鹊鸽	xi ban ya xi que ge	1
@@ -412214,6 +412436,7 @@ sort: by_weight
 希腊悲剧	xi la bei ju	560
 希腊传说	xi la chuan shuo	210
 希腊队	xi la dui	2665
+希腊共和国	xi la gong he guo	9999
 锡拉胡同	xi la hu tong	8
 希腊化	xi la hua	1540
 希腊精神	xi la jing shen	320
@@ -414173,12 +414396,12 @@ sort: by_weight
 细细致致	xi xi zhi zhi	70
 西夏	xi xia	26255
 膝下	xi xia	7335
-西峡	xi xia	4075
 西下	xi xia	3555
 洗下	xi xia	1140
-隙罅	xi xia	70
-溪下	xi xia	16
-溪霞	xi xia	15
+隙罅	xi xia	1
+# 溪下	xi xia	0
+# 溪霞	xi xia	0
+# 西峡	xi xia	0
 希夏邦马峰	xi xia bang ma feng	550
 膝下承欢	xi xia cheng huan	111
 西下峨眉峰	xi xia e mei feng	1
@@ -414195,11 +414418,11 @@ sort: by_weight
 西下庄	xi xia zhuang	11
 西线	xi xian	22965
 细线	xi xian	10860
-息县	xi xian	2270
-隰县	xi xian	1410
 豨莶	xi xian	65
-西县	xi xian	25
-锡县	xi xian	3
+隰县	xi xian	1
+# 息县	xi xian	0
+# 西县	xi xian	0
+# 锡县	xi xian	0
 豨莶草	xi xian cao	214
 昔贤多使气	xi xian duo shi qi	27
 喜贤好善	xi xian hao shan	111
@@ -414211,9 +414434,9 @@ sort: by_weight
 细想	xi xiang	15730
 西向	xi xiang	10400
 西厢	xi xiang	7015
-喜相	xi xiang	825
 戏箱	xi xiang	260
-西乡	xi xiang	1
+# 喜相	xi xiang	0
+# 西乡	xi xiang	0
 # 西橡	xi xiang	0
 洗象池	xi xiang chi	1090
 西厢房	xi xiang fang	1580
@@ -417736,6 +417959,7 @@ sort: by_weight
 先父遗传	xian fu yi chuan	5
 现付制	xian fu zhi	87
 掀盖头	xian gai tou	200
+先干	xian gan	9999
 腺苷	xian gan	2650
 腺苷蛋氨酸	xian gan dan an suan	3
 腺苷钴胺	xian gan gu an	22
@@ -420094,9 +420318,9 @@ sort: by_weight
 相爱多年	xiang ai duo nian	610
 相爱了	xiang ai le	8235
 相爱着	xiang ai zhe	995
-翔安	xiang an	42655
 香案	xiang an	5340
 相安	xiang an	2090
+# 翔安	xiang an	0
 项按钮	xiang an niu	3
 翔安区	xiang an qu	39855
 相安无事	xiang an wu shi	11070
@@ -423447,6 +423671,8 @@ sort: by_weight
 小白菜苡米粥	xiao bai cai yi mi zhou	1
 小白长红越女腮	xiao bai chang hong yue nv sai	1
 小白带尖胸沫蝉	xiao bai dai jian xiong mo chan	1
+小白点	xiao bai dian	111
+小白点儿	xiao bai dian er	111
 小百合	xiao bai he	4780
 小白河	xiao bai he	1
 小百合站	xiao bai he zhan	1120
@@ -423456,6 +423682,7 @@ sort: by_weight
 小白桦	xiao bai hua	800
 小百货	xiao bai huo	2865
 小白菊	xiao bai ju	475
+小白框	xiao bai kuang	111
 小白脸	xiao bai lian	10110
 小白脸儿	xiao bai lian er	245
 小白龙	xiao bai long	5105
@@ -424008,6 +424235,7 @@ sort: by_weight
 笑得打滚	xiao de da gun	3333
 笑得打滚儿	xiao de da gun er	3333
 小得多	xiao de duo	7070
+小的好	xiao de hao	111
 晓得了	xiao de le	3195
 笑得满地打滚	xiao de man di da gun	3333
 笑得满地打滚儿	xiao de man di da gun er	3333
@@ -424829,10 +425057,13 @@ sort: by_weight
 小黑	xiao hei	43455
 小黑板	xiao hei ban	4120
 小黑齿爪鳃金龟	xiao hei chi zhao sai jin gui	1
+小黑点	xiao hei dian	9999
+小黑点儿	xiao hei dian er	111
 小黑虎胡同	xiao hei hu hu tong	1
 小黑棘蝇	xiao hei ji ying	1
 小黑脚风鸟	xiao hei jiao feng niao	1
 小黑卷尾	xiao hei juan wei	1
+小黑框	xiao hei kuang	111
 小黑猫	xiao hei mao	2025
 小黑眉天牛	xiao hei mei tian niu	1
 小黑裙	xiao hei qun	600
@@ -425727,6 +425958,7 @@ sort: by_weight
 小吕家	xiao lv jia	7
 小绿间长红	xiao lv jian chang hong	1
 啸侣命俦	xiao lv ming chou	111
+效率奇高	xiao lv qi gao	100
 效率违约	xiao lv wei yue	44
 小旅行车	xiao lv xing che	141
 效率优先	xiao lv you xian	6490
@@ -426093,6 +426325,8 @@ sort: by_weight
 笑喷	xiao pen	9999
 小盆	xiao pen	433
 小盆胡同	xiao pen hu tong	1
+小盆友	xiao pen you	111
+小盆友们	xiao pen you men	111
 小鹏	xiao peng	8025
 小棚	xiao peng	2820
 小朋友	xiao peng you	175685
@@ -431151,7 +431385,7 @@ sort: by_weight
 新华财经	xin hua cai jing	3
 新华村	xin hua cun	348
 新华大街	xin hua da jie	428
-新华都	xin hua dou	36
+新华都	xin hua du	36
 新华二厂	xin hua er chang	5
 新华公园	xin hua gong yuan	293
 新华股份	xin hua gu fen	12500
@@ -431398,6 +431632,7 @@ sort: by_weight
 新加坡币	xin jia po bi	3333
 新加坡动物园	xin jia po dong wu yuan	287
 新加坡队	xin jia po dui	1275
+新加坡共和国	xin jia po gong he guo	9999
 新加坡共和国反贪倡廉成文律选	xin jia po gong he guo fan tan chang lian cheng wen lv xuan	1
 新加坡共和国经济贸易法律选编	xin jia po gong he guo jing ji mao yi fa lv xuan bian	1
 新加坡工作准证	xin jia po gong zuo zhun zheng	12
@@ -436781,6 +437016,7 @@ sort: by_weight
 星夜	xing ye	17570
 星野	xing ye	7800
 姓叶	xing ye	1345
+行也不行	xing ye bu xing	111
 兴业大街	xing ye da jie	18
 星夜的	xing ye de	745
 兴业东路	xing ye dong lu	3
@@ -437921,7 +438157,9 @@ sort: by_weight
 修辞学	xiu ci xue	2760
 修辞学家	xiu ci xue jia	95
 修辞学习	xiu ci xue xi	24
+休达	xiu da	111
 羞答答	xiu da da	5305
+休达和梅利利亚	xiu da he mei li li ya	9999
 休达及梅利利亚	xiu da ji mei li li ya	3333
 修道	xiu dao	33145
 嗅到	xiu dao	17260
@@ -439200,6 +439438,7 @@ sort: by_weight
 叙利亚	xu li ya	35320
 叙利亚刺尾蜥	xu li ya ci wei xi	1
 叙利亚队	xu li ya dui	395
+叙利亚共和国	xu li ya gong he guo	9999
 叙利亚人	xu li ya ren	540
 叙利亚野驴	xu li ya ye lv	1
 徐炼	xu lian	3
@@ -453239,6 +453478,7 @@ sort: by_weight
 也门瞪羚	ye men deng ling	1
 也门鸫	ye men dong	1
 爷们儿	ye men er	4645
+也门共和国	ye men gong he guo	9999
 也门人	ye men ren	225
 也门似真小鲤	ye men shi zhen xiao li	1
 也门丝雀	ye men si que	1
@@ -454489,6 +454729,8 @@ sort: by_weight
 一百分钟	yi bai fen zhong	140
 一百个	yi bai ge	19205
 一百公尺	yi bai gong chi	76
+一百行	yi bai hang	333
+一百行啊	yi bai hang a	333
 一百级	yi bai ji	64
 一百九十万	yi bai jiu shi wan	8
 一百块	yi bai kuai	3435
@@ -456021,6 +456263,7 @@ sort: by_weight
 意大利杯	yi da li bei	4475
 意大利冰淇淋店	yi da li bing qi lin dian	23
 意大利队	yi da li dui	13245
+意大利共和国	yi da li gong he guo	9999
 意大利灰狗	yi da li hui gou	3
 意大利饺子	yi da li jiao zi	80
 意大利科尔索犬	yi da li ke er suo quan	1
@@ -456055,6 +456298,8 @@ sort: by_weight
 一大片	yi da pian	35245
 一大奇迹	yi da qi ji	111
 以大欺小	yi da qi xiao	1765
+一沓钱	yi da qian	111
+易大千	yi da qian	1
 一大圈	yi da quan	4870
 一大群	yi da qun	17905
 一大群人	yi da qun ren	5800
@@ -456710,6 +456955,9 @@ sort: by_weight
 一断线	yi duan xian	6565
 一段线	yi duan xian	1
 异端邪说	yi duan xie shuo	1495
+一段一段地发	yi duan yi duan de fa	111
+一段一段地发给	yi duan yi duan de fa gei	111
+一段一段地发送	yi duan yi duan de fa song	111
 一段长	yi duan zhang	306
 一堆	yi dui	337285
 一对	yi dui	247405
@@ -459506,6 +459754,7 @@ sort: by_weight
 一垃圾	yi la ji	265
 伊拉克	yi la ke	202435
 伊拉克队	yi la ke dui	2230
+伊拉克共和国	yi la ke gong he guo	9999
 伊拉克人	yi la ke ren	6975
 伊拉克首都巴格达	yi la ke shou du ba ge da	111
 伊拉克战争	yi la ke zhan zheng	18025
@@ -459601,6 +459850,7 @@ sort: by_weight
 伊朗人	yi lang ren	3145
 伊朗首都德黑兰	yi lang shou du de hei lan	111
 一狼一狈	yi lang yi bei	30
+伊朗伊斯兰共和国	yi lang yi si lan gong he guo	9999
 伊朗语	yi lang yu	330
 伊朗总统	yi lang zong tong	3425
 一老	yi lao	7280
@@ -460438,18 +460688,17 @@ sort: by_weight
 一名	yi ming	500383
 佚名	yi ming	500273
 译名	yi ming	34005
-一鸣	yi ming	29835
-一命	yi ming	20345
 艺名	yi ming	9650
-易名	yi ming	8670
-一明	yi ming	6220
-异名	yi ming	5370
-益明	yi ming	3185
-遗命	yi ming	3170
-亦名	yi ming	1180
-翳明	yi ming	160
-易茗	yi ming	91
-医明	yi ming	7
+一命	yi ming	2034
+易名	yi ming	86
+一鸣	yi ming	29
+遗命	yi ming	2
+异名	yi ming	1
+# 一明	yi ming	0
+# 亦名	yi ming	0
+# 医明	yi ming	0
+# 易茗	yi ming	0
+# 益明	yi ming	0
 一瞑不视	yi ming bu shi	111
 一暝不视	yi ming bu shi	5
 一名不文	yi ming bu wen	75
@@ -460466,6 +460715,7 @@ sort: by_weight
 异名同实	yi ming tong shi	13
 一名为	yi ming wei	2635
 一命呜呼	yi ming wu hu	4955
+翳明穴	yi ming xue	160
 一明一灭	yi ming yi mie	385
 一名优秀	yi ming you xiu	8740
 一命之荣	yi ming zhi rong	5
@@ -461217,6 +461467,9 @@ sort: by_weight
 一千二百万	yi qian er bai wan	1045
 一千个	yi qian ge	12170
 一千股	yi qian gu	75
+一千行	yi qian hang	333
+一千行啊	yi qian hang a	333
+一千行字幕	yi qian hang zi mu	111
 一千九百万	yi qian jiu bai wan	220
 一千克	yi qian ke	11435
 一千块	yi qian kuai	2935
@@ -461813,6 +462066,7 @@ sort: by_weight
 伊瑟尔	yi se er	200
 抑塞磊落	yi se lei luo	2
 以色列	yi se lie	151715
+以色列国	yi se lie guo	9999
 以色列金蝎	yi se lie jin xie	21
 以色列人	yi se lie ren	8785
 以色列总理	yi se lie zong li	4145
@@ -463337,6 +463591,8 @@ sort: by_weight
 一万个	yi wan ge	8555
 一万个理由	yi wan ge li you	3775
 一万股	yi wan gu	73
+一万行	yi wan hang	333
+一万行啊	yi wan hang a	333
 一万几千	yi wan ji qian	341
 亿万家财	yi wan jia cai	240
 已完结	yi wan jie	6780
@@ -464903,6 +465159,7 @@ sort: by_weight
 亿邮	yi you	380
 亿邮安全增强电子邮件系统	yi you an quan zeng qiang dian zi you jian xi tong	87
 疑有碧桃千树花	yi you bi tao qian shu hua	1
+已有的	yi you de	333
 易诱发	yi you fa	3505
 以优惠	yi you hui	6960
 益友会	yi you hui	1
@@ -466621,6 +466878,7 @@ sort: by_weight
 印度尼西亚斗鼻鲀	yin du ni xi ya dou bi tun	1
 印度尼西亚反足杜父鱼	yin du ni xi ya fan zu du fu yu	1
 印度尼西亚腹囊海龙	yin du ni xi ya fu nang hai long	1
+印度尼西亚共和国	yin du ni xi ya gong he guo	9999
 印度尼西亚海鲶	yin du ni xi ya hai nian	1
 印度尼西亚尖塘鳢	yin du ni xi ya jian tang li	1
 印度尼西亚近鲶	yin du ni xi ya jin nian	1
@@ -471630,14 +471888,18 @@ sort: by_weight
 涌潮	yong chao	965
 咏嘲风月	yong chao feng yue	1
 用车	yong che	574181
-永琛	yong chen	365
-永成	yong cheng	5900
+永沉	yong chen	1111
+# 永琛	yong chen	0
+永沉暗夜	yong chen an ye	1111
+用成	yong cheng	6666
 泳程	yong cheng	111
-永城	yong cheng	1
+永成	yong cheng	2
 邕城	yong cheng	1
+# 永城	yong cheng	0
 永诚保险	yong cheng bao xian	195
 永澄北路南口	yong cheng bei lu nan kou	1
 甬城隍庙	yong cheng huang miao	12500
+用成了	yong cheng le	6666
 永城市	yong cheng shi	2255
 永城县	yong cheng xian	235
 泳池	yong chi	30800
@@ -475496,6 +475758,7 @@ sort: by_weight
 有壳虫	you ke chong	1
 有壳的	you ke de	230
 又可分为	you ke fen wei	12865
+游客纷至沓来	you ke fen zhi ta lai	100
 优科豪马轮胎	you ke hao ma lun tai	48
 由客户	you ke hu	16020
 忧客李林	you ke li lin	31
@@ -476431,6 +476694,7 @@ sort: by_weight
 有凭有据	you ping you ju	600
 又平又靓	you ping you liang	15
 诱迫	you po	9999
+又破防了	you po fang le	1111
 油泼辣子	you po la zi	940
 有魄力	you po li	5990
 油泼青鱼	you po qing yu	10
@@ -483966,6 +484230,8 @@ sort: by_weight
 禹州市	yu zhou shi	4240
 宇宙速度	yu zhou su du	1020
 宇宙探测器	yu zhou tan ce qi	9999
+宇宙探索	yu zhou tan suo	3333
+宇宙坍缩	yu zhou tan suo	111
 与周围	yu zhou wei	21835
 宇宙微波	yu zhou wei bo	550
 宇宙线	yu zhou xian	880
@@ -486671,6 +486937,8 @@ sort: by_weight
 月旦春秋	yue dan chun qiu	8
 约旦队	yue dan dui	1610
 月淡风清	yue dan feng qing	111
+约旦哈希姆	yue dan ha xi mu	9999
+约旦哈希姆王国	yue dan ha xi mu wang guo	9999
 约旦河	yue dan he	4510
 月旦民商法研究	yue dan min shang fa yan jiu	4
 约旦墨头鱼	yue dan mo tou yu	1
@@ -487838,6 +488106,7 @@ sort: by_weight
 越南平胸龟	yue nan ping xiong gui	1
 越南屈角蝉	yue nan qu jiao chan	1
 越南人	yue nan ren	5890
+越南社会主义共和国	yue nan she hui zhu yi gong he guo	15
 越南社会主义共和国宪法	yue nan she hui zhu yi gong he guo xian fa	15
 越南绳纹峨螺	yue nan sheng wen e luo	1
 越南十盘水母	yue nan shi pan shui mu	1
@@ -493605,6 +493874,7 @@ sort: by_weight
 暂伴月将影	zan ban yue jiang ying	1
 赞比西河	zan bi xi he	525
 赞比亚	zan bi ya	10545
+赞比亚共和国	zan bi ya gong he guo	9999
 暂别	zan bie	4175
 暂不	zan bu	76735
 攒不出	zan bu chu	45
@@ -495832,6 +496102,7 @@ sort: by_weight
 乍得	zha de	581
 扎德	zha de	2
 乍得副项鲿	zha de fu xiang chang	1
+乍得共和国	zha de gong he guo	9999
 乍得花鹿宝螺	zha de hua lu bao luo	1
 炸的鸡	zha de ji	5
 炸的酱	zha de jiang	10
@@ -504265,7 +504536,9 @@ sort: by_weight
 震碎	zhen sui	3730
 真髓	zhen sui	1495
 诊所	zhen suo	80945
+真他	zhen ta	111
 真他妈	zhen ta ma	14345
+真他么	zhen ta me	111
 侦探	zhen tan	60275
 真谈	zhen tan	285
 侦探成旭	zhen tan cheng xu	2
@@ -509943,6 +510216,7 @@ sort: by_weight
 智力发展	zhi li fa zhan	7900
 支离繁碎	zhi li fan sui	111
 治理工程	zhi li gong cheng	15195
+智利共和国	zhi li gong he guo	9999
 治理工作	zhi li gong zuo	13940
 治理观	zhi li guan	152
 殖离海樽	zhi li hai zun	1
@@ -510523,9 +510797,9 @@ sort: by_weight
 直内方外	zhi nei fang wai	111
 稚嫩	zhi nen	29535
 只能	zhi neng	500749
-智能	zhi neng	500271
-职能	zhi neng	474225
-之能	zhi neng	17810
+智能	zhi neng	50027
+职能	zhi neng	4742
+之能	zhi neng	1781
 只能把	zhi neng ba	11110
 智能办公楼	zhi neng ban gong lou	50
 智能编校系统	zhi neng bian jiao xi tong	12
@@ -522818,10 +523092,10 @@ sort: by_weight
 注意转移	zhu yi zhuan yi	225
 朱彝尊	zhu yi zun	44
 注音	zhu yin	21840
-主因	zhu yin	17975
-朱茵	zhu yin	12170
-主音	zhu yin	6405
-铸印	zhu yin	445
+主因	zhu yin	7975
+朱茵	zhu yin	2170
+主音	zhu yin	640
+铸印	zhu yin	44
 主引导记录	zhu yin dao ji lu	5855
 驻印度	zhu yin du	2395
 注音符号	zhu yin fu hao	615
