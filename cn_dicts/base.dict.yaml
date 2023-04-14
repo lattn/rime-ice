@@ -1514,7 +1514,7 @@
 #///
 ---
 name: base
-version: "2023-04-13"
+version: "2023-04-14"
 sort: by_weight
 ...
 # +_+
@@ -3374,6 +3374,7 @@ sort: by_weight
 爱情宣言	ai qing xuan yan	6305
 爱情学测	ai qing xue ce	5
 爱情药	ai qing yao	8
+爱情银行	ai qing yin hang	111
 爱情与灵药	ai qing yu ling yao	132
 爱情占线	ai qing zhan xian	25
 爱情正在直播	ai qing zheng zai zhi bo	4
@@ -4719,6 +4720,7 @@ sort: by_weight
 安捷莉珂	an jie li ke	1
 安杰利娜·朱莉	an jie li na zhu li	1111
 安捷伦	an jie lun	7960
+按揭银行	an jie yin hang	111
 暗界之门	an jie zhi men	1
 按金	an jin	3605
 按斤称	an jin cheng	114
@@ -5506,6 +5508,7 @@ sort: by_weight
 鞍山西道	an shan xi dao	37
 鞍山新村	an shan xin cun	36
 鞍山信托	an shan xin tuo	12500
+鞍山银行	an shan yin hang	111
 鞍山中院	an shan zhong yuan	87
 岸上	an shang	31725
 按上	an shang	23845
@@ -5654,7 +5657,7 @@ sort: by_weight
 安塔那那利佛	an ta na na li fo	45
 安塔瑞斯洞窟	an ta rui si dong ku	1
 安胎	an tai	3640
-安泰	an tai	239
+安泰	an tai	2
 铵态氮	an tai dan	965
 安泰集团	an tai ji tuan	57
 安泰科技	an tai ke ji	2
@@ -6429,6 +6432,7 @@ sort: by_weight
 澳大利亚躄鱼科	ao da li ya bi yu ke	1
 澳大利亚滨珊瑚	ao da li ya bin shan hu	1
 澳大利亚叉鼻刺鲀	ao da li ya cha bi ci tun	1
+澳大利亚储备银行	ao da li ya chu bei yin hang	111
 澳大利亚的芒果	ao da li ya de mang guo	2
 澳大利亚斗鸡	ao da li ya dou ji	1
 澳大利亚短颈龟	ao da li ya duan jing gui	1
@@ -6442,6 +6446,7 @@ sort: by_weight
 澳大利亚更	ao da li ya geng	347
 澳大利亚梗	ao da li ya geng	22
 澳大利亚梗犬	ao da li ya geng quan	1
+澳大利亚国民银行	ao da li ya guo min yin hang	111
 澳大利亚海扇蛤	ao da li ya hai shan ha	1
 澳大利亚褐蛇	ao da li ya he she	1
 澳大利亚黑脊游蛇	ao da li ya hei ji you she	1
@@ -6455,6 +6460,7 @@ sort: by_weight
 澳大利亚喇叭螺	ao da li ya la ba luo	1
 澳大利亚联邦	ao da li ya lian bang	3333
 澳大利亚联邦宪法	ao da li ya lian bang xian fa	42
+澳大利亚联邦银行	ao da li ya lian bang yin hang	111
 澳大利亚绿色雨蛙	ao da li ya lv se yu wa	1
 澳大利亚毛鼻袋熊	ao da li ya mao bi dai xiong	1
 澳大利亚木蝎	ao da li ya mu xie	1
@@ -6805,6 +6811,7 @@ sort: by_weight
 澳门特别行政区永久性居民	ao men te bie xing zheng qu yong jiu xing ju min	198
 澳门特别行政区驻军法	ao men te bie xing zheng qu zhu jun fa	56
 澳门特区	ao men te qu	5841
+澳门银行	ao men yin hang	111
 澳门与	ao men yu	1740
 澳门元	ao men yuan	2005
 奥盟币	ao meng bi	666
@@ -7189,9 +7196,11 @@ sort: by_weight
 澳洲地球仪	ao zhou di qiu yi	3333
 澳洲鳄	ao zhou e	1
 澳洲鲑鲈科	ao zhou gui lu ke	1
+澳洲国民银行	ao zhou guo min yin hang	111
 澳洲花园	ao zhou hua yuan	5
 澳洲假日	ao zhou jia ri	1
 澳洲会计师公会	ao zhou kuai ji shi gong hui	1
+澳洲联邦银行	ao zhou lian bang yin hang	111
 澳洲留学	ao zhou liu xue	2385
 澳洲乱世情	ao zhou luan shi qing	21
 澳洲毛鼻袋熊	ao zhou mao bi dai xiong	1
@@ -8367,6 +8376,7 @@ sort: by_weight
 巴黎学	ba li xue	13
 巴里亚曼	ba li ya man	1
 巴里亚曼废墟	ba li ya man fei xu	1
+巴黎银行	ba li yin hang	111
 巴黎之恋	ba li zhi lian	27
 八里庄	ba li zhuang	8300
 八里庄北里	ba li zhuang bei li	33
@@ -8408,6 +8418,7 @@ sort: by_weight
 巴林石	ba lin shi	1325
 巴林塘海峡	ba lin tang hai xia	175
 巴林王国	ba lin wang guo	9999
+巴林银行	ba lin yin hang	111
 巴林右旗	ba lin you qi	1430
 巴林站	ba lin zhan	180
 巴林左旗	ba lin zuo qi	1180
@@ -8620,8 +8631,12 @@ sort: by_weight
 八千	ba qian	30525
 八钱	ba qian	890
 八千八百万	ba qian ba bai wan	75
+把钱存进银行	ba qian cun jin yin hang	111
+把钱存银行	ba qian cun yin hang	111
+把钱存在银行	ba qian cun zai yin hang	111
 八千多万	ba qian duo wan	181
 八千二百万	ba qian er bai wan	35
+把钱放在银行	ba qian fang zai yin hang	111
 把前后	ba qian hou	1230
 八千九百万	ba qian jiu bai wan	30
 八千卷楼	ba qian juan lou	36
@@ -9131,6 +9146,7 @@ sort: by_weight
 巴西无颊齿脂鲤	ba xi wu jia chi zhi li	1
 巴西乡	ba xi xiang	33
 巴西蟹爪	ba xi xie zhao	1
+巴西银行	ba xi yin hang	111
 巴西直胸电鳗	ba xi zhi xiong dian man	1
 拔犀擢象	ba xi zhuo xiang	111
 巴西棕榈蜡	ba xi zong lv la	466
@@ -9609,7 +9625,7 @@ sort: by_weight
 柏柏尔龙	bai bai er long	1
 柏柏尔龙属	bai bai er long shu	1
 柏柏尔人	bai bai er ren	525
-白百合	bai bai he	90
+白百何	bai bai he	90
 白白红红千树花	bai bai hong hong qian shu hua	1180
 白白净净	bai bai jing jing	2290
 白白浪费	bai bai lang fei	6345
@@ -12199,6 +12215,7 @@ sort: by_weight
 百信太行	bai xin tai xing	87
 拜新同	bai xin tong	30
 百信幸福苑	bai xin xing fu yuan	8
+百信银行	bai xin yin hang	111
 白新羽	bai xin yu	162
 柏欣妤	bai xin yu	144
 百信云龙	bai xin yun long	87
@@ -13737,6 +13754,11 @@ sort: by_weight
 办理行政诉讼案件法律依据	ban li xing zheng su song an jian fa lv yi ju	4
 板栗垭乡	ban li ya xiang	2
 办理业务	ban li ye wu	9275
+办理银行	ban li yin hang	111
+办理银行贷款	ban li yin hang dai kuan	111
+办理银行卡	ban li yin hang ka	111
+办理银行流水	ban li yin hang liu shui	111
+办理银行业务	ban li yin hang ye wu	111
 板栗月饼	ban li yue bing	2
 办理站	ban li zhan	48
 办理执行案件法律依据	ban li zhi xing an jian fa lv yi ju	2
@@ -14579,6 +14601,8 @@ sort: by_weight
 半阴半晴	ban yin ban qing	4
 半音半意	ban yin ban yi	1
 拌银耳	ban yin er	51
+办银行	ban yin hang	111
+办银行卡	ban yin hang ka	111
 半音阶	ban yin jie	550
 半引路北口	ban yin lu bei kou	2
 半阴阳	ban yin yang	2
@@ -14881,8 +14905,10 @@ sort: by_weight
 帮顶	bang ding	12570
 帮定	bang ding	1655
 绑定变量	bang ding bian liang	1942
+绑定的银行卡	bang ding de yin hang ka	111
 绑定服务	bang ding fu wu	2083
 绑定事件	bang ding shi jian	4584
+绑定银行卡	bang ding yin hang ka	111
 绑定域名	bang ding yu ming	664
 绑定账号	bang ding zhang hao	121
 棒读	bang du	1111
@@ -16069,6 +16095,7 @@ sort: by_weight
 包含体	bao han ti	1
 保函效力	bao han xiao li	20
 包含性析取	bao han xing xi qu	1
+包含银行	bao han yin hang	111
 包含映射	bao han ying she	2
 包含在	bao han zai	29555
 包含在内	bao han zai nei	1840
@@ -16554,17 +16581,20 @@ sort: by_weight
 包括了	bao kuo le	106035
 包括美国	bao kuo mei guo	13340
 包括日本	bao kuo ri ben	4335
+包括商业银行	bao kuo shang ye yin hang	111
 包括四项	bao kuo si xiang	325
 包括田径	bao kuo tian jing	175
 包括未	bao kuo wei	327
 包括微软	bao kuo wei ruan	1985
 包括现在	bao kuo xian zai	3740
 包括香港	bao kuo xiang gang	7430
+包括银行	bao kuo yin hang	111
 包括英国	bao kuo ying guo	2745
 包括邮电	bao kuo you dian	35
 包括在内	bao kuo zai nei	6555
 包括着	bao kuo zhe	231
 包括中国	bao kuo zhong guo	28450
+包括中国银行	bao kuo zhong guo yin hang	111
 暴拉风	bao la feng	1
 包拉温都蒙古族乡	bao la wen dou meng gu zu xiang	1
 宝来	bao lai	56250
@@ -17107,6 +17137,8 @@ sort: by_weight
 报上名来	bao shang ming lai	1285
 报上去	bao shang qu	1145
 包上去	bao shang qu	75
+包商银行	bao shang yin hang	111
+包商银行被接管	bao shang yin hang bei jie guan	111
 包烧鲜鱼	bao shao xian yu	18
 报社	bao she	116810
 爆射	bao she	111
@@ -17538,6 +17570,7 @@ sort: by_weight
 保险合同纠纷	bao xian he tong jiu fen	935
 保险合同客体	bao xian he tong ke ti	4
 保险合同生效期	bao xian he tong sheng xiao qi	24
+保险和银行	bao xian he yin hang	111
 保险货物	bao xian huo wu	3410
 保鲜剂	bao xian ji	9500
 保险机	bao xian ji	1
@@ -17612,6 +17645,7 @@ sort: by_weight
 保险业务	bao xian ye wu	24420
 保险业信息系统灾难恢复管理指引	bao xian ye xin xi xi tong zai nan hui fu guan li zhi yin	21
 保险业重大突发事件应急处理规定	bao xian ye zhong da tu fa shi jian ying ji chu li gui ding	20
+保险银行	bao xian yin hang	111
 保险营销员诚信记录管理办法	bao xian ying xiao yuan cheng xin ji lu guan li ban fa	26
 保险营销员管理规定	bao xian ying xiao yuan guan li gui ding	238
 保险有限	bao xian you xian	338
@@ -18402,6 +18436,7 @@ sort: by_weight
 北部湾	bei bu wan	21740
 北部湾海域	bei bu wan hai yu	380
 北部湾拉伪蝎	bei bu wan la wei xie	1
+北部湾银行	bei bu wan yin hang	111
 北部新区	bei bu xin qu	4900
 被捕者	bei bu zhe	620
 备不住	bei bu zhu	9999
@@ -19708,6 +19743,8 @@ sort: by_weight
 北京南宫世界地热博览园	bei jing nan gong shi jie di re bo lan yuan	2
 北京南路	bei jing nan lu	241
 北京南站	bei jing nan zhan	4180
+北京农村商业银行	bei jing nong cun shang ye yin hang	111
+北京农商银行	bei jing nong shang yin hang	111
 北京农学院	bei jing nong xue yuan	419
 北京农业职业学院	bei jing nong ye zhi ye xue yuan	109
 北京牌	bei jing pai	905
@@ -19962,6 +19999,7 @@ sort: by_weight
 北京亿中邮	bei jing yi zhong you	87
 北京亿中邮信息技术有限公司	bei jing yi zhong you xin xi ji shu you xian gong si	87
 北京银行	bei jing yin hang	6610
+北京银行信用卡	bei jing yin hang xin yong ka	111
 北京印刷学院	bei jing yin shua xue yuan	3510
 背景音乐	bei jing yin yue	56970
 北京音乐台	bei jing yin yue tai	44
@@ -20457,6 +20495,7 @@ sort: by_weight
 北欧女神	bei ou nv shen	196
 北欧人	bei ou ren	865
 北欧绒毛犬	bei ou rong mao quan	1
+北欧投资银行	bei ou tou zi yin hang	111
 北欧小镇	bei ou xiao zhen	26
 被欧洲	bei ou zhou	1780
 被拍	bei pai	9999
@@ -22144,6 +22183,7 @@ sort: by_weight
 本人微信	ben ren wei xin	68
 本人物	ben ren wu	5
 本人页	ben ren ye	80
+本人银行卡	ben ren yin hang ka	111
 本日	ben ri	161495
 本日售完	ben ri shou wan	5
 本日休业	ben ri xiu ye	1
@@ -22270,6 +22310,7 @@ sort: by_weight
 本图例	ben tu li	3940
 本土文化	ben tu wen hua	9590
 本土性	ben tu xing	975
+本土银行	ben tu yin hang	111
 本土作战	ben tu zuo zhan	625
 本团	ben tuan	2735
 苯妥英钠	ben tuo ying na	42
@@ -24748,6 +24789,7 @@ sort: by_weight
 闭一只眼	bi yi zhi yan	7450
 鼻音	bi yin	6425
 庇荫	bi yin	2005
+比银行	bi yin hang	111
 闭音节	bi yin jie	680
 必应	bi ying	2180
 必赢	bi ying	1111
@@ -27667,8 +27709,11 @@ sort: by_weight
 别抱琵琶	bie bao pi pa	111
 别被	bie bei	8850
 别被喷	bie bei pen	9999
+别逼	bie bi	3333
+别比	bie bi	1111
 别哔哔	bie bi bi	2222
 别逼逼	bie bi bi	111
+别逼我	bie bi wo	3333
 别变	bie bian	1005
 鳖边	bie bian	1
 别变得	bie bian de	1005
@@ -27741,6 +27786,7 @@ sort: by_weight
 别嘚瑟	bie de se	9999
 憋得像	bie de xiang	45
 别的小朋友	bie de xiao peng you	123
+别的银行	bie de yin hang	111
 憋得住	bie de zhu	3535
 别等	bie deng	9999
 别动	bie dong	14350
@@ -31575,6 +31621,7 @@ sort: by_weight
 补办后	bu ban hou	12
 补办手续	bu ban shou xu	5875
 不伴随	bu ban sui	215
+补办银行卡	bu ban yin hang ka	111
 不搬砖	bu ban zhuan	270
 不帮	bu bang	6300
 不棒	bu bang	111
@@ -32873,6 +32920,7 @@ sort: by_weight
 部分人员	bu fen ren yuan	4815
 部分商品	bu fen shang pin	17865
 不分上下	bu fen shang xia	2445
+部分商业银行	bu fen shang ye yin hang	111
 不分胜败	bu fen sheng bai	595
 不分胜负	bu fen sheng fu	3260
 部分时间	bu fen shi jian	5095
@@ -32895,6 +32943,7 @@ sort: by_weight
 部分学习	bu fen xue xi	915
 部分页面	bu fen ye mian	1620
 部分一致	bu fen yi zhi	135
+部分银行	bu fen yin hang	111
 部分用户	bu fen yong hu	6900
 部分由于	bu fen you yu	143
 不分玉石	bu fen yu shi	1
@@ -36349,7 +36398,6 @@ sort: by_weight
 补时	bu shi	1111
 # 不事	bu shi	0
 不是啊	bu shi a	5640
-不是阿	bu shi a	275
 不是爱风尘	bu shi ai feng chen	1
 不是吧	bu shi ba	24280
 不是办法	bu shi ban fa	4305
@@ -36533,6 +36581,7 @@ sort: by_weight
 不是已经	bu shi yi jing	63
 不是一下子	bu shi yi xia zi	340
 不适宜于	bu shi yi yu	1060
+不是银行	bu shi yin hang	111
 不是因为	bu shi yin wei	40305
 不适应	bu shi ying	71525
 不适应性	bu shi ying xing	1050
@@ -37498,6 +37547,7 @@ sort: by_weight
 不同的人生	bu tong de ren sheng	108
 不同的是	bu tong de shi	93580
 不同的一面	bu tong de yi mian	100
+不同的银行	bu tong de yin hang	111
 不同等	bu tong deng	3275
 不同地点	bu tong di dian	4235
 不同地区	bu tong di qu	40780
@@ -37567,6 +37617,7 @@ sort: by_weight
 不同一般	bu tong yi ban	1665
 不同意见	bu tong yi jian	32435
 不通一窍	bu tong yi qiao	1
+不同银行	bu tong yin hang	111
 不同影响	bu tong ying xiang	1345
 不通用	bu tong yong	12
 不同于	bu tong yu	131895
@@ -37982,7 +38033,14 @@ sort: by_weight
 不想给	bu xiang gei	401
 不相关	bu xiang guan	14335
 不想过年	bu xiang guo nian	142
+不想和	bu xiang he	111
 不相合	bu xiang he	60
+不想和好	bu xiang he hao	111
+不想和你结婚	bu xiang he ni jie hun	111
+不想和你聊	bu xiang he ni liao	111
+不想和你说话	bu xiang he ni shuo hua	111
+不想和你在一起	bu xiang he ni zai yi qi	111
+不想和任何人说话	bu xiang he ren he ren shuo hua	111
 不像话	bu xiang hua	4315
 不想还钱	bu xiang huan qian	111
 不想回家	bu xiang hui jia	2700
@@ -41588,6 +41646,7 @@ sort: by_weight
 残羹剩汁	can geng sheng zhi	5
 参股	can gu	66335
 参股公司	can gu gong si	4775
+参股银行	can gu yin hang	111
 参观	can guan	469785
 餐馆	can guan	128330
 参观访问	can guan fang wen	7730
@@ -42100,6 +42159,7 @@ sort: by_weight
 参议院	can yi yuan	20950
 参议员	can yi yuan	15450
 参议员海扇蛤	can yi yuan hai shan ha	1
+参议院银行委员会	can yi yuan yin hang wei yuan hui	111
 参议长	can yi zhang	1080
 残遗种	can yi zhong	9
 餐饮	can yin	348415
@@ -42681,6 +42741,7 @@ sort: by_weight
 沧州市南大港	cang zhou shi nan da gang	6
 沧州市新华区	cang zhou shi xin hua qu	43
 沧洲夜溯五更风	cang zhou ye su wu geng feng	1
+沧州银行	cang zhou yin hang	111
 苍术	cang zhu	5260
 藏住	cang zhu	800
 苍祝蛾	cang zhu e	1
@@ -45241,6 +45302,7 @@ sort: by_weight
 差异状况	cha yi zhuang kuang	68
 茶饮	cha yin	11260
 茶瘾	cha yin	180
+查银行	cha yin hang	111
 茶饮料	cha yin liao	13590
 茶饮品	cha yin pin	155
 槎涌	cha yong	10
@@ -46341,6 +46403,7 @@ sort: by_weight
 长安一片月	chang an yi pian yue	6
 长安医院	chang an yi yuan	606
 长安一中	chang an yi zhong	56
+长安银行	chang an yin hang	111
 长安在日边	chang an zai ri bian	1
 长安志翔	chang an zhi xiang	993
 常把	chang ba	31980
@@ -47023,6 +47086,8 @@ sort: by_weight
 偿还欠款	chang huan qian kuan	2225
 偿还日	chang huan ri	40
 偿还血债	chang huan xie zhai	35
+偿还银行贷款	chang huan yin hang dai kuan	111
+偿还银行借款	chang huan yin hang jie kuan	111
 偿还债务	chang huan zhai wu	8785
 惝恍	chang huang	220
 肠慌腹热	chang huang fu re	111
@@ -47869,6 +47934,7 @@ sort: by_weight
 长沙伟业	chang sha wei ye	1
 长沙县	chang sha xian	6940
 长沙疫情	chang sha yi qing	123
+长沙银行	chang sha yin hang	111
 长沙站	chang sha zhan	1465
 长沙中大	chang sha zhong da	47
 唱沙作米	chang sha zuo mi	1
@@ -48047,10 +48113,12 @@ sort: by_weight
 常熟叫化鸡	chang shu jiao hua ji	51
 长舒了一口气	chang shu le yi kou qi	2125
 常熟路	chang shu lu	285
+常熟农商银行	chang shu nong shang yin hang	111
 常熟人	chang shu ren	111
 常熟市	chang shu shi	25050
 常熟县	chang shu xian	12
 常数项	chang shu xiang	760
+常熟银行	chang shu yin hang	111
 唱衰	chang shuai	1510
 唱双簧	chang shuang huang	605
 畅爽开怀	chang shuang kai huai	733
@@ -48124,7 +48192,7 @@ sort: by_weight
 尝甜头	chang tian tou	655
 长田湾乡	chang tian wan xiang	21
 长田镇	chang tian zhen	7
-唱跳	chang tiao	2222
+唱跳	chang tiao	6666
 长条	chang tiao	1801
 唱跳俱佳	chang tiao ju jia	150
 长条形	chang tiao xing	3220
@@ -52371,6 +52439,7 @@ sort: by_weight
 承办商	cheng ban shang	2400
 橙斑蛇头鱼	cheng ban she tou yu	1
 承办校	cheng ban xiao	87
+承办银行	cheng ban yin hang	111
 橙斑窄额鲀	cheng ban zhai e tun	1
 承办者	cheng ban zhe	1170
 橙斑痣灰蝶	cheng ban zhi hui die	1
@@ -52748,6 +52817,7 @@ sort: by_weight
 成都路桥	cheng du lu qiao	127
 成都蚂蚁搬家公司	cheng du ma yi ban jia gong si	6
 成都毛风鸡	cheng du mao feng ji	1
+成都农商银行	cheng du nong shang yin hang	111
 成都平原	cheng du ping yuan	4460
 成都七中	cheng du qi zhong	2280
 成都人	cheng du ren	9850
@@ -52779,6 +52849,7 @@ sort: by_weight
 成都文理学院	cheng du wen li xue yuan	143
 成都疫情	cheng du yi qing	141
 成都一诊	cheng du yi zhen	130
+成都银行	cheng du yin hang	111
 成都站	cheng du zhan	2035
 程度者	cheng du zhe	121
 成都中医药	cheng du zhong yi yao	129
@@ -53988,6 +54059,7 @@ sort: by_weight
 城市学	cheng shi xue	845
 城市阳光	cheng shi yang guang	25
 城市野生动物	cheng shi ye sheng dong wu	40
+城市银行	cheng shi yin hang	111
 城市院落	cheng shi yuan luo	3
 城市运动公园	cheng shi yun dong gong yuan	258
 成事在人	cheng shi zai ren	605
@@ -54650,6 +54722,7 @@ sort: by_weight
 称引	cheng yin	1111
 # 程银	cheng yin	0
 成荫的	cheng yin de	1725
+成银行	cheng yin hang	111
 成瘾性	cheng yin xing	3135
 呈阴性	cheng yin xing	1700
 承印验证制度	cheng yin yan zheng zhi du	44
@@ -57184,6 +57257,7 @@ sort: by_weight
 重庆电信	chong qing dian xin	4135
 重庆队	chong qing dui	925
 重庆饭店	chong qing fan dian	268
+重庆富民银行	chong qing fu min yin hang	111
 重庆港九	chong qing gang jiu	35
 重庆工商	chong qing gong shang	175
 重庆工商大学	chong qing gong shang da xue	4280
@@ -57208,9 +57282,12 @@ sort: by_weight
 重庆毛血旺	chong qing mao xue wang	40
 重庆南岸区南坪镇	chong qing nan an qu nan ping zhen	5
 重庆南路	chong qing nan lu	2675
+重庆农村商业银行	chong qing nong cun shang ye yin hang	111
+重庆农商银行	chong qing nong shang yin hang	111
 重庆人	chong qing ren	8155
 重庆仁济医院	chong qing ren ji yi yuan	1
 重庆赛	chong qing sai	195
+重庆三峡银行	chong qing san xia yin hang	111
 重庆森林	chong qing sen lin	4710
 重庆沙坪坝区覃家岗镇	chong qing sha ping ba qu tan jia gang zhen	7
 重庆商报	chong qing shang bao	4355
@@ -58511,6 +58588,7 @@ sort: by_weight
 抽纸烟	chou zhi yan	111
 抽中	chou zhong	7295
 稠粥	chou zhou	680
+稠州银行	chou zhou yin hang	111
 丑侏鰕虎鱼	chou zhu xia hu yu	1
 抽壮丁	chou zhuang ding	85
 瞅准	chou zhun	9999
@@ -58592,6 +58670,7 @@ sort: by_weight
 储备头寸	chu bei tou cun	27
 储备头寸负债管理	chu bei tou cun fu zhai guan li	2
 储备物资	chu bei wu zi	117
+储备银行	chu bei yin hang	111
 储备制度	chu bei zhi du	3410
 储备中心	chu bei zhong xin	3660
 出奔	chu ben	2175
@@ -59238,6 +59317,7 @@ sort: by_weight
 初级形状	chu ji xing zhuang	2140
 初级学院	chu ji xue yuan	860
 除疾遗类	chu ji yi lei	1
+初级银行从业	chu ji yin hang cong ye	111
 初级运维	chu ji yun wei	18
 初级职称	chu ji zhi cheng	9600
 初级治疗石	chu ji zhi liao shi	1
@@ -60200,6 +60280,7 @@ sort: by_weight
 出售物	chu shou wu	105
 出手相救	chu shou xiang jiu	187
 出售一空	chu shou yi kong	70
+出售银行卡	chu shou yin hang ka	111
 出售原装	chu shou yuan zhuang	1135
 出售者	chu shou zhe	2470
 出售中	chu shou zhong	3290
@@ -61056,7 +61137,10 @@ sort: by_weight
 传出神经	chuan chu shen jing	820
 传出消息	chuan chu xiao xi	6255
 川厨子	chuan chu zi	1
+串串	chuan chuan	3333
+传传	chuan chuan	2222
 穿穿	chuan chuan	1955
+川川	chuan chuan	1
 穿穿穿	chuan chuan chuan	161
 穿穿看	chuan chuan kan	95
 串串门	chuan chuan men	770
@@ -61804,6 +61888,8 @@ sort: by_weight
 传统艺术	chuan tong yi shu	6370
 传统医学	chuan tong yi xue	14075
 传统意义	chuan tong yi yi	15280
+传统银行	chuan tong yin hang	111
+传统银行业务	chuan tong yin hang ye wu	111
 传统友谊	chuan tong you yi	5950
 传统语法	chuan tong yu fa	29
 传统主义	chuan tong zhu yi	104
@@ -65646,6 +65732,7 @@ sort: by_weight
 从事商业	cong shi shang ye	7515
 从事畜牧	cong shi xu mu	595
 从事业	cong shi ye	1850
+从事银行	cong shi yin hang	111
 从事营利活动	cong shi ying li huo dong	1170
 从事于	cong shi yu	9485
 从实招来	cong shi zhao lai	1520
@@ -65814,6 +65901,7 @@ sort: by_weight
 从医院	cong yi yuan	8410
 从已知	cong yi zhi	1475
 从一重处断	cong yi zhong chu duan	196
+从银行贷款	cong yin hang dai kuan	111
 聪颖	cong ying	10510
 从影	cong ying	4480
 聪颖过人	cong ying guo ren	50
@@ -67137,6 +67225,7 @@ sort: by_weight
 忖道	cun dao	6520
 村道	cun dao	111
 存到文件	cun dao wen jian	871
+存到银行	cun dao yin hang	111
 存底	cun di	530
 寸地尺天	cun di chi tian	3
 寸地寸金	cun di cun jin	111
@@ -67184,6 +67273,7 @@ sort: by_weight
 村官	cun guan	14190
 寸管	cun guan	250
 寸关尺	cun guan chi	2
+存管银行	cun guan yin hang	111
 寸晷风檐	cun gui feng yan	111
 村规民约	cun gui min yue	6085
 存过	cun guo	115010
@@ -67218,6 +67308,7 @@ sort: by_weight
 寸金难买寸光阴	cun jin nan mai cun guang yin	640
 村筋俗骨	cun jin su gu	1
 寸金学院	cun jin xue yuan	176
+存进银行	cun jin yin hang	111
 寸金之地	cun jin zhi di	111
 村酒野蔬	cun jiu ye shu	1
 村居	cun ju	9275
@@ -67239,6 +67330,7 @@ sort: by_weight
 存款凭条	cun kuan ping tiao	770
 存款人	cun kuan ren	7330
 存款数额	cun kuan shu e	450
+存款银行	cun kuan yin hang	111
 存款余额	cun kuan yu e	12005
 存款账户	cun kuan zhang hu	3925
 存款者	cun kuan zhe	525
@@ -67461,6 +67553,7 @@ sort: by_weight
 存在问题	cun zai wen ti	74780
 存在性	cun zai xing	3800
 存在异常	cun zai yi chang	139
+存在银行	cun zai yin hang	111
 存在于	cun zai yu	99485
 存在着	cun zai zhe	341735
 存在争议	cun zai zheng yi	6335
@@ -67478,6 +67571,7 @@ sort: by_weight
 存者无消息	cun zhe wu xiao xi	1
 村镇	cun zhen	92450
 存真去伪	cun zhen qu wei	1405
+村镇银行	cun zhen yin hang	111
 村镇银行组建审批工作指引	cun zhen yin hang zu jian shen pi gong zuo zhi yin	22
 存正	cun zheng	9999
 存证通和	cun zheng tong he	68
@@ -70440,6 +70534,7 @@ sort: by_weight
 大桀小桀	da jie xiao jie	3
 大街小巷	da jie xiao xiang	31805
 大结胸	da jie xiong	1
+打劫银行	da jie yin hang	111
 大节奏	da jie zou	143
 打进	da jin	39740
 大金	da jin	14675
@@ -71059,6 +71154,7 @@ sort: by_weight
 大练乡	da lian xiang	7
 大连医科大学	da lian yi ke da xue	6010
 大连疫情	da lian yi qing	117
+大连银行	da lian yin hang	111
 大连云	da lian yun	198
 大连站	da lian zhan	675
 大连重工	da lian zhong gong	149
@@ -71276,6 +71372,7 @@ sort: by_weight
 大陆性	da lu xing	5090
 大陆性气候	da lu xing qi hou	3265
 达鲁伊	da lu yi	130
+大陆银行	da lu yin hang	111
 大陆游	da lu you	75
 大菉镇	da lu zhen	1
 大路椎轮	da lu zhui lun	1
@@ -72034,6 +72131,7 @@ sort: by_weight
 大青盐	da qing yan	8
 大青叶	da qing ye	226
 大庆一中	da qing yi zhong	3
+大清银行	da qing yin hang	111
 大庆油田	da qing you tian	9125
 大庆油田公司	da qing you tian gong si	71
 大清早	da qing zao	5055
@@ -72180,7 +72278,10 @@ sort: by_weight
 大瑞乡	da rui xiang	8
 大润发	da run fa	2275
 大润发超市	da run fa chao shi	1105
+大撒	da sa	111
 大撒把	da sa ba	9999
+大撒币	da sa bi	3333
+大撒比	da sa bi	111
 达萨乡	da sa xiang	6
 达萨耶夫	da sa ye fu	3
 大赛	da sai	428345
@@ -73483,6 +73584,8 @@ sort: by_weight
 大兴国际机场	da xing guo ji ji chang	110
 大型国企	da xing guo qi	5770
 大型国有企业	da xing guo you qi ye	10080
+大型国有商业银行	da xing guo you shang ye yin hang	111
+大型国有银行	da xing guo you yin hang	111
 大型黑褐色猎浣熊犬	da xing hei he se lie huan xiong quan	1
 大兴胡同	da xing hu tong	9
 大星胡同	da xing hu tong	1
@@ -73517,6 +73620,7 @@ sort: by_weight
 大型人才	da xing ren cai	1272
 大兴善寺	da xing shan si	91
 大型商场	da xing shang chang	13470
+大型商业银行	da xing shang ye yin hang	111
 大型深海九棍鱼	da xing shen hai jiu gun yu	1
 大形势	da xing shi	194
 大行受大名	da xing shou da ming	1
@@ -73545,6 +73649,7 @@ sort: by_weight
 大型医用设备配置与使用管理办法	da xing yi yong she bei pei zhi yu shi yong guan li ban fa	45
 大兴一职	da xing yi zhi	8
 大兴一中	da xing yi zhong	14
+大型银行	da xing yin hang	111
 大型印加无毛犬	da xing yin jia wu mao quan	1
 大型银燕子灯鱼	da xing yin yan zi deng yu	1
 大型英法黑白猎犬	da xing ying fa hei bai lie quan	1
@@ -73984,6 +74089,7 @@ sort: by_weight
 打印格式	da yin ge shi	2800
 打印过	da yin guo	66
 大银行	da yin hang	8740
+大银行家	da yin hang jia	111
 打印耗材	da yin hao cai	6085
 打印机	da yin ji	334410
 打印机池	da yin ji chi	225
@@ -74536,6 +74642,7 @@ sort: by_weight
 大中学生	da zhong xue sheng	4345
 大中学校	da zhong xue xiao	1220
 大众艺术	da zhong yi shu	510
+大众银行	da zhong yin hang	111
 大众浴池	da zhong yu chi	135
 大众哲学	da zhong zhe xue	275
 大中至正	da zhong zhi zheng	42
@@ -74554,6 +74661,7 @@ sort: by_weight
 大周期	da zhou qi	620
 大洲桥	da zhou qiao	199
 达州市	da zhou shi	10150
+达州银行	da zhou yin hang	111
 达州中院	da zhou zhong yuan	87
 打住	da zhu	11125
 答主	da zhu	9999
@@ -74725,6 +74833,8 @@ sort: by_weight
 代办人	dai ban ren	2715
 呆扳手	dai ban shou	455
 代办所	dai ban suo	1405
+代办银行存款证明	dai ban yin hang cun kuan zheng ming	111
+代办银行流水	dai ban yin hang liu shui	111
 代办员	dai ban yuan	1770
 代办证件	dai ban zheng jian	10655
 待报废	dai bao fei	75
@@ -76115,6 +76225,7 @@ sort: by_weight
 代做	dai zuo	8888
 呆坐	dai zuo	795
 代做功课	dai zuo gong ke	111
+代做银行流水	dai zuo yin hang liu shui	111
 呆坐在	dai zuo zai	111
 代做作业	dai zuo zuo ye	111
 但爱	dan ai	7315
@@ -76523,6 +76634,7 @@ sort: by_weight
 丹东市第二医院	dan dong shi di er yi yuan	1
 丹东市第一医院	dan dong shi di yi yi yuan	5
 丹东市中医院	dan dong shi zhong yi yuan	1
+丹东银行	dan dong yin hang	111
 丹东中院	dan dong zhong yuan	87
 但都	dan dou	68365
 淡豆豉	dan dou chi	44
@@ -77534,6 +77646,7 @@ sort: by_weight
 蛋丝	dan si	111
 单丝不成线	dan si bu cheng xian	49
 单丝不线	dan si bu xian	111
+丹斯克银行	dan si ke yin hang	111
 蛋松果	dan song guo	12
 氮素	dan su	4715
 蛋酥炒面	dan su chao mian	4
@@ -77670,6 +77783,7 @@ sort: by_weight
 单位行贿罪	dan wei xing hui zui	1928
 单位性质	dan wei xing zhi	24780
 单位虚数	dan wei xu shu	5
+单位银行结算账户	dan wei yin hang jie suan zhang hu	111
 单位有	dan wei you	126
 单位预算	dan wei yu suan	2240
 单位证明	dan wei zheng ming	7070
@@ -78385,9 +78499,11 @@ sort: by_weight
 当地警察	dang di jing cha	1625
 当地居民	dang di ju min	25090
 当地人	dang di ren	56730
+当地人民银行	dang di ren min yin hang	111
 荡涤谁氏子	dang di shei shi zi	2
 当地时间	dang di shi jian	35135
 荡涤谁氏子	dang di shui shi zi	2
+当地银行	dang di yin hang	111
 当地政府	dang di zheng fu	73600
 当店员	dang dian yuan	695
 当掉	dang diao	1930
@@ -79409,6 +79525,7 @@ sort: by_weight
 道德学	dao de xue	585
 道德意识	dao de yi shi	4995
 道德义务	dao de yi wu	1870
+道德银行	dao de yin hang	111
 道德与法	dao de yu fa	585
 道德原则	dao de yuan ze	5165
 到得早	dao de zao	1180
@@ -79822,6 +79939,7 @@ sort: by_weight
 道了声谢	dao le sheng xie	136
 到了晚上	dao le wan shang	19500
 到了夏天	dao le xia tian	158
+到了银行	dao le yin hang	111
 盗垒	dao lei	165
 道理	dao li	381125
 倒立	dao li	20320
@@ -80226,6 +80344,7 @@ sort: by_weight
 导数据	dao shu ju	98
 道束悬崖半	dao shu xuan ya ban	2
 盗刷	dao shua	3197
+盗刷银行卡	dao shua yin hang ka	111
 倒水	dao shui	14230
 到谁	dao shui	6345
 导水管	dao shui guan	925
@@ -80471,6 +80590,8 @@ sort: by_weight
 盗印	dao yin	1930
 导因	dao yin	9
 道因风雅存	dao yin feng ya cun	2
+到银行	dao yin hang	111
+到银行柜台	dao yin hang gui tai	111
 导引头	dao yin tou	1830
 倒因为果	dao yin wei guo	111
 导引针	dao yin zhen	5
@@ -80949,6 +81070,7 @@ sort: by_weight
 德国绒毛狼犬	de guo rong mao lang quan	1
 德国肉用美利奴羊	de guo rou yong mei li nu yang	15
 德国乳酪蛋糕	de guo ru lao dan gao	3
+德国商业银行	de guo shang ye yin hang	111
 德国胜	de guo sheng	160
 德国十一月革命	de guo shi yi yue ge ming	150
 德国首都柏林	de guo shou du bo lin	111
@@ -80969,6 +81091,7 @@ sort: by_weight
 德国循环经济研究	de guo xun huan jing ji yan jiu	13
 德国寻血猎犬	de guo xun xue lie quan	1
 德国医疗保险制度	de guo yi liao bao xian zhi du	2
+德国银行	de guo yin hang	111
 德国音响	de guo yin xiang	48
 德国硬毛波音达猎犬	de guo ying mao bo yin da lie quan	1
 德国硬毛指示猎犬	de guo ying mao zhi shi lie quan	1
@@ -81628,6 +81751,7 @@ sort: by_weight
 德州条纹木蝎	de zhou tiao wen mu xie	1
 德州新村	de zhou xin cun	3
 德州仪器	de zhou yi qi	9675
+德州银行	de zhou yin hang	111
 德州禹城	de zhou yu cheng	157
 德州中院	de zhou zhong yuan	87
 得主	de zhu	44455
@@ -82256,6 +82380,7 @@ sort: by_weight
 登录时间	deng lu shi jian	26435
 登陆时间	deng lu shi jian	1
 登陆艇	deng lu ting	3035
+登录网上银行	deng lu wang shang yin hang	111
 登录网站	deng lu wang zhan	5565
 登录文件	deng lu wen jian	2680
 登录系统	deng lu xi tong	8415
@@ -83830,9 +83955,11 @@ sort: by_weight
 地方性甲状腺肿	di fang xing jia zhuang xian zhong	66
 地方性克汀病	di fang xing ke ting bing	37
 地方性会计法规	di fang xing kuai ji fa gui	59
+地方性商业银行	di fang xing shang ye yin hang	111
 地方性砷中毒	di fang xing shen zhong du	29
 地方行政	di fang xing zheng	6765
 地方行政机关	di fang xing zheng ji guan	437
+地方银行	di fang yin hang	111
 提防着	di fang zhe	2240
 地方政府	di fang zheng fu	207620
 地方政府安全生产监督管理规章制度精选	di fang zheng fu an quan sheng chan jian du guan li gui zhang zhi du jing xuan	2
@@ -87182,6 +87309,7 @@ sort: by_weight
 低压断路器	di ya duan lu qi	1180
 抵押放款	di ya fang kuan	140
 抵押房屋	di ya fang wu	1540
+抵押给银行	di ya gei yin hang	111
 抵押合同	di ya he tong	15405
 帝亚吉欧	di ya ji ou	2860
 抵押价值	di ya jia zhi	1235
@@ -87919,6 +88047,7 @@ sort: by_weight
 第一义谛	di yi yi di	1185
 第一医药	di yi yi yao	1085
 第一医院	di yi yi yuan	10150
+第一银行	di yi yin hang	111
 第一印象	di yi yin xiang	34665
 第一营	di yi ying	1285
 第一宇宙	di yi yu zhou	173
@@ -89662,8 +89791,8 @@ sort: by_weight
 电视	dian shi	500435
 电石	dian shi	15500
 电势	dian shi	8055
-点石	dian shi	5095
 殿试	dian shi	4705
+点石	dian shi	50
 电示	dian shi	9
 滇䴓	dian shi	1
 电视报	dian shi bao	2640
@@ -90563,6 +90692,9 @@ sort: by_weight
 电子一条街	dian zi yi tiao jie	945
 电子银行	dian zi yin hang	18845
 电子银行安全评估指引	dian zi yin hang an quan ping gu zhi yin	107
+电子银行部	dian zi yin hang bu	111
+电子银行承兑汇票	dian zi yin hang cheng dui hui piao	111
+电子银行口令卡	dian zi yin hang kou ling ka	111
 电子银行业务	dian zi yin hang ye wu	34
 电子银行业务管理办法	dian zi yin hang ye wu guan li ban fa	197
 电子音乐	dian zi yin yue	8540
@@ -93844,6 +93976,8 @@ sort: by_weight
 东莞控股	dong guan kong gu	100
 东莞腊肠	dong guan la chang	127
 东关南街街道	dong guan nan jie jie dao	34
+东莞农村商业银行	dong guan nong cun shang ye yin hang	111
+东莞农商银行	dong guan nong shang yin hang	111
 东关桥	dong guan qiao	29
 东关上	dong guan shang	7
 东莞市	dong guan shi	206065
@@ -93855,6 +93989,7 @@ sort: by_weight
 东莞县	dong guan xian	115
 东观续史	dong guan xu shi	1
 东莞疫情	dong guan yi qing	100
+东莞银行	dong guan yin hang	111
 东关正街	dong guan zheng jie	147
 东观之殃	dong guan zhi yang	1
 东莞中院	dong guan zhong yuan	87
@@ -94202,6 +94337,8 @@ sort: by_weight
 东街居委会	dong jie ju wei hui	15
 东街口	dong jie kou	4310
 冻结令	dong jie ling	87
+冻结银行卡	dong jie yin hang ka	111
+冻结银行账户	dong jie yin hang zhang hu	111
 冻结账户	dong jie zhang hu	530
 冻结状态	dong jie zhuang tai	575
 冻结资产	dong jie zi chan	475
@@ -95771,6 +95908,7 @@ sort: by_weight
 东营市中级人民法院	dong ying shi zhong ji ren min fa yuan	250
 东瀛武士	dong ying wu shi	105
 东莺新村	dong ying xin cun	1
+东营银行	dong ying yin hang	111
 东瀛禹域谊相传	dong ying yu yu yi xiang chuan	1
 冬应中权	dong ying zhong quan	1
 东营中院	dong ying zhong yuan	87
@@ -97837,6 +97975,7 @@ sort: by_weight
 独立董事制度	du li dong shi zhi du	5015
 独立而不改	du li er bu gai	2
 独立法人	du li fa ren	32110
+独立法人直销银行	du li fa ren zhi xiao yin hang	111
 独立方程	du li fang cheng	5
 独立服务器	du li fu wu qi	3185
 独立工作	du li gong zuo	11810
@@ -99608,6 +99747,7 @@ sort: by_weight
 短信息	duan xin xi	54605
 短信验证码	duan xin yan zheng ma	757
 短信业务	duan xin ye wu	7780
+短信银行	duan xin yin hang	111
 短信诈骗	duan xin zha pian	2075
 短信中	duan xin zhong	4020
 断行	duan xing	2245
@@ -101144,6 +101284,7 @@ sort: by_weight
 多变花楸	duo bian hua qiu	1
 多边会议	duo bian hui yi	100
 多变卷管螺	duo bian juan guan luo	1
+多边开发银行	duo bian kai fa yin hang	111
 多边贸易	duo bian mao yi	5835
 多边贸易谈判	duo bian mao yi tan pan	2200
 多边兽	duo bian shou	119
@@ -101715,6 +101856,7 @@ sort: by_weight
 多家企业	duo jia qi ye	33465
 多加小心	duo jia xiao xin	5015
 多价疫苗	duo jia yi miao	2
+多家银行	duo jia yin hang	111
 多加注意	duo jia zhu yi	105
 多见	duo jian	49870
 多件	duo jian	33320
@@ -102734,6 +102876,7 @@ sort: by_weight
 多音	duo yin	2305
 多引导	duo yin dao	197
 多音多义字	duo yin duo yi zi	195
+多银行	duo yin hang	111
 多音节	duo yin jie	790
 多音节词	duo yin jie ci	570
 多饮水	duo yin shui	6400
@@ -102832,6 +102975,7 @@ sort: by_weight
 多粘菌素	duo zhan jun su	49
 多张	duo zhang	31940
 多张图片	duo zhang tu pian	1810
+多张银行卡	duo zhang yin hang ka	111
 多找	duo zhao	6185
 多兆	duo zhao	1450
 多找几个	duo zhao ji ge	355
@@ -103309,6 +103453,7 @@ sort: by_weight
 俄罗斯首都莫斯科	e luo si shou du mo si ke	111
 俄罗斯套娃	e luo si tao wa	3333
 俄罗斯舞	e luo si wu	105
+俄罗斯银行	e luo si yin hang	111
 俄罗斯语	e luo si yu	550
 俄罗斯转盘	e luo si zhuan pan	199
 俄罗斯总统	e luo si zong tong	6310
@@ -106883,6 +107028,7 @@ sort: by_weight
 发过	fa guo	32715
 罚过	fa guo	885
 法国巴黎	fa guo ba li	19125
+法国巴黎银行	fa guo ba li yin hang	111
 法国比利牛斯山向导猎犬	fa guo bi li niu si shan xiang dao lie quan	1
 法国菜	fa guo cai	2975
 法国菜豆	fa guo cai dou	25
@@ -106914,6 +107060,7 @@ sort: by_weight
 法国奶油蟹肉黑麦金笋面	fa guo nai you xie rou hei mai jin sun mian	1
 发国难财	fa guo nan cai	270
 发过你	fa guo ni	267
+法国农业信贷银行	fa guo nong ye xin dai yin hang	111
 法国女人	fa guo nv ren	1565
 发过去	fa guo qu	3110
 法国人	fa guo ren	39000
@@ -106925,8 +107072,10 @@ sort: by_weight
 发过帖子	fa guo tie zi	1180
 法国梧桐	fa guo wu tong	2400
 法国现代合同法	fa guo xian dai he tong fa	37
+法国兴业银行	fa guo xing ye yin hang	111
 法国学	fa guo xue	53
 发过一个	fa guo yi ge	67
+法国银行	fa guo yin hang	111
 法国与欧洲信息技术法律实务指南	fa guo yu ou zhou xin xi ji shu fa lv shi wu zhi nan	2
 法国政府	fa guo zheng fu	8815
 法国著名	fa guo zhu ming	6295
@@ -107157,6 +107306,7 @@ sort: by_weight
 法兰茜姆	fa lan xi mu	1
 法兰西内战	fa lan xi nei zhan	390
 法兰西人	fa lan xi ren	405
+法兰西银行	fa lan xi yin hang	111
 发廊	fa lang	22930
 法郎	fa lang	19885
 珐琅	fa lang	12445
@@ -108149,6 +108299,7 @@ sort: by_weight
 发行部	fa xing bu	10525
 发行部门	fa xing bu men	1250
 发行成本	fa xing cheng ben	1470
+发行的银行	fa xing de yin hang	111
 发行地	fa xing di	745
 发行额	fa xing e	2135
 发行方案	fa xing fang an	1
@@ -108186,6 +108337,8 @@ sort: by_weight
 发型屋	fa xing wu	1225
 发型秀	fa xing xiu	62
 发行业	fa xing ye	2765
+发行银行	fa xing yin hang	111
+法兴银行	fa xing yin hang	111
 发行员	fa xing yuan	2365
 发行债券	fa xing zhai quan	10295
 发行站	fa xing zhan	2360
@@ -109622,6 +109775,7 @@ sort: by_weight
 贩卖军火	fan mai jun huo	395
 贩卖奴隶	fan mai nu li	345
 贩卖人口	fan mai ren kou	1305
+贩卖银行卡	fan mai yin hang ka	111
 贩卖淫秽物品罪	fan mai yin hui wu pin zui	58
 繁忙	fan mang	97980
 繁忙的一天	fan mang de yi tian	100
@@ -111078,6 +111232,7 @@ sort: by_weight
 放贷人员	fang dai ren yuan	68
 访戴天山道士不遇	fang dai tian shan dao shi bu yu	1
 房贷险	fang dai xian	7510
+房贷银行	fang dai yin hang	111
 防弹	fang dan	8920
 放胆	fang dan	4390
 仿单	fang dan	1125
@@ -112772,6 +112927,7 @@ sort: by_weight
 防疫中心	fang yi zhong xin	102
 放音	fang yin	7695
 方音	fang yin	185
+放银行	fang yin hang	111
 放音机	fang yin ji	790
 仿印邮票图案管理办法	fang yin you piao tu an guan li ban fa	16
 放印子	fang yin zi	150
@@ -112872,6 +113028,7 @@ sort: by_weight
 放在眼里	fang zai yan li	18065
 放在一边	fang zai yi bian	7430
 放在一起	fang zai yi qi	29295
+放在银行	fang zai yin hang	111
 放在优先地位	fang zai you xian di wei	495
 仿造	fang zao	16830
 防早恋	fang zao lian	148
@@ -115255,8 +115412,12 @@ sort: by_weight
 肺移植	fei yi zhi	349
 肺移植术	fei yi zhi shu	3
 非银行	fei yin hang	2865
+非银行机构	fei yin hang ji gou	111
+非银行金融	fei yin hang jin rong	111
 非银行金融机构	fei yin hang jin rong ji gou	10706
 非银行金融机构行政许可事项实施办法	fei yin hang jin rong ji gou xing zheng xu ke shi xiang shi shi ban fa	50
+非银行业	fei yin hang ye	111
+非银行支付机构	fei yin hang zhi fu ji gou	111
 肺隐球菌病	fei yin qiu jun bing	1
 费因斯	fei yin si	555
 非饮用水	fei yin yong shui	3333
@@ -119634,6 +119795,7 @@ sort: by_weight
 风也温柔	feng ye wen rou	178
 枫叶小镇	feng ye xiao zhen	178
 枫叶新都市	feng ye xin du shi	64
+丰业银行	feng ye yin hang	111
 枫叶欲残看愈好	feng ye yu can kan yu hao	1
 枫叶苑	feng ye yuan	11
 风衣	feng yi	31590
@@ -120225,6 +120387,7 @@ sort: by_weight
 氟斑牙	fu ban ya	2255
 副班长	fu ban zhang	11170
 副榜	fu bang	430
+富邦华一银行	fu bang hua yi yin hang	111
 富邦科技	fu bang ke ji	12500
 副帮主	fu bang zhu	3315
 福报	fu bao	12425
@@ -120711,6 +120874,7 @@ sort: by_weight
 浮点数运算	fu dian shu yun suan	888
 负电位	fu dian wei	570
 浮点型	fu dian xing	13137
+富滇银行	fu dian yin hang	111
 浮点运算	fu dian yun suan	4385
 浮点运算单元	fu dian yun suan dan yuan	195
 府店镇	fu dian zhen	127
@@ -121788,6 +121952,7 @@ sort: by_weight
 伏见弓弦	fu jian gong xian	122
 福建工业学校	fu jian gong ye xue xiao	12
 福建广播影视集团	fu jian guang bo ying shi ji tuan	31
+福建海峡银行	fu jian hai xia yin hang	111
 富建胡同	fu jian hu tong	1
 福建惠安县崇武镇	fu jian hui an xian chong wu zhen	3
 福建籍	fu jian ji	194
@@ -121924,6 +122089,7 @@ sort: by_weight
 富锦县	fu jin xian	105
 附近小区	fu jin xiao qu	174
 斧斤以时入山林	fu jin yi shi ru shan lin	16
+附近银行	fu jin yin hang	111
 抚今追昔	fu jin zhui xi	2060
 赴京	fu jing	10845
 辅警	fu jing	8888
@@ -122559,6 +122725,7 @@ sort: by_weight
 福民新村	fu min xin cun	42
 富民兴安	fu min xing an	35
 富民兴邦	fu min xing bang	70
+富民银行	fu min yin hang	111
 富民政策	fu min zheng ce	2545
 复命	fu ming	6160
 复明	fu ming	4444
@@ -123564,6 +123731,7 @@ sort: by_weight
 抚顺县	fu shun xian	1100
 富顺乡	fu shun xiang	28
 抚顺小香肠	fu shun xiao xiang chang	1
+抚顺银行	fu shun yin hang	111
 俯顺舆情	fu shun yu qing	4
 傅说举于版筑之间	fu shuo ju yu ban zhu zhi jian	3
 赴死	fu si	3735
@@ -124023,6 +124191,7 @@ sort: by_weight
 服务异常	fu wu yi chang	191
 服务一流	fu wu yi liu	6070
 服务意识	fu wu yi shi	64525
+服务银行	fu wu yin hang	111
 服务营销	fu wu ying xiao	9830
 服务应用	fu wu ying yong	2125
 服务优	fu wu you	2655
@@ -124214,6 +124383,7 @@ sort: by_weight
 阜新县	fu xin xian	640
 腹心相照	fu xin xiang zhao	111
 符馨尹	fu xin yin	3
+阜新银行	fu xin yin hang	111
 阜新阅读器	fu xin yue du qi	266
 负薪之才	fu xin zhi cai	1
 腹心之臣	fu xin zhi chen	3
@@ -124851,6 +125021,7 @@ sort: by_weight
 负责同志	fu ze tong zhi	58785
 福泽泻	fu ze xie	7
 负责修复	fu ze xiu fu	2060
+负责银行	fu ze yin hang	111
 福泽谕吉	fu ze yu ji	74
 负责者	fu ze zhe	880
 负责制	fu ze zhi	46220
@@ -125501,6 +125672,7 @@ sort: by_weight
 改变现状	gai bian xian zhuang	7925
 改变颜色	gai bian yan se	1894
 改变一切	gai bian yi qie	4090
+改变银行	gai bian yin hang	111
 改变着	gai bian zhe	16620
 改编者	gai bian zhe	695
 改变中国	gai bian zhong guo	7920
@@ -126291,6 +126463,7 @@ sort: by_weight
 盖一下	gai yi xia	89
 该隐	gai yin	4565
 盖印	gai yin	4335
+该银行	gai yin hang	111
 改用	gai yong	59125
 该用	gai yong	25975
 该用户	gai yong hu	82225
@@ -127843,6 +128016,7 @@ sort: by_weight
 甘肃羊茅	gan su yang mao	1
 甘肃疫情	gan su yi qing	177
 甘肃医学院	gan su yi xue yuan	151
+甘肃银行	gan su yin hang	111
 甘肃张掖	gan su zhang ye	110
 甘肃政法	gan su zheng fa	132
 甘肃政法成人教育学院学报	gan su zheng fa cheng ren jiao yu xue yuan xue bao	16
@@ -128272,6 +128446,7 @@ sort: by_weight
 甘州区	gan zhou qu	1900
 赣州三鱼	gan zhou san yu	3
 赣州市	gan zhou shi	27485
+赣州银行	gan zhou yin hang	111
 赣州中院	gan zhou zhong yuan	87
 肝著	gan zhu	2
 甘珠尔	gan zhu er	1835
@@ -131957,6 +132132,7 @@ sort: by_weight
 个别性	ge bie xing	1690
 个别需求	ge bie xu qiu	475
 个别学生	ge bie xue sheng	5205
+个别银行	ge bie yin hang	111
 个别指导	ge bie zhi dao	2845
 隔饼灸	ge bing jiu	1
 胳膊	ge bo	100065
@@ -132084,6 +132260,7 @@ sort: by_weight
 各大品牌	ge da pin pai	9010
 各大商场	ge da shang chang	7185
 圪达上乡	ge da shang xiang	1
+各大商业银行	ge da shang ye yin hang	111
 疙瘩汤	ge da tang	1205
 各打五十大板	ge da wu shi da ban	575
 各大学	ge da xue	10645
@@ -132161,6 +132338,7 @@ sort: by_weight
 各地市	ge di shi	15565
 歌蒂诗	ge di shi	5
 各地网	ge di wang	220
+各地银行	ge di yin hang	111
 割地张仪诈	ge di zhang yi zha	1
 各点	ge dian	10320
 各店	ge dian	6100
@@ -132310,6 +132488,7 @@ sort: by_weight
 咯咯响	ge ge xiang	180
 咯咯笑	ge ge xiao	1095
 各个学校	ge ge xue xiao	146
+各个银行	ge ge yin hang	111
 各个站	ge ge zhan	88
 各个专业	ge ge zhuan ye	155
 葛各庄	ge ge zhuang	139
@@ -132443,6 +132622,7 @@ sort: by_weight
 各家各户	ge jia ge hu	5690
 葛家桥	ge jia qiao	1
 戈甲戏	ge jia xi	9999
+各家银行	ge jia yin hang	111
 葛家庄	ge jia zhuang	41
 隔间	ge jian	7555
 各建	ge jian	3190
@@ -132635,6 +132815,7 @@ sort: by_weight
 葛蕾斯顿	ge lei si dun	1
 各类型	ge lei xing	21915
 格雷伊	ge lei yi	172
+各类银行	ge lei yin hang	111
 各类专业	ge lei zhuan ye	30080
 隔离	ge li	205455
 蛤蜊	ge li	8888
@@ -133143,6 +133324,7 @@ sort: by_weight
 个人生活	ge ren sheng huo	18105
 个人识别	ge ren shi bie	1855
 个人实力	ge ren shi li	136
+个人手机银行	ge ren shou ji yin hang	111
 个人收款码	ge ren shou kuan ma	191
 个人收入	ge ren shou ru	14415
 个人收入调节税	ge ren shou ru tiao jie shui	760
@@ -133161,6 +133343,8 @@ sort: by_weight
 个人头像	ge ren tou xiang	2035
 个人投资	ge ren tou zi	11805
 个人网络	ge ren wang luo	5735
+个人网上银行	ge ren wang shang yin hang	111
+个人网上银行登录	ge ren wang shang yin hang deng lu	111
 个人网页	ge ren wang ye	8175
 个人网站	ge ren wang zhan	69990
 个人卫生	ge ren wei sheng	16210
@@ -133187,6 +133371,11 @@ sort: by_weight
 个人业余无线电台管理暂行办法	ge ren ye yu wu xian dian tai guan li zan xing ban fa	8
 个人业主制企业	ge ren ye zhu zhi qi ye	5
 个人意见	ge ren yi jian	225690
+个人银行	ge ren yin hang	111
+个人银行结算账户	ge ren yin hang jie suan zhang hu	111
+个人银行卡	ge ren yin hang ka	111
+个人银行业务	ge ren yin hang ye wu	111
+个人银行账户	ge ren yin hang zhang hu	111
 个人隐私	ge ren yin si	45320
 个人英雄主义	ge ren ying xiong zhu yi	4925
 个人用	ge ren yong	8255
@@ -133268,6 +133457,7 @@ sort: by_weight
 割伤	ge shang	5490
 各上	ge shang	1275
 隔上	ge shang	1005
+各商业银行	ge shang ye yin hang	111
 鸽哨	ge shao	890
 割舍	ge she	10895
 鸽舍	ge she	1638
@@ -133750,6 +133940,10 @@ sort: by_weight
 隔音产品	ge yin chan pin	111
 隔音符	ge yin fu	1963
 隔音符号	ge yin fu hao	150
+各银行	ge yin hang	111
+各银行机构	ge yin hang ji gou	111
+各银行网点	ge yin hang wang dian	111
+各银行业金融机构	ge yin hang ye jin rong ji gou	111
 隔音棉	ge yin mian	1070
 隔音品牌	ge yin pin pai	9
 隔音墙	ge yin qiang	655
@@ -133927,6 +134121,8 @@ sort: by_weight
 各种型号	ge zhong xing hao	27490
 各种形式	ge zhong xing shi	23385
 各种颜色	ge zhong yan se	16710
+各种银行	ge zhong yin hang	111
+各种银行卡	ge zhong yin hang ka	111
 各种因素	ge zhong yin su	21500
 各种语言	ge zhong yu yan	4973
 各种原因	ge zhong yuan yin	27660
@@ -134414,6 +134610,7 @@ sort: by_weight
 根据需要	gen ju xu yao	75790
 根据需要和可能	gen ju xu yao he ke neng	920
 根据以上情况	gen ju yi shang qing kuang	680
+根据中国人民银行	gen ju zhong guo ren min yin hang	111
 根绝	gen jue	1815
 跟来	gen lai	6335
 根牢蒂固	gen lao di gu	1
@@ -134758,6 +134955,7 @@ sort: by_weight
 更多新闻	geng duo xin wen	3450
 更多信息	geng duo xin xi	158775
 更多一些	geng duo yi xie	8215
+更多银行	geng duo yin hang	111
 更多有关	geng duo you guan	5305
 更多资金	geng duo zi jin	2265
 更多资讯	geng duo zi xun	6660
@@ -136391,6 +136589,9 @@ sort: by_weight
 工行大厦	gong hang da sha	8
 工行卡	gong hang ka	1825
 工行女	gong hang nv	307
+工行手机银行	gong hang shou ji yin hang	111
+工行网上银行	gong hang wang shang yin hang	111
+工行银行	gong hang yin hang	111
 功耗	gong hao	75555
 工号	gong hao	5490
 # 龚浩	gong hao	0
@@ -137507,6 +137708,13 @@ sort: by_weight
 工商银行办公室	gong shang yin hang ban gong shi	72
 工商银行财务会计部	gong shang yin hang cai wu kuai ji bu	3
 工商银行工交信贷部	gong shang yin hang gong jiao xin dai bu	1
+工商银行股票	gong shang yin hang gu piao	111
+工商银行卡	gong shang yin hang ka	111
+工商银行旁	gong shang yin hang pang	111
+工商银行网上银行	gong shang yin hang wang shang yin hang	111
+工商银行网银	gong shang yin hang wang yin	111
+工商银行信用卡	gong shang yin hang xin yong ka	111
+工商银行总行	gong shang yin hang zong hang	111
 工商营业执照	gong shang ying ye zhi zhao	23200
 共上站	gong shang zhan	7
 工商执照	gong shang zhi zhao	6120
@@ -137737,6 +137945,8 @@ sort: by_weight
 公司歇业	gong si xie ye	232
 公司新闻	gong si xin wen	119
 公司业务	gong si ye wu	39655
+公司银行	gong si yin hang	111
+公司银行账户	gong si yin hang zhang hu	111
 公司印章	gong si yin zhang	2165
 公司于	gong si yu	9288
 公司院	gong si yuan	20
@@ -139579,6 +139789,7 @@ sort: by_weight
 购买新房	gou mai xin fang	1500
 购买行为	gou mai xing wei	25360
 购买意向	gou mai yi xiang	6210
+购买银行理财产品	gou mai yin hang li cai chan pin	111
 购买欲	gou mai yu	4150
 购买欲望	gou mai yu wang	9545
 购买者	gou mai zhe	58150
@@ -140718,6 +140929,7 @@ sort: by_weight
 股份化	gu fen hua	2470
 股份类别	gu fen lei bie	1130
 鼓粉一体	gu fen yi ti	535
+股份银行	gu fen yin hang	111
 股份有限公司	gu fen you xian gong si	500306
 股份有限公司土地使用权管理暂行规定	gu fen you xian gong si tu di shi yong quan guan li zan xing gui ding	17
 股份制	gu fen zhi	102410
@@ -140727,6 +140939,7 @@ sort: by_weight
 股份制企业	gu fen zhi qi ye	52677
 股份制商业银行	gu fen zhi shang ye yin hang	10105
 股份制试点企业人事管理暂行办法	gu fen zhi shi dian qi ye ren shi guan li zan xing ban fa	2
+股份制银行	gu fen zhi yin hang	111
 股份转让	gu fen zhuan rang	16385
 古风	gu feng	17515
 鼓风	gu feng	5225
@@ -141314,6 +141527,7 @@ sort: by_weight
 古丽米娜	gu li mi na	166
 顾力木图街道	gu li mu tu jie dao	15
 鼓励企业	gu li qi ye	30925
+鼓励商业银行	gu li shang ye yin hang	111
 鼓励社会	gu li she hui	17165
 孤立肾	gu li shen	20
 鼓励生育	gu li sheng yu	144
@@ -141329,6 +141543,7 @@ sort: by_weight
 鼓励性	gu li xing	3215
 骨立形销	gu li xing xiao	111
 鼓励学生	gu li xue sheng	35775
+鼓励银行	gu li yin hang	111
 孤立语	gu li yu	9999
 鼓励者	gu li zhe	340
 孤立者	gu li zhe	10
@@ -143148,6 +143363,7 @@ sort: by_weight
 挂式	gua shi	5650
 刮匙	gua shi	6
 挂失手续	gua shi shou xu	2205
+挂失银行卡	gua shi yin hang ka	111
 瓜什则乡	gua shi ze xiang	2
 挂失止付	gua shi zhi fu	1262
 瓜熟	gua shu	800
@@ -145281,6 +145497,7 @@ sort: by_weight
 关于修改	guan yu xiu gai	38305
 关于疫情	guan yu yi qing	165
 关于印发	guan yu yin fa	86750
+关于银行	guan yu yin hang	111
 关于音乐	guan yu yin yue	1665
 关于战时保护平民之日内瓦公约	guan yu zhan shi bao hu ping min zhi ri nei wa gong yue	22
 关于召开	guan yu zhao kai	101
@@ -145449,6 +145666,7 @@ sort: by_weight
 关注消防	guan zhu xiao fang	195
 关注学生	guan zhu xue sheng	16945
 灌注液	guan zhu ye	41
+关注银行	guan zhu yin hang	111
 关注有礼	guan zhu you li	156
 关注着	guan zhu zhe	20875
 关注中国	guan zhu zhong guo	12080
@@ -145729,6 +145947,7 @@ sort: by_weight
 广大学生	guang da xue sheng	13900
 广大学子	guang da xue zi	195
 光大银行	guang da yin hang	21110
+光大银行信用卡	guang da yin hang xin yong ka	111
 光大银行总行	guang da yin hang zong hang	91
 广大用户	guang da yong hu	59430
 光大证券	guang da zheng quan	8715
@@ -145867,6 +146086,8 @@ sort: by_weight
 广东东莞市谢岗镇	guang dong dong guan shi xie gang zhen	4
 广东东莞市樟木头镇	guang dong dong guan shi zhang mu tou zhen	15
 广东东莞市中堂镇	guang dong dong guan shi zhong tang zhen	16
+广东东莞银行	guang dong dong guan yin hang	111
+广东东莞银行队	guang dong dong guan yin hang dui	111
 广东队	guang dong dui	6985
 广东法学	guang dong fa xue	38
 广东发展银行	guang dong fa zhan yin hang	10115
@@ -145889,6 +146110,7 @@ sort: by_weight
 广东宏远	guang dong hong yuan	3960
 广东话	guang dong hua	16735
 广东花都区狮岭镇	guang dong hua dou qu shi ling zhen	3
+广东华兴银行	guang dong hua xing yin hang	111
 广东环球经纬律师事务所	guang dong huan qiu jing wei lv shi shi wu suo	94
 广东环宇京茂律师事务所	guang dong huan yu jing mao lv shi shi wu suo	29
 广东黄腰太阳鸟	guang dong huang yao tai yang niao	1
@@ -145914,6 +146136,7 @@ sort: by_weight
 广东梅州	guang dong mei zhou	2845
 广东南海区西樵镇	guang dong nan hai qu xi qiao zhen	1
 广东南海溪蟹	guang dong nan hai xi xie	1
+广东南粤银行	guang dong nan yue yin hang	111
 光动能	guang dong neng	2330
 广东柠檬	guang dong ning meng	9999
 广东番禺	guang dong pan yu	1
@@ -146050,6 +146273,7 @@ sort: by_weight
 广东星凯律师事务所	guang dong xing kai lv shi shi wu suo	21
 广东鳐	guang dong yao	1
 广东医	guang dong yi	134
+广东银行	guang dong yin hang	111
 广东隐势瓢虫	guang dong yin shi piao chong	1
 广东音乐	guang dong yin yue	999
 广东缨口鳅	guang dong ying kou qiu	1
@@ -146108,6 +146332,7 @@ sort: by_weight
 广发聚富	guang fa ju fu	30
 广发律师事务所	guang fa lv shi shi wu suo	26
 广发银行	guang fa yin hang	3605
+广发银行信用卡	guang fa yin hang xin yong ka	111
 广发永乡	guang fa yong xiang	1
 广发证券	guang fa zheng quan	13445
 广泛	guang fan	500429
@@ -147003,6 +147228,7 @@ sort: by_weight
 广武之叹	guang wu zhi tan	1
 广西	guang xi	500281
 广西百色	guang xi bai se	2355
+广西北部湾银行	guang xi bei bu wan yin hang	111
 广西笔尾灰犬	guang xi bi wei hui quan	1
 广西菜	guang xi cai	64
 广西大厦	guang xi da sha	25
@@ -147040,6 +147266,7 @@ sort: by_weight
 广西医科大学	guang xi yi ke da xue	2600
 广西疫情	guang xi yi qing	158
 广西艺术学院	guang xi yi shu xue yuan	3055
+广西银行	guang xi yin hang	111
 广西玉林	guang xi yu lin	4120
 广西招生	guang xi zhao sheng	156
 广西壮族	guang xi zhuang zu	1125
@@ -147371,6 +147598,8 @@ sort: by_weight
 广州鹭业水产有限公司	guang zhou lu ye shui chan you xian gong si	1
 广州美术学院	guang zhou mei shu xue yuan	6690
 广州南路	guang zhou nan lu	14
+广州农村商业银行	guang zhou nong cun shang ye yin hang	111
+广州农商银行	guang zhou nong shang yin hang	111
 广州番禺	guang zhou pan yu	4155
 广州番禺区	guang zhou pan yu qu	1
 光周期	guang zhou qi	570
@@ -147437,6 +147666,7 @@ sort: by_weight
 广州疫情	guang zhou yi qing	160
 广州医学院	guang zhou yi xue yuan	3810
 广州医学院附属	guang zhou yi xue yuan fu shu	41
+广州银行	guang zhou yin hang	111
 广州站	guang zhou zhan	5945
 广州正佳	guang zhou zheng jia	179
 广州中医药大学	guang zhou zhong yi yao da xue	6190
@@ -147786,6 +148016,7 @@ sort: by_weight
 鬼故事	gui gu shi	12950
 归故乡	gui gu xiang	133
 硅谷小区	gui gu xiao qu	19
+硅谷银行	gui gu yin hang	111
 鬼谷子	gui gu zi	6900
 鬼怪	gui guai	18480
 诡怪	gui guai	260
@@ -147960,6 +148191,7 @@ sort: by_weight
 归还给	gui huan gei	3275
 归还米虾	gui huan mi xia	1
 归还失主	gui huan shi zhu	920
+归还银行贷款	gui huan yin hang dai kuan	111
 归回	gui hui	9999
 硅灰石	gui hui shi	3495
 鬼魂	gui hun	31800
@@ -148170,6 +148402,7 @@ sort: by_weight
 桂林杏苑	gui lin xing yuan	1
 桂林医学院	gui lin yi xue yuan	38
 桂林一枝	gui lin yi zhi	111
+桂林银行	gui lin yin hang	111
 桂林中学	gui lin zhong xue	10
 桂林中院	gui lin zhong yuan	87
 桂林粽子	gui lin zong zi	4
@@ -148670,6 +148903,7 @@ sort: by_weight
 硅氧烷	gui yang wan	3975
 桂阳县	gui yang xian	2115
 贵阳疫情	gui yang yi qing	196
+贵阳银行	gui yang yin hang	111
 贵阳中院	gui yang zhong yuan	87
 贵要静脉	gui yao jing mai	2
 诡异	gui yi	78390
@@ -148890,6 +149124,7 @@ sort: by_weight
 贵州师范大学	gui zhou shi fan da xue	4155
 贵州甜椒牛柳菜饭	gui zhou tian jiao niu liu cai fan	1
 贵州厅	gui zhou ting	25
+贵州银行	gui zhou yin hang	111
 贵州羽芒秆蝇	gui zhou yu mang gan ying	1
 桂洲长	gui zhou zhang	1
 桂洲中学	gui zhou zhong xue	15
@@ -150028,6 +150263,7 @@ sort: by_weight
 国际强行法	guo ji qiang xing fa	38
 国际青年	guo ji qing nian	142
 国际清算	guo ji qing suan	1400
+国际清算银行	guo ji qing suan yin hang	111
 国际热带木材协定	guo ji re dai mu cai xie ding	15
 国际人权	guo ji ren quan	3670
 国际人权法	guo ji ren quan fa	726
@@ -150163,6 +150399,7 @@ sort: by_weight
 国际医药贸易	guo ji yi yao mao yi	1
 国际音标	guo ji yin biao	3760
 国际银行	guo ji yin hang	426
+国际银行业	guo ji yin hang ye	111
 国际影响	guo ji ying xiang	8275
 国际营销	guo ji ying xiao	7105
 国际游	guo ji you	680
@@ -151209,6 +151446,7 @@ sort: by_weight
 国内权威	guo nei quan wei	3210
 国内赛	guo nei sai	90
 国内商业	guo nei shang ye	5950
+国内商业银行	guo nei shang ye yin hang	111
 国内生产	guo nei sheng chan	17835
 国内生产总值	guo nei sheng chan zong zhi	56030
 国内市场	guo nei shi chang	113290
@@ -151241,6 +151479,8 @@ sort: by_weight
 国内学	guo nei xue	143
 国内疫情	guo nei yi qing	167
 国内银行	guo nei yin hang	12590
+国内银行卡	guo nei yin hang ka	111
+国内银行业	guo nei yin hang ye	111
 国内用户	guo nei yong hu	8305
 国内游	guo nei you	7375
 国内有	guo nei you	1977
@@ -152138,6 +152378,9 @@ sort: by_weight
 国有产权	guo you chan quan	33730
 国有产权转让	guo you chan quan zhuan rang	8744
 国有厂	guo you chang	75
+国有大型商业银行	guo you da xing shang ye yin hang	111
+国有大型银行	guo you da xing yin hang	111
+国有大银行	guo you da yin hang	111
 国有独资	guo you du zi	17050
 国有独资公司	guo you du zi gong si	18570
 国有独资企业	guo you du zi qi ye	6595
@@ -152177,6 +152420,7 @@ sort: by_weight
 过油肉	guo you rou	754
 过油肉拌面	guo you rou ban mian	31
 国有商业银行	guo you shang ye yin hang	29165
+国有四大银行	guo you si da yin hang	111
 国有土地	guo you tu di	40540
 国有土地使用权	guo you tu di shi yong quan	59190
 国有土地使用权流转	guo you tu di shi yong quan liu zhuan	9
@@ -152500,6 +152744,7 @@ sort: by_weight
 哈尔滨熏肘花	ha er bin xun zhou hua	1
 哈尔滨羊干肠	ha er bin yang gan chang	1
 哈尔滨医科大学	ha er bin yi ke da xue	5245
+哈尔滨银行	ha er bin yin hang	111
 哈尔滨站	ha er bin zhan	770
 哈尔滨中院	ha er bin zhong yuan	87
 哈儿传奇	ha er chuan qi	12
@@ -153606,6 +153851,7 @@ sort: by_weight
 海口河目	hai kou he mu	111
 海口礁	hai kou jiao	560
 海口浪言	hai kou lang yan	111
+海口农商银行	hai kou nong shang yin hang	111
 海口市	hai kou shi	67885
 海口市处置闲置土地若干规定	hai kou shi chu zhi xian zhi tu di ruo gan gui ding	1
 海口市红十字医院	hai kou shi hong shi zi yi yuan	1
@@ -153936,6 +154182,7 @@ sort: by_weight
 海南大学海洋学院	hai nan da xue hai yang xue yuan	16
 海南岛	hai nan dao	23680
 海南发展	hai nan fa zhan	147
+海南发展银行	hai nan fa zhan yin hang	111
 海南干贝	hai nan gan bei	1
 海南钢铁公司	hai nan gang tie gong si	15
 海南海口	hai nan hai kou	125
@@ -153983,6 +154230,7 @@ sort: by_weight
 海南椰子船	hai nan ye zi chuan	37
 海南椰子饭	hai nan ye zi fan	2
 海南椰子盅	hai nan ye zi zhong	25
+海南银行	hai nan yin hang	111
 海南萤花天牛	hai nan ying hua tian niu	1
 海南游	hai nan you	2705
 海南州	hai nan zhou	2035
@@ -154534,6 +154782,7 @@ sort: by_weight
 海外文摘	hai wai wen zhai	36
 海外星云	hai wai xing yun	17
 海外学	hai wai xue	226
+海外银行	hai wai yin hang	111
 海外游客	hai wai you ke	3770
 海外珠犀常入市	hai wai zhu xi chang ru shi	1
 海湾	hai wan	54010
@@ -154611,6 +154860,7 @@ sort: by_weight
 海峡两岸商务仲裁制度比较研究	hai xia liang an shang wu zhong cai zhi du bi jiao yan jiu	1
 海峡西岸	hai xia xi an	18760
 海霞新村	hai xia xin cun	9
+海峡银行	hai xia yin hang	111
 还下雨	hai xia yu	1375
 海峡之声电台	hai xia zhi sheng dian tai	6
 海鲜	hai xian	309902
@@ -155322,6 +155572,7 @@ sort: by_weight
 邯郸学步	han dan xue bu	1985
 邯郸学院	han dan xue yuan	210
 邯郸驿里逢冬至	han dan yi li feng dong zhi	2
+邯郸银行	han dan yin hang	111
 邯郸站	han dan zhan	139
 邯郸之梦	han dan zhi meng	1
 韩当	han dang	1
@@ -155422,6 +155673,7 @@ sort: by_weight
 含钙	han gai	9610
 函盖充周	han gai chong zhou	1
 含钙量	han gai liang	3575
+涵盖银行	han gai yin hang	111
 含港澳台	han gang ao tai	1055
 邯钢宾馆	han gang bin guan	15
 函告	han gao	6775
@@ -155498,6 +155750,7 @@ sort: by_weight
 韩国版	han guo ban	3285
 韩国拌饭	han guo ban fan	35
 韩国菜	han guo cai	1715
+韩国产业银行	han guo chan ye yin hang	111
 韩国车	han guo che	2515
 韩国城	han guo cheng	219
 韩国吃播	han guo chi bo	130
@@ -155544,6 +155797,7 @@ sort: by_weight
 韩国舞曲	han guo wu qu	36
 韩国选手	han guo xuan shou	3060
 韩国艺人	han guo yi ren	113
+韩国银行	han guo yin hang	111
 韩国影视	han guo ying shi	1765
 韩国游	han guo you	735
 韩国语	han guo yu	14320
@@ -155758,6 +156012,7 @@ sort: by_weight
 汉口西道	han kou xi dao	1
 汉口西路	han kou xi lu	199
 汉口夕阳斜渡鸟	han kou xi yang xie du niao	1
+汉口银行	han kou yin hang	111
 寒苦	han ku	1315
 韩款	han kuan	1111
 含愧	han kui	85
@@ -156459,6 +156714,7 @@ sort: by_weight
 含牙囊肿	han ya nang zhong	3
 寒鸦栖复惊	han ya qi fu jing	1180
 寒鸦戏水	han ya xi shui	350
+韩亚银行	han ya yin hang	111
 旱鸭子	han ya zi	1645
 汗颜	han yan	19525
 含盐	han yan	4645
@@ -157188,6 +157444,7 @@ sort: by_weight
 杭州空军医院	hang zhou kong jun yi yuan	1
 杭州老鸭煲	hang zhou lao ya bao	17
 杭州乐园	hang zhou le yuan	141
+杭州联合银行	hang zhou lian he yin hang	111
 杭州临安	hang zhou lin an	1565
 杭州龙井	hang zhou long jing	1110
 杭州路	hang zhou lu	579
@@ -157244,6 +157501,7 @@ sort: by_weight
 杭州亚运会	hang zhou ya yun hui	141
 杭州野生动物世界	hang zhou ye sheng dong wu shi jie	89
 杭州医学院	hang zhou yi xue yuan	155
+杭州银行	hang zhou yin hang	111
 杭州糟鸡	hang zhou zao ji	1
 夯筑	hang zhu	999
 行状态	hang zhuang tai	310
@@ -158831,6 +159089,7 @@ sort: by_weight
 豪饮	hao yin	3760
 号音	hao yin	1200
 好阴	hao yin	370
+好银行	hao yin hang	111
 好硬	hao ying	1390
 好哟	hao yo	1825
 好用	hao yong	72805
@@ -159235,6 +159494,7 @@ sort: by_weight
 河北医科大	he bei yi ke da	140
 河北医科大学	he bei yi ke da xue	3785
 河北疫情	he bei yi qing	166
+河北银行	he bei yin hang	111
 褐背鹦哥	he bei ying ge	1
 河北蔚县	he bei yu xian	1
 河北在线	he bei zai xian	60
@@ -160442,6 +160702,7 @@ sort: by_weight
 荷兰队	he lan dui	6640
 荷兰粉	he lan fen	99
 荷兰港	he lan gang	5
+荷兰合作银行	he lan he zuo yin hang	111
 荷兰画家	he lan hua jia	670
 荷兰卷尾丝毛犬	he lan juan wei si mao quan	1
 贺兰路	he lan lu	2
@@ -160738,6 +160999,7 @@ sort: by_weight
 河南财经政法	he nan cai jing zheng fa	133
 河南昌浩律师事务所	he nan chang hao lv shi shi wu suo	8
 贺南村	he nan cun	2
+河南村镇银行	he nan cun zhen yin hang	111
 河南大学	he nan da xue	11970
 河南大尹头如雪	he nan da yin tou ru xue	1
 河南道	he nan dao	6
@@ -160820,6 +161082,8 @@ sort: by_weight
 河南浚县	he nan xun xian	1
 河南疫情	he nan yi qing	105
 河南艺术	he nan yi shu	128
+河南银行	he nan yin hang	111
+河南银行事件	he nan yin hang shi jian	111
 和男友	he nan you	8915
 河南禹州	he nan yu zhou	197
 河南招商	he nan zhao shang	55
@@ -161321,10 +161585,10 @@ sort: by_weight
 荷树下	he shu xia	4
 禾黍之悲	he shu zhi bei	111
 核衰变	he shuai bian	5
-河水	he shui	90185
 喝水	he shui	70410
-和谁	he shui	21135
-合水	he shui	4205
+河水	he shui	9018
+和谁	he shui	21
+# 合水	he shui	0
 和谁啊	he shui a	70
 河水不犯井水	he shui bu fan jing shui	330
 河水不洗船	he shui bu xi chuan	4
@@ -162269,6 +162533,7 @@ sort: by_weight
 合众社	he zhong she	380
 合众为一	he zhong wei yi	214
 河中心	he zhong xin	1230
+合众银行	he zhong yin hang	111
 何忠友	he zhong you	160
 喝粥	he zhou	4510
 # 和州	he zhou	0
@@ -162377,6 +162642,7 @@ sort: by_weight
 合作部	he zuo bu	7360
 合作出版	he zuo chu ban	3915
 合作单位	he zuo dan wei	22305
+合作的银行	he zuo de yin hang	111
 合作方	he zuo fang	15145
 合作方案	he zuo fang an	2395
 合作方式	he zuo fang shi	68425
@@ -163691,6 +163957,7 @@ sort: by_weight
 很大	hen da	500628
 很搭	hen da	1111
 狠打	hen da	141
+很大啊	hen da a	500628
 很大程度	hen da cheng du	20920
 很大程度上	hen da cheng du shang	72080
 很大成绩	hen da cheng ji	5400
@@ -163700,6 +163967,7 @@ sort: by_weight
 很大量	hen da liang	82
 很大雨	hen da yu	358
 很淡	hen dan	9955
+很淡啊	hen dan a	9955
 恨到	hen dao	1580
 恨道	hen dao	885
 恨到归时方始休	hen dao gui shi fang shi xiu	1
@@ -164275,7 +164543,9 @@ sort: by_weight
 很有个性	hen you ge xing	5895
 很有关系	hen you guan xi	2670
 很有可能	hen you ke neng	51620
-很有利	hen you li	68
+很有利	hen you li	6800
+很有力	hen you li	222
+很有理	hen you li	111
 很有名	hen you ming	16565
 很有名气	hen you ming qi	2060
 很有能力	hen you neng li	1770
@@ -164497,6 +164767,7 @@ sort: by_weight
 横风横雨	heng feng heng yu	105
 恒丰路	heng feng lu	2710
 横峰县	heng feng xian	1360
+恒丰银行	heng feng yin hang	111
 横幅	heng fu	40965
 恒福	heng fu	2510
 横赋暴敛	heng fu bao lian	1
@@ -168598,6 +168869,7 @@ sort: by_weight
 湖北宜都	hu bei yi du	116
 湖北宜化	hu bei yi hua	4
 湖北疫情	hu bei yi qing	180
+湖北银行	hu bei yin hang	111
 湖北圆吻𫚔	hu bei yuan wen hui	1
 湖北正应	hu bei zheng ying	1
 湖北专升本	hu bei zhuan sheng ben	130
@@ -169559,6 +169831,7 @@ sort: by_weight
 互联网药品交易服务审批暂行规定	hu lian wang yao pin jiao yi fu wu shen pi zan xing gui ding	154
 互联网药品信息服务管理办法	hu lian wang yao pin xin xi fu wu guan li ban fa	98
 互联网药品信息服务管理暂行规定	hu lian wang yao pin xin xi fu wu guan li zan xing gui ding	26
+互联网银行	hu lian wang yin hang	111
 互联网营销	hu lian wang ying xiao	311
 互联网应用	hu lian wang ying yong	3468
 互联网站管理工作细则	hu lian wang zhan guan li gong zuo xi ze	24
@@ -169627,6 +169900,7 @@ sort: by_weight
 葫芦岛	hu lu dao	28520
 葫芦岛市	hu lu dao shi	10370
 葫芦岛市中心医院	hu lu dao shi zhong xin yi yuan	5
+葫芦岛银行	hu lu dao yin hang	111
 护路队	hu lu dui	125
 葫芦垡	hu lu fa	22
 沪芦高速公路	hu lu gao su gong lu	46
@@ -170919,6 +171193,7 @@ sort: by_weight
 湖州师院	hu zhou shi yuan	8
 湖州新村	hu zhou xin cun	1
 湖州一中	hu zhou yi zhong	1
+湖州银行	hu zhou yin hang	111
 湖州职业技术学院	hu zhou zhi ye ji shu xue yuan	12
 湖州中学	hu zhou zhong xue	19
 湖州中院	hu zhou zhong yuan	87
@@ -172280,6 +172555,7 @@ sort: by_weight
 华美新村	hua mei xin cun	2
 华美学院	hua mei xue yuan	8
 画眉亚科	hua mei ya ke	61
+华美银行	hua mei yin hang	111
 画眉张敞	hua mei zhang chang	111
 话梅蒸蟹	hua mei zheng xie	1
 花门	hua men	100
@@ -172357,6 +172633,7 @@ sort: by_weight
 华南师范大学	hua nan shi fan da xue	16235
 化难为易	hua nan wei yi	1615
 桦南县	hua nan xian	1305
+华南银行	hua nan yin hang	111
 华南中学	hua nan zhong xue	4
 滑囊	hua nang	72
 滑囊炎	hua nang yan	62
@@ -172473,6 +172750,7 @@ sort: by_weight
 花旗参茶	hua qi shen cha	180
 花气袭人知骤暖	hua qi xi ren zhi zhou nuan	1
 花旗银行	hua qi yin hang	13130
+花旗银行信用卡	hua qi yin hang xin yong ka	111
 化起镇	hua qi zhen	2
 花钱	hua qian	142170
 花扦	hua qian	1
@@ -172527,6 +172805,7 @@ sort: by_weight
 华侨新村	hua qiao xin cun	1240
 花桥一村	hua qiao yi cun	42
 华侨医院	hua qiao yi yuan	627
+华侨银行	hua qiao yin hang	111
 华侨纸厂	hua qiao zhi chang	2
 华侨之乡	hua qiao zhi xiang	615
 华侨中学	hua qiao zhong xue	4080
@@ -172592,6 +172871,7 @@ sort: by_weight
 华容区	hua rong qu	665
 花容失色	hua rong shi se	4565
 华容县	hua rong xian	1925
+华融湘江银行	hua rong xiang jiang yin hang	111
 花容玉貌	hua rong yu mao	135
 花容月貌	hua rong yue mao	2935
 华融资产管理公司	hua rong zi chan guan li gong si	3
@@ -172610,6 +172890,7 @@ sort: by_weight
 # 华瑞	hua rui	0
 # 华锐	hua rui	0
 花蕊石	hua rui shi	1
+华瑞银行	hua rui yin hang	111
 华润	hua run	43275
 滑润	hua run	5965
 华润公司	hua run gong si	94
@@ -172619,6 +172900,7 @@ sort: by_weight
 华润双鹤	hua run shuang he	142
 华润微	hua run wei	118
 华润小区	hua run xiao qu	5
+华润银行	hua run yin hang	111
 华润置地	hua run zhi di	1
 画若鸿沟	hua ruo hong gou	1
 化若偃草	hua ruo yan cao	1
@@ -173084,7 +173366,9 @@ sort: by_weight
 华夏文化	hua xia wen hua	4080
 华夏五千年	hua xia wu qian nian	181
 华夏银行	hua xia yin hang	13485
+华夏银行信用卡	hua xia yin hang xin yong ka	111
 华夏证券	hua xia zheng quan	2805
+华夏中证银行	hua xia zhong zheng yin hang	111
 话匣子	hua xia zi	4915
 华夏子	hua xia zi	4
 画线	hua xian	9435
@@ -173189,6 +173473,7 @@ sort: by_weight
 化性起伪	hua xing qi wei	90
 华星秋月	hua xing qiu yue	1
 华星社区	hua xing she qu	12
+华兴银行	hua xing yin hang	111
 华兴正街	hua xing zheng jie	31
 华雄	hua xiong	65
 化凶为吉	hua xiong wei ji	111
@@ -179513,6 +179798,7 @@ sort: by_weight
 会商室	hui shang shi	106
 会上说	hui shang shuo	18960
 回上页	hui shang ye	165
+徽商银行	hui shang yin hang	111
 汇商中心	hui shang zhong xin	36
 会少	hui shao	1111
 会少离多	hui shao li duo	14
@@ -180048,6 +180334,7 @@ sort: by_weight
 回页首	hui ye shou	2870
 慧业文人	hui ye wen ren	3
 回也闻一以知十	hui ye wen yi yi zhi shi	1
+汇业银行	hui ye yin hang	111
 辉夜月	hui ye yue	193
 会议	hui yi	500859
 回忆	hui yi	415765
@@ -181139,6 +181426,7 @@ sort: by_weight
 货币危机	huo bi wei ji	1190
 货币信贷	huo bi xin dai	8150
 货币型	huo bi xing	1950
+货币银行	huo bi yin hang	111
 货币银行学	huo bi yin hang xue	7375
 货币增值	huo bi zeng zhi	90
 货币战争	huo bi zhan zheng	254
@@ -181377,6 +181665,7 @@ sort: by_weight
 获得性状	huo de xing zhuang	60
 获得学位	huo de xue wei	2535
 火的颜色	huo de yan se	375
+获得银行贷款	huo de yin hang dai kuan	111
 获得者	huo de zhe	67445
 火德真君庙	huo de zhen jun miao	8
 获得专利	huo de zhuan li	4695
@@ -186442,6 +186731,7 @@ sort: by_weight
 吉林化纤	ji lin hua xian	5
 吉林交通	ji lin jiao tong	192
 吉林教育	ji lin jiao yu	138
+吉林九台农商银行	ji lin jiu tai nong shang yin hang	111
 吉林科技	ji lin ke ji	101
 吉林路	ji lin lu	395
 吉林农业	ji lin nong ye	108
@@ -186478,6 +186768,7 @@ sort: by_weight
 吉林新闻联播	ji lin xin wen lian bo	6
 吉林艺术	ji lin yi shu	142
 吉林艺术学院	ji lin yi shu xue yuan	3120
+吉林银行	ji lin yin hang	111
 吉林陨石雨	ji lin yun shi yu	120
 吉林制药股份有限公司	ji lin zhi yao gu fen you xian gong si	1
 机灵	ji ling	27600
@@ -186863,6 +187154,7 @@ sort: by_weight
 济南蜜三刀	ji nan mi san dao	2
 济南名士多	ji nan ming shi duo	27
 济南名士知多少	ji nan ming shi zhi duo shao	5
+济南农商银行	ji nan nong shang yin hang	111
 机难轻失	ji nan qing shi	111
 济南泉	ji nan quan	345
 济南人	ji nan ren	2335
@@ -187010,6 +187302,7 @@ sort: by_weight
 集宁市	ji ning shi	1340
 集宁师范	ji ning shi fan	183
 济宁疫情	ji ning yi qing	179
+济宁银行	ji ning yin hang	111
 瘠牛偾豚	ji niu fen tun	4
 瘠牛羸豚	ji niu lei tun	1
 唧哝	ji nong	3999
@@ -190110,6 +190403,7 @@ sort: by_weight
 记账凭证	ji zhang ping zheng	7085
 记账式	ji zhang shi	4235
 几张图	ji zhang tu	2135
+几张银行卡	ji zhang yin hang ka	111
 记账员	ji zhang yuan	720
 几招	ji zhao	16525
 急招	ji zhao	9999
@@ -192021,6 +192315,7 @@ sort: by_weight
 加密协议	jia mi xie yi	801
 加密芯片	jia mi xin pian	78
 加密型	jia mi xing	24
+加密银行	jia mi yin hang	111
 假面	jia mian	10295
 加冕	jia mian	8480
 嘉勉	jia mian	910
@@ -192097,10 +192392,12 @@ sort: by_weight
 加拿大布尔吉斯生物群	jia na da bu er ji si sheng wu qun	5
 加拿大队	jia na da dui	1215
 加拿大法律	jia na da fa lv	723
+加拿大丰业银行	jia na da feng ye yin hang	111
 加拿大国籍	jia na da guo ji	162
 加拿大荷斯坦良种奶牛	jia na da he si tan liang zhong nai niu	1
 加拿大环境法	jia na da huan jing fa	3
 加拿大荒地盘羊	jia na da huang di pan yang	8
+加拿大皇家银行	jia na da huang jia yin hang	111
 加拿大籍	jia na da ji	166
 加拿大家庭法汇编	jia na da jia ting fa hui bian	3
 加拿大留学	jia na da liu xue	2925
@@ -192111,6 +192408,7 @@ sort: by_weight
 加拿大无毛猫	jia na da wu mao mao	125
 加拿大刑事法典	jia na da xing shi fa dian	18
 加拿大移民	jia na da yi min	2210
+加拿大银行	jia na da yin hang	111
 加拿大与中国经济诈欺犯罪比较	jia na da yu zhong guo jing ji zha qi fan zui bi jiao	3
 加拿大元	jia na da yuan	2225
 加拿大最高法院	jia na da zui gao fa yuan	451
@@ -193153,6 +193451,7 @@ sort: by_weight
 嘉兴学院医学院	jia xing xue yuan yi xue yuan	3
 假性延髓麻痹	jia xing yan sui ma bi	2
 嘉兴一中	jia xing yi zhong	32
+嘉兴银行	jia xing yin hang	111
 嘉兴职业技术学院	jia xing zhi ye ji shu xue yuan	25
 嘉兴中院	jia xing zhong yuan	87
 嘉兴粽子	jia xing zong zi	736
@@ -193306,6 +193605,7 @@ sort: by_weight
 嘉荫	jia yin	1510
 假音	jia yin	1255
 嘉阴	jia yin	85
+甲银行	jia yin hang	111
 加引号	jia yin hao	2130
 家殷人足	jia yin ren zu	2
 嘉荫县	jia yin xian	1205
@@ -194897,6 +195197,7 @@ sort: by_weight
 监管体制	jian guan ti zhi	9390
 奸官污吏虐民可以死	jian guan wu li nve min ke yi si	4
 监管系统	jian guan xi tong	7740
+监管银行	jian guan yin hang	111
 间关莺语花底滑	jian guan ying yu hua di hua	1
 监管责任	jian guan ze ren	5990
 监管账户	jian guan zhang hu	116
@@ -194956,6 +195257,9 @@ sort: by_weight
 建行	jian hang	96270
 建行卡	jian hang ka	1095
 建行南口	jian hang nan kou	18
+建行手机银行	jian hang shou ji yin hang	111
+建行网上银行	jian hang wang shang yin hang	111
+建行银行	jian hang yin hang	111
 建好	jian hao	32220
 见好	jian hao	6015
 减号	jian hao	3730
@@ -195620,6 +195924,7 @@ sort: by_weight
 建立形象	jian li xing xiang	570
 建立严格	jian li yan ge	146
 建立一个	jian li yi ge	147950
+建立银行	jian li yin hang	111
 建立于	jian li yu	12870
 监理员	jian li yuan	3005
 建立在	jian li zai	153195
@@ -196353,6 +196658,10 @@ sort: by_weight
 建设学习型	jian she xue xi xing	13070
 建设一路	jian she yi lu	211
 建设银行	jian she yin hang	66435
+建设银行卡	jian she yin hang ka	111
+建设银行网上银行	jian she yin hang wang shang yin hang	111
+建设银行信用卡	jian she yin hang xin yong ka	111
+建设银行总行	jian she yin hang zong hang	111
 建设用地	jian she yong di	166785
 建设用地计划管理办法	jian she yong di ji hua guan li ban fa	4
 建设用地审查报批管理办法	jian she yong di shen cha bao pi guan li ban fa	33
@@ -198580,6 +198889,7 @@ sort: by_weight
 江南名城	jiang nan ming cheng	64
 江南名府	jiang nan ming fu	15
 江南明珠园	jiang nan ming zhu yuan	16
+江南农村商业银行	jiang nan nong cun shang ye yin hang	111
 江南青年城	jiang nan qing nian cheng	5
 江南丘陵	jiang nan qiu ling	395
 江南区	jiang nan qu	4365
@@ -199034,6 +199344,7 @@ sort: by_weight
 江苏宜兴市太华镇	jiang su yi xing shi tai hua zhen	1
 江苏意源	jiang su yi yuan	87
 江苏意源科技有限公司	jiang su yi yuan ke ji you xian gong si	87
+江苏银行	jiang su yin hang	111
 江苏悦达	jiang su yue da	12500
 江苏张家港市南丰镇	jiang su zhang jia gang shi nan feng zhen	3
 姜蒜	jiang suan	4435
@@ -199235,6 +199546,9 @@ sort: by_weight
 江西婺源	jiang xi wu yuan	2060
 江西铅山	jiang xi yan shan	1
 江西宜春	jiang xi yi chun	1495
+江西银行	jiang xi yin hang	111
+江西邮储银行	jiang xi you chu yin hang	111
+江西裕民银行	jiang xi yu min yin hang	111
 江西纸业	jiang xi zhi ye	12500
 江西中路	jiang xi zhong lu	80
 江西中路汉口路	jiang xi zhong lu han kou lu	1
@@ -199432,6 +199746,7 @@ sort: by_weight
 江阴经济开发区靖江园区	jiang yin jing ji kai fa qu jing jiang yuan qu	7
 江阴市	jiang yin shi	25530
 江阴县	jiang yin xian	480
+江阴银行	jiang yin yin hang	111
 僵硬	jiang ying	44165
 # 姜英	jiang ying	0
 僵硬不变	jiang ying bu bian	25
@@ -201575,6 +201890,8 @@ sort: by_weight
 脚痛医脚	jiao tong yi jiao	3370
 交通医院	jiao tong yi yuan	224
 交通银行	jiao tong yin hang	52095
+交通银行卡	jiao tong yin hang ka	111
+交通银行信用卡	jiao tong yin hang xin yong ka	111
 交通拥堵费	jiao tong yong du fei	2686
 交通拥挤	jiao tong yong ji	4505
 交通幽默	jiao tong you mo	10
@@ -202062,6 +202379,8 @@ sort: by_weight
 交一下	jiao yi xia	74
 交易信息	jiao yi xin xi	20655
 交易行为	jiao yi xing wei	25875
+交易银行	jiao yi yin hang	111
+交易银行部	jiao yi yin hang bu	111
 交易员	jiao yi yuan	20345
 交易者	jiao yi zhe	30510
 交易制度	jiao yi zhi du	4520
@@ -202532,6 +202851,7 @@ sort: by_weight
 焦作万方	jiao zuo wan fang	9
 焦作万方铝业股份有限公司	jiao zuo wan fang lv ye gu fen you xian gong si	2
 交作业	jiao zuo ye	6215
+焦作中旅银行	jiao zuo zhong lv yin hang	111
 接啊	jie a	1920
 姐啊	jie a	1111
 节哀	jie ai	2940
@@ -205821,6 +206141,8 @@ sort: by_weight
 金诚轩	jin cheng xuan	385
 金城学院	jin cheng xue yuan	151
 锦城学院	jin cheng xue yuan	134
+晋城银行	jin cheng yin hang	111
+金城银行	jin cheng yin hang	111
 金承佑	jin cheng you	1670
 进程优先级	jin cheng you xian ji	1925
 近城镇	jin cheng zhen	8
@@ -206731,6 +207053,7 @@ sort: by_weight
 金花堰	jin hua yan	4
 进化药	jin hua yao	173
 进化遗传学	jin hua yi chuan xue	75
+金华银行	jin hua yin hang	111
 进化优化	jin hua you hua	23
 金华玉树鸡	jin hua yu shu ji	18
 锦花苑	jin hua yuan	5
@@ -208239,6 +208562,7 @@ sort: by_weight
 金融学院	jin rong xue yuan	5560
 金融业	jin rong ye	59900
 金融业务	jin rong ye wu	23645
+金融银行	jin rong yin hang	111
 金融远期合约	jin rong yuan qi he yue	26
 金融诈骗	jin rong zha pian	2780
 金融债券	jin rong zhai quan	11245
@@ -208298,6 +208622,7 @@ sort: by_weight
 进入新的一年	jin ru xin de yi nian	100
 进入血液	jin ru xue ye	5560
 尽入眼底	jin ru yan di	111
+进入银行	jin ru yin hang	111
 进入游戏	jin ru you xi	32120
 进入运行	jin ru yun xing	685
 进入站	jin ru zhan	20
@@ -208469,6 +208794,7 @@ sort: by_weight
 金尚路	jin shang lu	19
 锦上添花	jin shang tian hua	27185
 金尚小区	jin shang xiao qu	187
+晋商银行	jin shang yin hang	111
 今上岳阳楼	jin shang yue yang lou	6
 金尚钟	jin shang zhong	190
 金哨	jin shao	999
@@ -209777,6 +210103,7 @@ sort: by_weight
 金银岛	jin yin dao	5445
 金银复本位制度	jin yin fu ben wei zhi du	6
 金银鸽肉	jin yin ge rou	3
+进银行	jin yin hang	111
 金银湖街道	jin yin hu jie dao	24
 金银花	jin yin hua	23950
 金银花含片	jin yin hua han pian	4
@@ -210275,6 +210602,7 @@ sort: by_weight
 谨终慎始	jin zhong shen shi	1
 晋中市	jin zhong shi	10070
 金钟水库	jin zhong shui ku	189
+晋中银行	jin zhong yin hang	111
 金钟云	jin zhong yun	1
 金钟罩	jin zhong zhao	2950
 尽忠职守	jin zhong zhi shou	2280
@@ -210306,6 +210634,7 @@ sort: by_weight
 锦州铁路中心医院	jin zhou tie lu zhong xin yi yuan	1
 金州湾	jin zhou wan	143
 金州乡	jin zhou xiang	7
+锦州银行	jin zhou yin hang	111
 紧皱着	jin zhou zhe	1105
 锦州中院	jin zhou zhong yuan	87
 进驻	jin zhu	87950
@@ -210330,6 +210659,7 @@ sort: by_weight
 金砖	jin zhuan	12360
 金砖国家	jin zhuan guo jia	9999
 金砖四国	jin zhuan si guo	1075
+金砖银行	jin zhuan yin hang	111
 金装	jin zhuang	8455
 金庄	jin zhuang	84
 靳庄村	jin zhuang cun	11
@@ -210436,6 +210766,7 @@ sort: by_weight
 睛斑副伪鳃鳉	jing ban fu wei sai jiang	1
 经办机构	jing ban ji gou	70805
 经办人	jing ban ren	33835
+经办银行	jing ban yin hang	111
 经办员	jing ban yuan	50
 经邦论道	jing bang lun dao	111
 经邦纬国	jing bang wei guo	111
@@ -213253,6 +213584,7 @@ sort: by_weight
 境外输入	jing wai shu ru	177
 境外投资	jing wai tou zi	25315
 境外卫星电视频道落地管理办法	jing wai wei xing dian shi pin dao luo di guan li ban fa	10
+境外银行	jing wai yin hang	111
 境外游	jing wai you	1070
 敬挽	jing wan	210
 # 井完	jing wan	0
@@ -214220,6 +214552,7 @@ sort: by_weight
 荆紫山	jing zi shan	3
 精子细胞	jing zi xi bao	1245
 精子形成	jing zi xing cheng	655
+精子银行	jing zi yin hang	111
 敬自由	jing zi you	118
 警总	jing zong	1111
 # 景宗	jing zong	0
@@ -215250,6 +215583,7 @@ sort: by_weight
 九江头槽绦虫	jiu jiang tou cao tao chong	21
 九江县	jiu jiang xian	2715
 九江医院	jiu jiang yi yuan	35
+九江银行	jiu jiang yin hang	111
 就将在	jiu jiang zai	1865
 九江镇	jiu jiang zhen	1380
 九江中院	jiu jiang zhong yuan	87
@@ -216317,6 +216651,7 @@ sort: by_weight
 就太	jiu tai	1180
 旧态	jiu tai	145
 九台街道	jiu tai jie dao	10
+九台农商银行	jiu tai nong shang yin hang	111
 九台市	jiu tai shi	2895
 九台县	jiu tai xian	65
 九台庄园	jiu tai zhuang yuan	5
@@ -222167,6 +222502,7 @@ sort: by_weight
 开放性骨折	kai fang xing gu zhe	530
 开放性颅脑损伤	kai fang xing lu nao sun shang	262
 开放以来	kai fang yi lai	5665
+开放银行	kai fang yin hang	111
 开放源代码	kai fang yuan dai ma	7578
 开放源码	kai fang yuan ma	10985
 开放着	kai fang zhe	1420
@@ -222544,6 +222880,7 @@ sort: by_weight
 凯利斯	kai li si	1200
 凯里县	kai li xian	1
 凯丽香江	kai li xiang jiang	193
+开立银行账户	kai li yin hang zhang hu	111
 开立账户	kai li zhang hu	4035
 开脸	kai lian	1650
 开镰	kai lian	995
@@ -222771,6 +223108,8 @@ sort: by_weight
 开设	kai she	352620
 开设赌场	kai she du chang	127
 开设了	kai she le	63130
+开设银行	kai she yin hang	111
+开设银行账户	kai she yin hang zhang hu	111
 开审	kai shen	1625
 凯神网	kai shen wang	315
 凯胜	kai sheng	1710
@@ -222938,7 +223277,9 @@ sort: by_weight
 开通	kai tong	455260
 开通后	kai tong hou	13950
 开通了	kai tong le	81295
+开通手机银行	kai tong shou ji yin hang	111
 开通网上	kai tong wang shang	9690
+开通网上银行	kai tong wang shang yin hang	111
 开头	kai tou	151865
 开头曲	kai tou qu	52
 开头位置	kai tou wei zhi	68
@@ -223144,6 +223485,7 @@ sort: by_weight
 开印	kai yin	825
 凯隐	kai yin	12
 开银行	kai yin hang	990
+开银行账户	kai yin hang zhang hu	111
 开淫趴	kai yin pa	222
 开银趴	kai yin pa	111
 开营	kai ying	4715
@@ -224041,6 +224383,7 @@ sort: by_weight
 看一下吗	kan yi xia ma	360
 看一眼	kan yi yan	18220
 刊印	kan yin	5580
+看银行	kan yin hang	111
 龛影	kan ying	405
 看影评	kan ying ping	130
 刊用	kan yong	8510
@@ -225423,6 +225766,7 @@ sort: by_weight
 考一下	kao yi xia	3399
 烤一下	kao yi xia	223
 拷一下	kao yi xia	77
+考银行	kao yin hang	111
 靠右	kao you	6670
 烤油鸡	kao you ji	2
 烤鱼	kao yu	26183
@@ -226488,6 +226832,7 @@ sort: by_weight
 科技学院	ke ji xue yuan	14560
 科技一路	ke ji yi lu	68
 科技以人为本	ke ji yi ren wei ben	3405
+科技银行	ke ji yin hang	111
 科技英语	ke ji ying yu	2380
 科技有限公司	ke ji you xian gong si	318200
 科技与出版	ke ji yu chu ban	18
@@ -232494,6 +232839,7 @@ sort: by_weight
 快完了	kuai wan le	1025
 快慰	kuai wei	4855
 快为	kuai wei	1580
+快问	kuai wen	3333
 快下	kuai xia	5820
 快下班	kuai xia ban	2200
 快下班了	kuai xia ban le	90
@@ -233731,6 +234077,7 @@ sort: by_weight
 昆仑山	kun lun shan	14885
 昆仑山脉	kun lun shan mai	1485
 昆仑神宫	kun lun shen gong	155
+昆仑银行	kun lun yin hang	111
 醌霉素	kun mei su	1
 困勉下学	kun mian xia xue	1
 坤民	kun min	120
@@ -234365,6 +234712,7 @@ sort: by_weight
 垃圾污染	la ji wu ran	1690
 垃圾箱	la ji xiang	17035
 垃圾信息	la ji xin xi	13790
+垃圾银行	la ji yin hang	111
 垃圾邮件	la ji you jian	102580
 垃圾债券	la ji zhai quan	860
 垃圾站	la ji zhan	4745
@@ -235321,6 +235669,7 @@ sort: by_weight
 来上	lai shang	14450
 来上海	lai shang hai	31
 来上课	lai shang ke	4305
+莱商银行	lai shang yin hang	111
 来设置	lai she zhi	300
 莱绅通灵	lai shen tong ling	168
 来生	lai sheng	30190
@@ -235858,6 +236207,7 @@ sort: by_weight
 兰海高速	lan hai gao su	102
 蓝海集团	lan hai ji tuan	143
 蓝海行动	lan hai xing dong	187
+蓝海银行	lan hai yin hang	111
 蓝海贼长靴	lan hai zei chang xue	1
 蓝海贼斗篷	lan hai zei dou peng	1
 蓝海贼皮盔甲	lan hai zei pi kui jia	1
@@ -236592,6 +236942,7 @@ sort: by_weight
 兰州西路	lan zhou xi lu	14
 兰州羊肉泡馍	lan zhou yang rou pao mo	1
 兰州疫情	lan zhou yi qing	179
+兰州银行	lan zhou yin hang	111
 兰州中心	lan zhou zhong xin	158
 拦住	lan zhu	51150
 揽住	lan zhu	5830
@@ -236695,6 +237046,7 @@ sort: by_weight
 廊坊会展中心	lang fang hui zhan zhong xin	1
 廊坊市	lang fang shi	23385
 廊坊市中医院	lang fang shi zhong yi yuan	4
+廊坊银行	lang fang yin hang	111
 浪费	lang fei	336270
 浪费笔墨	lang fei bi mo	275
 浪费掉	lang fei diao	5140
@@ -242795,6 +243147,7 @@ sort: by_weight
 黎汝清	li ru qing	4
 例如说	li ru shuo	3050
 李如一	li ru yi	12
+例如银行	li ru yin hang	111
 李汝珍	li ru zhen	22
 李瑞环	li rui huan	5510
 李瑞清	li rui qing	45
@@ -242826,7 +243179,9 @@ sort: by_weight
 莉萨	li sa	1810
 丽萨	li sa	1
 离散	li san	25505
-立三	li san	3735
+例三	li san	333
+李三	li san	11
+# 立三	li san	0
 离散程度	li san cheng du	33
 离散对数	li san dui shu	242
 离散对数问题	li san dui shu wen ti	79
@@ -243800,6 +244155,7 @@ sort: by_weight
 立新路	li xin lu	58
 离心率	li xin lv	565
 李鑫淼	li xin miao	6
+利辛农商银行	li xin nong shang yin hang	111
 立新桥	li xin qiao	13
 李昕融	li xin rong	158
 离心式	li xin shi	6450
@@ -244145,6 +244501,7 @@ sort: by_weight
 利用系数	li yong xi shu	2570
 利用效率	li yong xiao lv	21180
 利用学	li yong xue	291
+利用银行	li yong yin hang	111
 利用职权	li yong zhi quan	27530
 利用职务	li yong zhi wu	7385
 利用职务上的便利	li yong zhi wu shang de bian li	22240
@@ -244705,6 +245062,7 @@ sort: by_weight
 连斑小毛瓢虫	lian ban xiao mao piao chong	1
 联邦	lian bang	139040
 联邦成员法	lian bang cheng yuan fa	18
+联邦储备银行	lian bang chu bei yin hang	111
 联邦存款保险公司	lian bang cun kuan bao xian gong si	64
 联邦德国	lian bang de guo	9215
 联邦调查局	lian bang diao cha ju	7710
@@ -244722,6 +245080,7 @@ sort: by_weight
 联邦通讯委员会	lian bang tong xun wei yuan hui	915
 联邦宪法	lian bang xian fa	1700
 联邦信息处理标准	lian bang xin xi chu li biao zhun	50
+联邦银行	lian bang yin hang	111
 联邦院	lian bang yuan	255
 联邦政府	lian bang zheng fu	26140
 联邦制	lian bang zhi	5345
@@ -246545,6 +246904,7 @@ sort: by_weight
 联姻	lian yin	26030
 连音	lian yin	3050
 连音符	lian yin fu	85
+连银行	lian yin hang	111
 连阴天	lian yin tian	9999
 连阴雨	lian yin yu	2430
 联营	lian ying	62748
@@ -247444,6 +247804,7 @@ sort: by_weight
 梁家务	liang jia wu	18
 梁家务村	liang jia wu cun	5
 梁家巷	liang jia xiang	301
+两家银行	liang jia yin hang	111
 梁家镇	liang jia zhen	139
 两家子	liang jia zi	55
 两家子村	liang jia zi cun	15
@@ -247931,6 +248292,7 @@ sort: by_weight
 梁山镇	liang shan zhen	470
 凉山中院	liang shan zhong yuan	87
 凉山州	liang shan zhou	24215
+凉山州商业银行	liang shan zhou shang ye yin hang	111
 良善庄	liang shan zhuang	7
 梁上	liang shang	10060
 晾上	liang shang	2030
@@ -247998,6 +248360,7 @@ sort: by_weight
 梁士诒	liang shi yi	36
 两室一厅	liang shi yi ting	14210
 良师益友	liang shi yi you	14900
+粮食银行	liang shi yin hang	111
 粮食与农业组织	liang shi yu nong ye zu zhi	150
 梁诗正	liang shi zheng	11
 良师诤友	liang shi zheng you	3
@@ -248441,6 +248804,7 @@ sort: by_weight
 两张卷	liang zhang juan	106
 两张牌	liang zhang pai	119
 两张皮	liang zhang pi	4787
+两张银行卡	liang zhang yin hang ka	111
 靓照	liang zhao	9530
 两招	liang zhao	7395
 梁召镇	liang zhao zhen	107
@@ -249046,6 +249410,7 @@ sort: by_weight
 辽阳市中心医院	liao yang shi zhong xin yi yuan	4
 辽阳塔糖	liao yang ta tang	7
 辽阳县	liao yang xian	2075
+辽阳银行	liao yang yin hang	111
 疗养院	liao yang yuan	18975
 疗养员	liao yang yuan	12
 疗养者	liao yang zhe	90
@@ -250382,6 +250747,7 @@ sort: by_weight
 鳞伤遍体	lin shang bian ti	111
 林尚立	lin shang li	128
 淋上去	lin shang qu	1995
+临商银行	lin shang yin hang	111
 林梢	lin shao	2400
 林少春	lin shao chun	106
 林少华	lin shao hua	157
@@ -251914,6 +252280,7 @@ sort: by_weight
 零售业	ling shou ye	74860
 零售业务	ling shou ye wu	14430
 零售银行	ling shou yin hang	2
+零售银行业务	ling shou yin hang ye wu	111
 零售总额	ling shou zong e	31825
 零数	ling shu	1015
 领书	ling shu	965
@@ -252886,6 +253253,7 @@ sort: by_weight
 刘大饼	liu da bing	125
 六大队	liu da dui	1459
 六大古都	liu da gu du	111
+六大国有银行	liu da guo you yin hang	111
 柳大华	liu da hua	72
 刘大钧	liu da jun	62
 刘大可	liu da ke	163
@@ -252894,6 +253262,7 @@ sort: by_weight
 刘大铭	liu da ming	152
 六大派	liu da pai	148
 六大市场	liu da shi chang	68
+六大银行	liu da yin hang	111
 六大原则	liu da yuan ze	1174
 溜达着	liu da zhe	680
 留待	liu dai	12315
@@ -255393,6 +255762,7 @@ sort: by_weight
 柳云湘	liu yun xiang	113
 留在	liu zai	279265
 流在	liu zai	6560
+留在银行	liu zai yin hang	111
 留在这里	liu zai zhe li	15055
 刘瓒	liu zan	2
 遛早	liu zao	140
@@ -255518,6 +255888,7 @@ sort: by_weight
 六州首府	liu zhou shou fu	183
 柳州酸	liu zhou suan	14
 柳州鸭下巴	liu zhou ya xia ba	1
+柳州银行	liu zhou yin hang	111
 柳州中院	liu zhou zhong yuan	87
 留住	liu zhu	84785
 留驻	liu zhu	4425
@@ -256002,6 +256373,7 @@ sort: by_weight
 龙江书院	long jiang shu yuan	25
 龙江县	long jiang xian	1085
 龙江小区	long jiang xiao qu	71
+龙江银行	long jiang yin hang	111
 龙江镇政府	long jiang zhen zheng fu	45
 龙交乡	long jiao xiang	1
 笼街喝道	long jie he dao	1
@@ -259129,6 +259501,7 @@ sort: by_weight
 泸州市	lu zhou shi	16610
 芦洲市	lu zhou shi	7
 庐州太太	lu zhou tai tai	99
+泸州银行	lu zhou yin hang	111
 泸州鱼头火锅	lu zhou yu tou huo guo	3
 泸州中院	lu zhou zhong yuan	87
 露珠	lu zhu	19200
@@ -261357,6 +261730,7 @@ sort: by_weight
 裸细胞	luo xi bao	15
 罗西北	luo xi bei	12
 罗溪村	luo xi cun	9
+洛希尔银行	luo xi er yin hang	111
 罗洗河	luo xi he	35
 洛希极限	luo xi ji xian	110
 罗西街道	luo xi jie dao	149
@@ -261513,6 +261887,7 @@ sort: by_weight
 罗阳新村	luo yang xin cun	4
 洛阳堰上新晴日	luo yang yan shang xin qing ri	1
 罗阳一村	luo yang yi cun	2
+洛阳银行	luo yang yin hang	111
 洛阳正骨医院	luo yang zheng gu yi yuan	27
 洛阳纸贵	luo yang zhi gui	1670
 洛阳中院	luo yang zhong yuan	87
@@ -262337,6 +262712,7 @@ sort: by_weight
 绿色心	lv se xin	3333
 绿色星球	lv se xing qiu	111
 绿色畜牧业	lv se xu mu ye	68
+绿色银行	lv se yin hang	111
 绿色油化之都	lv se you hua zhi dou	22
 绿色植物	lv se zhi wu	18555
 绿色转型	lv se zhuan xing	173
@@ -264599,11 +264975,12 @@ sort: by_weight
 马坨店	ma tuo dian	134
 马托格罗索美洲狮	ma tuo ge luo suo mei zhou shi	1
 马拖乡	ma tuo xiang	4
-妈湾	ma wan	188
-麻湾	ma wan	26
-马玩	ma wan	7
+骂完	ma wan	1111
+妈湾	ma wan	2
+马玩	ma wan	2
 # 马湾	ma wan	0
 # 马琬	ma wan	0
+# 麻湾	ma wan	0
 妈湾港	ma wan gang	25
 马湾海峡	ma wan hai xia	3
 马万祺	ma wan qi	975
@@ -265646,6 +266023,7 @@ sort: by_weight
 脉脉相通	mai mai xiang tong	7
 买卖协议	mai mai xie yi	2205
 买卖行为	mai mai xing wei	3290
+买卖银行卡	mai mai yin hang ka	111
 麦芒	mai mang	9999
 麦芒儿	mai mang er	9999
 埋盲孔	mai mang kong	67
@@ -265940,6 +266318,8 @@ sort: by_weight
 卖一些	mai yi xie	84
 买一赠一	mai yi zeng yi	2355
 卖淫	mai yin	47605
+买银行	mai yin hang	111
+买银行理财	mai yin hang li cai	111
 卖淫女	mai yin nv	5905
 卖淫嫖娼	mai yin piao chang	8600
 脉阴阳俱浮	mai yin yang ju fu	2
@@ -267340,6 +267720,7 @@ sort: by_weight
 毛虫	mao chong	8680
 蟊虫	mao chong	1
 冒充军人招摇撞骗罪	mao chong jun ren zhao yao zhuang pian zui	167
+冒充银行	mao chong yin hang	111
 冒出	mao chu	81220
 毛触尖腹金小蜂	mao chu jian fu jin xiao feng	1
 冒出来	mao chu lai	16265
@@ -268296,6 +268677,7 @@ sort: by_weight
 贸易协议	mao yi xie yi	2140
 贸易型	mao yi xing	37335
 贸易学校	mao yi xue xiao	142
+贸易银行	mao yi yin hang	111
 贸易有限公司	mao yi you xian gong si	97560
 贸易战	mao yi zhan	2360
 贸易障碍	mao yi zhang ai	1240
@@ -269364,6 +269746,7 @@ sort: by_weight
 美国海军	mei guo hai jun	23835
 美国航空	mei guo hang kong	4400
 美国航空公司	mei guo hang kong gong si	2310
+美国合众银行	mei guo he zhong yin hang	111
 美国黑人	mei guo hei ren	3985
 美国红十字会	mei guo hong shi zi hui	1303
 美国化	mei guo hua	2725
@@ -269425,6 +269808,7 @@ sort: by_weight
 美国人	mei guo ren	140025
 美国人民	mei guo ren min	7570
 美国锐步	mei guo rui bu	4
+美国商业银行	mei guo shang ye yin hang	111
 美国蛇果	mei guo she guo	121
 美国生产及库存控制协议	mei guo sheng chan ji ku cun kong zhi xie yi	2
 美国式	mei guo shi	7025
@@ -273398,6 +273782,7 @@ sort: by_weight
 蒙山县	meng shan xian	1105
 蒙上	meng shang	29840
 蒙上欺下	meng shang qi xia	1
+蒙商银行	meng shang yin hang	111
 猛射	meng she	610
 梦蛇	meng she	1
 梦神	meng shen	1330
@@ -273452,6 +273837,7 @@ sort: by_weight
 蒙特卡罗	meng te ka luo	2165
 蒙特雷	meng te lei	1090
 蒙特利尔	meng te li er	15945
+蒙特利尔银行	meng te li er yin hang	111
 蒙特罗	meng te luo	650
 蒙特塞拉特	meng te sai la te	14
 蒙特塞拉特岛	meng te sai la te dao	285
@@ -274749,7 +275135,9 @@ sort: by_weight
 谜一样	mi yi yang	3105
 密意幽悰	mi yi you cong	1
 靡衣玉食	mi yi yu shi	111
+迷因	mi yin	2222
 秘银	mi yin	1111
+秘银盾	mi yin dun	111
 秘银盾刺	mi yin dun ci	1
 秘银戒	mi yin jie	1
 秘银马刺	mi yin ma ci	2
@@ -275694,6 +276082,7 @@ sort: by_weight
 面向数据结构	mian xiang shu ju jie gou	49
 面向未来	mian xiang wei lai	17180
 面向现代化	mian xiang xian dai hua	7095
+面向银行	mian xiang yin hang	111
 面向用户	mian xiang yong hu	1525
 面向制造	mian xiang zhi zao	15
 免削铅笔	mian xiao qian bi	45
@@ -276845,6 +277234,9 @@ sort: by_weight
 闽省巷	min sheng xiang	1
 民生学院	min sheng xue yuan	192
 民生银行	min sheng yin hang	34990
+民生银行北京分行	min sheng yin hang bei jing fen hang	111
+民生银行卡	min sheng yin hang ka	111
+民生银行信用卡	min sheng yin hang xin yong ka	111
 民生园	min sheng yuan	120
 民生在勤	min sheng zai qin	36
 民生证券	min sheng zheng quan	27
@@ -276964,6 +277356,7 @@ sort: by_weight
 民俗学	min su xue	7770
 民俗学家	min su xue jia	1180
 闽台	min tai	10885
+民泰银行	min tai yin hang	111
 民田	min tian	3245
 民天	min tian	385
 旻天	min tian	1
@@ -279436,6 +279829,7 @@ sort: by_weight
 摩根	mo gen	45125
 摩根财团	mo gen cai tuan	1
 摩根大通	mo gen da tong	8310
+摩根大通银行	mo gen da tong yin hang	111
 摩根的岗哨	mo gen de gang shao	1
 摩根弗里曼	mo gen fu li man	107
 摩根勒菲	mo gen le fei	100
@@ -281088,6 +281482,7 @@ sort: by_weight
 牟某某	mou mou mou	1
 缪某某	mou mou mou	1
 某某人	mou mou ren	4550
+某某银行	mou mou yin hang	111
 某男	mou nan	7415
 谋逆	mou ni	9999
 牟尼	mou ni	397
@@ -281188,6 +281583,7 @@ sort: by_weight
 某一天	mou yi tian	30050
 某一位	mou yi wei	2910
 某一种	mou yi zhong	21075
+某银行	mou yin hang	111
 某月	mou yue	2785
 某月某日	mou yue mou ri	2655
 某只	mou zhi	7505
@@ -283015,6 +283411,7 @@ sort: by_weight
 哪个样式	na ge yang shi	675
 那个样式	na ge yang shi	330
 那个样子	na ge yang zi	9925
+哪个银行	na ge yin hang	111
 那个远方	na ge yuan fang	185
 那个月	na ge yue	1460
 哪个值	na ge zhi	68
@@ -283157,6 +283554,7 @@ sort: by_weight
 那加女王	na jia nv wang	1
 那加沙	na jia sha	1
 娜迦王	na jia wang	113
+哪家银行	na jia yin hang	111
 那加银行	na jia yin hang	1
 拿架子	na jia zi	210
 那件	na jian	38525
@@ -284843,6 +285241,7 @@ sort: by_weight
 南昌市朝阳农场	nan chang shi zhao yang nong chang	1
 南昌市专利促进和保护办法	nan chang shi zhuan li cu jin he bao hu ban fa	2
 南昌县	nan chang xian	4735
+南昌银行	nan chang yin hang	111
 南朝	nan chao	23265
 南巢	nan chao	9
 南朝词臣北朝客	nan chao ci chen bei chao ke	1
@@ -285348,6 +285747,7 @@ sort: by_weight
 南海舰队	nan hai jian dui	2550
 南海里水冬瓜	nan hai li shui dong gua	8
 南海路	nan hai lu	795
+南海农商银行	nan hai nong shang yin hang	111
 男孩女孩	nan hai nv hai	5935
 南海区	nan hai qu	23630
 南海区政府	nan hai qu zheng fu	415
@@ -286697,6 +287097,7 @@ sort: by_weight
 南阳三葛	nan yang san ge	1
 南洋杉	nan yang shan	940
 南洋商报	nan yang shang bao	785
+南洋商业银行	nan yang shang ye yin hang	111
 南阳市	nan yang shi	22260
 南阳县	nan yang xian	23
 南扬新村	nan yang xin cun	1
@@ -286881,6 +287282,7 @@ sort: by_weight
 南岳庙	nan yue miao	58
 南岳区	nan yue qu	1110
 南岳寺	nan yue si	1
+南粤银行	nan yue yin hang	111
 南岳云雾茶	nan yue yun wu cha	97
 南云	nan yun	3365
 南运河	nan yun he	208
@@ -287730,6 +288132,7 @@ sort: by_weight
 内地企业	nei di qi ye	6190
 内地人	nei di ren	2980
 内地市场	nei di shi chang	9760
+内地银行	nei di yin hang	111
 内地游客	nei di you ke	2930
 内殿	nei dian	2320
 内点	nei dian	2215
@@ -288022,6 +288425,7 @@ sort: by_weight
 内蒙古师范大学	nei meng gu shi fan da xue	3255
 内蒙古医学院第一附属医院	nei meng gu yi xue yuan di yi fu shu yi yuan	12
 内蒙古医院	nei meng gu yi yuan	112
+内蒙古银行	nei meng gu yin hang	111
 内蒙古自治区	nei meng gu zi zhi qu	56770
 内蒙古自治区安全生产条例	nei meng gu zi zhi qu an quan sheng chan tiao li	4
 内蒙古自治区城市房屋拆迁管理条例	nei meng gu zi zhi qu cheng shi fang wu chai qian guan li tiao li	8
@@ -288540,6 +288944,7 @@ sort: by_weight
 能吃能喝	neng chi neng he	660
 能充	neng chong	1180
 能出	neng chu	31195
+能处	neng chu	1111
 能处理的	neng chu li de	1045
 能穿	neng chuan	111
 能传	neng chuan	11
@@ -289015,6 +289420,7 @@ sort: by_weight
 能在	neng zai	500254
 能再	neng zai	69595
 能再度	neng zai du	660
+能在银行	neng zai yin hang	111
 能站	neng zhan	2222
 能战	neng zhan	1111
 能涨	neng zhang	1111
@@ -289102,6 +289508,7 @@ sort: by_weight
 拟扁胃高手水母	ni bian wei gao shou shui mu	1
 拟表型	ni biao xing	1
 你别	ni bie	90410
+你别逼我	ni bie bi wo	3333
 你别猜	ni bie cai	510
 你别动	ni bie dong	840
 你别急	ni bie ji	1885
@@ -289379,6 +289786,8 @@ sort: by_weight
 你的一天	ni de yi tian	100
 你的一言一行	ni de yi yan yi xing	100
 你的意义	ni de yi yi	103
+你的银行	ni de yin hang	111
+你的银行卡	ni de yin hang ka	111
 你的影子	ni de ying zi	7850
 你的账号	ni de zhang hao	289
 你的账户	ni de zhang hu	340
@@ -292582,6 +292991,7 @@ sort: by_weight
 宁波市中等职业教育条例	ning bo shi zhong deng zhi ye jiao yu tiao li	2
 宁波市住宅小区物业管理条例	ning bo shi zhu zhai xiao qu wu ye guan li tiao li	5
 宁波银行	ning bo yin hang	1
+宁波银行信用卡	ning bo yin hang xin yong ka	111
 宁波韵升	ning bo yun sheng	565
 宁波站	ning bo zhan	5320
 宁波猪油汤团	ning bo zhu you tang tuan	28
@@ -292909,6 +293319,7 @@ sort: by_weight
 宁夏区	ning xia qu	153
 宁夏湾	ning xia wan	7
 宁夏银川	ning xia yin chuan	5210
+宁夏银行	ning xia yin hang	111
 宁夏自治区	ning xia zi zhi qu	5085
 宁县	ning xian	3575
 宁乡	ning xiang	8465
@@ -293625,6 +294036,8 @@ sort: by_weight
 纽约股市	niu yue gu shi	1185
 纽约故事	niu yue gu shi	7
 纽约金属交易所	niu yue jin shu jiao yi suo	41
+纽约联邦储备银行	niu yue lian bang chu bei yin hang	111
+纽约梅隆银行	niu yue mei long yin hang	111
 纽约人	niu yue ren	2155
 纽约日报	niu yue ri bao	330
 纽约商交所	niu yue shang jiao suo	26
@@ -293808,7 +294221,9 @@ sort: by_weight
 农村青年	nong cun qing nian	33700
 农村人	nong cun ren	12980
 农村人口	nong cun ren kou	28520
+农村商业银行	nong cun shang ye yin hang	111
 农村商业银行管理暂行规定	nong cun shang ye yin hang guan li zan xing gui ding	11
+农村商业银行招聘	nong cun shang ye yin hang zhao pin	111
 农村社会	nong cun she hui	41660
 农村社会保障	nong cun she hui bao zhang	2995
 农村生活	nong cun sheng huo	10220
@@ -293842,6 +294257,7 @@ sort: by_weight
 农村信用社改革	nong cun xin yong she gai ge	536
 农村学校	nong cun xue xiao	19000
 农村义务教育	nong cun yi wu jiao yu	50995
+农村银行	nong cun yin hang	111
 农村用地	nong cun yong di	288
 农村用电	nong cun yong dian	1630
 农村宅基地	nong cun zhai ji di	4731
@@ -293964,6 +294380,8 @@ sort: by_weight
 农行干校	nong hang gan xiao	6
 农行卡	nong hang ka	4590
 农行楼	nong hang lou	4
+农行银行	nong hang yin hang	111
+农行掌上银行	nong hang zhang shang yin hang	111
 弄好	nong hao	9210
 侬好	nong hao	455
 弄好的	nong hao de	850
@@ -294474,12 +294892,16 @@ sort: by_weight
 农业学校	nong ye xue xiao	4245
 农业野生植物保护办法	nong ye ye sheng zhi wu bao hu ban fa	20
 农业银行	nong ye yin hang	122097
+农业银行卡	nong ye yin hang ka	111
 农业银行石狮市支行	nong ye yin hang shi shi shi zhi xing	1
+农业银行网上银行	nong ye yin hang wang shang yin hang	111
+农业银行信用卡	nong ye yin hang xin yong ka	111
 农业用地	nong ye yong di	4545
 农业院校	nong ye yuan xiao	3070
 农业增长	nong ye zeng zhang	4535
 农业展览馆	nong ye zhan lan guan	718
 农业政策	nong ye zheng ce	6605
+农业政策性银行	nong ye zheng ce xing yin hang	111
 农业支出	nong ye zhi chu	865
 农业知识产权	nong ye zhi shi chan quan	176
 农业植物新品种权侵权案件处理规定	nong ye zhi wu xin pin zhong quan qin quan an jian chu li gui ding	11
@@ -296315,6 +296737,7 @@ sort: by_weight
 欧洲非洲地球仪	ou zhou fei zhou di qiu yi	3333
 欧洲粉蝶	ou zhou fen die	2
 欧洲犎牛	ou zhou feng niu	1
+欧洲复兴开发银行	ou zhou fu xing kai fa yin hang	111
 欧洲各国	ou zhou ge guo	10065
 欧洲共产主义	ou zhou gong chan zhu yi	35
 欧洲公司	ou zhou gong si	2950
@@ -296378,6 +296801,8 @@ sort: by_weight
 欧洲野牛	ou zhou ye niu	217
 欧洲议会	ou zhou yi hui	5235
 欧洲医蛭	ou zhou yi zhi	25
+欧洲银行	ou zhou yin hang	111
+欧洲银行业	ou zhou yin hang ye	111
 欧洲游	ou zhou you	2770
 欧洲有机法案	ou zhou you ji fa an	7
 欧洲邮局	ou zhou you ju	3333
@@ -296386,6 +296811,7 @@ sort: by_weight
 欧洲战场	ou zhou zhan chang	1700
 欧洲战史	ou zhou zhan shi	15
 欧洲之行	ou zhou zhi xing	1390
+欧洲中央银行	ou zhou zhong yang yin hang	111
 欧洲专利局	ou zhou zhuan li ju	664
 欧洲专利制度	ou zhou zhuan li zhi du	15
 欧洲自由贸易联盟	ou zhou zi you mao yi lian meng	450
@@ -298966,6 +299392,7 @@ sort: by_weight
 跑一跑	pao yi pao	870
 跑一趟	pao yi tang	4930
 跑一天	pao yi tian	74
+跑银行	pao yin hang	111
 泡影	pao ying	8695
 跑赢	pao ying	111
 泡影空花	pao ying kong hua	111
@@ -301967,6 +302394,7 @@ sort: by_weight
 骗取财物	pian qu cai wu	1650
 骗取钱财	pian qu qian cai	4460
 骗取信任	pian qu xin ren	380
+骗取银行贷款	pian qu yin hang dai kuan	111
 翩然	pian ran	9355
 骗人	pian ren	38610
 骗人布	pian ren bu	3333
@@ -303201,6 +303629,7 @@ sort: by_weight
 平安就好	ping an jiu hao	126
 平安居	ping an ju	2
 平安卡	ping an ka	53
+平安口袋银行	ping an kou dai yin hang	111
 平安里	ping an li	313
 平安路	ping an lu	445
 平安落地	ping an luo di	158
@@ -303210,6 +303639,7 @@ sort: by_weight
 平安时代	ping an shi dai	1305
 平安是福	ping an shi fu	162
 平安使者	ping an shi zhe	125
+平安私人银行	ping an si ren yin hang	111
 平安无事	ping an wu shi	9100
 平安无恙	ping an wu yang	111
 平安县	ping an xian	2135
@@ -303220,6 +303650,8 @@ sort: by_weight
 平安夜	ping an ye	27210
 平安一生	ping an yi sheng	134
 平安医院	ping an yi yuan	665
+平安银行	ping an yin hang	111
+平安银行信用卡	ping an yin hang xin yong ka	111
 平安长大	ping an zhang da	133
 平安中国	ping an zhong guo	161
 平坝	ping ba	5295
@@ -303426,6 +303858,7 @@ sort: by_weight
 平顶山	ping ding shan	24270
 平顶山市	ping ding shan shi	11855
 平顶山小区	ping ding shan xiao qu	6
+平顶山银行	ping ding shan yin hang	111
 评定条件	ping ding tiao jian	920
 评定为	ping ding wei	69
 平定县	ping ding xian	1955
@@ -305659,6 +306092,9 @@ sort: by_weight
 普伐他汀钠片	pu fa ta ting na pian	2
 普法网	pu fa wang	2605
 浦发银行	pu fa yin hang	14700
+浦发银行成都分行	pu fa yin hang cheng du fen hang	111
+浦发银行广州分行	pu fa yin hang guang zhou fen hang	111
+浦发银行信用卡	pu fa yin hang xin yong ka	111
 普法运动	pu fa yun dong	45
 普法战争	pu fa zhan zheng	1140
 普泛	pu fan	620
@@ -308682,6 +309118,7 @@ sort: by_weight
 齐鲁晚报	qi lu wan bao	9535
 岐路亡羊	qi lu wang yang	1
 七路线	qi lu xian	1
+齐鲁银行	qi lu yin hang	111
 齐鲁证券	qi lu zheng quan	1420
 耆鹿逐痹口服液	qi lu zhu bi kou fu ye	3
 七路卒	qi lu zu	1
@@ -309367,6 +309804,7 @@ sort: by_weight
 欺上罔下	qi shang wang xia	111
 欺上压下	qi shang ya xia	15
 骑上扬州鹤	qi shang yang zhou he	1
+齐商银行	qi shang yin hang	111
 齐上阵	qi shang zhen	2950
 芪烧活鱼	qi shao huo yu	9
 戚少商	qi shao shang	196
@@ -309799,6 +310237,7 @@ sort: by_weight
 其他人员	qi ta ren yuan	36330
 其他软件	qi ta ruan jian	10950
 其他商品	qi ta shang pin	8415
+其他商业银行	qi ta shang ye yin hang	111
 其他社会团体	qi ta she hui tuan ti	945
 其他设施	qi ta she shi	9780
 其他什么	qi ta shen me	4010
@@ -309823,6 +310262,7 @@ sort: by_weight
 其他选手	qi ta xuan shou	3445
 其他学科	qi ta xue ke	24055
 其他银行	qi ta yin hang	6265
+其他银行信用卡	qi ta yin hang xin yong ka	111
 其他应收款	qi ta ying shou kuan	14955
 其他应用	qi ta ying yong	87
 其他用户	qi ta yong hu	78265
@@ -310589,6 +311029,7 @@ sort: by_weight
 齐耶赫	qi ye he	177
 企业合并	qi ye he bing	16859
 企业核心竞争力	qi ye he xin jing zheng li	11495
+企业和银行	qi ye he yin hang	111
 企业合作	qi ye he zuo	13915
 气噎喉堵	qi ye hou du	7
 企业化	qi ye hua	24615
@@ -310687,6 +311128,7 @@ sort: by_weight
 企业事业单位内部治安保卫工作规定	qi ye shi ye dan wei nei bu zhi an bao wei gong zuo gui ding	7
 企业事业单位专职消防队组织条例	qi ye shi ye dan wei zhuan zhi xiao fang dui zu zhi tiao li	11
 企业收购	qi ye shou gou	4375
+企业手机银行	qi ye shou ji yin hang	111
 七叶树	qi ye shu	2330
 企业司	qi ye si	733
 企业思想政治工作人员专业职务试行条例	qi ye si xiang zheng zhi gong zuo ren yuan zhuan ye zhi wu shi xing tiao li	8
@@ -310696,6 +311138,7 @@ sort: by_weight
 企业投资自主权	qi ye tou zi zi zhu quan	356
 企业网	qi ye wang	417
 企业王	qi ye wang	6
+企业网上银行	qi ye wang shang yin hang	111
 企业维持	qi ye wei chi	948
 企业文化	qi ye wen hua	302110
 企业文化建设	qi ye wen hua jian she	33980
@@ -310719,6 +311162,7 @@ sort: by_weight
 企业一般制度	qi ye yi ban zhi du	1
 七叶一枝花	qi ye yi zhi hua	765
 企业银行	qi ye yin hang	1935
+企业银行账户	qi ye yin hang zhang hu	111
 企业应用	qi ye ying yong	7417
 企业用户	qi ye yong hu	38480
 企业邮局	qi ye you ju	61085
@@ -311740,6 +312184,8 @@ sort: by_weight
 前村村	qian cun cun	6
 千村万户	qian cun wan hu	565
 千村万落生荆杞	qian cun wan luo sheng jing qi	3
+钱存银行	qian cun yin hang	111
+钱存在银行	qian cun zai yin hang	111
 千错万错	qian cuo wan cuo	1145
 前搭档	qian da dang	150
 前大灯总成	qian da deng zong cheng	121
@@ -311963,6 +312409,7 @@ sort: by_weight
 前方施工	qian fang shi gong	3333
 千防万防	qian fang wan fang	109
 前方学校	qian fang xue xiao	5
+钱放银行	qian fang yin hang	111
 前方拥堵	qian fang yong du	134
 前房子	qian fang zi	51
 欠费	qian fei	28565
@@ -313760,6 +314207,7 @@ sort: by_weight
 钱王街	qian wang jie	120
 潜望镜	qian wang jing	3905
 钱旺乡	qian wang xiang	29
+前往银行	qian wang yin hang	111
 前王庄	qian wang zhuang	3
 前卫	qian wei	90975
 千位	qian wei	3440
@@ -314165,6 +314613,8 @@ sort: by_weight
 浅吟低唱	qian yin di chang	1555
 牵引附会	qian yin fu hui	1
 牵引钩	qian yin gou	208
+欠银行	qian yin hang	111
+欠银行钱	qian yin hang qian	111
 前因后果	qian yin hou guo	7995
 牵引机	qian yin ji	1235
 牵引力	qian yin li	12550
@@ -314235,6 +314685,7 @@ sort: by_weight
 签约人	qian yue ren	1205
 签约项目	qian yue xiang mu	9050
 签约仪式	qian yue yi shi	19000
+签约银行	qian yue yin hang	111
 签约者	qian yue zhe	620
 钱云会	qian yun hui	72
 千匝万周无已时	qian za wan zhou wu yi shi	4
@@ -316006,7 +316457,12 @@ sort: by_weight
 乔哈里斯	qiao ha li si	185
 巧孩儿	qiao hai er	2
 桥涵	qiao han	8930
+瞧好	qiao hao	2222
+敲好	qiao hao	1111
 敲好吃	qiao hao chi	141
+瞧好了	qiao hao le	111
+瞧好了吧	qiao hao le ba	111
+瞧好嘞	qiao hao lei	111
 巧合	qiao he	52505
 诮呵	qiao he	1
 桥河岔乡	qiao he cha xiang	1
@@ -317382,6 +317838,7 @@ sort: by_weight
 秦皇岛市	qin huang dao shi	19385
 秦皇岛市第一医院	qin huang dao shi di yi yi yuan	2
 秦皇岛外打鱼船	qin huang dao wai da yu chuan	6
+秦皇岛银行	qin huang dao yin hang	111
 秦皇汉武	qin huang han wu	2080
 秦皇河	qin huang he	134
 芩黄喉症胶囊	qin huang hou zheng jiao nang	1
@@ -317604,6 +318061,7 @@ sort: by_weight
 亲娘	qin niang	5310
 禽鸟	qin niao	6300
 揿纽	qin niu	5
+秦农银行	qin nong yin hang	111
 琴女	qin nv	111
 秦女楚珠	qin nv chu zhu	1
 钦佩	qin pei	29865
@@ -318711,6 +319169,7 @@ sort: by_weight
 倾倒量	qing dao liang	68
 青岛路	qing dao lu	440
 青岛那	qing dao na	93
+青岛农商银行	qing dao nong shang yin hang	111
 情到浓时	qing dao nong shi	1785
 青岛牌	qing dao pai	70
 青岛啤酒	qing dao pi jiu	18450
@@ -318730,6 +319189,7 @@ sort: by_weight
 青岛新闻网	qing dao xin wen wang	1875
 青岛信息港	qing dao xin xi gang	1475
 倾倒液体	qing dao ye ti	3333
+青岛银行	qing dao yin hang	111
 请到这里	qing dao zhe li	10020
 青岛中程	qing dao zhong cheng	157
 青岛中能	qing dao zhong neng	1570
@@ -319156,6 +319616,7 @@ sort: by_weight
 青海省囊谦县	qing hai sheng nang qian xian	9
 青海省中医院	qing hai sheng zhong yi yuan	8
 轻海纹白蝶	qing hai wen bai die	1
+青海银行	qing hai yin hang	111
 青海油田	qing hai you tian	1085
 青海油田公司	qing hai you tian gong si	47
 青海月饼	qing hai yue bing	31
@@ -324684,6 +325145,13 @@ sort: by_weight
 区一中	qu yi zhong	46
 取一字	qu yi zi	70
 取意自	qu yi zi	1
+去银行	qu yin hang	111
+去银行办理	qu yin hang ban li	111
+去银行办理业务	qu yin hang ban li ye wu	111
+去银行办业务	qu yin hang ban ye wu	111
+去银行存钱	qu yin hang cun qian	111
+去银行贷款	qu yin hang dai kuan	111
+去银行取钱	qu yin hang qu qian	111
 瞿颖	qu ying	8075
 瞿应绍	qu ying shao	3
 取用	qu yong	22040
@@ -324759,9 +325227,11 @@ sort: by_weight
 区域型	qu yu xing	7
 区域性的	qu yu xing de	11500
 区域性国际组织	qu yu xing guo ji zu zhi	141
+区域性银行	qu yu xing yin hang	111
 区域选择	qu yu xuan ze	1945
 区宇一清	qu yu yi qing	1
 区域一体化	qu yu yi ti hua	131
+区域银行	qu yu yin hang	111
 取予有节	qu yu you jie	1
 区域优势	qu yu you shi	6440
 曲峪镇	qu yu zhen	3
@@ -325035,6 +325505,7 @@ sort: by_weight
 全不选	quan bu xuan	615
 全部学习	quan bu xue xi	910
 全部义务	quan bu yi wu	975
+全部银行	quan bu yin hang	111
 全部有	quan bu you	2295
 全部由	quan bu you	62
 全部遇难	quan bu yu nan	107
@@ -325373,8 +325844,11 @@ sort: by_weight
 全国消防安全日	quan guo xiao fang an quan ri	13
 全国新书目	quan guo xin shu mu	17
 全国性	quan guo xing	87830
+全国性股份制银行	quan guo xing gu fen zhi yin hang	111
 全国性广告主协会	quan guo xing guang gao zhu xie hui	20
 全国性价格	quan guo xing jia ge	25
+全国性商业银行	quan guo xing shang ye yin hang	111
+全国性银行	quan guo xing yin hang	111
 全国性杂志	quan guo xing za zhi	170
 全国学联	quan guo xue lian	158
 全国学生体育竞赛管理规定	quan guo xue sheng ti yu jing sai guan li gui ding	2
@@ -325388,6 +325862,7 @@ sort: by_weight
 全国疫情	quan guo yi qing	146
 全国艺术科学规划课题管理办法	quan guo yi shu ke xue gui hua ke ti guan li ban fa	3
 全国医院工作条例	quan guo yi yuan gong zuo tiao li	12
+全国银行	quan guo yin hang	111
 全国银行间债券市场债券远期交易管理规定	quan guo yin hang jian zhai quan shi chang zhai quan yuan qi jiao yi guan li gui ding	19
 全国运动会	quan guo yun dong hui	1805
 全国政协	quan guo zheng xie	87365
@@ -326037,6 +326512,7 @@ sort: by_weight
 全球行动	quan qiu xing dong	142
 全球移动通信系统	quan qiu yi dong tong xin xi tong	335
 全球疫情	quan qiu yi qing	138
+全球银行	quan qiu yin hang	111
 全球鹰	quan qiu ying	4149
 全球战略	quan qiu zhan lve	11745
 全球治理观	quan qiu zhi li guan	130
@@ -326129,6 +326605,7 @@ sort: by_weight
 泉上	quan shang	28
 全尚	quan shang	7
 犬上阶眠知地湿	quan shang jie mian zhi di shi	1
+券商银行	quan shang yin hang	111
 泉上有芹芽	quan shang you qin ya	1
 权尚宇	quan shang yu	55
 犬舍	quan she	13050
@@ -326713,6 +327190,7 @@ sort: by_weight
 泉州晚报	quan zhou wan bao	12865
 全州县	quan zhou xian	1500
 泉州疫情	quan zhou yi qing	171
+泉州银行	quan zhou yin hang	111
 圈住	quan zhu	3975
 劝住	quan zhu	2320
 诠注	quan zhu	375
@@ -329631,6 +330109,7 @@ sort: by_weight
 任何一项	ren he yi xiang	15590
 仁和医院	ren he yi yuan	121
 任何一种	ren he yi zhong	61540
+任何银行	ren he yin hang	111
 任何原因	ren he yuan yin	8515
 任何站	ren he zhan	9999
 人和站	ren he zhan	111
@@ -330269,6 +330748,23 @@ sort: by_weight
 人民艺术家	ren min yi shu jia	128
 人民医院	ren min yi yuan	91270
 人民银行	ren min yin hang	69860
+人民银行成都分行	ren min yin hang cheng du fen hang	111
+人民银行党委	ren min yin hang dang wei	111
+人民银行等部门	ren min yin hang deng bu men	111
+人民银行法	ren min yin hang fa	111
+人民银行分支机构	ren min yin hang fen zhi ji gou	111
+人民银行副行长	ren min yin hang fu hang zhang	111
+人民银行广州分行	ren min yin hang guang zhou fen hang	111
+人民银行行长易纲	ren min yin hang hang zhang yi gang	111
+人民银行济南分行	ren min yin hang ji nan fen hang	111
+人民银行南京分行	ren min yin hang nan jing fen hang	111
+人民银行上海总部	ren min yin hang shang hai zong bu	111
+人民银行网站	ren min yin hang wang zhan	111
+人民银行西安分行	ren min yin hang xi an fen hang	111
+人民银行征信	ren min yin hang zheng xin	111
+人民银行征信系统	ren min yin hang zheng xin xi tong	111
+人民银行征信中心	ren min yin hang zheng xin zhong xin	111
+人民银行总行	ren min yin hang zong hang	111
 人民英雄	ren min ying xiong	1765
 人民英雄纪念碑	ren min ying xiong ji nian bei	3445
 人民邮电	ren min you dian	5685
@@ -332151,6 +332647,7 @@ sort: by_weight
 日本叶灯鱼	ri ben ye deng yu	1
 日本叶蜂	ri ben ye feng	1
 日本医蛭	ri ben yi zhi	78
+日本银行	ri ben yin hang	111
 日本银𬶋	ri ben yin ju	1
 日本银炉	ri ben yin lu	1
 日本鹰翅天蛾	ri ben ying chi tian e	1
@@ -332848,6 +333345,7 @@ sort: by_weight
 日照县	ri zhao xian	11
 日照香炉生紫烟	ri zhao xiang lu sheng zi yan	1180
 日照岩	ri zhao yan	1180
+日照银行	ri zhao yin hang	111
 日臻	ri zhen	2215
 日臻成熟	ri zhen cheng shou	3125
 日臻成熟	ri zhen cheng shu	3125
@@ -335851,6 +336349,7 @@ sort: by_weight
 瑞典王国	rui dian wang guo	9999
 瑞典文	rui dian wen	2435
 瑞典沃尔沃汽车公司	rui dian wo er wo qi che gong si	100
+瑞典银行	rui dian yin hang	111
 瑞典语	rui dian yu	3880
 瑞东	rui dong	101
 锐度	rui du	7380
@@ -335868,6 +336367,7 @@ sort: by_weight
 瑞丰农庄	rui feng nong zhuang	1
 汭丰乡	rui feng xiang	14
 瑞凤眼	rui feng yan	127
+瑞丰银行	rui feng yin hang	111
 瑞福	rui fu	2890
 瑞福进取	rui fu jin qu	1
 瑞格列奈	rui ge lie nai	13
@@ -335979,6 +336479,7 @@ sort: by_weight
 瑞氏普尔塔龙	rui shi pu er ta long	1
 瑞士人	rui shi ren	3720
 瑞士手表	rui shi shou biao	1545
+瑞士信贷银行	rui shi xin dai yin hang	111
 瑞士银行	rui shi yin hang	3990
 瑞士银行公司	rui shi yin hang gong si	2
 瑞兽	rui shou	111
@@ -335991,6 +336492,7 @@ sort: by_weight
 瑞斯美	rui si mei	135
 瑞斯·伊凡斯	rui si yi fan si	111
 瑞穗	rui sui	867
+瑞穗银行	rui sui yin hang	111
 瑞特大花鼠宝螺	rui te da hua shu bao luo	1
 芮甜甜	rui tian tian	183
 锐痛	rui tong	15
@@ -336016,6 +336518,7 @@ sort: by_weight
 瑞雪	rui xue	11590
 瑞雪霏霏	rui xue fei fei	1
 瑞雪兆丰年	rui xue zhao feng nian	2100
+瑞讯银行	rui xun yin hang	111
 锐眼	rui yan	9999
 锐意	rui yi	14200
 锐意改革	rui yi gai ge	4970
@@ -336440,6 +336943,8 @@ sort: by_weight
 萨北湖	sa bei hu	1
 撒贝宁	sa bei ning	791
 萨本栋	sa ben dong	24
+撒比	sa bi	4444
+撒币	sa bi	3333
 萨比	sa bi	23
 萨比策	sa bi ce	192
 洒遍	sa bian	1720
@@ -337625,6 +338130,7 @@ sort: by_weight
 三大王牌	san da wang pai	111
 三大洋	san da yang	760
 三打一	san da yi	955
+三大银行	san da yin hang	111
 三大营	san da ying	420
 三大运动	san da yun dong	300
 三大战略	san da zhan lve	5540
@@ -338217,6 +338723,7 @@ sort: by_weight
 三加四	san jia si	134
 三嘉乡	san jia xiang	3
 三加一	san jia yi	435
+三家银行	san jia yin hang	111
 三家庄	san jia zhuang	23
 三间	san jian	25445
 三件	san jian	23450
@@ -338445,6 +338952,7 @@ sort: by_weight
 三井银行	san jing yin hang	3
 三精制药	san jing zhi yao	2880
 三径之资	san jing zhi zi	2
+三井住友银行	san jing zhu you yin hang	111
 三九	san jiu	32190
 三九二十七	san jiu er shi qi	111
 三九集团	san jiu ji tuan	4250
@@ -339677,6 +340185,7 @@ sort: by_weight
 三峡雪茄	san xia xue jia	1
 三峡学院	san xia xue yuan	154
 三峡医院	san xia yi yuan	20
+三峡银行	san xia yin hang	111
 三峡镇	san xia zhen	7
 三峡职院	san xia zhi yuan	175
 三下子	san xia zi	70
@@ -339752,6 +340261,7 @@ sort: by_weight
 三湘四水	san xiang si shui	1305
 三相四线	san xiang si xian	1895
 三相四线制	san xiang si xian zhi	1065
+三湘银行	san xiang yin hang	111
 三项制度	san xiang zhi du	5545
 三小	san xiao	14985
 三笑	san xiao	4400
@@ -340358,6 +340868,7 @@ sort: by_weight
 桑塔纳	sang ta na	67460
 桑塔纳志俊	sang ta na zhi jun	1054
 桑坦德	sang tan de	5750
+桑坦德银行	sang tan de yin hang	111
 桑特	sang te	1635
 桑特拉奇	sang te la qi	330
 桑提娜	sang ti na	181
@@ -341664,6 +342175,7 @@ sort: by_weight
 沙门氏菌感染	sha men shi jun gan ran	115
 沙门氏菌属	sha men shi jun shu	310
 沙门鞋	sha men xie	1
+厦门银行	sha men yin hang	111
 沙鯭鱼	sha meng yu	1
 沙弥	sha mi	6200
 沙米尔	sha mi er	145
@@ -343732,6 +344244,7 @@ sort: by_weight
 山西阳泉	shan xi yang quan	1195
 山西医科大	shan xi yi ke da	137
 山西医科大学	shan xi yi ke da xue	2670
+山西银行	shan xi yin hang	111
 山西营	shan xi ying	10
 山西盂县南娄镇	shan xi yu xian nan lou zhen	1
 山西宇星客车有限公司	shan xi yu xing ke che you xian gong si	2
@@ -344899,6 +345412,7 @@ sort: by_weight
 上海华东医院	shang hai hua dong yi yuan	28
 上海华联	shang hai hua lian	111
 上海华联超市	shang hai hua lian chao shi	103
+上海华瑞银行	shang hai hua rui yin hang	111
 上海黄金交易所	shang hai huang jin jiao yi suo	4315
 上海馄饨汤	shang hai hun tun tang	1
 上海火车站	shang hai huo che zhan	1570
@@ -344986,6 +345500,7 @@ sort: by_weight
 上海南站	shang hai nan zhan	3435
 上海能源	shang hai neng yuan	1260
 上海农产品市场	shang hai nong chan pin shi chang	5
+上海农商银行	shang hai nong shang yin hang	111
 上海农学院	shang hai nong xue yuan	7
 上海浦东发展银行	shang hai pu dong fa zhan yin hang	7415
 上海浦东机场	shang hai pu dong ji chang	7285
@@ -344998,6 +345513,7 @@ sort: by_weight
 上海浦东新区金桥镇	shang hai pu dong xin qu jin qiao zhen	8
 上海浦东新区三林镇	shang hai pu dong xin qu san lin zhen	5
 上海浦东新区唐镇	shang hai pu dong xin qu tang zhen	7
+上海浦发银行	shang hai pu fa yin hang	111
 上海普天	shang hai pu tian	1
 上海汽车	shang hai qi che	12350
 上海期货交易所	shang hai qi huo jiao yi suo	6555
@@ -345136,6 +345652,7 @@ sort: by_weight
 上海疫情	shang hai yi qing	146
 上海医药	shang hai yi yao	4
 上海银行	shang hai yin hang	6675
+上海银行信用卡	shang hai yin hang xin yong ka	111
 上海音乐学院	shang hai yin yue xue yuan	6405
 上海应用技术学院	shang hai ying yong ji shu xue yuan	1345
 上海有	shang hai you	150
@@ -345871,6 +346388,7 @@ sort: by_weight
 上饶市	shang rao shi	17770
 上饶师范	shang rao shi fan	135
 上饶县	shang rao xian	2950
+上饶银行	shang rao yin hang	111
 上饶中院	shang rao zhong yuan	87
 伤热	shang re	111
 上热搜	shang re sou	9999
@@ -345884,6 +346402,7 @@ sort: by_weight
 上任后	shang ren hou	11090
 商人们	shang ren men	6685
 上任伊始	shang ren yi shi	2835
+商人银行	shang ren yin hang	111
 伤人员	shang ren yuan	33
 商人重利轻别离	shang ren zhong li qing bie li	17
 上肉	shang rou	2080
@@ -346494,6 +347013,7 @@ sort: by_weight
 上线时间	shang xian shi jian	13195
 赏贤使能	shang xian shi neng	1
 上线宣传片	shang xian xuan chuan pian	68
+上线银行存管	shang xian yin hang cun guan	111
 上弦月	shang xian yue	1705
 上香	shang xiang	10735
 上相	shang xiang	6730
@@ -346786,15 +347306,26 @@ sort: by_weight
 商业移民	shang ye yi min	3170
 商业银行	shang ye yin hang	241265
 商业银行次级债券发行管理办法	shang ye yin hang ci ji zhai quan fa xing guan li ban fa	185
+商业银行存款	shang ye yin hang cun kuan	111
+商业银行贷款	shang ye yin hang dai kuan	111
 商业银行贷款政策	shang ye yin hang dai kuan zheng ce	10
 商业银行法	shang ye yin hang fa	6649
 商业银行风险管理	shang ye yin hang feng xian guan li	543
+商业银行服务	shang ye yin hang fu wu	111
+商业银行柜台	shang ye yin hang gui tai	111
 商业银行柜台记账式国债交易管理办法	shang ye yin hang gui tai ji zhang shi guo zhai jiao yi guan li ban fa	18
 商业银行金融创新指引	shang ye yin hang jin rong chuang xin zhi yin	294
+商业银行经营	shang ye yin hang jing ying	111
+商业银行理财	shang ye yin hang li cai	111
+商业银行理财产品	shang ye yin hang li cai chan pin	111
 商业银行设立同城营业网点管理办法	shang ye yin hang she li tong cheng ying ye wang dian guan li ban fa	18
+商业银行网点	shang ye yin hang wang dian	111
+商业银行信贷	shang ye yin hang xin dai	111
 商业银行信贷文化	shang ye yin hang xin dai wen hua	4
 商业银行信息披露办法	shang ye yin hang xin xi pi lu ban fa	44
 商业银行信息披露暂行办法	shang ye yin hang xin xi pi lu zan xing ban fa	57
+商业银行业务	shang ye yin hang ye wu	111
+商业银行资本	shang ye yin hang zi ben	111
 商业应用	shang ye ying yong	7710
 商业英语	shang ye ying yu	860
 商业用房	shang ye yong fang	11635
@@ -346885,6 +347416,7 @@ sort: by_weight
 上瘾	shang yin	21895
 伤阴	shang yin	2730
 赏银	shang yin	1730
+上银行	shang yin hang	111
 上瘾了	shang yin le	3290
 上银幕	shang yin mu	270
 上映	shang ying	98620
@@ -347126,6 +347658,7 @@ sort: by_weight
 烧包女	shao bao nv	30
 烧杯	shao bei	12140
 烧贝壳	shao bei ke	103
+少比	shao bi	111
 烧槟子	shao bin zi	11
 烧饼	shao bing	24130
 哨兵	shao bing	18285
@@ -347823,6 +348356,7 @@ sort: by_weight
 绍兴县	shao xing xian	16575
 绍兴香糕	shao xing xiang gao	138
 绍兴一中	shao xing yi zhong	57
+绍兴银行	shao xing yin hang	111
 绍兴中	shao xing zhong	8
 绍兴中院	shao xing zhong yuan	87
 绍兴中专	shao xing zhong zhuan	3
@@ -347973,6 +348507,7 @@ sort: by_weight
 涉案金额	she an jin e	29534
 涉案人	she an ren	790
 涉案人员	she an ren yuan	8285
+涉案银行卡	she an yin hang ka	111
 涉案者	she an zhe	370
 射靶	she ba	480
 社坝	she ba	5
@@ -348723,6 +349258,7 @@ sort: by_weight
 社稷一戎衣	she ji yi rong yi	4
 设计艺术	she ji yi shu	8480
 设计意图	she ji yi tu	7720
+涉及银行	she ji yin hang	111
 设计硬点	she ji ying dian	3
 设计优化	she ji you hua	1655
 射击游戏	she ji you xi	827
@@ -348858,6 +349394,7 @@ sort: by_weight
 设立了	she li le	124570
 舍利塔	she li ta	4505
 设立学	she li xue	50
+设立银行	she li yin hang	111
 设立油污损害赔偿国际基金国际公约	she li you wu sun hai pei chang guo ji ji jin guo ji gong yue	2
 设立者	she li zhe	455
 舍利珠	she li zhu	10
@@ -350200,6 +350737,7 @@ sort: by_weight
 肾发育不良	shen fa yu bu liang	2
 肾发育不全	shen fa yu bu quan	2
 沈发藻	shen fa zao	1
+深发展银行	shen fa zhan yin hang	111
 神烦	shen fan	5555
 深翻	shen fan	40
 神帆安全网关堡垒机	shen fan an quan wang guan bao lei ji	87
@@ -350228,6 +350766,7 @@ sort: by_weight
 身份证复印件	shen fen zheng fu yin jian	61955
 身份证号	shen fen zheng hao	41305
 身份证号码	shen fen zheng hao ma	47145
+身份证和银行卡	shen fen zheng he yin hang ka	111
 身份证件	shen fen zheng jian	48160
 身份证件号	shen fen zheng jian hao	995
 身份证件号码	shen fen zheng jian hao ma	2460
@@ -350236,6 +350775,7 @@ sort: by_weight
 身份证明书	shen fen zheng ming shu	1490
 身份证识别	shen fen zheng shi bie	109
 身份证验证	shen fen zheng yan zheng	224
+身份证银行卡	shen fen zheng yin hang ka	111
 身份证重号	shen fen zheng zhong hao	845
 神风	shen feng	7200
 神峰	shen feng	1435
@@ -351655,6 +352195,7 @@ sort: by_weight
 深情眼	shen qing yan	137
 申请延期	shen qing yan qi	6660
 申请一下	shen qing yi xia	84
+申请银行贷款	shen qing yin hang dai kuan	111
 沈清源	shen qing yuan	167
 申请再审	shen qing zai shen	6090
 申请栈	shen qing zhan	132
@@ -352780,6 +353321,7 @@ sort: by_weight
 深圳罗湖	shen zhen luo hu	6365
 深圳迈瑞	shen zhen mai rui	1
 深圳能源	shen zhen neng yuan	1
+深圳农村商业银行	shen zhen nong cun shang ye yin hang	111
 深圳汽车大世界	shen zhen qi che da shi jie	83
 深圳奇迹	shen zhen qi ji	111
 深圳赛格	shen zhen sai ge	1890
@@ -352827,6 +353369,7 @@ sort: by_weight
 申真谞	shen zhen xu	111
 深圳盐田海鲜街	shen zhen yan tian hai xian jie	1
 深振业	shen zhen ye	1500
+深圳银行	shen zhen yin hang	111
 深圳站	shen zhen zhan	3090
 深甽镇	shen zhen zhen	42
 深圳证券	shen zhen zheng quan	2910
@@ -353007,6 +353550,7 @@ sort: by_weight
 圣保罗队	sheng bao luo dui	130
 圣保罗州	sheng bao luo zhou	750
 生爆盐煎肉	sheng bao yan jian rou	47
+盛宝银行	sheng bao yin hang	111
 圣杯	sheng bei	9480
 生悲	sheng bei	1360
 升本	sheng ben	1111
@@ -354079,6 +354623,7 @@ sort: by_weight
 圣经贤传	sheng jing xian zhuan	160
 省警校	sheng jing xiao	29
 圣经学	sheng jing xue	70
+盛京银行	sheng jing yin hang	111
 盛景园	sheng jing yuan	33
 生就	sheng jiu	26345
 省局	sheng ju	55655
@@ -354995,6 +355540,7 @@ sort: by_weight
 生态掩体	sheng tai yan ti	10
 生态遗传学	sheng tai yi chuan xue	1
 生态意识	sheng tai yi shi	1930
+生态银行	sheng tai yin hang	111
 生态园	sheng tai yuan	14120
 生态园林	sheng tai yuan lin	4470
 生态站	sheng tai zhan	660
@@ -357045,6 +357591,7 @@ sort: by_weight
 是典型	shi dian xing	34480
 试点性	shi dian xing	135
 十殿阎王	shi dian yan wang	440
+试点银行	shi dian yin hang	111
 试点与改革	shi dian yu gai ge	5
 十点钟	shi dian zhong	4955
 石雕	shi diao	40320
@@ -359041,6 +359588,7 @@ sort: by_weight
 时间已到	shi jian yi dao	1165
 世间已千年	shi jian yi qian nian	1
 实践意义	shi jian yi yi	5185
+时间银行	shi jian yin hang	111
 事件引擎	shi jian yin qing	78
 事件应急	shi jian ying ji	17985
 事件影响	shi jian ying xiang	2865
@@ -359342,6 +359890,9 @@ sort: by_weight
 世界一流	shi jie yi liu	53955
 世界银行	shi jie yin hang	36725
 世界银行贷款	shi jie yin hang dai kuan	3850
+世界银行行长	shi jie yin hang hang zhang	111
+世界银行集团	shi jie yin hang ji tuan	111
+世界银行数据	shi jie yin hang shu ju	111
 世界音乐	shi jie yin yue	3720
 世界油	shi jie you	23
 世界有你有我	shi jie you ni you wo	1
@@ -361009,6 +361560,7 @@ sort: by_weight
 食品药品	shi pin yao pin	52590
 食品药品监督	shi pin yao pin jian du	116840
 食品业	shi pin ye	4855
+食品银行	shi pin yin hang	111
 食品饮料	shi pin yin liao	28010
 视频音频	shi pin yin pin	3980
 食品用塑料制品及原材料卫生管理办法	shi pin yong su liao zhi pin ji yuan cai liao wei sheng guan li ban fa	48
@@ -361748,6 +362300,7 @@ sort: by_weight
 室上性心动过速	shi shang xing xin dong guo su	1325
 时尚轩	shi shang xuan	6
 市商业局	shi shang ye ju	775
+市商业银行	shi shang ye yin hang	111
 十觞亦不醉	shi shang yi bu zui	1
 世上英雄本无主	shi shang ying xiong ben wu zhu	1
 时尚元素	shi shang yuan su	10190
@@ -363170,6 +363723,7 @@ sort: by_weight
 食物需求	shi wu xu qiu	1111
 十五亿	shi wu yi	795
 十无一二	shi wu yi er	10
+食物银行	shi wu yin hang	111
 世无英雄	shi wu ying xiong	1180
 时无英雄	shi wu ying xiong	220
 食物营养	shi wu ying yang	3760
@@ -363245,6 +363799,7 @@ sort: by_weight
 实习医生	shi xi yi sheng	3865
 实习医师	shi xi yi shi	990
 实习医院	shi xi yi yuan	810
+实习银行	shi xi yin hang	111
 实习员	shi xi yuan	96
 实习者	shi xi zhe	390
 什袭珍藏	shi xi zhen cang	111
@@ -364442,6 +364997,7 @@ sort: by_weight
 使用颜色	shi yong yan se	1255
 使用钥匙	shi yong yao shi	490
 使用仪器	shi yong yi qi	1570
+使用银行卡	shi yong yin hang ka	111
 实用英语	shi yong ying yu	11850
 食用油	shi yong you	35650
 使拥有	shi yong you	600
@@ -366194,6 +366750,7 @@ sort: by_weight
 收购协议	shou gou xie yi	3860
 收购行为	shou gou xing wei	2950
 收购业	shou gou ye	770
+收购银行卡	shou gou yin hang ka	111
 收购员	shou gou yuan	225
 收购赃物	shou gou zang wu	190
 收购站	shou gou zhan	3530
@@ -366473,6 +367030,7 @@ sort: by_weight
 手机盒	shou ji he	500
 手机和弦	shou ji he xian	2475
 手机和弦铃声下载	shou ji he xian ling sheng xia zai	28
+手机和银行	shou ji he yin hang	111
 手机互联系统	shou ji hu lian xi tong	111
 手机话费	shou ji hua fei	3545
 收继婚	shou ji hun	146
@@ -366548,6 +367106,8 @@ sort: by_weight
 手机页面	shou ji ye mian	355
 收集一下	shou ji yi xia	86
 手机银行	shou ji yin hang	7005
+手机银行客户端	shou ji yin hang ke hu duan	111
+手机银行转账	shou ji yin hang zhuan zhang	111
 手机应用	shou ji ying yong	3251
 手机应用开发	shou ji ying yong kai fa	244
 手机用户	shou ji yong hu	49200
@@ -367567,6 +368127,7 @@ sort: by_weight
 受委托的	shou wei tuo de	9970
 受委托方	shou wei tuo fang	860
 受委托人	shou wei tuo ren	3860
+受委托银行	shou wei tuo yin hang	111
 首尾相继	shou wei xiang ji	111
 首尾相接	shou wei xiang jie	1385
 首尾相救	shou wei xiang jiu	1
@@ -369317,6 +369878,7 @@ sort: by_weight
 数据移动	shu ju yi dong	710
 数据依赖	shu ju yi lai	1037
 数据一致性	shu ju yi zhi xing	5315
+数据银行	shu ju yin hang	111
 数据引擎	shu ju yin qing	980
 数据隐私	shu ju yin si	200
 数据有效性	shu ju you xiao xing	689
@@ -370396,6 +370958,7 @@ sort: by_weight
 熟悉情况	shu xi qing kuang	2830
 熟悉业务	shu xi ye wu	4325
 梳洗一番	shu xi yi fan	415
+熟悉银行	shu xi yin hang	111
 属下	shu xia	56945
 树下	shu xia	51650
 数下	shu xia	4280
@@ -370733,6 +371296,7 @@ sort: by_weight
 属于我的	shu yu wo de	17640
 属于我们	shu yu wo men	14855
 鼠鱼衔科	shu yu xian ke	1
+属于银行	shu yu yin hang	111
 薯蓣皂苷	shu yu zao gan	2
 属于自己	shu yu zi ji	129375
 属予作文以记之	shu yu zuo wen yi ji zhi	3
@@ -370959,6 +371523,7 @@ sort: by_weight
 数字化空间	shu zi hua kong jian	45
 数字化生存	shu zi hua sheng cun	1940
 数字化仪	shu zi hua yi	48
+数字化银行	shu zi hua yin hang	111
 数字化直升机	shu zi hua zhi sheng ji	1
 数字货币	shu zi huo bi	392
 数字集成电路	shu zi ji cheng dian lu	91
@@ -371033,6 +371598,8 @@ sort: by_weight
 数字型	shu zi xing	4195
 数字序列	shu zi xu lie	565
 殊滋异味	shu zi yi wei	1
+数字银行	shu zi yin hang	111
+数字银行卡	shu zi yin hang ka	111
 数字音频	shu zi yin pin	13135
 数字音频光盘	shu zi yin pin guang pan	9999
 数字音响	shu zi yin xiang	915
@@ -371247,6 +371814,7 @@ sort: by_weight
 刷夜	shua ye	9999
 刷野	shua ye	1111
 刷一个	shua yi ge	340
+刷银行卡	shua yin hang ka	111
 耍阴谋	shua yin mou	565
 刷油漆	shua you qi	2540
 耍杂技	shua za ji	128
@@ -374885,6 +375453,7 @@ sort: by_weight
 顺德酒楼	shun de jiu lou	95
 顺德立交桥	shun de li jiao qiao	6
 舜德楼	shun de lou	3
+顺德农商银行	shun de nong shang yin hang	111
 顺德市	shun de shi	7810
 顺德糖厂	shun de tang chang	34
 顺德县	shun de xian	410
@@ -376284,6 +376853,7 @@ sort: by_weight
 四川双马	si chuan shuang ma	62
 四川双突围啮	si chuan shuang tu wei nie	1
 四川桃花水母	si chuan tao hua shui mu	25
+四川天府银行	si chuan tian fu yin hang	111
 四川驼花天牛	si chuan tuo hua tian niu	1
 四川外语学院	si chuan wai yu xue yuan	3875
 四川尾尺蛾	si chuan wei chi e	1
@@ -376297,6 +376867,7 @@ sort: by_weight
 四川旋木雀	si chuan xuan mu que	1
 四川扬琴	si chuan yang qin	120
 四川宜宾	si chuan yi bin	3065
+四川银行	si chuan yin hang	111
 四川音乐学院	si chuan yin yue xue yuan	5025
 四川英特信联合律师事务所	si chuan ying te xin lian he lv shi shi wu suo	4
 四川在线	si chuan zai xian	11590
@@ -376348,6 +376919,8 @@ sort: by_weight
 四大古都之一	si da gu du zhi yi	111
 四大国	si da guo	400
 四大国际会计师事务所	si da guo ji kuai ji shi shi wu suo	1
+四大国有商业银行	si da guo you shang ye yin hang	111
+四大国有银行	si da guo you yin hang	111
 四大海味	si da hai wei	9
 四大行	si da hang	1585
 四大家	si da jia	5010
@@ -376908,6 +377481,7 @@ sort: by_weight
 四国条约	si guo tiao yue	135
 四国细颚姬蜂	si guo xi e ji feng	1
 四国银行	si guo yin hang	30
+四国银行团	si guo yin hang tuan	111
 思国之安者	si guo zhi an zhe	16
 四海	si hai	77855
 死海	si hai	9855
@@ -378072,6 +378646,10 @@ sort: by_weight
 私人医院	si ren yi yuan	184
 四人一组	si ren yi zu	1165
 私人银行	si ren yin hang	4235
+私人银行部	si ren yin hang bu	111
+私人银行服务	si ren yin hang fu wu	111
+私人银行客户	si ren yin hang ke hu	111
+私人银行业务	si ren yin hang ye wu	111
 私人用车	si ren yong che	1180
 四人游	si ren you	332
 私人账户	si ren zhang hu	460
@@ -380862,6 +381440,7 @@ sort: by_weight
 苏格兰粗毛牧羊犬	su ge lan cu mao mu yang quan	9
 苏格兰玳瑁色猫	su ge lan dai mao se mao	1
 苏格兰梗	su ge lan geng	398
+苏格兰皇家银行	su ge lan huang jia yin hang	111
 苏格兰猎鹿狗	su ge lan lie lu gou	1
 苏格兰猎鹿犬	su ge lan lie lu quan	21
 苏格兰马鹿	su ge lan ma lu	4
@@ -381267,7 +381846,9 @@ sort: by_weight
 肃宁县	su ning xian	1790
 苏宁馨瑰园	su ning xin gui yuan	5
 苏宁雅瑰园	su ning ya gui yuan	1
+苏宁银行	su ning yin hang	111
 苏宁银河	su ning yin he	18
+苏农银行	su nong yin hang	111
 苏暖暖	su nuan nuan	164
 宿诺	su nuo	20
 素女	su nv	6135
@@ -381856,6 +382437,7 @@ sort: by_weight
 苏州网	su zhou wang	375
 宿州旺旺宠物保健院	su zhou wang wang chong wu bao jian yuan	1
 苏州疫情	su zhou yi qing	139
+苏州银行	su zhou yin hang	111
 苏州园林	su zhou yuan lin	7720
 苏州园林保护和管理条例	su zhou yuan lin bao hu he guan li tiao li	10
 宿主	su zhu	24460
@@ -383970,6 +384552,7 @@ sort: by_weight
 所属区域	suo shu qu yu	23640
 所述网站	suo shu wang zhan	68
 所熟悉	suo shu xi	21650
+所属银行	suo shu yin hang	111
 所属站	suo shu zhan	70
 所熟知	suo shu zhi	16400
 锁闩	suo shuan	225
@@ -384255,6 +384838,7 @@ sort: by_weight
 所有物	suo you wu	2610
 所有项	suo you xiang	3700
 所有信息	suo you xin xi	135095
+所有银行	suo you yin hang	111
 所有用户	suo you yong hu	30335
 所有站	suo you zhan	710
 所有账户	suo you zhang hu	144
@@ -385769,10 +386353,10 @@ sort: by_weight
 太爱你了	tai ai ni le	1100
 太爱他了	tai ai ta le	665
 太爱她了	tai ai ta le	605
-泰安	tai an	49045
 太暗	tai an	4295
-台安	tai an	3945
 太安	tai an	2645
+泰安	tai an	490
+# 台安	tai an	0
 泰安道	tai an dao	50
 泰安煎饼	tai an jian bing	64
 太安静了	tai an jing le	740
@@ -385789,6 +386373,7 @@ sort: by_weight
 泰安小区	tai an xiao qu	9
 太安逸了	tai an yi le	330
 泰安一中	tai an yi zhong	181
+泰安银行	tai an yin hang	111
 太安鱼	tai an yu	93
 太昂贵了	tai ang gui le	735
 太傲	tai ao	9999
@@ -386397,6 +386982,7 @@ sort: by_weight
 太过天真	tai guo tian zhen	158
 太过头了	tai guo tou le	350
 太过瘾	tai guo yin	100
+泰国银行	tai guo yin hang	111
 太过瘾了	tai guo yin le	770
 泰国游	tai guo you	915
 太过于	tai guo yu	15395
@@ -386935,6 +387521,7 @@ sort: by_weight
 太笼统了	tai long tong le	550
 抬龙头	tai long tou	113
 太龙药业	tai long yao ye	142
+泰隆银行	tai long yin hang	111
 胎漏	tai lou	11
 太露骨了	tai lou gu le	345
 太鲁阁	tai lu ge	1265
@@ -388463,6 +389050,7 @@ sort: by_weight
 台州市车管所	tai zhou shi che guan suo	4
 太舟坞	tai zhou wu	33
 太舟坞村	tai zhou wu cun	18
+台州银行	tai zhou yin hang	111
 台州中学	tai zhou zhong xue	10
 台州中院	tai zhou zhong yuan	87
 泰州中院	tai zhou zhong yuan	87
@@ -388517,6 +389105,7 @@ sort: by_weight
 太子务	tai zi wu	12
 太子洗马	tai zi xian ma	445
 太自信了	tai zi xin le	740
+台资银行	tai zi yin hang	111
 太子胤礽	tai zi yin reng	1
 太子峪环岛	tai zi yu huan dao	9
 太子峪环岛北	tai zi yu huan dao bei	5
@@ -390371,6 +390960,7 @@ sort: by_weight
 唐山市土地管理办法	tang shan shi tu di guan li ban fa	12
 唐山市中医院	tang shan shi zhong yi yuan	5
 唐山虾酱	tang shan xia jiang	1
+唐山银行	tang shan yin hang	111
 烫山芋	tang shan yu	215
 烫伤	tang shang	25495
 堂上	tang shang	15535
@@ -393553,6 +394143,7 @@ sort: by_weight
 提升能力	ti sheng neng li	3185
 提升品质	ti sheng pin zhi	1885
 提升修养	ti sheng xiu yang	200
+提升银行	ti sheng yin hang	111
 提升至	ti sheng zhi	33
 提升职位	ti sheng zhi wei	220
 提示	ti shi	50486
@@ -393743,6 +394334,7 @@ sort: by_weight
 提现车	ti xian che	127
 提现成功	ti xian cheng gong	189
 体现出	ti xian chu	110900
+提现到银行卡	ti xian dao yin hang ka	111
 体现了	ti xian le	348035
 提线木偶	ti xian mu ou	1395
 蹄闲三寻	ti xian san xun	1
@@ -394859,6 +395451,7 @@ sort: by_weight
 添加行	tian jia xing	1099
 添加颜色	tian jia yan se	300
 天价医药费	tian jia yi yao fei	750
+添加银行卡	tian jia yin hang ka	111
 天假因缘	tian jia yin yuan	1
 田家营	tian jia ying	1
 添加硬件	tian jia ying jian	278
@@ -394922,6 +395515,8 @@ sort: by_weight
 天津包子	tian jin bao zi	1011
 天津北	tian jin bei	2605
 天津宾馆	tian jin bin guan	373
+天津渤海银行	tian jin bo hai yin hang	111
+天津渤海银行女排	tian jin bo hai yin hang nv pai	111
 天津财经	tian jin cai jing	176
 天津大道	tian jin da dao	149
 天津大学	tian jin da xue	28035
@@ -394946,6 +395541,7 @@ sort: by_weight
 天津火腿肠	tian jin huo tui chang	12
 天津街	tian jin jie	104
 甜津津	tian jin jin	480
+天津金城银行	tian jin jin cheng yin hang	111
 天津津南	tian jin jin nan	187
 天津经济技术开发区	tian jin jing ji ji shu kai fa qu	290
 天津经济开发区	tian jin jing ji kai fa qu	17
@@ -394964,6 +395560,7 @@ sort: by_weight
 天津美术学院	tian jin mei shu xue yuan	3810
 天津南	tian jin nan	810
 天津宁河县芦台镇	tian jin ning he xian lu tai zhen	2
+天津农商银行	tian jin nong shang yin hang	111
 天津农学院	tian jin nong xue yuan	1010
 天津女排	tian jin nv pai	815
 天津普林	tian jin pu lin	7
@@ -395022,6 +395619,7 @@ sort: by_weight
 天津一汽	tian jin yi qi	29372
 天津一汽夏利汽车股份有限公司	tian jin yi qi xia li qi che gu fen you xian gong si	2
 天津疫情	tian jin yi qing	109
+天津银行	tian jin yin hang	111
 天津音乐学院	tian jin yin yue xue yuan	2165
 天津赢达信	tian jin ying da xin	87
 天津赢达信科技有限公司	tian jin ying da xin ke ji you xian gong si	87
@@ -400232,6 +400830,7 @@ sort: by_weight
 通过议案	tong guo yi an	385
 通过一下	tong guo yi xia	79
 通过以下	tong guo yi xia	66
+通过银行	tong guo yin hang	111
 通过邮件	tong guo you jian	13935
 通过邮局	tong guo you ju	18480
 通过者	tong guo zhe	6330
@@ -401778,6 +402377,7 @@ sort: by_weight
 同一家	tong yi jia	1080
 统一价格	tong yi jia ge	5325
 统一加速器	tong yi jia su qi	15
+同一家银行	tong yi jia yin hang	111
 同一间	tong yi jian	423
 统一建模语言	tong yi jian mo yu yan	854
 同意降价	tong yi jiang jia	85
@@ -403536,7 +404136,9 @@ sort: by_weight
 投资业	tou zi ye	2930
 投资意向	tou zi yi xiang	4880
 投资银行	tou zi yin hang	28845
+投资银行部	tou zi yin hang bu	111
 投资银行家	tou zi yin hang jia	4449
+投资银行业务	tou zi yin hang ye wu	111
 投资有道	tou zi you dao	2
 投资有限公司	tou zi you xian gong si	52325
 投资于	tou zi yu	36255
@@ -404025,6 +404627,7 @@ sort: by_weight
 土耳其咖啡	tu er qi ka fei	410
 土耳其人	tu er qi ren	3835
 土耳其首都安卡拉	tu er qi shou du an ka la	111
+土耳其瓦基弗银行	tu er qi wa ji fu yin hang	111
 土耳其温泉鱼	tu er qi wen quan yu	36
 土耳其蜥虎	tu er qi xi hu	1
 土耳其语	tu er qi yu	2460
@@ -405692,6 +406295,7 @@ sort: by_weight
 推动企业	tui dong qi ye	116
 推动下	tui dong xia	35245
 推动学	tui dong xue	1090
+推动银行	tui dong yin hang	111
 推动责任落实	tui dong ze ren luo shi	100
 推动者	tui dong zhe	16205
 推动着	tui dong zhe	15795
@@ -406670,6 +407274,7 @@ sort: by_weight
 托管商	tuo guan shang	3090
 托管数据	tuo guan shu ju	93
 托关系	tuo guan xi	3140
+托管银行	tuo guan yin hang	111
 托管制度	tuo guan zhi du	430
 脱光	tuo guang	8135
 脱光光	tuo guang guang	1210
@@ -407470,6 +408075,10 @@ sort: by_weight
 瓦灰	wa hui	9999
 袜机	wa ji	1830
 瓦脊	wa ji	440
+瓦基弗银行	wa ji fu yin hang	111
+瓦基弗银行队	wa ji fu yin hang dui	111
+瓦基弗银行俱乐部	wa ji fu yin hang ju le bu	111
+瓦基弗银行女排	wa ji fu yin hang nv pai	111
 瓦鸡陶犬	wa ji tao quan	1
 瓦加杜古	wa jia du gu	220
 瓦加瓦加	wa jia wa jia	163
@@ -408015,6 +408624,7 @@ sort: by_weight
 外国学生	wai guo xue sheng	12550
 外国医师来华短期行医暂行管理办法	wai guo yi shi lai hua duan qi xing yi zan xing guan li ban fa	17
 外国银行	wai guo yin hang	16510
+外国银行分行	wai guo yin hang fen hang	111
 外国游客	wai guo you ke	10015
 外国友人	wai guo you ren	5000
 外国语	wai guo yu	63885
@@ -408467,6 +409077,7 @@ sort: by_weight
 外商独资保险公司	wai shang du zi bao xian gong si	230
 外商独资经营	wai shang du zi jing ying	535
 外商独资企业	wai shang du zi qi ye	14470
+外商独资银行	wai shang du zi yin hang	111
 外上髁	wai shang ke	1
 外商投资	wai shang tou zi	127490
 外商投资产业指导目录	wai shang tou zi chan ye zhi dao mu lu	5181
@@ -408804,6 +409415,7 @@ sort: by_weight
 外资参股证券公司设立规则	wai zi can gu zheng quan gong si she li gui ze	555
 外资额	wai zi e	4125
 外资法	wai zi fa	500
+外资法人银行	wai zi fa ren yin hang	111
 外资公司	wai zi gong si	13905
 外资股	wai zi gu	10205
 外资机构	wai zi ji gou	4150
@@ -410243,6 +410855,7 @@ sort: by_weight
 完善现代企业制度	wan shan xian dai qi ye zhi du	1656
 完善性	wan shan xing	1715
 完善一下	wan shan yi xia	62
+完善银行	wan shan yin hang	111
 完善制度	wan shan zhi du	14305
 纨扇之捐	wan shan zhi juan	1
 完善自己	wan shan zi ji	150
@@ -412873,7 +413486,14 @@ sort: by_weight
 网上医院	wang shang yi yuan	1650
 网上银行	wang shang yin hang	66995
 网商银行	wang shang yin hang	21
+网上银行登录	wang shang yin hang deng lu	111
+网上银行付款	wang shang yin hang fu kuan	111
+网上银行服务	wang shang yin hang fu wu	111
+网上银行密码	wang shang yin hang mi ma	111
+网上银行业务	wang shang yin hang ye wu	111
 网上银行业务管理暂行办法	wang shang yin hang ye wu guan li zan xing ban fa	71
+网上银行支付	wang shang yin hang zhi fu	111
+网上银行转账	wang shang yin hang zhuan zhang	111
 网上营业厅	wang shang ying ye ting	2165
 网上游	wang shang you	20
 网上游戏	wang shang you xi	2000
@@ -414914,6 +415534,7 @@ sort: by_weight
 潍坊西路	wei fang xi lu	173
 潍坊新村	wei fang xin cun	36
 潍坊疫情	wei fang yi qing	118
+潍坊银行	wei fang yin hang	111
 为防止	wei fang zhi	54120
 为非	wei fei	98395
 位非	wei fei	898
@@ -415220,6 +415841,7 @@ sort: by_weight
 危害社会	wei hai she hui	13320
 危害社会治安	wei hai she hui zhi an	1155
 威海市	wei hai shi	28825
+威海市商业银行	wei hai shi shang ye yin hang	111
 危害税收征管罪	wei hai shui shou zheng guan zui	140
 威海卫	wei hai wei	3450
 威海卫之战	wei hai wei zhi zhan	185
@@ -415228,6 +415850,7 @@ sort: by_weight
 危害性大	wei hai xing da	680
 危害行为	wei hai xing wei	2490
 威海疫情	wei hai yi qing	187
+威海银行	wei hai yin hang	111
 危害因素	wei hai yin su	766
 微海圆水母	wei hai yuan shui mu	1
 危害指数	wei hai zhi shu	305
@@ -415372,6 +415995,7 @@ sort: by_weight
 威虎校尉	wei hu xiao wei	1
 维护信息	wei hu xin xi	1115
 维护性	wei hu xing	2530
+维护银行	wei hu yin hang	111
 维护员	wei hu yuan	3220
 维护站	wei hu zhan	485
 维护者	wei hu zhe	7895
@@ -415942,6 +416566,7 @@ sort: by_weight
 未来学	wei lai xue	825
 未来学家	wei lai xue jia	2060
 未来研究	wei lai yan jiu	700
+未来银行	wei lai yin hang	111
 未来站	wei lai zhan	187
 未来之翼	wei lai zhi yi	173
 未来中国	wei lai zhong guo	12505
@@ -418103,6 +418728,7 @@ sort: by_weight
 威信县	wei xin xian	1485
 微信小游戏	wei xin xiao you xi	136
 魏新翼	wei xin yi	187
+微信银行	wei xin yin hang	111
 微信硬件平台	wei xin ying jian ping tai	58
 微信营销	wei xin ying xiao	519
 微信游戏	wei xin you xi	70
@@ -418862,6 +419488,7 @@ sort: by_weight
 为中心	wei zhong xin	194200
 为中心的	wei zhong xin de	93535
 为重要	wei zhong yao	14020
+微众银行	wei zhong yin hang	111
 委中痈	wei zhong yong	1
 危中有机	wei zhong you ji	149
 胃中燥矢	wei zhong zao shi	1
@@ -421338,6 +421965,7 @@ sort: by_weight
 温州市区未成年人医疗保险办法	wen zhou shi qu wei cheng nian ren yi liao bao xian ban fa	2
 温州松糖	wen zhou song tang	1
 温州医学院	wen zhou yi xue yuan	4805
+温州银行	wen zhou yin hang	111
 温州职业技术学院	wen zhou zhi ye ji shu xue yuan	3355
 温州中学	wen zhou zhong xue	199
 文绉绉	wen zhou zhou	1965
@@ -421722,6 +422350,7 @@ sort: by_weight
 我不喜欢	wo bu xi huan	37565
 我不想	wo bu xiang	103280
 我不想错过	wo bu xiang cuo guo	153
+我不想和你	wo bu xiang he ni	111
 我不想看	wo bu xiang kan	121
 我不想念	wo bu xiang nian	1
 我不想去	wo bu xiang qu	3525
@@ -422137,6 +422766,7 @@ sort: by_weight
 我的意思	wo de yi si	21150
 我的意思是	wo de yi si shi	10545
 我的一天	wo de yi tian	100
+我的银行	wo de yin hang	111
 我的音乐	wo de yin yue	8785
 我的邮箱	wo de you xiang	22320
 我的愿望	wo de yuan wang	7770
@@ -423213,6 +423843,7 @@ sort: by_weight
 我们一家子	wo men yi jia zi	117
 我们一起	wo men yi qi	85570
 我们一起走	wo men yi qi zou	183
+我们银行	wo men yin hang	111
 我们应该	wo men ying gai	130490
 我们有	wo men you	194305
 我们有理由	wo men you li you	15695
@@ -425276,6 +425907,7 @@ sort: by_weight
 五大发展理念	wu da fa zhan li nian	9999
 无答复	wu da fu	135
 五大夫松	wu da fu song	111
+五大国有银行	wu da guo you yin hang	111
 五大湖	wu da hu	2020
 五大花园	wu da hua yuan	48
 吴大琨	wu da kun	4
@@ -425299,6 +425931,7 @@ sort: by_weight
 吴大维	wu da wei	93
 误打误撞	wu da wu zhuang	6500
 武打戏	wu da xi	154
+五大银行	wu da yin hang	111
 武打影片	wu da ying pian	110
 五大洲	wu da zhou	9895
 五代	wu dai	37730
@@ -426272,6 +426905,7 @@ sort: by_weight
 武汉理工大学	wu han li gong da xue	18435
 乌含凌波肌似雪	wu han ling bo ji si xue	1180
 武汉猫狮	wu han mao shi	8
+武汉农村商业银行	wu han nong cun shang ye yin hang	111
 武汉攀升鼎承	wu han pan sheng ding cheng	87
 武汉攀升鼎承科技有限公司	wu han pan sheng ding cheng ke ji you xian gong si	87
 武汉热干面	wu han re gan mian	416
@@ -426863,6 +427497,7 @@ sort: by_weight
 务江乡	wu jiang xiang	15
 婺江新村	wu jiang xin cun	3
 吾将曳尾于涂中	wu jiang ye wei yu tu zhong	2
+吴江银行	wu jiang yin hang	111
 乌江鱼	wu jiang yu	881
 无疆之寿	wu jiang zhi shou	1
 无疆之休	wu jiang zhi xiu	111
@@ -427835,6 +428470,7 @@ sort: by_weight
 乌鲁木齐县	wu lu mu qi xian	1620
 乌鲁木齐县法院	wu lu mu qi xian fa yuan	1
 乌鲁木齐医院	wu lu mu qi yi yuan	1
+乌鲁木齐银行	wu lu mu qi yin hang	111
 乌鲁木齐中路	wu lu mu qi zhong lu	31
 乌鲁木齐总医院	wu lu mu qi zong yi yuan	10
 五路桥	wu lu qiao	28
@@ -429911,6 +430547,7 @@ sort: by_weight
 无夕阳	wu xi yang	15
 五溪衣服共云山	wu xi yi fu gong yun shan	1
 无锡疫情	wu xi yi qing	141
+无锡银行	wu xi yin hang	111
 无吸引力	wu xi yin li	265
 吴熙载	wu xi zai	3
 无锡中院	wu xi zhong yuan	87
@@ -430792,6 +431429,7 @@ sort: by_weight
 呜喑叱咤	wu yin chi zha	111
 无因管理	wu yin guan li	3565
 无因管理及相关债之制度研究	wu yin guan li ji xiang guan zhai zhi zhi du yan jiu	1
+无银行	wu yin hang	111
 无印痕	wu yin hen	155
 午阴嘉树清圆	wu yin jia shu qing yuan	4
 芜音累气	wu yin lei qi	1
@@ -431624,6 +432262,7 @@ sort: by_weight
 西安文理学院	xi an wen li xue yuan	327
 西安一码通	xi an yi ma tong	183
 西安疫情	xi an yi qing	174
+西安银行	xi an yin hang	111
 西安油酥饼	xi an you su bing	4
 溪岸圆腹蛛	xi an yuan fu zhu	1
 西安中学	xi an zhong xue	209
@@ -431691,6 +432330,7 @@ sort: by_weight
 西班牙舞	xi ban ya wu	480
 西班牙喜鹊鸽	xi ban ya xi que ge	1
 西班牙小鱥	xi ban ya xiao gui	1
+西班牙银行	xi ban ya yin hang	111
 西班牙语	xi ban ya yu	36715
 西班牙指示犬	xi ban ya zhi shi quan	9
 戏班子	xi ban zi	2055
@@ -433424,6 +434064,7 @@ sort: by_weight
 希腊文明	xi la wen ming	1025
 希腊雪花粥	xi la xue hua zhou	4
 希腊艺术	xi la yi shu	235
+希腊银行	xi la yin hang	111
 希腊语	xi la yu	7770
 希腊字符	xi la zi fu	87
 希腊字母	xi la zi mu	1270
@@ -434424,6 +435065,7 @@ sort: by_weight
 溪上青青草	xi shang qing qing cao	5
 西上太白峰	xi shang tai bai feng	1
 膝上王文度	xi shang wang wen du	1
+锡商银行	xi shang yin hang	111
 西上园	xi shang yuan	8
 西上园小区	xi shang yuan xiao qu	8
 席上之珍	xi shang zhi zhen	111
@@ -434739,12 +435381,14 @@ sort: by_weight
 西太平	xi tai ping	42
 西太平街社区	xi tai ping jie she qu	1
 西太平洋	xi tai ping yang	9120
+西太平洋银行	xi tai ping yang yin hang	111
 西太平庄	xi tai ping zhuang	4
 西太平庄村	xi tai ping zhuang cun	2
 西酞普兰	xi tai pu lan	5
 西台恸哭	xi tai tong ku	111
 西台痛哭	xi tai tong ku	111
 西台下村	xi tai xia cun	3
+西太银行	xi tai yin hang	111
 戏台子	xi tai zi	265
 细谈	xi tan	3010
 戏谈	xi tan	210
@@ -435109,6 +435753,7 @@ sort: by_weight
 系统中	xi tong zhong	252515
 系统中断	xi tong zhong duan	700
 系统中断请求	xi tong zhong duan qing qiu	19
+系统重要性银行	xi tong zhong yao xing yin hang	111
 系统注册表	xi tong zhu ce biao	4990
 系统转换	xi tong zhuan huan	785
 系统状况	xi tong zhuang kuang	328
@@ -435241,6 +435886,7 @@ sort: by_weight
 希望新的一年	xi wang xin de yi nian	100
 希望新的一年里	xi wang xin de yi nian li	100
 希望以后	xi wang yi hou	15930
+希望银行	xi wang yin hang	111
 希望有	xi wang you	52300
 希望有奇迹	xi wang you qi ji	111
 希望在人间	xi wang zai ren jian	155
@@ -436106,6 +436752,7 @@ sort: by_weight
 西藏洼瓣花	xi zang wa ban hua	1
 西藏行	xi zang xing	1875
 西藏药业	xi zang yao ye	156
+西藏银行	xi zang yin hang	111
 西藏蝇犬	xi zang ying quan	1
 西藏毡腹茧蜂	xi zang zhan fu jian feng	1
 西藏中路	xi zang zhong lu	194
@@ -437186,6 +437833,7 @@ sort: by_weight
 下了最后通牒	xia le zui hou tong die	4560
 虾类	xia lei	3565
 夏磊	xia lei	1
+瞎嘞嘞	xia lei lei	1111
 下冷冻	xia leng dong	340
 夏利	xia li	36415
 下例	xia li	7095
@@ -438857,6 +439505,7 @@ sort: by_weight
 现代医学	xian dai yi xue	30005
 现代医学模式	xian dai yi xue mo shi	37
 现代意义	xian dai yi yi	6310
+现代银行	xian dai yin hang	111
 现代营销	xian dai ying xiao	9950
 现代英语	xian dai ying yu	1620
 现代优化算法	xian dai you hua suan fa	14
@@ -439518,12 +440167,15 @@ sort: by_weight
 现金管理	xian jin guan li	8590
 现金管理暂行条例	xian jin guan li zan xing tiao li	413
 先进国家	xian jin guo jia	11200
+现金和银行存款	xian jin he yin hang cun kuan	111
+现金和银行卡	xian jin he yin hang ka	111
 先进后出	xian jin hou chu	5891
 先近后远	xian jin hou yuan	43
 先进化	xian jin hua	375
 先进技术	xian jin ji shu	117445
 先进集体	xian jin ji ti	79825
 先进机型	xian jin ji xing	320
+现金及银行存款	xian jin ji yin hang cun kuan	111
 现金价格	xian jin jia ge	160
 现金价值	xian jin jia zhi	13495
 现金交易	xian jin jiao yi	8705
@@ -439570,6 +440222,7 @@ sort: by_weight
 先进性别文化	xian jin xing bie wen hua	55
 先进性教育	xian jin xing jiao yu	100495
 先进性教育活动	xian jin xing jiao yu huo dong	362775
+现金银行	xian jin yin hang	111
 现金余额	xian jin yu e	1610
 先进于礼乐	xian jin yu li yue	1
 咸金枣	xian jin zao	13
@@ -439600,6 +440253,7 @@ sort: by_weight
 县经济技术开发区	xian jing ji ji shu kai fa qu	6
 现经审查	xian jing shen cha	5
 陷阱系	xian jing xi	3
+仙境银行	xian jing yin hang	111
 现就	xian jiu	69190
 先就	xian jiu	10930
 先救	xian jiu	5795
@@ -441750,6 +442404,7 @@ sort: by_weight
 想不想	xiang bu xiang	13070
 像不像	xiang bu xiang	5320
 香不香	xiang bu xiang	415
+想不想和	xiang bu xiang he	111
 想不想去	xiang bu xiang qu	12
 想不想我	xiang bu xiang wo	290
 降不住	xiang bu zhu	90
@@ -441924,6 +442579,7 @@ sort: by_weight
 乡村女教师	xiang cun nv jiao shi	870
 乡村人口	xiang cun ren kou	2680
 乡村赛马场	xiang cun sai ma chang	4
+乡村商业银行	xiang cun shang ye yin hang	111
 乡村生活	xiang cun sheng huo	3560
 乡村树	xiang cun shu	5
 乡村四季	xiang cun si ji	8
@@ -442366,6 +443022,10 @@ sort: by_weight
 香港学	xiang gang xue	70
 香港疫情	xiang gang yi qing	188
 香港艺人	xiang gang yi ren	1965
+香港银行	xiang gang yin hang	111
+香港银行公会	xiang gang yin hang gong hui	111
+香港银行开户	xiang gang yin hang kai hu	111
+香港银行账户	xiang gang yin hang zhang hu	111
 香港游	xiang gang you	3620
 香港仔	xiang gang zai	3165
 香港政府	xiang gang zheng fu	8760
@@ -442509,6 +443169,7 @@ sort: by_weight
 相关休戚	xiang guan xiu qi	111
 相关学科基础	xiang guan xue ke ji chu	13
 相关业者	xiang guan ye zhe	390
+相关银行	xiang guan yin hang	111
 相关应变	xiang guan ying bian	5
 相关语	xiang guan yu	175
 相关阅读	xiang guan yue du	145
@@ -444675,6 +445336,11 @@ sort: by_weight
 相因	xiang yin	383
 # 响音	xiang yin	0
 向银行	xiang yin hang	28510
+像银行	xiang yin hang	111
+向银行贷款	xiang yin hang dai kuan	111
+向银行借款	xiang yin hang jie kuan	111
+向银行借钱	xiang yin hang jie qian	111
+向银行提供	xiang yin hang ti gong	111
 乡饮酒礼	xiang yin jiu li	285
 翔殷路	xiang yin lu	393
 向银路	xiang yin lu	4
@@ -444968,6 +445634,7 @@ sort: by_weight
 向中心	xiang zhong xin	4770
 乡中心	xiang zhong xin	985
 向中央	xiang zhong yang	12855
+向中央银行借款	xiang zhong yang yin hang jie kuan	111
 香洲	xiang zhou	22100
 象州	xiang zhou	1465
 香州	xiang zhou	510
@@ -447369,7 +448036,10 @@ sort: by_weight
 效力终止	xiao li zhong zhi	853
 小李庄	xiao li zhuang	99
 小李子	xiao li zi	3660
-小梨子	xiao li zi	1140
+小例子	xiao li zi	222
+小粒子	xiao li zi	111
+小栗子	xiao li zi	2
+小梨子	xiao li zi	2
 笑脸	xiao lian	82645
 小脸	xiao lian	31250
 小莲	xiao lian	6890
@@ -449452,6 +450122,7 @@ sort: by_weight
 萧萧梧叶送寒声	xiao xiao wu ye song han sheng	3
 小小项目	xiao xiao xiang mu	23
 笑笑笑	xiao xiao xiao	630
+小小银行家	xiao xiao yin hang jia	111
 肖小勇	xiao xiao yong	109
 小小勇者	xiao xiao yong zhe	149
 小小优趣	xiao xiao you qu	144
@@ -449598,6 +450269,7 @@ sort: by_weight
 小型雪纳瑞犬	xiao xing xue na rui quan	14
 晓行夜宿	xiao xing ye su	590
 晓行夜住	xiao xing ye zhu	111
+小型银行	xiao xing yin hang	111
 小型印加无毛犬	xiao xing yin jia wu mao quan	1
 小星萤	xiao xing ying	1
 小型战船	xiao xing zhan chuan	45
@@ -451506,6 +452178,7 @@ sort: by_weight
 协调小组	xie tiao xiao zu	18845
 协调性	xie tiao xing	23615
 协调一致	xie tiao yi zhi	13690
+协调银行	xie tiao yin hang	111
 协调员	xie tiao yuan	5865
 楔条缘花天牛	xie tiao yuan hua tian niu	1
 协调运动	xie tiao yun dong	50
@@ -451991,6 +452664,7 @@ sort: by_weight
 协助任务	xie zhu ren wu	175
 协助下	xie zhu xia	19470
 蟹蛛亚科	xie zhu ya ke	1
+协助银行	xie zhu yin hang	111
 协助者	xie zhu zhe	1370
 协助执行	xie zhu zhi xing	6215
 协助执行通知书	xie zhu zhi xing tong zhi shu	5160
@@ -453643,6 +454317,7 @@ sort: by_weight
 新加坡沙群海葵	xin jia po sha qun hai kui	1
 新加坡丝鰕虎鱼	xin jia po si xia hu yu	1
 新加坡刑法	xin jia po xing fa	29
+新加坡银行	xin jia po yin hang	111
 新加坡元	xin jia po yuan	2350
 新加坡掌扇贝	xin jia po zhang shan bei	1
 新加坡政府	xin jia po zheng fu	6805
@@ -453972,6 +454647,7 @@ sort: by_weight
 新凯	xin kai	51033
 新开案	xin kai an	64
 新开发的	xin kai fa de	23185
+新开发银行	xin kai fa yin hang	111
 新开放	xin kai fang	1410
 新开工	xin kai gong	28075
 新开工项目	xin kai gong xiang mu	16577
@@ -455433,6 +456109,7 @@ sort: by_weight
 欣网视讯	xin wang shi xun	12500
 新网页	xin wang ye	1460
 心往一处想	xin wang yi chu xiang	3520
+新网银行	xin wang yin hang	111
 新网游	xin wang you	1355
 新网友	xin wang you	910
 新网址	xin wang zhi	1055
@@ -456309,6 +456986,7 @@ sort: by_weight
 新义州	xin yi zhou	965
 心音	xin yin	6095
 心印	xin yin	4810
+新银行	xin yin hang	111
 新银红球	xin yin hong qiu	1
 新引擎	xin yin qing	180
 心音图	xin yin tu	1
@@ -457396,6 +458074,7 @@ sort: by_weight
 幸福城	xing fu cheng	339
 幸福成本	xing fu cheng ben	2
 幸福村	xing fu cun	2160
+兴福村镇银行	xing fu cun zhen yin hang	111
 幸福大街	xing fu da jie	296
 幸福大酒店	xing fu da jiu dian	4
 幸福道	xing fu dao	18
@@ -458042,7 +458721,7 @@ sort: by_weight
 擤了擤鼻涕	xing le xing bi ti	1185
 行乐须及春	xing le xu ji chun	2
 行嘞	xing lei	9999
-姓雷	xing lei	785
+姓雷	xing lei	1
 行雷闪电	xing lei shan dian	108
 姓冷	xing leng	270
 性冷淡	xing leng dan	19360
@@ -458918,6 +459597,7 @@ sort: by_weight
 姓太叔	xing tai shu	1
 邢台县	xing tai xian	1460
 形态学	xing tai xue	6945
+邢台银行	xing tai yin hang	111
 邢台轧辊	xing tai zha gun	12500
 邢台中院	xing tai zhong yuan	87
 兴叹	xing tan	10720
@@ -459361,6 +460041,9 @@ sort: by_weight
 星野遥	xing ye yao	6666
 兴业银行	xing ye yin hang	28245
 兴业银行个人消费贷款	xing ye yin hang ge ren xiao fei dai kuan	6
+兴业银行上海分行	xing ye yin hang shang hai fen hang	111
+兴业银行信用卡	xing ye yin hang xin yong ka	111
+兴业银行郑州分行	xing ye yin hang zheng zhou fen hang	111
 星野英一	xing ye ying yi	92
 兴业中	xing ye zhong	21
 兴业中路	xing ye zhong lu	4
@@ -459561,6 +460244,7 @@ sort: by_weight
 姓湛	xing zhan	35
 星战前夜	xing zhan qian ye	120
 星战前传	xing zhan qian zhuan	350
+星展银行	xing zhan yin hang	111
 姓张	xing zhang	10650
 姓章	xing zhang	260
 性障碍	xing zhang ai	2500
@@ -462065,6 +462749,8 @@ sort: by_weight
 虚拟演播室	xu ni yan bo shi	930
 虚拟摇杆	xu ni yao gan	88
 虚拟仪器	xu ni yi qi	5545
+虚拟银行	xu ni yin hang	111
+虚拟银行牌照	xu ni yin hang pai zhao	111
 虚拟用户	xu ni yong hu	1398
 虚拟语气	xu ni yu qi	5085
 虚拟战士	xu ni zhan shi	4
@@ -463779,6 +464465,7 @@ sort: by_weight
 选择行为	xuan ze xing wei	905
 选择性注意	xuan ze xing zhu yi	9
 选择压力	xuan ze ya li	30
+选择银行	xuan ze yin hang	111
 选择者	xuan ze zhe	870
 选择指数	xuan ze zhi shu	32
 选择专业	xuan ze zhuan ye	9140
@@ -464099,6 +464786,7 @@ sort: by_weight
 雪纷飞	xue fen fei	900
 学分绩点	xue fen ji dian	116
 学分数	xue fen shu	2680
+学分银行	xue fen yin hang	111
 学分制	xue fen zhi	23670
 学风	xue feng	55815
 雪峰	xue feng	37110
@@ -467717,6 +468405,8 @@ sort: by_weight
 亚洲一哥	ya zhou yi ge	154
 亚洲一流	ya zhou yi liu	113
 亚洲艺术公园	ya zhou yi shu gong yuan	29
+亚洲银行	ya zhou yin hang	111
+亚洲银行家	ya zhou yin hang jia	111
 亚洲雨林黑蝎	ya zhou yu lin hei xie	1
 亚洲运动会	ya zhou yun dong hui	915
 亚洲之光	ya zhou zhi guang	163
@@ -470438,6 +471128,7 @@ sort: by_weight
 严泰雄	yan tai xiong	585
 烟台疫情	yan tai yi qing	165
 烟台异手水母	yan tai yi shou shui mu	1
+烟台银行	yan tai yin hang	111
 言谈	yan tan	14830
 雁滩	yan tan	2170
 岩滩	yan tan	975
@@ -470867,6 +471558,7 @@ sort: by_weight
 烟叶税	yan ye shui	131
 烟叶税暂行条例	yan ye shui zan xing tiao li	107
 盐野义	yan ye yi	126
+盐业银行	yan ye yin hang	111
 演绎	yan yi	187695
 演艺	yan yi	68995
 演义	yan yi	24180
@@ -479496,6 +480188,7 @@ sort: by_weight
 意大利调料	yi da li tiao liao	6
 意大利文	yi da li wen	31
 意大利小松饼	yi da li xiao song bing	1
+意大利银行	yi da li yin hang	111
 意大利语	yi da li yu	20125
 意大利战争	yi da li zhan zheng	75
 意大利之夏	yi da li zhi xia	16
@@ -480130,6 +480823,7 @@ sort: by_weight
 一动一言	yi dong yi yan	1
 一动一止	yi dong yi zhi	2
 移动抑制因子	yi dong yi zhi yin zi	1
+移动银行	yi dong yin hang	111
 移动硬盘	yi dong ying pan	38185
 移动营销	yi dong ying xiao	190
 移动应用	yi dong ying yong	7642
@@ -482084,6 +482778,7 @@ sort: by_weight
 一挤一眨	yi ji yi zha	8
 异基因	yi ji yin	70
 异基因骨髓移植	yi ji yin gu sui yi zhi	15
+以及银行卡	yi ji yin hang ka	111
 以及由	yi ji you	15650
 乙基愈创木酚	yi ji yu chuang mu fen	6
 一级预防	yi ji yu fang	340
@@ -482182,6 +482877,7 @@ sort: by_weight
 一家一计	yi jia yi ji	111
 一甲一名	yi jia yi ming	125
 一家一姓	yi jia yi xing	23
+一家银行	yi jia yin hang	111
 依家有喜	yi jia you xi	23
 易家院子	yi jia yuan zi	1
 一价值	yi jia zhi	35
@@ -483258,6 +483954,7 @@ sort: by_weight
 一狼一狈	yi lang yi bei	30
 伊朗伊斯兰共和国	yi lang yi si lan gong he guo	9999
 伊朗语	yi lang yu	330
+伊朗中央银行	yi lang zhong yang yin hang	111
 伊朗总统	yi lang zong tong	3425
 一老	yi lao	7280
 易老	yi lao	7195
@@ -483453,6 +484150,7 @@ sort: by_weight
 一联系	yi lian xi	111
 依莲轩	yi lian xuan	92
 一连一排	yi lian yi pai	90
+亿联银行	yi lian yin hang	111
 一帘幽梦	yi lian you meng	3355
 依恋着	yi lian zhe	905
 易联众	yi lian zhong	7
@@ -489260,6 +489958,7 @@ sort: by_weight
 一张一翕	yi zhang yi xi	240
 一张一张	yi zhang yi zhang	4400
 一章一章	yi zhang yi zhang	365
+一张银行卡	yi zhang yin hang ka	111
 一张张	yi zhang zhang	26140
 一张照片	yi zhang zhao pian	19870
 依仗着	yi zhang zhe	795
@@ -490372,6 +491071,8 @@ sort: by_weight
 银川市	yin chuan shi	37865
 银川市城市规划管理规定	yin chuan shi cheng shi gui hua guan li gui ding	2
 银床淅沥青梧老	yin chuang xi li qing wu lao	1
+阴吹	yin chui	3333
+因吹	yin chui	111
 阴唇	yin chun	18545
 殷纯	yin chun	1
 印戳	yin chuo	865
@@ -490468,6 +491169,7 @@ sort: by_weight
 阴道炎	yin dao yan	35840
 引导页	yin dao ye	1164
 引导页面	yin dao ye mian	477
+引导银行	yin dao yin hang	111
 引导员	yin dao yuan	1440
 阴道再造术	yin dao zai zao shu	2
 引导者	yin dao zhe	8530
@@ -490553,6 +491255,7 @@ sort: by_weight
 印度长小蠹	yin du chang xiao du	1
 印度齿口鱼	yin du chi kou yu	1
 印度池鹭	yin du chi lu	1
+印度储备银行	yin du chu bei yin hang	111
 印度次大陆	yin du ci da lu	206
 印度大麻	yin du da ma	22
 印度低线𫚭	yin du di xian lie	1
@@ -490715,6 +491418,7 @@ sort: by_weight
 印度裔	yin du yi	196
 印度异齿喉盘鱼	yin du yi chi hou pan yu	1
 印度疫情	yin du yi qing	180
+印度银行	yin du yin hang	111
 印度印西亚长尾须	yin du yin xi ya chang wei xu	1
 印度圆角蝉	yin du yuan jiao chan	1
 印度园蛛	yin du yuan zhu	1
@@ -490922,110 +491626,517 @@ sort: by_weight
 银行	yin hang	500769
 引航	yin hang	9999
 引吭	yin hang	560
+银行按揭	yin hang an jie	111
+银行按揭贷款	yin hang an jie dai kuan	111
+银行安全	yin hang an quan	111
+银行办	yin hang ban	111
+银行办公家具	yin hang ban gong jia ju	111
+银行办卡	yin hang ban ka	111
+银行板块	yin hang ban kuai	111
+银行办理	yin hang ban li	111
+银行办理业务	yin hang ban li ye wu	111
+银行办事	yin hang ban shi	111
+银行帮	yin hang bang	111
+银行保安	yin hang bao an	111
 银行保函	yin hang bao han	2730
 银行保险	yin hang bao xian	4450
+银行保险机构	yin hang bao xian ji gou	111
+银行保险监管	yin hang bao xian jian guan	111
+银行保险业	yin hang bao xian ye	111
 引吭悲歌	yin hang bei ge	2
 银行本票	yin hang ben piao	3810
+银行笔试	yin hang bi shi	111
+银行表内	yin hang biao nei	111
+银行表示	yin hang biao shi	111
 银行部	yin hang bu	3900
+银行不良	yin hang bu liang	111
+银行不良贷款	yin hang bu liang dai kuan	111
+银行不良资产	yin hang bu liang zi chan	111
+银行部门	yin hang bu men	111
+银行查询	yin hang cha xun	111
+银行产品	yin hang chan pin	111
 银行承兑	yin hang cheng dui	1530
 银行承兑汇票	yin hang cheng dui hui piao	16590
+银行承兑汇票贴现	yin hang cheng dui hui piao tie xian	111
+银行抽贷	yin hang chou dai	111
+银行储蓄	yin hang chu xu	111
+银行储蓄卡	yin hang chu xu ka	111
+银行窗口	yin hang chuang kou	111
+银行创新	yin hang chuang xin	111
+银行春招	yin hang chun zhao	111
+银行从业	yin hang cong ye	111
+银行从业考试	yin hang cong ye kao shi	111
+银行从业人员	yin hang cong ye ren yuan	111
+银行从业者	yin hang cong ye zhe	111
+银行从业资格	yin hang cong ye zi ge	111
+银行从业资格考试	yin hang cong ye zi ge kao shi	111
+银行从业资格证	yin hang cong ye zi ge zheng	111
+银行从业资格证书	yin hang cong ye zi ge zheng shu	111
+银行催收	yin hang cui shou	111
+银行存单	yin hang cun dan	111
+银行存管	yin hang cun guan	111
 银行存款	yin hang cun kuan	94460
+银行存款产品	yin hang cun kuan chan pin	111
 银行存款法	yin hang cun kuan fa	5
 银行存款利率	yin hang cun kuan li lv	2605
+银行存款利息	yin hang cun kuan li xi	111
+银行存款日记账	yin hang cun kuan ri ji zhang	111
+银行存款余额	yin hang cun kuan yu e	111
+银行存款账户	yin hang cun kuan zhang hu	111
+银行存款证明	yin hang cun kuan zheng ming	111
+银行存钱	yin hang cun qian	111
 银行存折	yin hang cun zhe	2285
+银行大额存单	yin hang da e cun dan	111
+银行大劫案	yin hang da jie an	111
+银行大楼	yin hang da lou	111
+银行大厦	yin hang da sha	111
+银行大堂	yin hang da tang	111
+银行大堂经理	yin hang da tang jing li	111
+银行大厅	yin hang da ting	111
+银行贷	yin hang dai	111
+银行代发	yin hang dai fa	111
+银行代发工资	yin hang dai fa gong zi	111
+银行代扣	yin hang dai kou	111
 银行贷款	yin hang dai kuan	62580
+银行贷款额度	yin hang dai kuan e du	111
+银行贷款基准利率	yin hang dai kuan ji zhun li lv	111
 银行贷款利率	yin hang dai kuan li lv	2005
+银行贷款利息	yin hang dai kuan li xi	111
+银行贷款业务	yin hang dai kuan ye wu	111
+银行代理	yin hang dai li	111
+银行代码	yin hang dai ma	111
+银行代销	yin hang dai xiao	111
 银行担保	yin hang dan bao	2010
+银行单据	yin hang dan ju	111
 银行倒闭	yin hang dao bi	730
+银行的	yin hang de	111
+银行的存款	yin hang de cun kuan	111
+银行的贷款	yin hang de dai kuan	111
+银行的风险	yin hang de feng xian	111
+银行的工作	yin hang de gong zuo	111
+银行的工作人员	yin hang de gong zuo ren yuan	111
+银行的客服	yin hang de ke fu	111
+银行的客服电话	yin hang de ke fu dian hua	111
+银行的理财	yin hang de li cai	111
+银行的理财产品	yin hang de li cai chan pin	111
+银行的利率	yin hang de li lv	111
+银行的利润	yin hang de li run	111
+银行的利息	yin hang de li xi	111
+银行的钱	yin hang de qian	111
+银行的业务	yin hang de ye wu	111
+银行的银行	yin hang de yin hang	111
+银行的资金	yin hang de zi jin	111
+银行等部门	yin hang deng bu men	111
+银行等行业	yin hang deng hang ye	111
+银行等机构	yin hang deng ji gou	111
+银行等金融机构	yin hang deng jin rong ji gou	111
+银行地产	yin hang di chan	111
 银行抵消权	yin hang di xiao quan	15
+银行抵押	yin hang di ya	111
+银行抵押贷款	yin hang di ya dai kuan	111
+银行电话	yin hang dian hua	111
 银行电汇	yin hang dian hui	15495
 银行调运外币现钞进出境管理规定	yin hang diao yun wai bi xian chao jin chu jing guan li gui ding	7
+银行定存	yin hang ding cun	111
+银行定期	yin hang ding qi	111
+银行定期存款	yin hang ding qi cun kuan	111
+银行定期存款利率	yin hang ding qi cun kuan li lv	111
+银行冻结	yin hang dong jie	111
+银行董事长	yin hang dong shi zhang	111
+银行端	yin hang duan	111
+银行短信	yin hang duan xin	111
+银行队	yin hang dui	111
+银行对公账户	yin hang dui gong zhang hu	111
+银行对接	yin hang dui jie	111
+银行对客户	yin hang dui ke hu	111
+银行对账	yin hang dui zhang	111
+银行对账单	yin hang dui zhang dan	111
 银行法	yin hang fa	4915
+银行发放	yin hang fa fang	111
+银行发放贷款	yin hang fa fang dai kuan	111
 银行法律基础知识	yin hang fa lv ji chu zhi shi	3
 银行法律与业务	yin hang fa lv yu ye wu	14
+银行发行	yin hang fa xing	111
+银行房	yin hang fang	111
+银行方	yin hang fang	111
+银行房贷	yin hang fang dai	111
+银行放贷	yin hang fang dai	111
+银行房贷利率	yin hang fang dai li lv	111
+银行放款	yin hang fang kuan	111
+银行方面	yin hang fang mian	111
+银行费用	yin hang fei yong	111
+银行分	yin hang fen	111
 银行分行	yin hang fen hang	2360
+银行分期	yin hang fen qi	111
+银行分支机构	yin hang fen zhi ji gou	111
+银行风控	yin hang feng kong	111
+银行风险	yin hang feng xian	111
+银行副行长	yin hang fu hang zhang	111
+银行付款	yin hang fu kuan	111
 银行服务	yin hang fu wu	6155
+银行负责人	yin hang fu ze ren	111
 银行负债	yin hang fu zhai	545
+银行盖章	yin hang gai zhang	111
 引吭高唱	yin hang gao chang	7
 引吭高歌	yin hang gao ge	2720
+银行高管	yin hang gao guan	111
 引吭高声	yin hang gao sheng	1
+银行个人	yin hang ge ren	111
+银行工资流水	yin hang gong zi liu shui	111
 银行工作	yin hang gong zuo	5460
 银行工作人员	yin hang gong zuo ren yuan	4320
+银行狗	yin hang gou	111
 银行股	yin hang gu	24405
+银行股大涨	yin hang gu da zhang	111
+银行股东	yin hang gu dong	111
+银行股份	yin hang gu fen	111
+银行股估值	yin hang gu gu zhi	111
+银行股票	yin hang gu piao	111
+银行股权	yin hang gu quan	111
+银行关闭	yin hang guan bi	111
+银行官方	yin hang guan fang	111
 银行管理	yin hang guan li	1
+银行官网	yin hang guan wang	111
+银行规定	yin hang gui ding	111
+银行柜面	yin hang gui mian	111
+银行柜台	yin hang gui tai	111
+银行柜台办理	yin hang gui tai ban li	111
+银行柜员	yin hang gui yuan	111
 银行国际业务与法律风险控制	yin hang guo ji ye wu yu fa lv feng xian kong zhi	2
+银行行业	yin hang hang ye	111
 银行行长	yin hang hang zhang	6995
 银行号	yin hang hao	315
 银行号码	yin hang hao ma	75
+银行和保险	yin hang he bao xian	111
+银行和保险公司	yin hang he bao xian gong si	111
 银行合并	yin hang he bing	355
+银行和金融	yin hang he jin rong	111
+银行和金融机构	yin hang he jin rong ji gou	111
+银行核心系统	yin hang he xin xi tong	111
+银行和证券	yin hang he zheng quan	111
+银行和支付	yin hang he zhi fu	111
+银行合作	yin hang he zuo	111
+银行户口	yin hang hu kou	111
 银行户头	yin hang hu tou	1090
+银行坏账	yin hang huai zhang	111
+银行会	yin hang hui	111
+银行回单	yin hang hui dan	111
 银行汇款	yin hang hui kuan	66075
 银行汇票	yin hang hui piao	8250
+银行货币	yin hang huo bi	111
+银行活动	yin hang huo dong	111
+银行活期	yin hang huo qi	111
+银行活期存款	yin hang huo qi cun kuan	111
+银行级	yin hang ji	111
+银行基本户	yin hang ji ben hu	111
+银行基层	yin hang ji ceng	111
+银行挤兑	yin hang ji dui	111
 银行机构	yin hang ji gou	4335
+银行基金	yin hang ji jin	111
 银行及金融机构法	yin hang ji jin rong ji gou fa	1
+银行记录	yin hang ji lu	111
 银行集团	yin hang ji tuan	1535
+银行基准利率	yin hang ji zhun li lv	111
 银行家	yin hang jia	19260
+银行家具	yin hang jia ju	111
+银行家们	yin hang jia men	111
 银行家算法	yin hang jia suan fa	607
+银行间	yin hang jian	111
 银行监督	yin hang jian du	620
 银行监管	yin hang jian guan	5170
+银行监控	yin hang jian kong	111
 银行间市场	yin hang jian shi chang	4630
+银行间同业拆借	yin hang jian tong ye chai jie	111
+银行间外汇市场	yin hang jian wai hui shi chang	111
+银行间债券	yin hang jian zhai quan	111
 银行间债券市场	yin hang jian zhai quan shi chang	6815
 银行间债券市场债券发行现场管理规则	yin hang jian zhai quan shi chang zhai quan fa xing xian chang guan li gui ze	2
+银行间债市	yin hang jian zhai shi	111
+银行降息	yin hang jiang xi	111
+银行缴费	yin hang jiao fei	111
 银行交易	yin hang jiao yi	1120
 银行界	yin hang jie	4490
+银行借	yin hang jie	111
 银行劫案	yin hang jie an	170
+银行借贷	yin hang jie dai	111
+银行劫匪	yin hang jie fei	111
+银行结构性存款	yin hang jie gou xing cun kuan	111
+银行结汇	yin hang jie hui	111
+银行借记卡	yin hang jie ji ka	111
 银行借款	yin hang jie kuan	6435
+银行结售汇	yin hang jie shou hui	111
 银行结算	yin hang jie suan	10620
+银行结算账户	yin hang jie suan zhang hu	111
+银行结余	yin hang jie yu	111
+银行金库	yin hang jin ku	111
+银行金库门	yin hang jin ku men	111
+银行金融	yin hang jin rong	111
+银行金融服务	yin hang jin rong fu wu	111
+银行金融机构	yin hang jin rong ji gou	111
+银行经理	yin hang jing li	111
+银行净息差	yin hang jing xi cha	111
+银行经营	yin hang jing ying	111
+银行拒绝	yin hang ju jue	111
 银行卡	yin hang ka	103615
+银行卡办理	yin hang ka ban li	111
+银行卡绑定	yin hang ka bang ding	111
+银行卡被盗刷	yin hang ka bei dao shua	111
+银行卡被冻结	yin hang ka bei dong jie	111
+银行卡被吞	yin hang ka bei tun	111
+银行卡产业	yin hang ka chan ye	111
+银行卡充值	yin hang ka chong zhi	111
+银行卡存款	yin hang ka cun kuan	111
+银行卡盗刷	yin hang ka dao shua	111
+银行卡丢失	yin hang ka diu shi	111
+银行卡冻结	yin hang ka dong jie	111
+银行卡付款	yin hang ka fu kuan	111
+银行卡复印件	yin hang ka fu yin jian	111
+银行卡挂失	yin hang ka gua shi	111
 银行卡管理办法	yin hang ka guan li ban fa	109
 银行卡号	yin hang ka hao	6840
+银行卡号和密码	yin hang ka hao he mi ma	111
+银行卡号码	yin hang ka hao ma	111
+银行卡或存折	yin hang ka huo cun zhe	111
+银行卡交易	yin hang ka jiao yi	111
+银行卡卡号	yin hang ka ka hao	111
+银行卡开户	yin hang ka kai hu	111
+银行卡里	yin hang ka li	111
+银行卡里的钱	yin hang ka li de qian	111
+银行卡流水	yin hang ka liu shui	111
+银行卡密码	yin hang ka mi ma	111
+银行卡内	yin hang ka nei	111
+银行卡清算	yin hang ka qing suan	111
+银行卡清算机构	yin hang ka qing suan ji gou	111
+银行卡认证	yin hang ka ren zheng	111
 银行卡识别	yin hang ka shi bie	78
+银行卡收单	yin hang ka shou dan	111
+银行卡收单业务	yin hang ka shou dan ye wu	111
+银行卡刷卡	yin hang ka shua ka	111
+银行卡消费	yin hang ka xiao fei	111
+银行卡信息	yin hang ka xin xi	111
+银行卡业务	yin hang ka ye wu	111
+银行卡余额	yin hang ka yu e	111
+银行卡账号	yin hang ka zhang hao	111
+银行卡账户	yin hang ka zhang hu	111
+银行卡照片	yin hang ka zhao pian	111
+银行卡支付	yin hang ka zhi fu	111
+银行卡中心	yin hang ka zhong xin	111
+银行卡转账	yin hang ka zhuan zhang	111
+银行卡资金	yin hang ka zi jin	111
 银行开户	yin hang kai hu	7715
+银行开户许可证	yin hang kai hu xu ke zheng	111
+银行开立	yin hang kai li	111
+银行考试	yin hang kao shi	111
+银行考试题库	yin hang kao shi ti ku	111
+银行客服	yin hang ke fu	111
+银行客服电话	yin hang ke fu dian hua	111
 银行客户	yin hang ke hu	2755
+银行客户经理	yin hang ke hu jing li	111
+银行科技	yin hang ke ji	111
+银行扣款	yin hang kou kuan	111
 银行会计	yin hang kuai ji	1535
+银行来讲	yin hang lai jiang	111
+银行揽储	yin hang lan chu	111
+银行类	yin hang lei	111
+银行类金融机构	yin hang lei jin rong ji gou	111
+银行里	yin hang li	111
 银行理财	yin hang li cai	3340
+银行理财产品	yin hang li cai chan pin	111
+银行理财经理	yin hang li cai jing li	111
+银行理财新规	yin hang li cai xin gui	111
+银行理财业务	yin hang li cai ye wu	111
+银行理财子	yin hang li cai zi	111
+银行理财子公司	yin hang li cai zi gong si	111
+银行理财资金	yin hang li cai zi jin	111
+银行里的钱	yin hang li de qian	111
 银行利率	yin hang li lv	4455
+银行里面	yin hang li mian	111
+银行利润	yin hang li run	111
 银行利息	yin hang li xi	4085
+银行领导	yin hang ling dao	111
+银行零售	yin hang ling shou	111
+银行零售业务	yin hang ling shou ye wu	111
+银行领域	yin hang ling yu	111
+银行流动性	yin hang liu dong xing	111
+银行流水	yin hang liu shui	111
+银行流水单	yin hang liu shui dan	111
+银行流水账单	yin hang liu shui zhang dan	111
+银行螺丝钉	yin hang luo si ding	111
+银行买	yin hang mai	111
+银行们	yin hang men	111
+银行门	yin hang men	111
+银行门口	yin hang men kou	111
+银行密码	yin hang mi ma	111
+银行面试	yin hang mian shi	111
+银行名称	yin hang ming cheng	111
+银行木马	yin hang mu ma	111
+银行内	yin hang nei	111
 银行内部	yin hang nei bu	4455
+银行女	yin hang nv	111
+银行女职员	yin hang nv zhi yuan	111
+银行排队	yin hang pai dui	111
+银行拍卖	yin hang pai mai	111
+银行牌照	yin hang pai zhao	111
+银行培训	yin hang pei xun	111
 银行票据	yin hang piao ju	1685
+银行凭证	yin hang ping zheng	111
 银行破产	yin hang po chan	670
+银行起诉	yin hang qi su	111
+银行企业	yin hang qi ye	111
+银行欠款	yin hang qian kuan	111
+银行签约	yin hang qian yue	111
 银行抢劫	yin hang qiang jie	235
 银行抢劫案	yin hang qiang jie an	330
+银行秋招	yin hang qiu zhao	111
+银行取	yin hang qu	111
+银行渠道	yin hang qu dao	111
+银行取款	yin hang qu kuan	111
+银行取钱	yin hang qu qian	111
 银行券	yin hang quan	720
+银行券商	yin hang quan shang	111
+银行让利	yin hang rang li	111
+银行人	yin hang ren	111
+银行人士	yin hang ren shi	111
+银行人员	yin hang ren yuan	111
+银行日记账	yin hang ri ji zhang	111
+银行融资	yin hang rong zi	111
+银行上市	yin hang shang shi	111
+银行设置	yin hang she zhi	111
+银行审核	yin hang shen he	111
+银行审批	yin hang shen pi	111
+银行是	yin hang shi	111
+银行市场	yin hang shi chang	111
+银行实习	yin hang shi xi	111
 银行收费	yin hang shou fei	1360
+银行手机	yin hang shou ji	111
+银行受理	yin hang shou li	111
+银行授信	yin hang shou xin	111
+银行授信额度	yin hang shou xin e du	111
+银行手续费	yin hang shou xu fei	111
+银行数据	yin hang shu ju	111
+银行数字化	yin hang shu zi hua	111
+银行数字化转型	yin hang shu zi hua zhuan xing	111
+银行提供	yin hang ti gong	111
 银行体系	yin hang ti xi	8845
+银行体系流动性	yin hang ti xi liu dong xing	111
+银行体系资金	yin hang ti xi zi jin	111
+银行同期贷款利率	yin hang tong qi dai kuan li lv	111
+银行同业	yin hang tong ye	111
+银行通知	yin hang tong zhi	111
 银行投资	yin hang tou zi	1865
 银行团	yin hang tuan	695
+银行推出	yin hang tui chu	111
+银行托管	yin hang tuo guan	111
+银行外汇	yin hang wai hui	111
+银行网	yin hang wang	111
 银行网点	yin hang wang dian	4000
+银行网银	yin hang wang yin	111
+银行网站	yin hang wang zhan	111
 银行危机	yin hang wei ji	900
+银行系基金	yin hang xi ji jin	111
 银行系统	yin hang xi tong	9550
+银行现金	yin hang xian jin	111
+银行相关	yin hang xiang guan	111
+银行销售	yin hang xiao shou	111
+银行校园招聘	yin hang xiao yuan zhao pin	111
 银行新存贷业务与法规	yin hang xin cun dai ye wu yu fa gui	2
 银行信贷	yin hang xin dai	17520
+银行信贷员	yin hang xin dai yuan	111
+银行信贷资金	yin hang xin dai zi jin	111
+银行信息	yin hang xin xi	111
 银行信用	yin hang xin yong	6405
+银行信用贷款	yin hang xin yong dai kuan	111
 银行信用卡	yin hang xin yong ka	3095
+银行信用卡业务	yin hang xin yong ka ye wu	111
+银行信用卡中心	yin hang xin yong ka zhong xin	111
+银行宣布	yin hang xuan bu	111
 银行学	yin hang xue	1265
 银行学校	yin hang xue xiao	62
+银行询证函	yin hang xun zheng han	111
+银行要求	yin hang yao qiu	111
 银行业	yin hang ye	111370
 银行业常用法律法规手册	yin hang ye chang yong fa lv fa gui shou ce	4
+银行业从业人员	yin hang ye cong ye ren yuan	111
 银行业从业人员职业操守	yin hang ye cong ye ren yuan zhi ye cao shou	84
+银行业发展	yin hang ye fa zhan	111
+银行业机构	yin hang ye ji gou	111
 银行业监督管理法	yin hang ye jian du guan li fa	1573
+银行业监管	yin hang ye jian guan	111
 银行业监管体系	yin hang ye jian guan ti xi	65
+银行业金融机构	yin hang ye jin rong ji gou	111
+银行业经营	yin hang ye jing ying	111
+银行业人士	yin hang ye ren shi	111
 银行业务	yin hang ye wu	16330
+银行业务员	yin hang ye wu yuan	111
+银行业协会	yin hang ye xie hui	111
 银行业协会工作指引	yin hang ye xie hui gong zuo zhi yin	16
 银行业者	yin hang ye zhe	180
 引吭一鸣	yin hang yi ming	1
+银行营销	yin hang ying xiao	111
+银行营业	yin hang ying ye	111
+银行营业厅	yin hang ying ye ting	111
+银行营业网点	yin hang ying ye wang dian	111
+银行用户	yin hang yong hu	111
+银行永续债	yin hang yong xu zhai	111
+银行余额	yin hang yu e	111
+银行与金融	yin hang yu jin rong	111
+银行与企业	yin hang yu qi ye	111
+银行预约	yin hang yu yue	111
+银行员工	yin hang yuan gong	111
+银行运营	yin hang yun ying	111
 银行债券	yin hang zhai quan	310
+银行债权	yin hang zhai quan	111
 银行债务	yin hang zhai wu	3040
 银行账	yin hang zhang	830
+银行帐	yin hang zhang	111
+银行账单	yin hang zhang dan	111
 银行账号	yin hang zhang hao	57260
 银行账户	yin hang zhang hu	35775
+银行账户被冻结	yin hang zhang hu bei dong jie	111
+银行账户冻结	yin hang zhang hu dong jie	111
+银行账户管理	yin hang zhang hu guan li	111
+银行账户信息	yin hang zhang hu xin xi	111
+银行账户余额	yin hang zhang hu yu e	111
+银行账户转账	yin hang zhang hu zhuan zhang	111
+银行招聘	yin hang zhao pin	111
+银行招聘考试	yin hang zhao pin kao shi	111
+银行招聘网	yin hang zhao pin wang	111
 引航者	yin hang zhe	133
+银行政策	yin hang zheng ce	111
+银行证明	yin hang zheng ming	111
+银行证券	yin hang zheng quan	111
+银行征信	yin hang zheng xin	111
+银行制	yin hang zhi	111
+银行支持	yin hang zhi chi	111
+银行支付	yin hang zhi fu	111
+银行职工	yin hang zhi gong	111
+银行之间	yin hang zhi jian	111
 银行支票	yin hang zhi piao	1450
+银行指数	yin hang zhi shu	111
 银行职员	yin hang zhi yuan	5210
+银行中	yin hang zhong	111
 银行中心	yin hang zhong xin	133
+银行注销	yin hang zhu xiao	111
+银行转型	yin hang zhuan xing	111
 银行转账	yin hang zhuan zhang	14310
+银行转账记录	yin hang zhuan zhang ji lu	111
+银行转账凭证	yin hang zhuan zhang ping zheng	111
 银行资本	yin hang zi ben	2415
+银行资本补充	yin hang zi ben bu chong	111
+银行资本金	yin hang zi ben jin	111
 银行资产	yin hang zi chan	2800
+银行资产质量	yin hang zi chan zhi liang	111
+银行资管	yin hang zi guan	111
+银行资金	yin hang zi jin	111
+银行资金存管	yin hang zi jin cun guan	111
+银行资料	yin hang zi liao	111
+银行资信	yin hang zi xin	111
+银行资信证明	yin hang zi xin zheng ming	111
+银行咨询	yin hang zi xun	111
+银行自营	yin hang zi ying	111
+银行自助	yin hang zi zhu	111
+银行总部	yin hang zong bu	111
+银行总行	yin hang zong hang	111
 引号	yin hao	19065
 印好	yin hao	3170
 银号	yin hao	2010
@@ -492827,6 +493938,7 @@ sort: by_weight
 音乐学校	yin yue xue xiao	3320
 音乐学院	yin yue xue yuan	25010
 音乐演奏	yin yue yan zou	1690
+音乐银行	yin yue yin hang	111
 音乐元素	yin yue yuan su	6040
 音乐站	yin yue zhan	684
 音乐之都	yin yue zhi du	100
@@ -492935,6 +494047,7 @@ sort: by_weight
 鄞州区	yin zhou qu	9970
 银州区	yin zhou qu	2730
 印洲塘	yin zhou tang	9
+鄞州银行	yin zhou yin hang	111
 银烛	yin zhu	1715
 音柱	yin zhu	1005
 银朱	yin zhu	1
@@ -493694,6 +494807,7 @@ sort: by_weight
 英国央行	ying guo yang hang	4360
 英国议会	ying guo yi hui	2225
 英国移民	ying guo yi min	765
+英国银行	ying guo yin hang	111
 英国英语	ying guo ying yu	1380
 营郭镇	ying guo zhen	2
 英国政府	ying guo zheng fu	19235
@@ -494061,6 +495175,8 @@ sort: by_weight
 缨口台鳅	ying kou tai qiu	1
 营口虾籽	ying kou xia zi	1
 营口县	ying kou xian	110
+营口沿海银行	ying kou yan hai yin hang	111
+营口银行	ying kou yin hang	111
 营口增殖实验站	ying kou zeng zhi shi yan zhan	2
 英库	ying ku	1180
 英库拼音	ying ku pin yin	1180
@@ -495722,6 +496838,9 @@ sort: by_weight
 英姿飒爽犹酣战	ying zi sa shuang you han zhan	3
 影子手套	ying zi shou tao	1
 影子说	ying zi shuo	170
+影子银行	ying zi yin hang	111
+影子银行风险	ying zi yin hang feng xian	111
+影子银行业务	ying zi yin hang ye wu	111
 营子镇	ying zi zhen	182
 英宗	ying zong	4860
 影踪	ying zong	4715
@@ -497162,6 +498281,7 @@ sort: by_weight
 拥有率	yong you lv	4045
 拥有权	yong you quan	2410
 用右手	yong you shou	10815
+拥有银行	yong you yin hang	111
 拥有者	yong you zhe	45060
 拥有着	yong you zhe	19740
 拥有自主	yong you zi zhu	35390
@@ -497877,6 +498997,9 @@ sort: by_weight
 又出现	you chu xian	18035
 有初鲜终	you chu xian zhong	111
 有触须	you chu xu	25
+邮储银行	you chu yin hang	111
+邮储银行北京分行	you chu yin hang bei jing fen hang	111
+邮储银行信用卡	you chu yin hang xin yong ka	111
 幽处欲生云	you chu yu sheng yun	1
 游船	you chuan	43200
 油船	you chuan	6250
@@ -500162,6 +501285,7 @@ sort: by_weight
 有吏夜捉人	you li ye zhuo ren	3
 有利益	you li yi	5375
 游离龈	you li yin	2
+友利银行	you li yin hang	111
 有利因素	you li yin su	9200
 有理由	you li you	20455
 有利有弊	you li you bi	3600
@@ -503768,6 +504892,7 @@ sort: by_weight
 邮政储金	you zheng chu jin	215
 邮政储蓄	you zheng chu xu	24515
 邮政储蓄银行	you zheng chu xu yin hang	2390
+邮政储蓄银行卡	you zheng chu xu yin hang ka	111
 邮政大厦	you zheng da sha	137
 邮政法	you zheng fa	3355
 由政府	you zheng fu	77185
@@ -503798,6 +504923,7 @@ sort: by_weight
 邮政研究院	you zheng yan jiu yuan	5
 邮政业务	you zheng ye wu	6440
 有争议	you zheng yi	33565
+邮政银行	you zheng yin hang	111
 邮政用品用具监督管理办法	you zheng yong pin yong ju jian du guan li ban fa	9
 有证有据	you zheng you ju	220
 又蒸又晒	you zheng you shai	60
@@ -508969,6 +510095,7 @@ sort: by_weight
 源程序文件	yuan cheng xu wen jian	695
 远程学习	yuan cheng xue xi	4820
 远程医学	yuan cheng yi xue	270
+远程银行	yuan cheng yin hang	111
 远程诊断	yuan cheng zhen duan	123
 袁承志	yuan cheng zhi	17
 远程执行	yuan cheng zhi xing	4360
@@ -512690,6 +513817,7 @@ sort: by_weight
 越南东亚竹叶青蛇	yue nan dong ya zhu ye qing she	1
 越南队	yue nan dui	535
 越南古洁虾	yue nan gu jie xia	1
+越南国家银行	yue nan guo jia yin hang	111
 越南海洋法	yue nan hai yang fa	11
 越南话	yue nan hua	305
 越南落地签	yue nan luo di qian	6
@@ -514871,6 +515999,7 @@ sort: by_weight
 允许使用	yun xu shi yong	19225
 允许停车	yun xu ting che	135
 允许误差	yun xu wu cha	3040
+允许银行	yun xu yin hang	111
 允许有	yun xu you	10250
 允许中断	yun xu zhong duan	604
 晕眩	yun xuan	17170
@@ -517928,6 +519057,7 @@ sort: by_weight
 在线欣赏	zai xian xin shang	7025
 在现行	zai xian xing	10375
 在线学习	zai xian xue xi	1372
+在线银行	zai xian yin hang	111
 在线音乐	zai xian yin yue	9705
 在线影视	zai xian ying shi	2760
 在线影院	zai xian ying yuan	2695
@@ -519784,6 +520914,7 @@ sort: by_weight
 枣庄市中医院	zao zhuang shi zhong yi yuan	1
 枣庄峄城	zao zhuang yi cheng	24
 枣庄峄县	zao zhuang yi xian	1
+枣庄银行	zao zhuang yin hang	111
 枣庄中院	zao zhuang zhong yuan	87
 藻棁	zao zhuo	10
 枣子	zao zi	5665
@@ -523027,6 +524158,7 @@ sort: by_weight
 张承浩	zhang cheng hao	134
 长城黑白激光打印机	zhang cheng hei bai ji guang da yin ji	87
 长城黑白激光多功能一体机	zhang cheng hei bai ji guang duo gong neng yi ti ji	87
+长城华西银行	zhang cheng hua xi yin hang	111
 长成了	zhang cheng le	5070
 张承烈	zhang cheng lie	2
 长城银河	zhang cheng yin he	87
@@ -523418,6 +524550,7 @@ sort: by_weight
 彰化肉圆	zhang hua rou yuan	2
 张华山	zhang hua shan	149
 彰化县	zhang hua xian	1610
+彰化银行	zhang hua yin hang	111
 张淮	zhang huai	24
 张怀瑾	zhang huai jin	166
 张怀民	zhang huai min	178
@@ -523515,6 +524648,7 @@ sort: by_weight
 张家口市	zhang jia kou shi	12965
 张家口市宣化区	zhang jia kou shi xuan hua qu	72
 张家口市蔚县	zhang jia kou shi yu xian	1
+张家口银行	zhang jia kou yin hang	111
 张家口蔚县	zhang jia kou yu xian	1
 张家口中院	zhang jia kou zhong yuan	87
 张家朗	zhang jia lang	100
@@ -524047,6 +525181,7 @@ sort: by_weight
 掌上书院	zhang shang shu yuan	1990
 掌商网	zhang shang wang	10
 掌上型	zhang shang xing	2910
+掌上银行	zhang shang yin hang	111
 掌上英雄联盟	zhang shang ying xiong lian meng	162
 掌上珍珠	zhang shang zhen zhu	111
 掌上之珠	zhang shang zhi zhu	111
@@ -524535,6 +525670,7 @@ sort: by_weight
 张尹	zhang yin	12
 张音	zhang yin	11
 张崟	zhang yin	3
+张银行	zhang yin hang	111
 张荫桓	zhang yin huan	28
 张荫麟	zhang yin lin	25
 张英	zhang ying	9505
@@ -525937,6 +527073,13 @@ sort: by_weight
 招商项目	zhao shang xiang mu	21140
 招商引店	zhao shang yin dian	2
 招商银行	zhao shang yin hang	97310
+招商银行大厦	zhao shang yin hang da sha	111
+招商银行卡	zhao shang yin hang ka	111
+招商银行上海分行	zhao shang yin hang shang hai fen hang	111
+招商银行深圳分行	zhao shang yin hang shen zhen fen hang	111
+招商银行信用卡	zhao shang yin hang xin yong ka	111
+招商银行研究院	zhao shang yin hang yan jiu yuan	111
+招商银行总行	zhao shang yin hang zong hang	111
 招商引资	zhao shang yin zi	230080
 招商政策	zhao shang zheng ce	3210
 招商证券	zhao shang zheng quan	12695
@@ -526369,6 +527512,7 @@ sort: by_weight
 爪印	zhao yin	1695
 肇因	zhao yin	1125
 赵寅	zhao yin	19
+找银行	zhao yin hang	111
 赵音奇	zhao yin qi	5
 照应	zhao ying	21435
 赵营	zhao ying	11
@@ -527273,6 +528417,10 @@ sort: by_weight
 浙江长兴县洪桥镇	zhe jiang chang xing xian hong qiao zhen	2
 浙江长兴县煤山镇	zhe jiang chang xing xian mei shan zhen	3
 浙江车网	zhe jiang che wang	1
+浙江稠州商业银行	zhe jiang chou zhou shang ye yin hang	111
+浙江稠州银行	zhe jiang chou zhou yin hang	111
+浙江稠州银行队	zhe jiang chou zhou yin hang dui	111
+浙江稠州银行男篮	zhe jiang chou zhou yin hang nan lan	111
 浙江创业	zhe jiang chuang ye	12500
 浙江淳安县千岛湖镇	zhe jiang chun an xian qian dao hu zhen	1
 浙江慈溪市庵东镇	zhe jiang ci xi shi an dong zhen	1
@@ -527341,6 +528489,7 @@ sort: by_weight
 浙江芒果蛛	zhe jiang mang guo zhu	1
 浙江锚首虫	zhe jiang mao shou chong	1
 浙江贸易学校	zhe jiang mao yi xue xiao	2
+浙江民泰商业银行	zhe jiang min tai shang ye yin hang	111
 浙江民营	zhe jiang min ying	2495
 浙江南路	zhe jiang nan lu	6
 浙江宁波	zhe jiang ning bo	16845
@@ -527446,6 +528595,7 @@ sort: by_weight
 浙江省最低生活保障办法	zhe jiang sheng zui di sheng huo bao zhang ban fa	34
 这将是	zhe jiang shi	33525
 浙江师范大学	zhe jiang shi fan da xue	6780
+浙江泰隆商业银行	zhe jiang tai long shang ye yin hang	111
 浙江台州	zhe jiang tai zhou	10595
 浙江腾飞金鹰律师事务所	zhe jiang teng fei jin ying lv shi shi wu suo	20
 浙江体彩	zhe jiang ti cai	1270
@@ -527455,6 +528605,7 @@ sort: by_weight
 浙江桐庐县横村镇	zhe jiang tong lu xian heng cun zhen	1
 浙江桐乡市崇福镇	zhe jiang tong xiang shi chong fu zhen	1
 浙江桐乡市濮院镇	zhe jiang tong xiang shi pu yuan zhen	3
+浙江网商银行	zhe jiang wang shang yin hang	111
 浙江卫视	zhe jiang wei shi	6765
 浙江温岭	zhe jiang wen ling	114
 浙江温岭市大溪镇	zhe jiang wen ling shi da xi zhen	17
@@ -529015,6 +530166,7 @@ sort: by_weight
 针对实际	zhen dui shi ji	2515
 针对性	zhen dui xing	169010
 针对性强	zhen dui xing qiang	19215
+针对银行	zhen dui yin hang	111
 针对于	zhen dui yu	9040
 针对着	zhen dui zhe	1610
 真多	zhen duo	10510
@@ -531239,6 +532391,7 @@ sort: by_weight
 正规曲线	zheng gui qu xian	20
 正规手续	zheng gui shou xu	1310
 正规文法	zheng gui wen fa	69
+正规银行	zheng gui yin hang	111
 正规战	zheng gui zhan	725
 征贵征贱	zheng gui zheng jian	1
 郑国	zheng guo	17335
@@ -533190,6 +534343,7 @@ sort: by_weight
 郑州信大捷安信息技术股份有限公司	zheng zhou xin da jie an xin xi ji shu gu fen you xian gong si	87
 郑州荥阳	zheng zhou xing yang	1
 郑州疫情	zheng zhou yi qing	198
+郑州银行	zheng zhou yin hang	111
 郑州站	zheng zhou zhan	1105
 蒸煮	zheng zhu	16000
 怔住	zheng zhu	10900
@@ -533798,6 +534952,7 @@ sort: by_weight
 直翅斜纹天蛾	zhi chi xie wen tian e	1
 支持性	zhi chi xing	5575
 支持性心理治疗	zhi chi xing xin li zhi liao	9
+支持银行	zhi chi yin hang	111
 直齿鹰	zhi chi ying	1
 咫尺应须论万里	zhi chi ying xu lun wan li	1
 支持原创	zhi chi yuan chuang	8440
@@ -534291,6 +535446,7 @@ sort: by_weight
 指定性	zhi ding xing	315
 制定学	zhi ding xue	330
 指定银行	zhi ding yin hang	10125
+指定银行账户	zhi ding yin hang zhang hu	111
 指定由	zhi ding you	1665
 指定账户	zhi ding zhang hu	6075
 制定者	zhi ding zhe	13980
@@ -534673,6 +535829,7 @@ sort: by_weight
 支付业务	zhi fu ye wu	3350
 枝附叶着	zhi fu ye zhe	1
 枝附叶著	zhi fu ye zhu	1
+支付银行	zhi fu yin hang	111
 枝附影从	zhi fu ying cong	111
 直浮萤属	zhi fu ying shu	1
 直复营销	zhi fu ying xiao	305
@@ -535162,6 +536319,7 @@ sort: by_weight
 指挥学校	zhi hui xue xiao	195
 指挥学院	zhi hui xue yuan	5215
 指挥仪	zhi hui yi	540
+智慧银行	zhi hui yin hang	111
 只会有	zhi hui you	106
 指挥有方	zhi hui you fang	415
 指挥员	zhi hui yuan	21105
@@ -536537,6 +537695,7 @@ sort: by_weight
 智能钥匙系统	zhi neng yao shi xi tong	738
 智能仪表	zhi neng yi biao	3540
 智能仪器	zhi neng yi qi	2095
+智能银行	zhi neng yin hang	111
 智能硬件	zhi neng ying jian	1263
 只能用	zhi neng yong	51050
 只能有	zhi neng you	19135
@@ -538005,6 +539164,7 @@ sort: by_weight
 智小言大	zhi xiao yan da	1
 直销业	zhi xiao ye	8830
 智效一官	zhi xiao yi guan	1
+直销银行	zhi xiao yin hang	111
 直销员	zhi xiao yuan	27420
 指小肿头吸虫	zhi xiao zhong tou xi chong	1
 制鞋	zhi xie	27920
@@ -538682,6 +539842,7 @@ sort: by_weight
 只有一个	zhi you yi ge	186390
 只有一些	zhi you yi xie	7850
 只有一只	zhi you yi zhi	4600
+只有银行	zhi you yin hang	111
 只有与	zhi you yu	5465
 只有在	zhi you zai	195380
 只有这个	zhi you zhe ge	77
@@ -539426,6 +540587,7 @@ sort: by_weight
 中邦	zhong bang	2360
 中邦队	zhong bang dui	155
 重磅回归	zhong bang hui gui	124
+众邦银行	zhong bang yin hang	111
 重磅炸弹	zhong bang zha dan	6915
 中保	zhong bao	14875
 中报	zhong bao	8755
@@ -540459,6 +541621,7 @@ sort: by_weight
 中关村学院	zhong guan cun xue yuan	168
 中关村一街	zhong guan cun yi jie	2
 中关村一桥	zhong guan cun yi qiao	20
+中关村银行	zhong guan cun yin hang	111
 中管干部	zhong guan gan bu	183
 忠贯金石	zhong guan jin shi	111
 重管理	zhong guan li	1375
@@ -540577,6 +541740,7 @@ sort: by_weight
 中国的崛起	zhong guo de jue qi	5275
 中国的一部分	zhong guo de yi bu fen	100
 中国的一切	zhong guo de yi qie	100
+中国的银行	zhong guo de yin hang	111
 中国地产	zhong guo di chan	7135
 中国地名	zhong guo di ming	142
 中国地名委员会	zhong guo di ming wei yuan hui	109
@@ -540601,6 +541765,7 @@ sort: by_weight
 中国电影基金会	zhong guo dian ying ji jin hui	75
 中国点子鸽	zhong guo dian zi ge	45
 中国电子商务	zhong guo dian zi shang wu	26600
+中国电子银行网	zhong guo dian zi yin hang wang	111
 中国雕塑学会	zhong guo diao su xue hui	14
 中国东方航空	zhong guo dong fang hang kong	26575
 中国动画	zhong guo dong hua	8615
@@ -540737,6 +541902,7 @@ sort: by_weight
 中国国际招标网	zhong guo guo ji zhao biao wang	8
 中国国家地理	zhong guo guo jia di li	4115
 中国国家队	zhong guo guo jia dui	4170
+中国国家开发银行	zhong guo guo jia kai fa yin hang	111
 中国国家体育场喜鹊金属鸟巢	zhong guo guo jia ti yu chang xi que jin shu niao chao	1
 中国国贸	zhong guo guo mao	6
 中国国民党革命委员会	zhong guo guo min dang ge ming wei yuan hui	1335
@@ -540957,6 +542123,7 @@ sort: by_weight
 中国民航	zhong guo min hang	13095
 中国民航总局	zhong guo min hang zong ju	2555
 中国闽南牛	zhong guo min nan niu	1
+中国民生银行	zhong guo min sheng yin hang	111
 中国民营经济周刊	zhong guo min ying jing ji zhou kan	1
 中国民营企业	zhong guo min ying qi ye	8265
 中国民用航空国内航线经营许可规定	zhong guo min yong hang kong guo nei hang xian jing ying xu ke gui ding	15
@@ -541017,6 +542184,7 @@ sort: by_weight
 中国农业科学院印刷厂	zhong guo nong ye ke xue yuan yin shua chang	2
 中国农业网	zhong guo nong ye wang	3855
 中国农业银行	zhong guo nong ye yin hang	67119
+中国农业银行卡	zhong guo nong ye yin hang ka	111
 中国女报	zhong guo nv bao	23
 中国女孩	zhong guo nv hai	3700
 中国女篮	zhong guo nv lan	3655
@@ -541132,8 +542300,16 @@ sort: by_weight
 中国人民银行	zhong guo ren min yin hang	3229
 中国人民银行残缺污损人民币兑换办法	zhong guo ren min yin hang can que wu sun ren min bi dui huan ban fa	56
 中国人民银行法	zhong guo ren min yin hang fa	2413
+中国人民银行发行	zhong guo ren min yin hang fa xing	111
+中国人民银行公告	zhong guo ren min yin hang gong gao	111
 中国人民银行固定资产管理办法	zhong guo ren min yin hang gu ding zi chan guan li ban fa	3
+中国人民银行官网	zhong guo ren min yin hang guan wang	111
+中国人民银行行长	zhong guo ren min yin hang hang zhang	111
+中国人民银行介绍	zhong guo ren min yin hang jie shao	111
+中国人民银行决定	zhong guo ren min yin hang jue ding	111
 中国人民银行突发事件应急预案管理办法	zhong guo ren min yin hang tu fa shi jian ying ji yu an guan li ban fa	1
+中国人民银行网站	zhong guo ren min yin hang wang zhan	111
+中国人民银行总行	zhong guo ren min yin hang zong hang	111
 中国人民银行行政处罚程序规定	zhong guo ren min yin xing xing zheng chu fa cheng xu gui ding	43
 中国人民政治协商会议	zhong guo ren min zheng zhi xie shang hui yi	18619
 中国人民政治协商会议章程	zhong guo ren min zheng zhi xie shang hui yi zhang cheng	838
@@ -541248,6 +542424,7 @@ sort: by_weight
 中国通	zhong guo tong	3905
 中国同盟会	zhong guo tong meng hui	1455
 中国统配煤矿总公司	zhong guo tong pei mei kuang zong gong si	183
+中国通商银行	zhong guo tong shang yin hang	111
 中国通史	zhong guo tong shi	5225
 中国铜网	zhong guo tong wang	25
 中国筒胸肖叶甲	zhong guo tong xiong xiao ye jia	1
@@ -541391,11 +542568,23 @@ sort: by_weight
 中国印	zhong guo yin	4020
 中国印钞造币总公司	zhong guo yin chao zao bi zong gong si	895
 中国银行	zhong guo yin hang	120440
+中国银行澳门分行	zhong guo yin hang ao men fen hang	111
+中国银行保险报	zhong guo yin hang bao xian bao	111
+中国银行保险报网	zhong guo yin hang bao xian bao wang	111
+中国银行副行长	zhong guo yin hang fu hang zhang	111
+中国银行行长	zhong guo yin hang hang zhang	111
+中国银行卡	zhong guo yin hang ka	111
+中国银行手机银行	zhong guo yin hang shou ji yin hang	111
+中国银行网上银行	zhong guo yin hang wang shang yin hang	111
+中国银行信用卡	zhong guo yin hang xin yong ka	111
+中国银行研究院	zhong guo yin hang yan jiu yuan	111
 中国银行业	zhong guo yin hang ye	20525
 中国银行业监督管理委员会青海监管局	zhong guo yin hang ye jian du guan li wei yuan hui qing hai jian guan ju	14
 中国银行业监督管理委员会行政处罚办法	zhong guo yin hang ye jian du guan li wei yuan hui xing zheng chu fa ban fa	33
 中国银行业维权公约	zhong guo yin hang ye wei quan gong yue	20
+中国银行业协会	zhong guo yin hang ye xie hui	111
 中国银行业自律公约	zhong guo yin hang ye zi lv gong yue	24
+中国银行总行	zhong guo yin hang zong hang	111
 中国银监会	zhong guo yin jian hui	3981
 中国印刷博物馆	zhong guo yin shua bo wu guan	156
 中国印刷研究所	zhong guo yin shua yan jiu suo	230
@@ -541405,6 +542594,7 @@ sort: by_weight
 中国影响性诉讼	zhong guo ying xiang xing su song	5
 中国有	zhong guo you	3333
 中国游	zhong guo you	810
+中国邮储银行	zhong guo you chu yin hang	111
 中国邮递员问题	zhong guo you di yuan wen ti	1
 中国油画	zhong guo you hua	5695
 中国油画学会	zhong guo you hua xue hui	123
@@ -541415,6 +542605,8 @@ sort: by_weight
 中国有色金属报	zhong guo you se jin shu bao	1
 中国邮政	zhong guo you zheng	32290
 中国邮政报社	zhong guo you zheng bao she	19
+中国邮政储蓄银行	zhong guo you zheng chu xu yin hang	111
+中国邮政银行	zhong guo you zheng yin hang	111
 中国语	zhong guo yu	3060
 中国与荷兰国际私法比较研究	zhong guo yu he lan guo ji si fa bi jiao yan jiu	1
 中国与毗邻国边民婚姻登记管理试行办法	zhong guo yu pi lin guo bian min hun yin deng ji guan li shi xing ban fa	16
@@ -541438,6 +542630,7 @@ sort: by_weight
 中国粘体虫	zhong guo zhan ti chong	1
 中国战争电影史	zhong guo zhan zheng dian ying shi	18
 中国长城科技集团股份有限公司	zhong guo zhang cheng ke ji ji tuan gu fen you xian gong si	87
+中国招商银行	zhong guo zhao shang yin hang	111
 中国照相馆	zhong guo zhao xiang guan	8
 中国者	zhong guo zhe	98
 中国哲学	zhong guo zhe xue	19375
@@ -542238,6 +543431,7 @@ sort: by_weight
 重机学院	zhong ji xue yuan	14
 终极一班	zhong ji yi ban	3125
 终极一战	zhong ji yi zhan	175
+中级银行	zhong ji yin hang	111
 中棘鱼棘鲈	zhong ji yu ji lu	1
 中级院	zhong ji yuan	12
 中继站	zhong ji zhan	2495
@@ -543646,6 +544840,7 @@ sort: by_weight
 中外合资企业	zhong wai he zi qi ye	18365
 中外合资企业章程	zhong wai he zi qi ye zhang cheng	2
 中外合资人才中介机构管理暂行规定	zhong wai he zi ren cai zhong jie ji gou guan li zan xing gui ding	82
+中外合资银行	zhong wai he zi yin hang	111
 中外合作	zhong wai he zuo	64160
 中外合作经营	zhong wai he zuo jing ying	5990
 中外合作经营企业	zhong wai he zuo jing ying qi ye	8495
@@ -543884,11 +545079,13 @@ sort: by_weight
 中小企业扶持资金	zhong xiao qi ye fu chi zi jin	61
 中小企业融资	zhong xiao qi ye rong zi	12800
 中小企业信息化	zhong xiao qi ye xin xi hua	14000
+中小企业银行	zhong xiao qi ye yin hang	111
 中小企业政策	zhong xiao qi ye zheng ce	692
 中小强度	zhong xiao qiang du	87
 钟晓芹	zhong xiao qin	102
 中小散户	zhong xiao san hu	228
 中宵尚孤征	zhong xiao shang gu zheng	1
+中小商业银行	zhong xiao shang ye yin hang	111
 中消失	zhong xiao shi	940
 忠孝双全	zhong xiao shuang quan	111
 忠孝为本	zhong xiao wei ben	176
@@ -543896,6 +545093,7 @@ sort: by_weight
 中消协	zhong xiao xie	8030
 中小型	zhong xiao xing	68790
 中小型企业	zhong xiao xing qi ye	35815
+中小型银行	zhong xiao xing yin hang	111
 中小学	zhong xiao xue	343235
 中小学教材价格管理办法	zhong xiao xue jiao cai jia ge guan li ban fa	9
 中小学生	zhong xiao xue sheng	96085
@@ -543905,6 +545103,10 @@ sort: by_weight
 中小学学生素质教育家长读本	zhong xiao xue xue sheng su zhi jiao yu jia zhang du ben	1
 中小学幼儿园安全管理办法实用问答	zhong xiao xue you er yuan an quan guan li ban fa shi yong wen da	1
 中小药店	zhong xiao yao dian	87
+中小银行	zhong xiao yin hang	111
+中小银行补充资本	zhong xiao yin hang bu chong zi ben	111
+中小银行风险	zhong xiao yin hang feng xian	111
+中小银行改革	zhong xiao yin hang gai ge	111
 中校长	zhong xiao zhang	106
 中邪	zhong xie	5055
 重谢	zhong xie	3190
@@ -544043,6 +545245,12 @@ sort: by_weight
 钟欣怡	zhong xin yi	8
 中心医院	zhong xin yi yuan	20180
 中信银行	zhong xin yin hang	12290
+中信银行广州分行	zhong xin yin hang guang zhou fen hang	111
+中信银行济南分行	zhong xin yin hang ji nan fen hang	111
+中信银行昆明分行	zhong xin yin hang kun ming fen hang	111
+中信银行信用卡	zhong xin yin hang xin yong ka	111
+中信银行郑州分行	zhong xin yin hang zheng zhou fen hang	111
+中信银行总行	zhong xin yin hang zong hang	111
 重信用	zhong xin yong	77
 中心有通理	zhong xin you tong li	3
 中心有限	zhong xin you xian	429
@@ -544141,6 +545349,7 @@ sort: by_weight
 中兴小灵通	zhong xing xiao ling tong	26
 中兴小区	zhong xing xiao qu	9
 中性盐	zhong xing yan	255
+中型银行	zhong xing yin hang	111
 重型鱼雷	zhong xing yu lei	1180
 中兴苑	zhong xing yuan	7
 中星苑	zhong xing yuan	4
@@ -544349,6 +545558,7 @@ sort: by_weight
 中央全会	zhong yang quan hui	2200
 中央人民	zhong yang ren min	153
 中央人民广播电台	zhong yang ren min guang bo dian tai	12965
+中央人民银行	zhong yang ren min yin hang	111
 中央人民政府	zhong yang ren min zheng fu	15845
 中央日报	zhong yang ri bao	2855
 中央山脉	zhong yang shan mai	1075
@@ -544385,6 +545595,9 @@ sort: by_weight
 中央一号	zhong yang yi hao	116
 中央一号文件	zhong yang yi hao wen jian	5220
 中央银行	zhong yang yin hang	38670
+中央银行行长	zhong yang yin hang hang zhang	111
+中央银行票据	zhong yang yin hang piao ju	111
+中央银行数字货币	zhong yang yin hang shu zi huo bi	111
 中央音乐学院	zhong yang yin yue xue yuan	11815
 中央与地方财政	zhong yang yu di fang cai zheng	514
 中央预算	zhong yang yu suan	6600
@@ -544662,6 +545875,7 @@ sort: by_weight
 中印边境	zhong yin bian jing	129
 中印冲突	zhong yin chong tu	194
 中银大厦	zhong yin da sha	2910
+中银富登村镇银行	zhong yin fu deng cun zhen yin hang	111
 中印关系	zhong yin guan xi	2540
 中银国际	zhong yin guo ji	5425
 中银淮海苑	zhong yin huai hai yuan	64
@@ -544805,6 +546019,7 @@ sort: by_weight
 中原小区	zhong yuan xiao qu	16
 中原信托	zhong yuan xin tuo	16
 中原一败势难回	zhong yuan yi bai shi nan hui	1
+中原银行	zhong yuan yin hang	111
 中原油气	zhong yuan you qi	1005
 中原油田	zhong yuan you tian	3625
 众怨之的	zhong yuan zhi de	1
@@ -544890,6 +546105,7 @@ sort: by_weight
 重症率	zhong zheng lv	199
 中政委	zhong zheng wei	12
 中正无私	zhong zheng wu si	5
+中证银行指数	zhong zheng yin hang zhi shu	111
 种植	zhong zhi	416330
 终止	zhong zhi	392595
 中止	zhong zhi	109555
@@ -545069,6 +546285,7 @@ sort: by_weight
 中资企业	zhong zi qi ye	6065
 种子钱	zhong zi qian	110
 中子散射	zhong zi san she	125
+中资商业银行	zhong zi shang ye yin hang	111
 种子生活力	zhong zi sheng huo li	1
 种子数	zhong zi shu	9010
 中子态	zhong zi tai	9999
@@ -546163,6 +547380,7 @@ sort: by_weight
 主板市场	zhu ban shi chang	5765
 竹板书	zhu ban shu	95
 主板芯片	zhu ban xin pian	5110
+主办银行	zhu ban yin hang	111
 主办者	zhu ban zhe	12870
 珠蚌	zhu bang	970
 朱邦	zhu bang	3
@@ -547160,6 +548378,7 @@ sort: by_weight
 珠海港	zhu hai gang	215
 珠海国际赛车场	zhu hai guo ji sai che chang	2137
 珠海航展	zhu hai hang zhan	2415
+珠海华润银行	zhu hai hua run yin hang	111
 珠海机场	zhu hai ji chang	613
 珠海经济特区道路交通安全管理条例	zhu hai jing ji te qu dao lu jiao tong an quan guan li tiao li	57
 珠海经济特区伟思	zhu hai jing ji te qu wei si	87
@@ -547478,6 +548697,7 @@ sort: by_weight
 竹江	zhu jiang	18
 珠江长臀𬶏	zhu jiang chang tun wei	1
 珠江村	zhu jiang cun	56
+珠江村镇银行	zhu jiang cun zhen yin hang	111
 珠江道	zhu jiang dao	318
 珠江帝景	zhu jiang di jing	333
 珠江发展中心	zhu jiang fa zhan zhong xin	196
@@ -547745,6 +548965,7 @@ sort: by_weight
 朱丽叶	zhu li ye	7870
 助理也不在线	zhu li ye bu zai xian	68
 助理医师	zhu li yi shi	13755
+助力银行	zhu li yin hang	111
 助理员	zhu li yuan	6175
 助力运动	zhu li yun dong	8
 伫立着	zhu li zhe	2010
@@ -547828,6 +549049,7 @@ sort: by_weight
 主流社会	zhu liu she hui	7540
 朱刘算法	zhu liu suan fa	130
 逐流忘返	zhu liu wang fan	111
+主流银行	zhu liu yin hang	111
 竹笼	zhu long	1835
 猪笼	zhu long	1560
 烛龙	zhu long	175
@@ -549202,10 +550424,12 @@ sort: by_weight
 主要任务	zhu yao ren wu	112320
 主要人物	zhu yao ren wu	10565
 主要人员	zhu yao ren yuan	4630
+主要商业银行	zhu yao shang ye yin hang	111
 主要是	zhu yao shi	500434
 主要市场	zhu yao shi chang	24170
 主要事迹	zhu yao shi ji	2775
 主要事实	zhu yao shi shi	4535
+主要是银行	zhu yao shi yin hang	111
 主要是指	zhu yao shi zhi	37930
 主要数据	zhu yao shu ju	4155
 主要树种	zhu yao shu zhong	1790
@@ -549236,6 +550460,7 @@ sort: by_weight
 主要意思	zhu yao yi si	1530
 主要议题	zhu yao yi ti	6710
 主要义务	zhu yao yi wu	4375
+主要银行	zhu yao yin hang	111
 主要因素	zhu yao yin su	54290
 主要用途	zhu yao yong tu	20980
 主要用于	zhu yao yong yu	152045
@@ -550140,6 +551365,7 @@ sort: by_weight
 转到第	zhuan dao di	56930
 转导物	zhuan dao wu	55
 转导乡	zhuan dao xiang	3
+转到银行卡	zhuan dao yin hang ka	111
 转导子	zhuan dao zi	15
 转的	zhuan de	41385
 赚的	zhuan de	32985
@@ -550816,6 +552042,7 @@ sort: by_weight
 转入	zhuan ru	165730
 转入地	zhuan ru di	2675
 转入地下	zhuan ru di xia	1545
+转入银行	zhuan ru yin hang	111
 转入正常	zhuan ru zheng chang	1095
 转入正题	zhuan ru zheng ti	1615
 转入转出	zhuan ru zhuan chu	52
@@ -551385,6 +552612,7 @@ sort: by_weight
 转账	zhuan zhang	52130
 篆章	zhuan zhang	50
 转账单	zhuan zhang dan	86
+转账到银行卡	zhuan zhang dao yin hang ka	111
 转账截图	zhuan zhang jie tu	181
 转账凭证	zhuan zhang ping zheng	795
 转账业务	zhuan zhang ye wu	1245
@@ -551729,6 +552957,7 @@ sort: by_weight
 庄窠乡	zhuang ke xiang	1
 装口袋	zhuang kou dai	270
 装酷	zhuang ku	4000
+撞库	zhuang ku	1111
 状况	zhuang kuang	500560
 装框	zhuang kuang	785
 状况表	zhuang kuang biao	61
@@ -554286,6 +555515,7 @@ sort: by_weight
 子宫穴	zi gong xue	5
 子宫炎	zi gong yan	885
 子宫移位	zi gong yi wei	2
+自贡银行	zi gong yin hang	111
 子宫圆韧带	zi gong yuan ren dai	2
 自贡站	zi gong zhan	40
 子宫粘连	zi gong zhan lian	28
@@ -554653,6 +555883,7 @@ sort: by_weight
 资金落实	zi jin luo shi	100
 资金面	zi jin mian	5290
 紫金南苑	zi jin nan yuan	25
+紫金农商银行	zi jin nong shang yin hang	111
 紫金盘	zi jin pan	1
 紫金桥	zi jin qiao	145
 资金渠道	zi jin qu dao	4835
@@ -554678,6 +555909,7 @@ sort: by_weight
 资金需求	zi jin xu qiu	11450
 资金压力	zi jin ya li	8400
 资金已落实	zi jin yi luo shi	100
+紫金银行	zi jin yin hang	111
 资金优势	zi jin you shi	4160
 资金有限	zi jin you xian	4505
 资金运用	zi jin yun yong	11685
@@ -557444,6 +558676,7 @@ sort: by_weight
 棕褐叶鰕虎鱼	zong he ye xia hu yu	1
 综合艺术	zong he yi shu	3975
 综合医院	zong he yi yuan	12170
+综合银行	zong he yin hang	111
 综合因素	zong he yin su	5495
 综合营销	zong he ying xiao	615
 综合应用	zong he ying yong	16570
@@ -558454,6 +559687,7 @@ sort: by_weight
 走进去	zou jin qu	13110
 走进群众	zou jin qun zhong	116
 走进校园	zou jin xiao yuan	2890
+走进银行	zou jin yin hang	111
 邹靖	zou jing	4
 邹敬园	zou jing yuan	152
 走就走	zou jiu zou	3040
@@ -559556,6 +560790,7 @@ sort: by_weight
 组织严密	zu zhi yan mi	182
 组织液	zu zhi ye	3215
 组织移植	zu zhi yi zhi	146
+组织银行	zu zhi yin hang	111
 组织因子	zu zhi yin zi	2
 组织院	zu zhi yuan	37
 组织原则	zu zhi yuan ze	6860
@@ -559974,6 +561209,7 @@ sort: by_weight
 最大行程	zui da xing cheng	1970
 最大需量	zui da xu liang	940
 最大页	zui da ye	1
+最大银行	zui da yin hang	111
 最大音量	zui da yin liang	123
 最大赢家	zui da ying jia	132
 最大优点	zui da you dian	9755
@@ -563134,6 +564370,7 @@ sort: by_weight
 坐一坐	zuo yi zuo	3550
 左翼作家	zuo yi zuo jia	161
 左尹	zuo yin	160
+做银行	zuo yin hang	111
 左营	zuo ying	2050
 左萦右拂	zuo ying you fu	111
 作用	zuo yong	501594
@@ -563318,7 +564555,9 @@ sort: by_weight
 左庄	zuo zhuang	8
 作准	zuo zhun	9999
 做准备	zuo zhun bei	44270
+坐桌	zuo zhuo	111
 坐酌泠泠水	zuo zhuo ling ling shui	1
+坐桌前	zuo zhuo qian	111
 坐姿	zuo zi	29875
 座子	zuo zi	1240
 撮子	zuo zi	1111
