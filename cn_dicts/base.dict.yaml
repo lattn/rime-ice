@@ -1512,10 +1512,13 @@
 # 「塞普路斯」→「塞浦路斯」
 # 「话碴」→「话茬」
 # 「三步曲」→「三部曲」
+# 「湿哒哒、湿嗒嗒」→「湿答答」
+# 「蹦哒」→「蹦跶」
+# 「滴嗒、滴哒」→「滴答、嘀嗒」
 #///
 ---
 name: base
-version: "2023-04-15"
+version: "2023-04-16"
 sort: by_weight
 ...
 # +_+
@@ -3596,7 +3599,6 @@ sort: by_weight
 爱死了	ai si le	1775
 爱死了昨天	ai si le zuo tian	1
 艾司洛尔	ai si luo er	41
-爱思美的	ai si mei di	7
 爱斯美娜	ai si mei na	1
 爱死你	ai si ni	1670
 爱死你了	ai si ni le	3065
@@ -4827,6 +4829,7 @@ sort: by_weight
 暗坑	an keng	76
 按空格	an kong ge	2705
 按空格键	an kong ge jian	4340
+安空调	an kong tiao	111
 暗扣	an kou	1505
 按扣儿	an kou er	9999
 暗扣儿	an kou er	111
@@ -6270,6 +6273,7 @@ sort: by_weight
 安装在	an zhuang zai	86155
 安装者	an zhuang zhe	1235
 安装指南	an zhuang zhi nan	3310
+安装中央空调	an zhuang zhong yang kong tiao	111
 安卓	an zhuo	1180
 案桌	an zhuo	1035
 安卓安全	an zhuo an quan	61
@@ -6702,7 +6706,10 @@ sort: by_weight
 奥克利	ao ke li	465
 澳客论坛	ao ke lun tan	17
 澳柯玛	ao ke ma	13905
+澳柯玛空调	ao ke ma kong tiao	111
 奥克斯	ao ke si	39557
+奥克斯空调	ao ke si kong tiao	111
+奥克斯空调维修	ao ke si kong tiao wei xiu	111
 奥克斯汽车	ao ke si qi che	1259
 奥克塔维奥	ao ke ta wei ao	45
 凹坑	ao keng	3755
@@ -13403,6 +13410,7 @@ sort: by_weight
 办公室	ban gong shi	500725
 办公事	ban gong shi	855
 办公时间	ban gong shi jian	9735
+办公室空调	ban gong shi kong tiao	111
 办公室联系	ban gong shi lian xi	111
 办公室内	ban gong shi nei	6940
 办公事务	ban gong shi wu	2005
@@ -15053,6 +15061,8 @@ sort: by_weight
 帮内	bang nei	2395
 帮你	bang ni	230745
 帮你顶	bang ni ding	4795
+帮你看	bang ni kan	333
+帮你砍	bang ni kan	111
 帮你忙	bang ni mang	1755
 帮你们	bang ni men	7645
 帮你弄	bang ni nong	187
@@ -15136,6 +15146,8 @@ sort: by_weight
 帮我踩空间	bang wo cai kong jian	35
 帮我查查	bang wo cha cha	272
 帮我点个赞	bang wo dian ge zan	111
+帮我看	bang wo kan	333
+帮我砍	bang wo kan	111
 帮我看看	bang wo kan kan	6695
 帮我砍一刀	bang wo kan yi dao	111
 帮我们	bang wo men	29565
@@ -16620,6 +16632,7 @@ sort: by_weight
 包括机	bao kuo ji	60
 包括家	bao kuo jia	86
 包括进	bao kuo jin	300
+包括空调	bao kuo kong tiao	111
 包括会计	bao kuo kuai ji	111
 包括了	bao kuo le	106035
 包括美国	bao kuo mei guo	13340
@@ -16664,6 +16677,7 @@ sort: by_weight
 保了	bao le	5130
 剥了	bao le	1180
 报了案	bao le an	5020
+包了点	bao le dian	111
 报了个假名	bao le ge jia ming	65
 抱了个空	bao le ge kong	8
 抱了个满怀	bao le ge man huai	31
@@ -17419,8 +17433,10 @@ sort: by_weight
 趵突泉景区	bao tu quan jing qu	1
 胞吐作用	bao tu zuo yong	4
 抱团	bao tuan	4290
+报团	bao tuan	111
 抱团儿	bao tuan er	90
 报团股	bao tuan gu	72
+报团旅游	bao tuan lv you	111
 抱团养老	bao tuan yang lao	144
 包退	bao tui	9215
 包退包换	bao tui bao huan	4390
@@ -18481,6 +18497,7 @@ sort: by_weight
 北部湾	bei bu wan	21740
 北部湾海域	bei bu wan hai yu	380
 北部湾拉伪蝎	bei bu wan la wei xie	1
+背不完了	bei bu wan le	111
 北部湾银行	bei bu wan yin hang	111
 北部新区	bei bu xin qu	4900
 被捕者	bei bu zhe	620
@@ -19749,6 +19766,8 @@ sort: by_weight
 北京科技大学北门	bei jing ke ji da xue bei men	6
 北京科锐	bei jing ke rui	2
 北京科兴中维	bei jing ke xing zhong wei	155
+北京空调	bei jing kong tiao	111
+北京空调维修	bei jing kong tiao wei xiu	111
 北京口腔医学	bei jing kou qiang yi xue	1
 北京会计从业资格	bei jing kuai ji cong ye zi ge	111
 北京辣菜	bei jing la cai	10
@@ -20813,6 +20832,8 @@ sort: by_weight
 被伤害	bei shang hai	6785
 背上来	bei shang lai	130
 背上了	bei shang le	6440
+备上了	bei shang le	222
+被上了	bei shang le	111
 倍赏美津子	bei shang mei jin zi	1
 北上坡村	bei shang po cun	4
 倍赏千惠子	bei shang qian hui zi	10
@@ -20934,6 +20955,7 @@ sort: by_weight
 被耍	bei shua	9999
 被刷	bei shua	111
 被耍了	bei shua le	9999
+被刷了	bei shua le	111
 被刷新	bei shua xin	2175
 被甩	bei shuai	6570
 被摔	bei shuai	111
@@ -21459,6 +21481,8 @@ sort: by_weight
 背义	bei yi	615
 鐾一鐾	bei yi bei	11
 被译成	bei yi cheng	3010
+备一点	bei yi dian	2222
+背一点	bei yi dian	111
 北一东路	bei yi dong lu	37
 被依法	bei yi fa	24530
 被依法逮捕	bei yi fa dai bu	1100
@@ -21648,8 +21672,10 @@ sort: by_weight
 背着	bei zhe	102485
 被这	bei zhe	40280
 备着	bei zhe	3333
+备着点	bei zhe dian	111
 被这个	bei zhe ge	13660
 北辙南辕	bei zhe nan yuan	103
+备着呢	bei zhe ne	111
 背着呢	bei zhe ne	50
 背着手	bei zhe shou	3550
 背着书包	bei zhe shu bao	172
@@ -23097,7 +23123,9 @@ sort: by_weight
 秕谷子	bi gu zi	385
 壁挂	bi gua	17025
 避瓜防李	bi gua fang li	111
+壁挂空调	bi gua kong tiao	111
 壁挂式	bi gua shi	7505
+壁挂式空调	bi gua shi kong tiao	111
 闭关	bi guan	16260
 闭馆	bi guan	4290
 笔管	bi guan	1665
@@ -26118,8 +26146,10 @@ sort: by_weight
 变频	bian pin	45145
 变频电机	bian pin dian ji	1615
 变频空调	bian pin kong tiao	5470
+变频冷暖空调	bian pin leng nuan kong tiao	111
 变频器	bian pin qi	98595
 变频调速	bian pin tiao su	12780
+变频中央空调	bian pin zhong yang kong tiao	111
 扁平	bian ping	38375
 变平	bian ping	2430
 边评边	bian ping bian	8
@@ -26523,6 +26553,7 @@ sort: by_weight
 便携式	bian xie shi	78430
 便携式多功能机	bian xie shi duo gong neng ji	87
 便携式计算机	bian xie shi ji suan ji	50
+便携式空调	bian xie shi kong tiao	111
 便携油箱	bian xie you xiang	7
 编写者	bian xie zhe	6145
 变心	bian xin	15330
@@ -29831,6 +29862,7 @@ sort: by_weight
 冰箱病	bing xiang bing	25
 冰箱厂	bing xiang chang	820
 兵相骀藉	bing xiang dai ji	1
+冰箱空调	bing xiang kong tiao	111
 冰箱里	bing xiang li	18415
 冰箱门	bing xiang men	1740
 冰箱压缩	bing xiang ya suo	12500
@@ -33160,6 +33192,7 @@ sort: by_weight
 不赶紧	bu gan jin	1111
 不干净	bu gan jing	18315
 不敢开车	bu gan kai che	181
+不敢开空调	bu gan kai kong tiao	111
 不敢看	bu gan kan	3333
 不敢肯定	bu gan ken ding	1825
 不敢来啦	bu gan lai la	1
@@ -34423,6 +34456,7 @@ sort: by_weight
 不开化	bu kai hua	450
 不开机	bu kai ji	4565
 不开机听	bu kai ji ting	16
+不开空调	bu kai kong tiao	111
 不开口	bu kai kou	4940
 不开口笑是痴人	bu kai kou xiao shi chi ren	2
 不开门	bu kai men	2660
@@ -35521,6 +35555,7 @@ sort: by_weight
 不能充分	bu neng chong fen	10270
 不能处理	bu neng chu li	2910
 不能触摸	bu neng chu mo	415
+不能吹空调	bu neng chui kong tiao	111
 不能错	bu neng cuo	3985
 不能大意	bu neng da yi	135
 不能打游戏	bu neng da you xi	152
@@ -35575,6 +35610,7 @@ sort: by_weight
 不能进	bu neng jin	7225
 不能竟书而欲搁笔	bu neng jing shu er yu ge bi	7
 不能开	bu neng kai	3620
+不能开空调	bu neng kai kong tiao	111
 不能看	bu neng kan	8340
 不能克服	bu neng ke fu	2310
 不能控制	bu neng kong zhi	13450
@@ -38170,6 +38206,7 @@ sort: by_weight
 不晓得在	bu xiao de zai	285
 不消化	bu xiao hua	1460
 不孝敬	bu xiao jing	144
+不校考	bu xiao kao	111
 不小了	bu xiao le	6660
 布小林	bu xiao lin	182
 不小吗	bu xiao ma	1180
@@ -40511,6 +40548,7 @@ sort: by_weight
 才堪八面	cai kan ba mian	1
 才看出	cai kan chu	1340
 才看到	cai kan dao	10995
+才看得见	cai kan de jian	111
 蔡康永	cai kang yong	834
 财考网	cai kao wang	130
 才可	cai ke	129975
@@ -45718,6 +45756,7 @@ sort: by_weight
 拆招	chai zhao	2320
 拆装	chai zhuang	34245
 拆装费	chai zhuang fei	67
+拆装空调	chai zhuang kong tiao	111
 拆字	chai zi	2970
 柴宗训	chai zong xun	1
 缠绑	chan bang	9999
@@ -47095,6 +47134,7 @@ sort: by_weight
 长虹华意	chang hong hua yi	103
 长虹集团	chang hong ji tuan	2150
 长虹科技大厦	chang hong ke ji da sha	13
+长虹空调	chang hong kong tiao	111
 常红利	chang hong li	1
 唱红脸	chang hong lian	465
 长虹路	chang hong lu	463
@@ -48110,6 +48150,7 @@ sort: by_weight
 长时记忆	chang shi ji yi	16
 长时间	chang shi jian	198115
 长时间不联系	chang shi jian bu lian xi	111
+长时间吹空调	chang shi jian chui kong tiao	111
 长时间的	chang shi jian de	42890
 长时间了	chang shi jian le	5225
 常识课	chang shi ke	790
@@ -50597,6 +50638,7 @@ sort: by_weight
 车辆管理	che liang guan li	19215
 车辆管理所	che liang guan li suo	17935
 车辆检测	che liang jian ce	2310
+车辆空调	che liang kong tiao	111
 车辆类别	che liang lei bie	3230
 车辆类型	che liang lei xing	6805
 车辆模型	che liang mo xing	1550
@@ -50676,8 +50718,10 @@ sort: by_weight
 车南里社区	che nan li she qu	1
 车内	che nei	150290
 彻内彻外	che nei che wai	111
+车内的空调	che nei de kong tiao	111
 车内广告牌	che nei guang gao pai	10
 车内后视镜	che nei hou shi jing	1586
+车内空调	che nei kong tiao	111
 车内尾部招贴	che nei wei bu zhao tie	1
 车内温度传感器	che nei wen du chuan gan qi	25
 车内阅读灯	che nei yue du deng	127
@@ -50902,6 +50946,7 @@ sort: by_weight
 撤营	che ying	630
 车营	che ying	18
 车用	che yong	45595
+车用空调	che yong kong tiao	111
 车用汽油	che yong qi you	2265
 车友	che you	63995
 车友互联	che you hu lian	65
@@ -50927,6 +50972,8 @@ sort: by_weight
 车载对讲机	che zai dui jiang ji	397
 车载后座娱乐系统	che zai hou zuo yu le xi tong	1
 车载互联系统	che zai hu lian xi tong	111
+车载空调	che zai kong tiao	111
+车载空调扇	che zai kong tiao shan	111
 车在马前	che zai ma qian	3
 车仔面	che zai mian	1118
 车载逆变器	che zai ni bian qi	345
@@ -59520,6 +59567,7 @@ sort: by_weight
 触控笔	chu kong bi	3165
 触控开关	chu kong kai guan	25
 触控式	chu kong shi	2135
+触控式空调面板	chu kong shi kong tiao mian ban	111
 出口	chu kou	500560
 出口包装	chu kou bao zhuang	2030
 出口部	chu kou bu	1760
@@ -61908,6 +61956,7 @@ sort: by_weight
 传统剧目	chuan tong ju mu	3250
 传统课	chuan tong ke	21
 传统科学	chuan tong ke xue	37
+传统空调	chuan tong kong tiao	111
 传统会计	chuan tong kuai ji	111
 传统蓝牙	chuan tong lan ya	212
 传统礼仪	chuan tong li yi	155
@@ -62563,6 +62612,7 @@ sort: by_weight
 创维	chuang wei	1
 床位费	chuang wei fei	4080
 创维集团	chuang wei ji tuan	4810
+创维空调	chuang wei kong tiao	111
 创未来	chuang wei lai	108
 创伟业	chuang wei ye	195
 床戏	chuang xi	5755
@@ -62952,6 +63002,7 @@ sort: by_weight
 吹开	chui kai	3490
 吹糠见米	chui kang jian mi	107
 吹壳子	chui ke zi	15
+吹空调	chui kong tiao	111
 吹口哨	chui kou shao	6030
 吹喇叭	chui la ba	1910
 吹拉弹唱	chui la tan chang	1870
@@ -63185,6 +63236,7 @@ sort: by_weight
 吹胀	chui zhang	725
 吹着	chui zhe	20395
 垂着	chui zhe	5755
+吹着空调	chui zhe kong tiao	111
 垂着手	chui zhe shou	160
 垂着头	chui zhe tou	3590
 垂直	chui zhi	218820
@@ -63622,6 +63674,8 @@ sort: by_weight
 春来枕星河	chun lai zhen xing he	129
 春兰	chun lan	32965
 纯蓝	chun lan	2905
+春兰空调	chun lan kong tiao	111
+春兰空调维修	chun lan kong tiao wei xiu	111
 春兰牌	chun lan pai	105
 春兰秋菊	chun lan qiu ju	345
 春兰如美人	chun lan ru mei ren	1
@@ -64085,6 +64139,7 @@ sort: by_weight
 逴俗绝物	chuo su jue wu	1
 啜粟饮水	chuo su yin shui	1
 戳无路儿	chuo wu lu er	1
+戳心	chuo xin	111
 辍学	chuo xue	36475
 辍学率	chuo xue lv	4620
 辍演	chuo yan	20
@@ -65096,6 +65151,7 @@ sort: by_weight
 慈萱	ci xuan	35
 磁悬浮	ci xuan fu	9325
 磁悬浮列车	ci xuan fu lie che	5075
+磁悬浮中央空调	ci xuan fu zhong yang kong tiao	111
 磁选机	ci xuan ji	4155
 磁学	ci xue	3490
 词学	ci xue	3245
@@ -67980,10 +68036,10 @@ sort: by_weight
 大案要案	da an yao an	13935
 答案纸	da an zhi	275
 大案子	da an zi	945
-大澳	da ao	1420
 大袄	da ao	305
+大澳	da ao	142
 大凹	da ao	24
-大岙	da ao	15
+大岙村	da ao cun	15
 大澳大利亚湾	da ao da li ya wan	5
 大奥迪	da ao di	162
 大岙溪	da ao xi	3
@@ -67991,8 +68047,8 @@ sort: by_weight
 大巴	da ba	53785
 大把	da ba	26605
 打吧	da ba	5630
-打把	da ba	5300
 打靶	da ba	5285
+打把	da ba	1300
 大坝	da ba	536
 打靶场	da ba chang	235
 大巴车	da ba che	4955
@@ -68746,10 +68802,10 @@ sort: by_weight
 大大	da da	500293
 打打	da da	20545
 大打	da da	14310
-哒哒	da da	9999
-达达	da da	9480
-鞑靼	da da	5145
 嗒嗒	da da	5085
+哒哒	da da	999
+达达	da da	948
+鞑靼	da da	51
 打打包	da da bao	229
 大大超过	da da chao guo	13795
 大大超越	da da chao yue	970
@@ -70600,6 +70656,10 @@ sort: by_weight
 大金刚轮印	da jin gang lun yin	100
 大金鸡菊	da jin ji ju	1
 大浸稽天而不溺	da jin ji tian er bu ni	2
+大金家用中央空调	da jin jia yong zhong yang kong tiao	111
+大金空调	da jin kong tiao	111
+大金空调售后	da jin kong tiao shou hou	111
+大金空调维修	da jin kong tiao wei xiu	111
 大津口	da jin kou	5
 大金矿	da jin kuang	610
 打进来	da jin lai	2520
@@ -70616,6 +70676,7 @@ sort: by_weight
 打金枝	da jin zhi	665
 大金钟	da jin zhong	189
 大金钟路	da jin zhong lu	91
+大金中央空调	da jin zhong yang kong tiao	111
 大惊	da jing	39755
 打井	da jing	9145
 大经	da jing	4735
@@ -70734,6 +70795,7 @@ sort: by_weight
 打开过	da kai guo	1945
 打开话匣	da kai hua xia	750
 大开间	da kai jian	3595
+打开空调	da kai kong tiao	111
 大开口	da kai kou	810
 打开了	da kai le	105885
 打开了吗	da kai le ma	185
@@ -70808,6 +70870,7 @@ sort: by_weight
 打孔机	da kong ji	3730
 打孔卡	da kong ka	30
 打孔器	da kong qi	750
+打空调	da kong tiao	111
 大口	da kou	29665
 搭扣	da kou	5020
 大口大口	da kou da kou	10065
@@ -73655,6 +73718,7 @@ sort: by_weight
 大兴街	da xing jie	48
 大型客车	da xing ke che	9285
 大型客机	da xing ke ji	1875
+大型空调	da xing kong tiao	111
 大行李箱	da xing li xiang	177
 大行令	da xing ling	1
 大兴煤矿	da xing mei kuang	810
@@ -73710,6 +73774,7 @@ sort: by_weight
 大兴影剧院	da xing ying ju yuan	7
 大兴寨	da xing zhai	20
 大行政区	da xing zheng qu	340
+大型中央空调	da xing zhong yang kong tiao	111
 大兴中医院	da xing zhong yi yuan	2
 大兴庄	da xing zhuang	15
 大邢庄乡	da xing zhuang xiang	3
@@ -75366,6 +75431,7 @@ sort: by_weight
 代课老师	dai ke lao shi	2950
 戴克斯	dai ke si	156
 待客之道	dai ke zhi dao	1905
+带空调	dai kong tiao	111
 代扣	dai kou	12625
 袋口	dai kou	6410
 代扣代缴	dai kou dai jiao	21824
@@ -77159,6 +77225,7 @@ sort: by_weight
 担了	dan le	1985
 蛋类	dan lei	14950
 单类型	dan lei xing	165
+单冷空调	dan leng kong tiao	111
 但离	dan li	9999
 单利	dan li	7805
 单例	dan li	5555
@@ -78552,6 +78619,7 @@ sort: by_weight
 当地含量	dang di han liang	180
 当地警察	dang di jing cha	1625
 当地居民	dang di ju min	25090
+当地空调旅游车	dang di kong tiao lv you che	111
 当地人	dang di ren	56730
 当地人民银行	dang di ren min yin hang	111
 荡涤谁氏子	dang di shei shi zi	2
@@ -83261,8 +83329,8 @@ sort: by_weight
 迪达	di da	1
 嘀嗒嘀嗒	di da di da	2205
 抵达赛	di da sai	10
-滴嗒声	di da sheng	115
-嘀嗒团	di da tuan	535
+嘀嗒声	di da sheng	115
+滴答声	di da sheng	115
 地大物博	di da wu bo	4880
 狄达缘蝽	di da yuan chun	1
 抵达站	di da zhan	100
@@ -85064,6 +85132,7 @@ sort: by_weight
 低扭	di niu	2485
 低浓度	di nong du	7310
 地暖	di nuan	9999
+地暖空调	di nuan kong tiao	111
 迪诺	di nuo	2
 蒂诺	di nuo	1
 底诺金小蜂	di nuo jin xiao feng	1
@@ -88775,6 +88844,7 @@ sort: by_weight
 电动机构	dian dong ji gou	310
 电动间隙牵引床	dian dong jian xi qian yin chuang	1
 电动绞盘	dian dong jiao pan	715
+电动空调	dian dong kong tiao	111
 电动力学	dian dong li xue	2190
 电动轮椅	dian dong lun yi	450
 电动螺丝刀	dian dong luo si dao	645
@@ -89572,7 +89642,7 @@ sort: by_weight
 电脑键盘	dian nao jian pan	4410
 电脑教室	dian nao jiao shi	2050
 电脑节	dian nao jie	3020
-电脑界	dian nao jie	920
+电脑堺	dian nao jie	1
 电脑课	dian nao ke	1680
 电脑科技	dian nao ke ji	10370
 电脑款	dian nao kuan	68
@@ -89905,6 +89975,7 @@ sort: by_weight
 电视剧审查管理规定	dian shi ju shen cha guan li gui ding	37
 电视剧室	dian shi ju shi	1
 电视卡	dian shi ka	12015
+电视空调	dian shi kong tiao	111
 电视栏目	dian shi lan mu	6280
 电视里	dian shi li	24595
 电视连续剧	dian shi lian xu ju	26275
@@ -92359,6 +92430,7 @@ sort: by_weight
 订票费	ding piao fei	1245
 订票热线	ding piao re xian	10060
 订票系统	ding piao xi tong	430
+定频空调	ding pin kong tiao	111
 定评	ding ping	9999
 顶平小食心虫	ding ping xiao shi xin chong	1
 鼎普打印刻录安全监控与审计系统	ding pu da yin ke lu an quan jian kong yu shen ji xi tong	87
@@ -92395,6 +92467,7 @@ sort: by_weight
 顶起来	ding qi lai	9945
 定期联系	ding qi lian xi	111
 定期清理	ding qi qing li	4055
+定期清洗空调	ding qi qing xi kong tiao	111
 定期审计	ding qi shen ji	685
 定期维护	ding qi wei hu	3900
 定期维修	ding qi wei xiu	1000
@@ -92516,6 +92589,7 @@ sort: by_weight
 鼎司费万钱	ding si fei wan qian	1
 顶死你	ding si ni	107
 定速度	ding su du	270
+定速空调	ding su kong tiao	111
 定速巡航	ding su xun hang	7570
 丁酸	ding suan	5596
 丁酸苄酯	ding suan bian zhi	5
@@ -92880,6 +92954,7 @@ sort: by_weight
 丁志成	ding zhi cheng	4
 定制费	ding zhi fei	90
 鼎峙瓜分	ding zhi gua fen	111
+顶置空调	ding zhi kong tiao	111
 定制屏	ding zhi ping	65
 定制软件	ding zhi ruan jian	1435
 定职位	ding zhi wei	70
@@ -93506,6 +93581,7 @@ sort: by_weight
 懂得比	dong de bi	310
 动得比	dong de bi	260
 冻得比	dong de bi	45
+冻得不行	dong de bu xing	111
 东德德牧	dong de de mu	2
 懂得都懂	dong de dou dong	82
 懂得感恩	dong de gan en	123
@@ -93516,6 +93592,7 @@ sort: by_weight
 懂得如何	dong de ru he	14480
 懂得生活	dong de sheng huo	4240
 冻得像	dong de xiang	260
+冻得要死	dong de yao si	111
 懂得一点	dong de yi dian	955
 咚的一声	dong de yi sheng	100
 懂得珍惜	dong de zhen xi	12745
@@ -96106,6 +96183,7 @@ sort: by_weight
 东芝公司	dong zhi gong si	3490
 冬之花	dong zhi hua	116
 动殖科	dong zhi ke	1
+东芝空调	dong zhi kong tiao	111
 东直门	dong zhi men	20070
 东直门北小街北口	dong zhi men bei xiao jie bei kou	10
 东直门北小街南口	dong zhi men bei xiao jie nan kou	12
@@ -96128,6 +96206,7 @@ sort: by_weight
 东智义胡同	dong zhi yi hu tong	11
 动之以情	dong zhi yi qing	8125
 冬之韵	dong zhi yun	126
+东芝中央空调	dong zhi zhong yang kong tiao	111
 洞中	dong zhong	35820
 冬种	dong zhong	7777
 动众	dong zhong	640
@@ -98024,6 +98103,7 @@ sort: by_weight
 肚里打稿	du li da gao	1
 独立党	du li dang	475
 杜立德	du li de	172
+独立的空调出风口	du li de kong tiao chu feng kou	111
 独立电影	du li dian ying	137
 独立订约人	du li ding yue ren	1405
 独立董事	du li dong shi	53180
@@ -98046,6 +98126,7 @@ sort: by_weight
 独立开发	du li kai fa	9590
 独立开发者	du li kai fa zhe	596
 独立客户	du li ke hu	245
+独立空调	du li kong tiao	111
 独立控制	du li kong zhi	5275
 肚里泪下	du li lei xia	1
 肚里落泪	du li luo lei	1
@@ -103025,6 +103106,7 @@ sort: by_weight
 躲在暗处	duo zai an chu	2590
 多灾多难	duo zai duo nan	3770
 多灾多难的一年	duo zai duo nan de yi nian	100
+躲在空调房里	duo zai kong tiao fang li	111
 多咱	duo zan	735
 多遭	duo zao	780
 多则	duo ze	26220
@@ -105901,6 +105983,8 @@ sort: by_weight
 二手家具	er shou jia ju	3890
 二手轿车	er shou jiao che	17695
 二手交易	er shou jiao yi	12895
+二手空调	er shou kong tiao	111
+二手空调回收	er shou kong tiao hui shou	111
 二手楼盘	er shou lou pan	250
 二手买卖	er shou mai mai	1000
 二手片	er shou pian	1
@@ -105916,6 +106000,7 @@ sort: by_weight
 二手烟	er shou yan	4175
 二手仪器	er shou yi qi	1255
 二手原装	er shou yuan zhuang	1015
+二手中央空调	er shou zhong yang kong tiao	111
 耳熟	er shu	9645
 二叔	er shu	2925
 二数	er shu	1140
@@ -111008,6 +111093,9 @@ sort: by_weight
 放包袱	fang bao fu	9999
 防暴警	fang bao jing	9999
 防暴警察	fang bao jing cha	1555
+防爆空调	fang bao kong tiao	111
+防爆空调厂家	fang bao kong tiao chang jia	111
+防爆空调机	fang bao kong tiao ji	111
 防爆膜	fang bao mo	12890
 防爆区	fang bao qu	228
 防暴犬	fang bao quan	151
@@ -111560,6 +111648,7 @@ sort: by_weight
 仿佛看到	fang fu kan dao	3065
 仿佛看见	fang fu kan jian	1705
 鲂𫚒科	fang fu ke	1
+防腐空调	fang fu kong tiao	111
 防腐木	fang fu mu	2925
 仿佛若有光	fang fu ruo you guang	22
 防辐射	fang fu she	27375
@@ -111865,6 +111954,8 @@ sort: by_weight
 房间隔缺损封堵术	fang jian ge que sun feng du shu	7
 房间隔缺损修补术	fang jian ge que sun xiu bu shu	11
 房间号	fang jian hao	17335
+房间空调	fang jian kong tiao	111
+房间空调器	fang jian kong tiao qi	111
 房间里	fang jian li	112240
 纺建路	fang jian lu	37
 房间内	fang jian nei	30120
@@ -114419,6 +114510,7 @@ sort: by_weight
 非科学	fei ke xue	2305
 肺科医院	fei ke yi yuan	371
 非空	fei kong	21280
+非空调	fei kong tiao	111
 非控制	fei kong zhi	560
 费口舌	fei kou she	1315
 飞跨	fei kua	515
@@ -116970,11 +117062,13 @@ sort: by_weight
 分区大小	fen qu da xiao	2835
 分区规划	fen qu gui hua	6545
 分区结束扇区	fen qu jie shu shan qu	60
+分区空调	fen qu kong tiao	111
 分区类型	fen qu lei xing	2005
 分区魔术师	fen qu mo shu shi	1450
 分区起始扇区	fen qu qi shi shan qu	60
 分区赛	fen qu sai	910
 分区制	fen qu zhi	280
+分区自动空调	fen qu zi dong kong tiao	111
 分权	fen quan	24370
 酚醛	fen quan	7680
 粉拳	fen quan	2620
@@ -117215,7 +117309,9 @@ sort: by_weight
 分桃断袖	fen tao duan xiu	111
 分体	fen ti	16760
 分题	fen ti	3690
+分体空调	fen ti kong tiao	111
 分体式	fen ti shi	10235
+分体式空调	fen ti shi kong tiao	111
 分田地	fen tian di	100
 分田分地真忙	fen tian fen di zhen mang	11
 粉条	fen tiao	18601
@@ -119209,6 +119305,7 @@ sort: by_weight
 逢山开道	feng shan kai dao	49
 逢山开路	feng shan kai lu	832
 逢山开路遇水搭桥	feng shan kai lu yu shui da qiao	30
+风扇空调	feng shan kong tiao	111
 凤山路	feng shan lu	91
 凤山妈祖	feng shan ma zu	6
 凤山门	feng shan men	53
@@ -122848,6 +122945,12 @@ sort: by_weight
 抚摩着	fu mo zhe	1062
 肤末支离	fu mo zhi li	1
 夫莫之命而常自然	fu mo zhi ming er chang zi ran	1
+付某	fu mou	111
+傅某	fu mou	111
+符某	fu mou	111
+付某某	fu mou mou	111
+傅某某	fu mou mou	111
+符某某	fu mou mou	111
 父母	fu mu	500635
 腐木不可以为柱	fu mu bu ke yi wei zhu	1
 父母不要	fu mu bu yao	1585
@@ -125801,6 +125904,7 @@ sort: by_weight
 改朝换姓	gai chao huan xing	6
 钙超载	gai chao zai	195
 该车	gai che	61010
+该车配备自动空调	gai che pei bei zi dong kong tiao	111
 该车主	gai che zhu	1682
 改成	gai cheng	120150
 改称	gai cheng	33350
@@ -129831,6 +129935,7 @@ sort: by_weight
 高端	gao duan	287875
 高段	gao duan	3420
 高端产品	gao duan chan pin	26320
+高端空调	gao duan kong tiao	111
 高端理财	gao duan li cai	189
 高端人才	gao duan ren cai	146
 高对比度	gao dui bi du	5590
@@ -131523,6 +131628,7 @@ sort: by_weight
 高校教师	gao xiao jiao shi	14010
 高效节能	gao xiao jie neng	19020
 高效开发	gao xiao kai fa	607
+高效空调	gao xiao kong tiao	111
 高效快捷	gao xiao kuai jie	4035
 高校扩招计划	gao xiao kuo zhao ji hua	15
 搞笑类	gao xiao lei	3215
@@ -132837,6 +132943,7 @@ sort: by_weight
 格兰仕	ge lan shi	25905
 革兰氏	ge lan shi	4290
 格兰仕厂	ge lan shi chang	3
+格兰仕空调	ge lan shi kong tiao	111
 革兰氏染色	ge lan shi ran se	17
 革兰氏染色阳性	ge lan shi ran se yang xing	1
 革兰氏染液	ge lan shi ran ye	1
@@ -132896,9 +133003,11 @@ sort: by_weight
 格里	ge li	1
 # 格利	ge li	0
 隔离板	ge li ban	460
+格力变频空调	ge li bian pin kong tiao	111
 隔离变压器	ge li bian ya qi	2030
 隔离病房	ge li bing fang	1345
 隔离带	ge li dai	10385
+格力的空调	ge li de kong tiao	111
 格力地产	ge li di chan	98
 格力电器	ge li dian qi	7840
 隔离电压	ge li dian ya	1155
@@ -132909,6 +133018,7 @@ sort: by_weight
 格里恩	ge li en	101
 隔离法	ge li fa	915
 格里发伊亚牡蛎	ge li fa yi ya mu li	1
+格力防爆空调	ge li fang bao kong tiao	111
 隔离放大器	ge li fang da qi	800
 格里芬	ge li fen	3320
 格里芬凡丁犬	ge li fen fan ding quan	22
@@ -132926,10 +133036,14 @@ sort: by_weight
 蛤蜊鲫鱼	ge li ji yu	9
 隔离机制	ge li ji zhi	742
 隔离假	ge li jia	118
+格力家用空调	ge li jia yong kong tiao	111
+格力家用中央空调	ge li jia yong zhong yang kong tiao	111
 隔离卡	ge li ka	1435
 隔离开关	ge li kai guan	5590
 隔离考场	ge li kao chang	132
 格力空调	ge li kong tiao	8565
+格力空调售后	ge li kong tiao shou hou	111
+格力空调维修	ge li kong tiao wei xiu	111
 隔离栏	ge li lan	1390
 格里历	ge li li	445
 格里利什	ge li li shi	147
@@ -132971,6 +133085,7 @@ sort: by_weight
 隔离政策	ge li zheng ce	108
 隔离证明	ge li zheng ming	109
 隔离中	ge li zhong	112
+格力中央空调	ge li zhong yang kong tiao	111
 隔离柱	ge li zhu	320
 格里兹曼	ge li zi man	178
 哥俩	ge lia	8280
@@ -134163,6 +134278,7 @@ sort: by_weight
 各种技术	ge zhong ji shu	2661
 各种机型	ge zhong ji xing	2695
 各种锦纶	ge zhong jin lun	1
+各种空调	ge zhong kong tiao	111
 各种款式	ge zhong kuan shi	5065
 各种困难	ge zhong kun nan	13950
 各种类型	ge zhong lei xing	52825
@@ -135140,6 +135256,8 @@ sort: by_weight
 更换电池	geng huan dian chi	136
 更换电瓶	geng huan dian ping	262
 更换费用	geng huan fei yong	545
+更换空调	geng huan kong tiao	111
+更换空调滤芯	geng huan kong tiao lv xin	111
 更换了	geng huan le	17925
 更换器	geng huan qi	55
 更换前	geng huan qian	84
@@ -138395,6 +138513,7 @@ sort: by_weight
 共享共建	gong xiang gong jian	138
 共享共赢	gong xiang gong ying	175
 共享控件	gong xiang kong jian	13
+共享空调	gong xiang kong tiao	111
 宫巷口	gong xiang kou	1
 共享库	gong xiang ku	8179
 共享里	gong xiang li	67
@@ -138647,6 +138766,7 @@ sort: by_weight
 工业局	gong ye ju	11000
 工业咖啡	gong ye ka fei	227
 工业科学研究所	gong ye ke xue yan jiu suo	10
+工业空调	gong ye kong tiao	111
 工业控制	gong ye kong zhi	15665
 工业控制系统	gong ye kong zhi xi tong	110
 工业会计	gong ye kuai ji	111
@@ -143054,6 +143174,7 @@ sort: by_weight
 挂包	gua bao	2445
 刮北风	gua bei feng	280
 刮臂	gua bi	313
+挂壁式空调	gua bi shi kong tiao	111
 刮鼻子	gua bi zi	235
 挂匾	gua bian	540
 挂表	gua biao	805
@@ -143243,6 +143364,7 @@ sort: by_weight
 挂记	gua ji	400
 挂机版	gua ji ban	90
 刮肌贯骨	gua ji guan gu	111
+挂机空调	gua ji kong tiao	111
 挂几天	gua ji tian	64
 挂机外挂	gua ji wai gua	695
 挂机网	gua ji wang	62
@@ -143431,6 +143553,7 @@ sort: by_weight
 挂饰	gua shi	8050
 挂式	gua shi	5650
 刮匙	gua shi	6
+挂式空调	gua shi kong tiao	111
 挂失手续	gua shi shou xu	2205
 挂失银行卡	gua shi yin hang ka	111
 瓜什则乡	gua shi ze xiang	2
@@ -143817,6 +143940,7 @@ sort: by_weight
 关闭键盘	guan bi jian pan	718
 关闭进程句柄	guan bi jin cheng ju bing	24
 关闭句柄	guan bi ju bing	470
+关闭空调	guan bi kong tiao	111
 关闭了	guan bi le	31880
 贯薜荔之落蕊	guan bi li zhi luo rui	1
 关闭率	guan bi lv	75
@@ -143982,6 +144106,7 @@ sort: by_weight
 贯穿南北	guan chuan nan bei	1695
 贯穿融会	guan chuan rong hui	1
 贯穿伤	guan chuan shang	106
+贯穿式空调出风口	guan chuan shi kong tiao chu feng kou	111
 贯穿始终	guan chuan shi zhong	15180
 贯穿于	guan chuan yu	47800
 贯穿着	guan chuan zhe	7050
@@ -144063,6 +144188,7 @@ sort: by_weight
 观点相同	guan dian xiang tong	540
 观点一致	guan dian yi zhi	925
 关掉	guan diao	69425
+关掉空调	guan diao kong tiao	1111
 灌顶	guan ding	13045
 # 关定	guan ding	0
 灌顶醍醐	guan ding ti hu	111
@@ -144513,6 +144639,7 @@ sort: by_weight
 管控	guan kong	27100
 管控部	guan kong bu	64
 管控措施落实	guan kong cuo shi luo shi	100
+关空调	guan kong tiao	1111
 关口	guan kou	58420
 贯口	guan kou	9999
 管口	guan kou	6990
@@ -148280,6 +148407,7 @@ sort: by_weight
 鬼计百端	gui ji bai duan	1
 诡计多端	gui ji duo duan	3125
 轨迹方程	gui ji fang cheng	630
+柜机空调	gui ji kong tiao	111
 桂楫兰桡	gui ji lan rao	2
 鬼机灵	gui ji ling	235
 轨迹模型	gui ji mo xing	11
@@ -148721,7 +148849,9 @@ sort: by_weight
 柜式	gui shi	3333
 硅石	gui shi	2895
 鬼似的	gui shi de	945
+柜式防爆空调	gui shi fang bao kong tiao	111
 归十归一	gui shi gui yi	1
+柜式空调	gui shi kong tiao	111
 归师莫掩	gui shi mo yan	111
 鬼使神差	gui shi shen chai	8130
 归师勿掩	gui shi wu yan	111
@@ -149511,6 +149641,7 @@ sort: by_weight
 国产机	guo chan ji	2250
 国产轿车	guo chan jiao che	4085
 国产精品	guo chan jing pin	1480
+国产空调	guo chan kong tiao	111
 国产年华	guo chan nian hua	1
 国产牛奶	guo chan niu nai	65
 国产片	guo chan pian	3285
@@ -153546,12 +153677,14 @@ sort: by_weight
 海尔集团	hai er ji tuan	21430
 孩儿菊	hai er ju	2
 海尔空调	hai er kong tiao	3490
+海尔空调维修	hai er kong tiao wei xiu	111
 孩儿立志出乡关	hai er li zhi chu xiang guan	26
 孩儿们	hai er men	1100
 孩儿参	hai er shen	14
 海尔手机	hai er shou ji	1550
 孩儿他妈	hai er ta ma	111
 孩儿巷	hai er xiang	114
+海尔中央空调	hai er zhong yang kong tiao	111
 还发	hai fa	28820
 海法	hai fa	1
 # 海发	hai fa	0
@@ -154984,9 +155117,12 @@ sort: by_weight
 海信电器	hai xin dian qi	5
 骇心动目	hai xin dong mu	111
 海信集团	hai xin ji tuan	6200
+海信空调	hai xin kong tiao	111
 海欣路	hai xin lu	1
 海心沙	hai xin sha	1944
+海信新风空调	hai xin xin feng kong tiao	111
 海馨园	hai xin yuan	135
+海信中央空调	hai xin zhong yang kong tiao	111
 还行	hai xing	34180
 海星	hai xing	15295
 海兴	hai xing	5360
@@ -155610,7 +155746,6 @@ sort: by_weight
 喊打	han da	2305
 函大	han da	1565
 含答案	han da an	4015
-汗哒哒	han da da	44
 罕达盖苏木	han da gai su mu	6
 罕达汽镇	han da qi zhen	2
 汉代	han dai	62760
@@ -158322,6 +158457,7 @@ sort: by_weight
 好可怕	hao ke pa	5505
 好客善饮	hao ke shan yin	111
 好空	hao kong	1075
+好空调	hao kong tiao	111
 好抠	hao kou	95
 好酷	hao ku	5470
 好苦	hao ku	5160
@@ -165194,6 +165330,7 @@ sort: by_weight
 横纹寡毛叶蚤	heng wen gua mao ye zao	1
 横纹褐步行虫	heng wen he bu xing chong	1
 恒温恒湿	heng wen heng shi	10610
+恒温恒湿空调	heng wen heng shi kong tiao	111
 横纹肌	heng wen ji	2715
 恒温机	heng wen ji	340
 横纹肌肉瘤	heng wen ji rou liu	87
@@ -168183,7 +168320,10 @@ sort: by_weight
 后怕虎	hou pa hu	515
 后排	hou pai	57490
 后派	hou pai	3070
+后排独立空调	hou pai du li kong tiao	111
 后排风出口	hou pai feng chu kou	6
+后排空调	hou pai kong tiao	111
+后排空调出风口	hou pai kong tiao chu feng kou	111
 后牌照板	hou pai zhao ban	210
 后牌照灯	hou pai zhao deng	207
 后排座	hou pai zuo	1240
@@ -172286,11 +172426,13 @@ sort: by_weight
 花椒鱼片	hua jiao yu pian	15
 花椒园	hua jiao yuan	15
 化解	hua jie	156595
+华姐	hua jie	7777
+花姐	hua jie	7777
 花街	hua jie	6940
 划界	hua jie	5830
 画界	hua jie	3970
-花结	hua jie	2910
-滑结	hua jie	75
+花结	hua jie	29
+滑结	hua jie	7
 华捷道	hua jie dao	2
 化解纠纷	hua jie jiu fen	106
 花街柳陌	hua jie liu mo	111
@@ -172513,6 +172655,7 @@ sort: by_weight
 花菱草	hua ling cao	17
 华菱钢铁	hua ling gang tie	28
 华菱管线	hua ling guan xian	12500
+华凌空调	hua ling kong tiao	111
 华灵路	hua ling lu	47
 花龄盛会	hua ling sheng hui	3
 华凌市场	hua ling shi chang	201
@@ -174687,6 +174830,7 @@ sort: by_weight
 环保局	huan bao ju	97100
 环孢菌素	huan bao jun su	750
 环保科技	huan bao ke ji	14425
+环保空调	huan bao kong tiao	111
 环保人士	huan bao ren shi	3115
 环保少女	huan bao shao nv	188
 环保设备	huan bao she bei	16560
@@ -178679,6 +178823,7 @@ sort: by_weight
 诲而不倦	hui er bu juan	7
 惠而不知为政	hui er bu zhi wei zheng	2
 咴儿咴儿	hui er hui er	9999
+惠而浦空调	hui er pu kong tiao	111
 挥发	hui fa	43740
 回发	hui fa	2175
 挥发的	hui fa de	2825
@@ -180884,6 +181029,9 @@ sort: by_weight
 混个	hun ge	1111
 婚媾	hun gou	690
 浑古	hun gu	105
+混管	hun guan	1111
+昏官	hun guan	111
+混管儿	hun guan er	1111
 魂归	hun gui	4860
 魂归故里	hun gui gu li	196
 混过	hun guo	5330
@@ -180999,7 +181147,9 @@ sort: by_weight
 婚假	hun jia	5915
 浑家	hun jia	1440
 婚检	hun jian	16555
-浑江	hun jiang	3035
+混剪	hun jian	3333
+混检	hun jian	111
+浑江	hun jiang	303
 浑江市	hun jiang shi	570
 混交	hun jiao	1990
 混交林	hun jiao lin	3205
@@ -185163,11 +185313,14 @@ sort: by_weight
 寄放到	ji fang dao	5130
 机房管理	ji fang guan li	162
 机房监控	ji fang jian kong	780
+机房精密空调	ji fang jing mi kong tiao	111
+机房空调	ji fang kong tiao	111
 几方面	ji fang mian	62875
 机房收费	ji fang shou fei	346
 机房收费系统	ji fang shou fei xi tong	2343
 机房维护	ji fang wei hu	17
 即防远客虽多事	ji fang yuan ke sui duo shi	1
+机房专用空调	ji fang zhuan yong kong tiao	111
 计费	ji fei	102320
 击飞	ji fei	22222
 既非	ji fei	10295
@@ -185656,6 +185809,7 @@ sort: by_weight
 极贵	ji gui	775
 继晷焚膏	ji gui fen gao	111
 机柜间	ji gui jian	72
+机柜空调	ji gui kong tiao	111
 机柜内	ji gui nei	68
 姬诡诸	ji gui zhu	1
 记过	ji guo	24090
@@ -186495,6 +186649,8 @@ sort: by_weight
 机卡分离	ji ka fen li	5885
 机卡复制	ji ka fu zhi	36
 集卡活动	ji ka huo dong	194
+寄卡片	ji ka pian	3333
+集卡片	ji ka pian	1111
 寄卡人	ji ka ren	180
 吉卡乡	ji ka xiang	1
 挤开	ji kai	1640
@@ -186543,6 +186699,7 @@ sort: by_weight
 祭孔	ji kong	3845
 级控	ji kong	101
 祭孔大典	ji kong da dian	860
+及空调	ji kong tiao	111
 几口	ji kou	33830
 忌口	ji kou	5920
 极口	ji kou	1
@@ -190673,6 +190830,9 @@ sort: by_weight
 继踵接武	ji zhong jie wu	1
 集中进行	ji zhong jin xing	7435
 集中精力	ji zhong jing li	48255
+集中空调	ji zhong kong tiao	111
+集中空调通风系统	ji zhong kong tiao tong feng xi tong	111
+集中空调系统	ji zhong kong tiao xi tong	111
 集中控制	ji zhong kong zhi	8510
 集中了	ji zhong le	33525
 几种类型	ji zhong lei xing	8745
@@ -192190,6 +192350,7 @@ sort: by_weight
 加里波第	jia li bo di	82
 家里的弟弟	jia li de di di	100
 家里的饭	jia li de fan	182
+家里的空调	jia li de kong tiao	111
 家里的一切	jia li de yi qie	100
 家里蹲	jia li dun	760
 家里蹲大学	jia li dun da xue	167
@@ -193293,6 +193454,7 @@ sort: by_weight
 家庭治疗	jia ting zhi liao	2945
 家庭中	jia ting zhong	28465
 家庭中的一员	jia ting zhong de yi yuan	100
+家庭中央空调	jia ting zhong yang kong tiao	111
 家庭住房	jia ting zhu fang	7360
 家庭主妇	jia ting zhu fu	21215
 家庭住址	jia ting zhu zhi	13845
@@ -193719,11 +193881,14 @@ sort: by_weight
 家用机	jia yong ji	7940
 家用轿车	jia yong jiao che	7140
 家用空调	jia yong kong tiao	6810
+家用冷暖空调	jia yong leng nuan kong tiao	111
 家用汽车产品修理	jia yong qi che chan pin xiu li	335
 家永三郎	jia yong san lang	13
 家用视听商品修理更换退货责任规定	jia yong shi ting shang pin xiu li geng huan tui huo ze ren gui ding	55
 家用投影机	jia yong tou ying ji	3145
 家用型	jia yong xing	3575
+家用中央空调	jia yong zhong yang kong tiao	111
+家用中央空调安装	jia yong zhong yang kong tiao an zhuang	111
 加油	jia you	308090
 家有	jia you	56625
 价优	jia you	25810
@@ -194030,6 +194195,7 @@ sort: by_weight
 假装地	jia zhuang de	6
 家装行业	jia zhuang hang ye	6290
 贾庄居委会	jia zhuang ju wei hui	1
+加装空调	jia zhuang kong tiao	111
 加装了	jia zhuang le	7015
 甲状旁腺	jia zhuang pang xian	4755
 甲状旁腺功能减退症	jia zhuang pang xian gong neng jian tui zheng	2
@@ -195755,6 +195921,7 @@ sort: by_weight
 健康教育学	jian kang jiao yu xue	1
 健康久久	jian kang jiu jiu	133
 健康就是幸福	jian kang jiu shi xing fu	225
+健康空调	jian kang kong tiao	111
 健康快乐	jian kang kuai le	10615
 健康快乐成长	jian kang kuai le cheng zhang	103
 健康乐	jian kang le	1550
@@ -204147,6 +204314,8 @@ sort: by_weight
 洁净剂	jie jing ji	355
 捷径窘步	jie jing jiong bu	1
 洁净空气	jie jing kong qi	785
+洁净空调	jie jing kong tiao	111
+洁净空调系统	jie jing kong tiao xi tong	111
 结晶量	jie jing liang	9
 结晶尿	jie jing niao	3
 结晶牛胰岛素	jie jing niu yi dao su	225
@@ -204635,11 +204804,13 @@ sort: by_weight
 节能风电	jie neng feng dian	105
 节能公司	jie neng gong si	190
 节能工作	jie neng gong zuo	16380
+节能环保空调	jie neng huan bao kong tiao	111
 节能技术	jie neng ji shu	27585
 节能减排	jie neng jian pai	2
 节能建筑	jie neng jian zhu	11220
 节能降耗	jie neng jiang hao	35210
 节能炕	jie neng kang	87
+节能空调	jie neng kong tiao	111
 节能炉	jie neng lu	33
 节能率	jie neng lv	1720
 节能模式	jie neng mo shi	103
@@ -211056,6 +211227,7 @@ sort: by_weight
 经常吃	jing chang chi	7390
 经常出差	jing chang chu chai	10225
 经常出现	jing chang chu xian	34670
+经常吹空调	jing chang chui kong tiao	111
 经常的	jing chang de	16535
 经常发	jing chang fa	75
 经常访问	jing chang fang wen	194
@@ -211703,6 +211875,8 @@ sort: by_weight
 净化机	jing hua ji	2480
 净化精神	jing hua jing shen	6
 净化空气	jing hua kong qi	12015
+净化空调	jing hua kong tiao	111
+净化空调系统	jing hua kong tiao xi tong	111
 净化灵风石	jing hua ling feng shi	1
 精华录	jing hua lu	245
 经华路	jing hua lu	2
@@ -212704,6 +212878,7 @@ sort: by_weight
 精密机器	jing mi ji qi	540
 精密计时器	jing mi ji shi qi	50
 精密机械	jing mi ji xie	14125
+精密空调	jing mi kong tiao	111
 精密控制	jing mi kong zhi	665
 京密路	jing mi lu	850
 京密路口	jing mi lu kou	13
@@ -215169,6 +215344,7 @@ sort: by_weight
 酒店家具	jiu dian jia ju	2640
 酒店客房	jiu dian ke fang	8290
 酒店坑	jiu dian keng	1
+酒店空调	jiu dian kong tiao	111
 酒店老板	jiu dian lao ban	2580
 酒店名	jiu dian ming	345
 旧电脑	jiu dian nao	5480
@@ -215682,6 +215858,7 @@ sort: by_weight
 就交给你	jiu jiao gei ni	62
 九郊街道	jiu jiao jie dao	4
 九角恐龙	jiu jiao kong long	1
+酒窖空调	jiu jiao kong tiao	111
 酒浇块垒	jiu jiao kuai lei	1
 酒浇垒块	jiu jiao lei kuai	111
 九角龙鱼	jiu jiao long yu	1
@@ -215856,6 +216033,7 @@ sort: by_weight
 鸠坑毛尖	jiu keng mao jian	154
 九孔鲍	jiu kong bao	229
 九孔鲍螺	jiu kong bao luo	1
+旧空调	jiu kong tiao	111
 九孔纹唇鱼	jiu kong wen chun yu	1
 就扣	jiu kou	1111
 # 旧口	jiu kou	0
@@ -216158,6 +216336,8 @@ sort: by_weight
 就你	jiu ni	27870
 救你	jiu ni	17770
 揪你	jiu ni	1111
+就你妈	jiu ni ma	2222
+就你吗	jiu ni ma	1111
 就你那个	jiu ni na ge	203
 就你一个人吗	jiu ni yi ge ren ma	75
 就你这	jiu ni zhe	351
@@ -222020,6 +222200,7 @@ sort: by_weight
 卡若镇	ka ruo zhen	1
 卡萨	ka sa	2
 卡萨布兰卡	ka sa bu lan ka	65
+卡萨帝空调	ka sa di kong tiao	111
 卡萨尔斯	ka sa er si	9
 卡萨雷斯	ka sa lei si	136
 卡萨诺瓦	ka sa nuo wa	49
@@ -222687,6 +222868,7 @@ sort: by_weight
 开关机	kai guan ji	22180
 开关技术	kai guan ji shu	935
 开关基因	kai guan ji yin	2
+开关空调	kai guan kong tiao	111
 开关控制	kai guan kong zhi	4060
 开关量	kai guan liang	7210
 开罐器	kai guan qi	1265
@@ -222881,6 +223063,8 @@ sort: by_weight
 开垦费	kai ken fei	466
 开孔	kai kong	10715
 开孔器	kai kong qi	225
+开空调	kai kong tiao	111
+开空调时	kai kong tiao shi	111
 开孔图	kai kong tu	65
 开口	kai kou	207560
 开口闭口	kai kou bi kou	2395
@@ -222942,6 +223126,7 @@ sort: by_weight
 开了个小店	kai le ge xiao dian	340
 开了个小会	kai le ge xiao hui	210
 开了花	kai le hua	6895
+开了空调	kai le kong tiao	111
 凯勒曼	kai le man	100
 开了没	kai le mei	89
 开了门	kai le men	11505
@@ -222962,12 +223147,14 @@ sort: by_weight
 凯立德地图	kai li de di tu	744
 凯利登	kai li deng	1
 凯里华溪蟹	kai li hua xi xie	1
+开利空调	kai li kong tiao	111
 凯里市	kai li shi	4220
 凯利斯	kai li si	1200
 凯里县	kai li xian	1
 凯丽香江	kai li xiang jiang	193
 开立银行账户	kai li yin hang zhang hu	111
 开立账户	kai li zhang hu	4035
+开利中央空调	kai li zhong yang kong tiao	111
 开脸	kai lian	1650
 开镰	kai lian	995
 开帘见新月	kai lian jian xin yue	1
@@ -223124,6 +223311,7 @@ sort: by_weight
 开起	kai qi	2
 开汽车	kai qi che	3820
 开气儿	kai qi er	9999
+开启空调	kai qi kong tiao	111
 开启了	kai qi le	30475
 开启美好的一天	kai qi mei hao de yi tian	100
 开起玩笑	kai qi wan xiao	100
@@ -223902,6 +224090,7 @@ sort: by_weight
 看得出	kan de chu	31120
 看得出来	kan de chu lai	21730
 看得到	kan de dao	11785
+看得到不	kan de dao bu	111
 看得懂	kan de dong	7585
 看得过	kan de guo	355
 看得见	kan de jian	40005
@@ -227666,6 +227855,7 @@ sort: by_weight
 科目五	ke mu wu	153
 可沐浴	ke mu yu	220
 可那	ke na	19940
+可拿	ke na	111
 # 克纳	ke na	0
 可拿到	ke na dao	73
 科纳克里	ke na ke li	415
@@ -227970,6 +228160,9 @@ sort: by_weight
 可设罗雀	ke she luo que	1
 客舍青青柳色新	ke she qing qing liu se xin	1180
 可设雀罗	ke she que luo	111
+可谁	ke shei	3333
+可谁曾	ke shei ceng	333
+可谁曾经	ke shei ceng jing	333
 可谁知	ke shei zhi	2430
 可身	ke shen	995
 可伸长	ke shen chang	265
@@ -228095,6 +228288,8 @@ sort: by_weight
 课税	ke shui	16375
 瞌睡	ke shui	14525
 渴睡	ke shui	690
+可谁曾	ke shui ceng	333
+可谁曾经	ke shui ceng jing	333
 瞌睡虫	ke shui chong	2445
 瞌睡哥	ke shui ge	5
 瞌睡了	ke shui le	2960
@@ -228235,6 +228430,7 @@ sort: by_weight
 克汀病	ke ting bing	1055
 可听到	ke ting dao	3370
 可听见	ke ting jian	550
+客厅空调	ke ting kong tiao	111
 客厅里	ke ting li	29775
 可听性	ke ting xing	1430
 可同	ke tong	55490
@@ -228782,6 +228978,7 @@ sort: by_weight
 可以重来	ke yi chong lai	2455
 可以穿	ke yi chuan	8970
 可遗传	ke yi chuan	330
+可以吹空调	ke yi chui kong tiao	111
 可以从	ke yi cong	237325
 可以打出来	ke yi da chu lai	75
 可以达到	ke yi da dao	79135
@@ -229028,11 +229225,13 @@ sort: by_weight
 可以做个朋友吗	ke yi zuo ge peng you ma	100
 可以做投资	ke yi zuo tou zi	62
 可以作为	ke yi zuo wei	65960
-刻印	ke yin	12015
-可引	ke yin	5465
+可因	ke yin	9999
+刻印	ke yin	6015
 可饮	ke yin	3445
-克音	ke yin	445
+可引	ke yin	54
+# 克音	ke yin	0
 可隐藏的	ke yin cang de	45
+可引起	ke yin qi	5400
 可印刷	ke yin shua	1345
 克银丸	ke yin wan	4
 可饮用	ke yin yong	2165
@@ -230221,41 +230420,248 @@ sort: by_weight
 空天军	kong tian jun	200
 空天猎	kong tian lie	122
 空调	kong tiao	500329
+空调啊	kong tiao a	111
+空调按键	kong tiao an jian	111
+空调按钮	kong tiao an niu	111
 空调安装	kong tiao an zhuang	6335
+空调安装工	kong tiao an zhuang gong	111
+空调安装维修	kong tiao an zhuang wei xiu	111
+空调板	kong tiao ban	111
+空调伴侣	kong tiao ban lv	111
+空调保养	kong tiao bao yang	111
+空调被	kong tiao bei	111
+空调被子	kong tiao bei zi	111
 空调泵	kong tiao beng	728
 空调病	kong tiao bing	9999
+空调冰箱	kong tiao bing xiang	111
+空调不制冷	kong tiao bu zhi leng	111
+空调不制热	kong tiao bu zhi re	111
+空调采购	kong tiao cai gou	111
+空调采暖	kong tiao cai nuan	111
+空调操作	kong tiao cao zuo	111
+空调插座	kong tiao cha zuo	111
+空调拆装	kong tiao chai zhuang	111
 空调产品	kong tiao chan pin	4235
+空调产业	kong tiao chan ye	111
+空调厂家	kong tiao chang jia	111
 空调车	kong tiao che	27835
+空调车间	kong tiao che jian	111
+空调出风	kong tiao chu feng	111
+空调出风口	kong tiao chu feng kou	111
+空调出风口的设计	kong tiao chu feng kou de she ji	111
+空调出风口设计	kong tiao chu feng kou she ji	111
+空调出风口下方	kong tiao chu feng kou xia fang	111
+空调出风口造型	kong tiao chu feng kou zao xing	111
+空调出口	kong tiao chu kou	111
+空调除湿	kong tiao chu shi	111
+空调出售	kong tiao chu shou	111
+空调吹	kong tiao chui	111
+空调大巴	kong tiao da ba	111
+空调打开	kong tiao da kai	111
 空调大王	kong tiao da wang	6
+空调挡风罩	kong tiao dang feng zhao	111
+空调的安装	kong tiao de an zhuang	111
+空调的出风口	kong tiao de chu feng kou	111
+空调的功率	kong tiao de gong lv	111
+空调的温度	kong tiao de wen du	111
+空调等家电	kong tiao deng jia dian	111
+空调滴水	kong tiao di shui	111
+空调电机	kong tiao dian ji	111
+空调电视	kong tiao dian shi	111
+空调电源	kong tiao dian yuan	111
+空调洞	kong tiao dong	111
+空调房	kong tiao fang	111
+空调房间	kong tiao fang jian	111
+空调房里	kong tiao fang li	111
+空调房内	kong tiao fang nei	111
+空调房中	kong tiao fang zhong	111
+空调费	kong tiao fei	111
+空调风	kong tiao feng	111
+空调风道	kong tiao feng dao	111
+空调风管	kong tiao feng guan	111
+空调风机	kong tiao feng ji	111
+空调风口	kong tiao feng kou	111
+空调风量	kong tiao feng liang	111
+空调风扇	kong tiao feng shan	111
+空调服	kong tiao fu	111
+空调负荷	kong tiao fu he	111
+空调服务	kong tiao fu wu	111
 空调高压管	kong tiao gao ya guan	33
+空调格	kong tiao ge	111
+空调工	kong tiao gong	111
+空调工程	kong tiao gong cheng	111
+空调公交车	kong tiao gong jiao che	111
+空调功率	kong tiao gong lv	111
+空调功能	kong tiao gong neng	111
+空调公司	kong tiao gong si	111
+空调故障	kong tiao gu zhang	111
+空调挂机	kong tiao gua ji	111
 空调管	kong tiao guan	570
+空调关闭	kong tiao guan bi	111
+空调管道	kong tiao guan dao	111
 空调管路	kong tiao guan lu	666
+空调柜机	kong tiao gui ji	111
+空调过滤器	kong tiao guo lv qi	111
+空调过滤网	kong tiao guo lv wang	111
 空调行业	kong tiao hang ye	6515
+空调和暖气	kong tiao he nuan qi	111
+空调护栏	kong tiao hu lan	111
+空调坏了	kong tiao huai le	111
+空调环境	kong tiao huan jing	111
+空调回收	kong tiao hui shou	111
 空调机	kong tiao ji	11575
+空调机房	kong tiao ji fang	111
+空调机皮带	kong tiao ji pi dai	111
+空调技术	kong tiao ji shu	111
+空调机位	kong tiao ji wei	111
 空调机组	kong tiao ji zu	3645
+空调架	kong tiao jia	111
+空调加氟	kong tiao jia fu	111
 空调价格	kong tiao jia ge	1370
 空调间	kong tiao jian	980
+空调检修	kong tiao jian xiu	111
+空调降温	kong tiao jiang wen	111
+空调节能	kong tiao jie neng	111
+空调净化	kong tiao jing hua	111
+空调巨头	kong tiao ju tou	111
 空调开放	kong tiao kai fang	525
+空调开关	kong tiao kai guan	111
+空调开孔	kong tiao kai kong	111
+空调开启	kong tiao kai qi	111
+空调孔	kong tiao kong	111
+空调控制	kong tiao kong zhi	111
+空调控制面板	kong tiao kong zhi mian ban	111
+空调控制器	kong tiao kong zhi qi	111
+空调控制区	kong tiao kong zhi qu	111
+空调控制区域	kong tiao kong zhi qu yu	111
+空调控制系统	kong tiao kong zhi xi tong	111
+空调口	kong tiao kou	111
+空调快速	kong tiao kuai su	111
+空调类型	kong tiao lei xing	111
+空调冷	kong tiao leng	111
+空调冷凝器	kong tiao leng ning qi	111
+空调冷凝水	kong tiao leng ning shui	111
+空调冷气	kong tiao leng qi	111
 空调里	kong tiao li	267
+空调零售	kong tiao ling shou	111
+空调漏水	kong tiao lou shui	111
+空调滤	kong tiao lv	111
+空调滤清器	kong tiao lv qing qi	111
 空调滤网	kong tiao lv wang	274
 空调滤芯	kong tiao lv xin	1992
+空调旅游车	kong tiao lv you che	111
+空调面板	kong tiao mian ban	111
+空调末端	kong tiao mo duan	111
+空调木托	kong tiao mu tuo	111
+空调内机	kong tiao nei ji	111
+空调能耗	kong tiao neng hao	111
+空调能效	kong tiao neng xiao	111
+空调暖风	kong tiao nuan feng	111
 空调暖风开关	kong tiao nuan feng kai guan	2
+空调暖气	kong tiao nuan qi	111
+空调配件	kong tiao pei jian	111
 空调皮带张紧轮	kong tiao pi dai zhang jin lun	3
+空调匹数	kong tiao pi shu	111
 空调品牌	kong tiao pin pai	3735
+空调普快	kong tiao pu kuai	111
 空调器	kong tiao qi	25475
 空调器厂	kong tiao qi chang	490
+空调启动	kong tiao qi dong	111
 空调企业	kong tiao qi ye	4405
+空调清洁	kong tiao qing jie	111
+空调清洗	kong tiao qing xi	111
+空调清洗保养	kong tiao qing xi bao yang	111
+空调清洗剂	kong tiao qing xi ji	111
+空调取暖	kong tiao qu nuan	111
+空调区域	kong tiao qu yu	111
+空调热水器	kong tiao re shui qi	111
+空调扇	kong tiao shan	111
+空调衫	kong tiao shan	111
 空调设备	kong tiao she bei	11090
+空调设备有限公司	kong tiao she bei you xian gong si	111
+空调设定	kong tiao she ding	111
+空调设计	kong tiao she ji	111
+空调设置	kong tiao she zhi	111
+空调生产	kong tiao sheng chan	111
+空调省电	kong tiao sheng dian	111
 空调室	kong tiao shi	290
+空调市场	kong tiao shi chang	111
+空调室内机	kong tiao shi nei ji	111
+空调室外机	kong tiao shi wai ji	111
+空调使用	kong tiao shi yong	111
+空调使用寿命	kong tiao shi yong shou ming	111
+空调售后	kong tiao shou hou	111
+空调售后服务	kong tiao shou hou fu wu	111
+空调售后维修	kong tiao shou hou wei xiu	111
+空调水	kong tiao shui	111
+空调水系统	kong tiao shui xi tong	111
+空调送风	kong tiao song feng	111
+空调毯	kong tiao tan	111
+空调特快	kong tiao te kuai	111
+空调体系	kong tiao ti xi	111
+空调调节	kong tiao tiao jie	111
+空调通风	kong tiao tong feng	111
+空调通风管道	kong tiao tong feng guan dao	111
+空调通风口	kong tiao tong feng kou	111
+空调通风系统	kong tiao tong feng xi tong	111
+空调铜管	kong tiao tong guan	111
+空调外挂机	kong tiao wai gua ji	111
+空调外机	kong tiao wai ji	111
+空调外机安装	kong tiao wai ji an zhuang	111
+空调外壳	kong tiao wai ke	111
+空调网	kong tiao wang	111
 空调位	kong tiao wei	75
+空调维建	kong tiao wei jian	111
 空调维修	kong tiao wei xiu	15815
+空调维修电话	kong tiao wei xiu dian hua	111
+空调维修服务	kong tiao wei xiu fu wu	111
+空调维修公司	kong tiao wei xiu gong si	111
+空调维修技术	kong tiao wei xiu ji shu	111
+空调维修培训	kong tiao wei xiu pei xun	111
+空调温度	kong tiao wen du	111
+空调问题	kong tiao wen ti	111
+空调稳压器	kong tiao wen ya qi	111
+空调屋	kong tiao wu	111
+空调席	kong tiao xi	111
 空调系统	kong tiao xi tong	29920
+空调线	kong tiao xian	111
+空调显示	kong tiao xian shi	111
+空调箱	kong tiao xiang	111
+空调效果	kong tiao xiao guo	111
 空调销售	kong tiao xiao shou	3455
+空调型	kong tiao xing	111
 空条徐伦	kong tiao xu lun	112
+空调旋钮	kong tiao xuan niu	111
+空调压缩机	kong tiao ya suo ji	111
 空调压缩机皮带	kong tiao ya suo ji pi dai	37
+空调遥控	kong tiao yao kong	111
+空调遥控器	kong tiao yao kong qi	111
 空调业	kong tiao ye	3700
+空调业务	kong tiao ye wu	111
 空调移机	kong tiao yi ji	4480
+空调异味	kong tiao yi wei	111
+空调用电	kong tiao yong dian	111
+空调运行	kong tiao yun xing	111
+空调噪音	kong tiao zao yin	111
 空调涨紧轮	kong tiao zhang jin lun	11
+空调罩	kong tiao zhao	111
+空调症	kong tiao zheng	111
+空调蒸发器	kong tiao zheng fa qi	111
+空调直吹	kong tiao zhi chui	111
+空调支架	kong tiao zhi jia	111
+空调制冷	kong tiao zhi leng	111
+空调制冷剂	kong tiao zhi leng ji	111
+空调制冷设备	kong tiao zhi leng she bei	111
+空调制冷维修	kong tiao zhi leng wei xiu	111
+空调制冷系统	kong tiao zhi leng xi tong	111
+空调制冷效果	kong tiao zhi leng xiao guo	111
+空调质量	kong tiao zhi liang	111
+空调制热	kong tiao zhi re	111
+空调制造	kong tiao zhi zao	111
+空调主机	kong tiao zhu ji	111
+空调装	kong tiao zhuang	111
+空调装置	kong tiao zhuang zhi	111
+空调租赁	kong tiao zu lin	111
 空听	kong ting	2
 空庭一树花	kong ting yi shu hua	1
 崆峒	kong tong	7865
@@ -230503,6 +230909,7 @@ sort: by_weight
 控制经济	kong zhi jing ji	1085
 控制局势	kong zhi ju shi	965
 控制开关	kong zhi kai guan	4865
+控制空调	kong zhi kong tiao	111
 控制块	kong zhi kuai	1600
 控制狂	kong zhi kuang	104
 控制栏	kong zhi lan	107
@@ -234662,6 +235069,8 @@ sort: by_weight
 拉动下	la dong xia	4140
 辣豆瓣鱼	la dou ban yu	9
 拉都希氏赤蛙	la dou xi shi chi wa	1
+拉肚	la du	1245
+辣度	la du	1111
 拉杜丽	la du li	195
 拉肚子	la du zi	12455
 拉断	la duan	5385
@@ -240554,6 +240963,7 @@ sort: by_weight
 冷烤油鸡蔬菜	leng kao you ji shu cai	1
 冷烤猪肉	leng kao zhu rou	1
 冷空气	leng kong qi	25040
+冷空调	leng kong tiao	111
 冷口	leng kou	385
 冷口乡	leng kou xiang	2
 冷酷	leng ku	52695
@@ -241741,6 +242151,7 @@ sort: by_weight
 离轨	li gui	265
 离柜概不负责	li gui gai bu fu ze	120
 立规矩	li gui ju	1100
+立柜式空调	li gui shi kong tiao	111
 丽桂树之冬荣	li gui shu zhi dong rong	1
 李桂圆	li gui yuan	158
 利滚利	li gun li	1080
@@ -243330,7 +243741,8 @@ sort: by_weight
 藜山乡	li shan xiang	2
 骊山语罢清宵半	li shan yu ba qing xiao ban	1
 梨山圆眼花天牛	li shan yuan yan hua tian niu	1
-李尚	li shang	4725
+立上	li shang	1111
+李尚	li shang	1
 礼尚往来	li shang wang lai	6005
 理伤续断	li shang xu duan	5
 李商隐	li shang yin	11840
@@ -243342,15 +243754,17 @@ sort: by_weight
 李少红	li shao hong	5055
 李少谦	li shao qian	116
 李绍珍	li shao zhen	20
-丽舍	li she	3005
-立社	li she	1605
+利涉	li she	3333
 立射	li she	245
+里舍	li she	3
+立社	li she	2
+# 丽舍	li she	0
 礼奢宁俭	li she ning jian	111
 礼奢宁简	li she ning jian	1
 立身	li shen	11035
 离身	li shen	6535
-李绅	li shen	67
-李屾	li shen	4
+李绅	li shen	2
+李屾	li shen	1
 立身处世	li shen chu shi	1635
 利深祸速	li shen huo su	1
 立身行道	li shen xing dao	111
@@ -243479,6 +243893,7 @@ sort: by_weight
 离世绝俗	li shi jue su	111
 历史决议	li shi jue yi	178
 历史课	li shi ke	5540
+立式空调	li shi kong tiao	111
 历史库	li shi ku	12
 历史练习册	li shi lian xi ce	179
 立式猎枪	li shi lie qiang	12
@@ -243597,9 +244012,10 @@ sort: by_weight
 历史最悠久	li shi zui you jiu	161
 礼士尊贤	li shi zun xian	111
 历史作用	li shi zuo yong	3940
-里手	li shou	20720
-里首	li shou	700
-李寿	li shou	22
+离手	li shou	3333
+里手	li shou	207
+里首	li shou	70
+李寿	li shou	2
 励守谦	li shou qian	1
 隶属	li shu	58145
 隶书	li shu	34305
@@ -243637,7 +244053,7 @@ sort: by_weight
 梨树县	li shu xian	2150
 李树乡	li shu xiang	9
 隶属于	li shu yu	59695
-李爽	li shuang	13780
+李爽	li shuang	137
 梨双公路	li shuang gong lu	2
 利税	li shui	62890
 沥水	li shui	6666
@@ -243673,20 +244089,20 @@ sort: by_weight
 丽水浙江龙	li shui zhe jiang long	22
 丽水中院	li shui zhong yuan	87
 理顺	li shun	69995
-李顺	li shun	6770
+李顺	li shun	1
 李舜臣	li shun chen	106
 理顺关系	li shun guan xi	4430
 理顺了	li shun le	6505
 礼顺人情	li shun ren qing	5
 理顺外贸体制	li shun wai mao ti zhi	1
 立说	li shuo	4485
-李硕	li shuo	398
-李朔	li shuo	3
+李朔	li shuo	1
+李硕	li shuo	1
 李硕勋	li shuo xun	58
 立说著书	li shuo zhu shu	111
 李四	li si	15695
-李斯	li si	1741
 立嗣	li si	880
+李斯	li si	174
 里斯	li si	1
 # 丽思	li si	0
 # 利斯	li si	0
@@ -243719,24 +244135,25 @@ sort: by_weight
 李斯羽	li si yu	30
 李嗣源	li si yuan	6
 李四张三	li si zhang san	111
-李嵩	li song	44
-李崧	li song	11
-李诵	li song	3
+李崧	li song	1
+李嵩	li song	1
+李松	li song	1
+李诵	li song	1
 李松蓢	li song lang	107
 礼俗	li su	6635
 傈僳	li su	3270
 俚俗	li su	1195
-李肃	li su	137
+李肃	li su	1
 厉俗敦风	li su dun feng	111
 李素裳	li su shang	179
 李素妍	li su yan	25
 傈僳语	li su yu	415
 傈僳族	li su zu	8205
 历算学	li suan xue	13
-李遂	li sui	79
+李遂	li sui	1
 利随本清	li sui ben qing	158
 利索	li suo	12940
-离索	li suo	1070
+离索	li suo	2
 理所必然	li suo bi ran	13
 力所不逮	li suo bu dai	78
 力所不及	li suo bu ji	1370
@@ -243755,10 +244172,10 @@ sort: by_weight
 理所应当	li suo ying dang	6830
 离他	li ta	24420
 理他	li ta	21705
-丽塔	li ta	10575
 利他	li ta	9550
-理她	li ta	1180
 离她	li ta	1180
+理她	li ta	1179
+丽塔	li ta	2
 力拓案	li ta an	64
 利他的	li ta de	2210
 利他林	li ta lin	34
@@ -243766,19 +244183,20 @@ sort: by_weight
 利他行为	li ta xing wei	1115
 离她远点	li ta yuan dian	91
 利他主义	li ta zhu yi	1855
-丽台	li tai	11170
-丽泰	li tai	2170
+丽泰	li tai	2
+# 丽台	li tai	0
 李太白集	li tai bai ji	140
 李泰成	li tai cheng	3
-李坛	li tan	1
+里谈	li tan	2
+# 李坛	li tan	0
 礼堂	li tang	36740
-理塘	li tang	10250
 李唐	li tang	4500
+# 理塘	li tang	0
 里塘村	li tang cun	3
 立汤路	li tang lu	1515
 立汤路口	li tang lu kou	1
 理塘县	li tang xian	1245
-李涛	li tao	8150
+李涛	li tao	8
 立陶宛	li tao wan	10810
 立陶宛队	li tao wan dui	575
 立陶宛共和国	li tao wan gong he guo	410
@@ -248479,6 +248897,7 @@ sort: by_weight
 梁淑贞	liang shu zhen	3
 凉爽	liang shuang	45140
 两双	liang shuang	12390
+凉爽的空调	liang shuang de kong tiao	111
 凉爽呢	liang shuang ni	45
 两双袜子	liang shuang wa zi	101
 凉水	liang shui	27905
@@ -248518,6 +248937,7 @@ sort: by_weight
 晾台	liang tai	170
 两台电脑	liang tai dian nao	4740
 两台机器	liang tai ji qi	3010
+两台空调	liang tai kong tiao	111
 靓汤	liang tang	6650
 两趟	liang tang	4270
 亮堂	liang tang	3685
@@ -262421,6 +262841,7 @@ sort: by_weight
 铝合金	lv he jin	136620
 铝合金板	lv he jin ban	1765
 铝合金窗	lv he jin chuang	3790
+铝合金空调罩	lv he jin kong tiao zhao	111
 铝合金门窗	lv he jin men chuang	9505
 绿褐色	lv he se	460
 绿颌鹦哥鱼	lv he ying ge yu	1
@@ -265975,6 +266396,7 @@ sort: by_weight
 麦克唐纳	mai ke tang na	5290
 麦科特	mai ke te	1760
 麦克托米奈	mai ke tuo mi nai	166
+麦克维尔中央空调	mai ke wei er zhong yang kong tiao	111
 麦克·伊文斯	mai ke yi wen si	111
 麦肯	mai ken	11965
 麦肯罗	mai ken luo	365
@@ -265986,6 +266408,8 @@ sort: by_weight
 卖空交易	mai kong jiao yi	385
 买空卖空	mai kong mai kong	1015
 卖空买空	mai kong mai kong	111
+买空调	mai kong tiao	111
+卖空调	mai kong tiao	111
 卖空者	mai kong zhe	1
 麦口	mai kou	1111
 脉口	mai kou	320
@@ -269142,6 +269566,10 @@ sort: by_weight
 每次启动	mei ci qi dong	267
 每次在	mei ci zai	12130
 没刺着	mei ci zhao	225
+没凑	mei cou	3333
+没凑够	mei cou gou	333
+没凑齐	mei cou qi	333
+没凑热闹	mei cou re nao	333
 酶促反应	mei cu fan ying	860
 酶催化反应	mei cui hua fan ying	200
 每村	mei cun	3175
@@ -269179,6 +269607,7 @@ sort: by_weight
 美代表	mei dai biao	150
 眉黛夺将萱草色	mei dai duo jiang xuan cao se	2
 没带饭	mei dai fan	1
+没大夫	mei dai fu	100
 没待够	mei dai gou	125
 没带过	mei dai guo	68
 眉黛青颦	mei dai qing pin	1
@@ -269220,6 +269649,7 @@ sort: by_weight
 没的啊	mei de a	115
 没得啊	mei de a	26
 没的比	mei de bi	1570
+美的变频空调	mei de bian pin kong tiao	111
 没的吃	mei de chi	9999
 没得到	mei de dao	6240
 美的东西	mei de dong xi	5035
@@ -269241,6 +269671,7 @@ sort: by_weight
 美的一面	mei de yi mian	100
 美的音乐	mei de yin yue	2055
 美德远远胜过美貌	mei de yuan yuan sheng guo mei mao	10
+美的中央空调	mei de zhong yang kong tiao	111
 没等	mei deng	9999
 梅登高桥	mei deng gao qiao	28
 美登素	mei deng su	10
@@ -269251,13 +269682,15 @@ sort: by_weight
 美帝	mei di	3195
 美的	mei di	1
 没地方	mei di fang	11800
+美的防爆空调	mei di fang bao kong tiao	111
 美帝国主义	mei di guo zhu yi	185
 美迪克	mei di ke	3
+美的空调	mei di kong tiao	111
+美的空调售后	mei di kong tiao shou hou	111
+美的空调维修	mei di kong tiao wei xiu	111
 昧地瞒天	mei di man tian	111
 昧地谩天	mei di man tian	1
-美的美居	mei di mei ju	149
 美第奇家族	mei di qi jia zu	162
-美地思	mei di si	2
 梅地亚	mei di ya	2465
 美狄亚	mei di ya	880
 眉低眼慢	mei di yan man	1
@@ -269364,6 +269797,7 @@ sort: by_weight
 没法儿在	mei fa er zai	111
 没法分	mei fa fen	68
 没法复现	mei fa fu xian	111
+没法复制	mei fa fu zhi	100
 没法改	mei fa gai	111
 没法改变	mei fa gai bian	111
 没法干	mei fa gan	350
@@ -270340,6 +270774,7 @@ sort: by_weight
 梅开二度	mei kai er du	6135
 没开工	mei kai gong	68
 没开会	mei kai hui	33
+没开空调	mei kai kong tiao	111
 没开票	mei kai piao	94
 没开始	mei kai shi	12
 没开学	mei kai xue	63
@@ -270389,6 +270824,7 @@ sort: by_weight
 没空啊	mei kong a	220
 没空儿	mei kong er	115
 美空军	mei kong jun	2965
+没空调	mei kong tiao	111
 美空云雀	mei kong yun que	7
 没空着	mei kong zhe	5
 没哭	mei ku	5555
@@ -271077,6 +271513,7 @@ sort: by_weight
 没人敢追	mei ren gan zhui	111
 没人敢做	mei ren gan zuo	111
 没人告诉	mei ren gao su	111
+没人给我发	mei ren gei wo fa	100
 没人跟	mei ren gen	199
 没人跟你抢	mei ren gen ni qiang	111
 美人沟	mei ren gou	2
@@ -271257,6 +271694,7 @@ sort: by_weight
 没人愿意做	mei ren yuan yi zuo	111
 没人约	mei ren yue	637
 每人月	mei ren yue	12
+没人约我	mei ren yue wo	100
 没人在	mei ren zai	386
 没人在乎	mei ren zai hu	111
 没人在家	mei ren zai jia	111
@@ -272446,6 +272884,7 @@ sort: by_weight
 没有课	mei you ke	1720
 没有可能	mei you ke neng	9350
 没有空	mei you kong	1113
+没有空调	mei you kong tiao	111
 没有空位	mei you kong wei	3333
 没有啦	mei you la	610
 没有来	mei you lai	14545
@@ -272479,6 +272918,7 @@ sort: by_weight
 没有碰过	mei you peng guo	950
 没有朋友	mei you peng you	6815
 没有铺路	mei you pu lu	10
+没有奇迹	mei you qi ji	100
 没有其他	mei you qi ta	89
 没有钱	mei you qian	42050
 没有强	mei you qiang	215
@@ -273815,6 +274255,7 @@ sort: by_weight
 蒙乃尔	meng nai er	1175
 猛男	meng nan	19015
 蒙难	meng nan	2050
+蒙南	meng nan	11
 猛男杯	meng nan bei	138
 猛男枪	meng nan qiang	114
 梦难圆	meng nan yuan	50
@@ -274528,6 +274969,7 @@ sort: by_weight
 米价	mi jia	3680
 米家	mi jia	1111
 米家村	mi jia cun	8
+米家互联网空调	mi jia hu lian wang kong tiao	111
 米迦勒	mi jia le	2730
 米家堡	mi jia pu	11
 米家堡村	mi jia pu cun	16
@@ -275517,6 +275959,7 @@ sort: by_weight
 面从后言	mian cong hou yan	111
 面从心违	mian cong xin wei	1
 面脆油香新出炉	mian cui you xiang xin chu lu	2
+免打	mian da	111
 免打扰	mian da rao	2165
 面达乡	mian da xiang	11
 棉大衣	mian da yi	1815
@@ -295380,6 +295823,7 @@ sort: by_weight
 暖酒	nuan jiu	390
 暖炕	nuan kang	9999
 暖空气	nuan kong qi	970
+暖空调	nuan kong tiao	111
 暖帘	nuan lian	999
 暖帘儿	nuan lian er	999
 暖流	nuan liu	15585
@@ -295395,7 +295839,9 @@ sort: by_weight
 暖气不热	nuan qi bu re	123
 暖气费	nuan qi fei	1975
 暖气管	nuan qi guan	1380
+暖气和空调	nuan qi he kong tiao	111
 暖气机	nuan qi ji	205
+暖气空调	nuan qi kong tiao	111
 暖气蜜蜂	nuan qi mi feng	1
 暖气片	nuan qi pian	8390
 暖气设备	nuan qi she bei	1015
@@ -295427,6 +295873,10 @@ sort: by_weight
 暖汤濯我足	nuan tang zhuo wo zu	1
 暖通	nuan tong	21320
 暖通空调	nuan tong kong tiao	9570
+暖通空调设备	nuan tong kong tiao she bei	111
+暖通空调设计	nuan tong kong tiao she ji	111
+暖通空调系统	nuan tong kong tiao xi tong	111
+暖通空调制冷	nuan tong kong tiao zhi leng	111
 暖通设计	nuan tong she ji	400
 暖胃	nuan wei	111
 暖温带	nuan wen dai	5400
@@ -295526,6 +295976,7 @@ sort: by_weight
 诺克提斯	nuo ke ti si	198
 娜拉	nuo la	7170
 诺兰	nuo lan	6666
+诺澜	nuo lan	1
 诺兰导演	nuo lan dao yan	666
 挪了挪	nuo le nuo	2490
 诺雷得	nuo lei de	9
@@ -299554,9 +300005,11 @@ sort: by_weight
 陪伴左右	pei ban zuo you	106
 陪绑	pei bang	345
 配备	pei bei	364665
+配备空调	pei bei kong tiao	111
 配备了	pei bei le	91385
 配备人员	pei bei ren yuan	1340
 配备有	pei bei you	17920
+配备自动空调	pei bei zi dong kong tiao	111
 赔本	pei ben	6865
 培本浚源	pei ben jun yuan	111
 赔本买卖	pei ben mai mai	825
@@ -300220,6 +300673,7 @@ sort: by_weight
 配有	pei you	142875
 培优	pei you	3585
 陪游	pei you	1470
+配有空调	pei you kong tiao	111
 培育	pei yu	475865
 佩玉	pei yu	8475
 裴钰	pei yu	208
@@ -303455,6 +303909,7 @@ sort: by_weight
 品牌建设	pin pai jian she	33825
 品牌经理	pin pai jing li	6585
 品牌精神	pin pai jing shen	2905
+品牌空调	pin pai kong tiao	111
 品牌列表	pin pai lie biao	6510
 品牌内涵	pin pai nei han	7715
 品牌女装	pin pai nv zhuang	6080
@@ -306869,6 +307324,7 @@ sort: by_weight
 普通金属	pu tong jin shu	2170
 普通居民	pu tong ju min	5355
 普通角色	pu tong jue se	390
+普通空调	pu tong kong tiao	111
 普通会计	pu tong kuai ji	111
 普通𫛭	pu tong kuang	56
 普通老百姓	pu tong lao bai xing	15090
@@ -307513,6 +307969,7 @@ sort: by_weight
 汽车客运东站	qi che ke yun dong zhan	94
 汽车客运西站	qi che ke yun xi zhan	84
 汽车空调	qi che kong tiao	6945
+汽车空调系统	qi che kong tiao xi tong	111
 汽车空调压缩机	qi che kong tiao ya suo ji	640
 汽车库	qi che ku	3845
 汽车拉力赛	qi che la li sai	3460
@@ -307959,6 +308416,7 @@ sort: by_weight
 启动界面	qi dong jie mian	2069
 启动卷	qi dong juan	230
 启动开关	qi dong kai guan	3100
+启动空调	qi dong kong tiao	111
 气动控制	qi dong kong zhi	1105
 启动了	qi dong le	72790
 气动力	qi dong li	980
@@ -310311,6 +310769,7 @@ sort: by_weight
 其他经济	qi ta jing ji	18490
 其他经营	qi ta jing ying	6260
 其他可能也	qi ta ke neng ye	4
+其他空调	qi ta kong tiao	111
 其他会计	qi ta kuai ji	111
 其他会计资料	qi ta kuai ji zi liao	111
 其他垃圾	qi ta la ji	107
@@ -313798,6 +314257,7 @@ sort: by_weight
 嵌入式计算机	qian ru shi ji suan ji	316
 嵌入式开发	qian ru shi kai fa	2881
 嵌入式开发板	qian ru shi kai fa ban	230
+嵌入式空调	qian ru shi kong tiao	111
 嵌入式控制器	qian ru shi kong zhi qi	38
 嵌入式培训	qian ru shi pei xun	120
 嵌入式驱动	qian ru shi qu dong	45
@@ -321828,6 +322288,7 @@ sort: by_weight
 清洗机	qing xi ji	30565
 轻喜剧	qing xi ju	3255
 清晰可见	qing xi ke jian	18290
+清洗空调	qing xi kong tiao	111
 清洗口	qing xi kou	380
 清西陵	qing xi ling	1895
 清溪路	qing xi lu	358
@@ -325661,6 +326122,7 @@ sort: by_weight
 泉城广场	quan cheng guang chang	3355
 全程化	quan cheng hua	1710
 全程接种	quan cheng jie zhong	105
+全程空调旅游车	quan cheng kong tiao lv you che	111
 全称量词	quan cheng liang ci	150
 泉城路	quan cheng lu	2930
 全称判断	quan cheng pan duan	160
@@ -327178,8 +327640,9 @@ sort: by_weight
 全雨胎	quan yu tai	177
 全宇宙	quan yu zhou	2920
 全员	quan yuan	73435
-全院	quan yuan	57910
-泉源	quan yuan	7375
+全院	quan yuan	222
+全园	quan yuan	111
+泉源	quan yuan	1
 全员承包	quan yuan cheng bao	40
 全员承租	quan yuan cheng zu	9
 全圆碘泡虫	quan yuan dian pao chong	1
@@ -328875,6 +329338,7 @@ sort: by_weight
 热杯牛奶	re bei niu nai	111
 热泵	re beng	39445
 热泵技术与应用	re beng ji shu yu ying yong	4
+热泵空调	re beng kong tiao	111
 热痹	re bi	7
 热比娅	re bi ya	875
 热病	re bing	1111
@@ -329131,6 +329595,7 @@ sort: by_weight
 热柯觉乡	re ke jue xiang	3
 热柯依达乡	re ke yi da xiang	4
 热可炙手	re ke zhi shou	111
+热空调	re kong tiao	111
 热控制	re kong zhi	220
 热控制阀	re kong zhi fa	21
 热裤	re ku	1111
@@ -333055,12 +333520,14 @@ sort: by_weight
 日立公司	ri li gong si	4005
 日历卡	ri li ka	194
 日历控件	ri li kong jian	733
+日立空调	ri li kong tiao	111
 日利率	ri li lv	1345
 日历年	ri li nian	395
 日历日	ri li ri	1320
 日理万机	ri li wan ji	4585
 日笠阳子	ri li yang zi	133
 日历月	ri li yue	87
+日立中央空调	ri li zhong yang kong tiao	111
 日联杯	ri lian bei	181
 日粮	ri liang	13410
 日料	ri liao	9999
@@ -334201,6 +334668,7 @@ sort: by_weight
 柔风	rou feng	3305
 肉缝	rou feng	740
 柔风甘雨	rou feng gan yu	1
+柔风空调	rou feng kong tiao	111
 柔佛	rou fo	1895
 柔肤	rou fu	4000
 肉脯	rou fu	3795
@@ -335113,6 +335581,7 @@ sort: by_weight
 入坑作	ru keng zuo	194
 入孔	ru kong	1835
 如恐不及	ru kong bu ji	111
+如空调	ru kong tiao	111
 入口	ru kou	189295
 入寇	ru kou	1885
 入口处	ru kou chu	36690
@@ -339252,6 +339721,10 @@ sort: by_weight
 三岭村	san ling cun	22
 三凌村	san ling cun	1
 三菱电机	san ling dian ji	4530
+三菱电机空调	san ling dian ji kong tiao	111
+三菱电机中央空调	san ling dian ji zhong yang kong tiao	111
+三菱空调	san ling kong tiao	111
+三菱空调维修	san ling kong tiao wei xiu	111
 三菱汽车	san ling qi che	4920
 三零盛安	san ling sheng an	87
 三零盛安信息系统	san ling sheng an xin xi xi tong	87
@@ -339260,6 +339733,8 @@ sort: by_weight
 三〇一医院	san ling yi yi yuan	1
 三菱银行	san ling yin hang	2
 三菱重工	san ling zhong gong	5100
+三菱重工空调	san ling zhong gong kong tiao	111
+三菱中央空调	san ling zhong yang kong tiao	111
 三流	san liu	18220
 三六豹	san liu bao	781
 三六九	san liu jiu	3710
@@ -339586,11 +340061,13 @@ sort: by_weight
 散曲	san qu	3685
 散区	san qu	10
 三区二社区	san qu er she qu	2
+三区空调	san qu kong tiao	111
 三驱李甜粑	san qu li tian ba	1
 三区两县	san qu liang xian	132
 三区三社区	san qu san she qu	2
 三区社区	san qu she qu	7
 三驱田凉粉	san qu tian liang fen	1
+三区自动空调	san qu zi dong kong tiao	111
 三圈	san quan	3334
 三权	san quan	3333
 三泉	san quan	3
@@ -340413,6 +340890,7 @@ sort: by_weight
 三兴街	san xing jie	40
 三姓街	san xing jie	3
 三星酒店	san xing jiu dian	128
+三星空调	san xing kong tiao	111
 三星乐园	san xing le yuan	780
 三星连珠	san xing lian zhu	165
 三星铃声	san xing ling sheng	790
@@ -340432,6 +340910,7 @@ sort: by_weight
 三星液晶	san xing ye jing	1225
 三星在户	san xing zai hu	15
 三星在天	san xing zai tian	8
+三星中央空调	san xing zhong yang kong tiao	111
 三星庄	san xing zhuang	7
 三星庄村	san xing zhuang cun	3
 三星庄南口	san xing zhuang nan kou	1
@@ -340496,6 +340975,7 @@ sort: by_weight
 三氧化物	san yang hua wu	5
 三阳交泰	san yang jiao tai	111
 三阳开泰	san yang kai tai	1805
+三洋空调	san yang kong tiao	111
 三羊里	san yang li	168
 三阳路	san yang lu	540
 三阳络	san yang luo	1
@@ -347550,6 +348030,7 @@ sort: by_weight
 商用密码科研定点单位	shang yong mi ma ke yan ding dian dan wei	30
 商用密码科研管理规定	shang yong mi ma ke yan guan li gui ding	3
 商用英文	shang yong ying wen	55
+商用中央空调	shang yong zhong yang kong tiao	111
 上有	shang you	402120
 上游	shang you	121085
 尚有	shang you	101270
@@ -350080,6 +350561,7 @@ sort: by_weight
 设有	she you	361495
 舍友	she you	9060
 社友	she you	1280
+设有空调	she you kong tiao	111
 蛇有蛇路	she you she lu	7
 设于	she yu	16140
 摄于	she yu	8955
@@ -356374,6 +356856,7 @@ sort: by_weight
 生卒年	sheng zu nian	3520
 圣祖神孙	sheng zu shen sun	1
 声罪致讨	sheng zui zhi tao	111
+圣尊	sheng zun	111
 省作协	sheng zuo xie	1145
 是啊	shi a	220440
 似阿蒂迪杜父鱼	shi a di di du fu yu	1
@@ -359451,6 +359934,7 @@ sort: by_weight
 石家庄市专利专项资金管理办法	shi jia zhuang shi zhuan li zhuan xiang zi jin guan li ban fa	2
 石家庄铁道学院	shi jia zhuang tie dao xue yuan	2090
 石家庄珍极	shi jia zhuang zhen ji	63
+石家庄中央空调	shi jia zhuang zhong yang kong tiao	111
 石家庄中院	shi jia zhuang zhong yuan	87
 十家子	shi jia zi	215
 世家子弟	shi jia zi di	2035
@@ -361308,6 +361792,7 @@ sort: by_weight
 室内空间	shi nei kong jian	12020
 室内空气	shi nei kong qi	42470
 室内空气污染	shi nei kong qi wu ran	8110
+室内空调	shi nei kong tiao	111
 室内设备	shi nei she bei	1970
 室内设计	shi nei she ji	65265
 室内设计师	shi nei she ji shi	17420
@@ -363483,6 +363968,7 @@ sort: by_weight
 市外国语学校	shi wai guo yu xue xiao	65
 室外活动	shi wai huo dong	3765
 室外机	shi wai ji	6675
+室外空调	shi wai kong tiao	111
 世外桃源	shi wai tao yuan	32975
 室外天线	shi wai tian xian	710
 室外温度	shi wai wen du	3230
@@ -365018,6 +365504,8 @@ sort: by_weight
 试用课本	shi yong ke ben	80
 实用科普	shi yong ke pu	87
 实用科学	shi yong ke xue	700
+使用空调	shi yong kong tiao	111
+使用空调时	shi yong kong tiao shi	111
 是用来	shi yong lai	66000
 使用了	shi yong le	205645
 试用了	shi yong le	3790
@@ -370843,6 +371331,7 @@ sort: by_weight
 鼠屎污羹	shu shi wu geng	1
 舒适性	shu shi xing	47740
 舒适型	shu shi xing	30575
+舒适性空调	shu shi xing kong tiao	111
 数十亿	shu shi yi	10235
 疏食饮水	shu shi yin shui	111
 数十种	shu shi zhong	14350
@@ -371767,7 +372256,9 @@ sort: by_weight
 耍坝子	shua ba zi	44
 刷白	shua bai	3640
 刷榜	shua bang	9999
-刷爆	shua bao	111
+刷爆	shua bao	3333
+耍宝	shua bao	111
+刷爆了	shua bao le	333
 耍笔杆	shua bi gan	70
 耍笔杆儿	shua bi gan er	9999
 耍笔杆子	shua bi gan zi	16
@@ -373007,8 +373498,10 @@ sort: by_weight
 爽秋路社区	shuang qiu lu she qu	3
 双趋冲突	shuang qu chong tu	114
 双曲函数	shuang qu han shu	125
+双区空调	shuang qu kong tiao	111
 双曲线	shuang qu xian	4375
 双曲线的	shuang qu xian de	1660
+双区自动空调	shuang qu zi dong kong tiao	111
 双拳	shuang quan	10505
 双全	shuang quan	8765
 双全白环蛇	shuang quan bai huan she	2
@@ -373215,6 +373708,7 @@ sort: by_weight
 双纹林地钝口螈	shuang wen lin di dun kou yuan	1
 双文明	shuang wen ming	3960
 双吻前口蝠鲼	shuang wen qian kou fu fen	1
+双温区自动空调	shuang wen qu zi dong kong tiao	111
 双稳态	shuang wen tai	590
 双舞	shuang wu	630
 双五百	shuang wu bai	45
@@ -374252,6 +374746,7 @@ sort: by_weight
 税控	shui kong	32675
 水孔	shui kong	63
 税控收款机	shui kong shou kuan ji	15225
+水空调	shui kong tiao	111
 水口	shui kou	22850
 水口村	shui kou cun	156
 水口里	shui kou li	5
@@ -374292,6 +374787,7 @@ sort: by_weight
 睡嘞	shui lei	111
 水冷	shui leng	26065
 水冷壁	shui leng bi	1115
+水冷空调	shui leng kong tiao	111
 水冷却	shui leng que	2065
 水冷却器	shui leng que qi	205
 水冷式	shui leng shi	2320
@@ -375060,6 +375556,7 @@ sort: by_weight
 水文观测	shui wen guan ce	675
 水文化	shui wen hua	2530
 水文局	shui wen ju	6315
+水温空调	shui wen kong tiao	111
 水文气象	shui wen qi xiang	1690
 水文情报	shui wen qing bao	930
 水文信息	shui wen xin xi	1120
@@ -375141,6 +375638,7 @@ sort: by_weight
 水西门	shui xi men	478
 水西门大街	shui xi men da jie	379
 水系魔菇	shui xi mo gu	1
+水系统中央空调	shui xi tong zhong yang kong tiao	111
 水下	shui xia	55100
 睡下	shui xia	11430
 水下爆破	shui xia bao po	340
@@ -380905,6 +381403,7 @@ sort: by_weight
 松下电器	song xia dian qi	9345
 松下电器公司	song xia dian qi gong si	57
 松下公司	song xia gong si	5295
+松下空调	song xia kong tiao	111
 送下来	song xia lai	165
 松下奈绪	song xia nai xu	2
 松下牌	song xia pai	240
@@ -382066,11 +382565,13 @@ sort: by_weight
 速射	su she	2795
 宿舍电话	su she dian hua	1060
 素社街道	su she jie dao	20
+宿舍空调	su she kong tiao	111
 宿舍里	su she li	21695
 宿舍楼	su she lou	26085
 速射炮	su she pao	985
 宿舍区	su she qu	5890
 宿舍条件	su she tiao jian	165
+宿舍有空调	su she you kong tiao	111
 塑身	su shen	21000
 塑身果汁	su shen guo zhi	1
 塑身美体连体衣	su shen mei ti lian ti yi	1
@@ -392773,7 +393274,9 @@ sort: by_weight
 特林加岱拉	te lin jia dai la	1
 特灵	te ling	5670
 特令	te ling	770
+特灵空调	te ling kong tiao	111
 特灵眼药	te ling yan yao	12
+特灵中央空调	te ling zhong yang kong tiao	111
 特鲁多	te lu duo	848
 特鲁克鹟	te lu ke weng	1
 特鲁姆普	te lu mu pu	104
@@ -393729,6 +394232,7 @@ sort: by_weight
 提供机会	ti gong ji hui	6655
 提供技术	ti gong ji shu	69105
 提供建议	ti gong jian yi	6830
+提供空调	ti gong kong tiao	111
 提供会计	ti gong kuai ji	111
 提供劳务	ti gong lao wu	13665
 提供了	ti gong le	500636
@@ -396381,6 +396885,7 @@ sort: by_weight
 天然居	tian ran ju	1280
 恬然居	tian ran ju	1
 天然抗体	tian ran kang ti	23
+天然空调	tian ran kong tiao	111
 天然矿	tian ran kuang	106
 天然联系	tian ran lian xi	111
 天然林	tian ran lin	17340
@@ -397519,6 +398024,7 @@ sort: by_weight
 田中理惠	tian zhong li hui	16
 田中丽奈	tian zhong li nai	1
 田中美保	tian zhong mei bao	1
+田中柠檬	tian zhong ning meng	6666
 田中千绘	tian zhong qian hui	56
 天中文化	tian zhong wen hua	131
 田中央	tian zhong yang	23
@@ -397940,6 +398446,8 @@ sort: by_weight
 调解机制	tiao jie ji zhi	1330
 调解结果	tiao jie jie guo	1125
 调解纠纷	tiao jie jiu fen	2790
+调节空调	tiao jie kong tiao	111
+调节空调温度	tiao jie kong tiao wen du	111
 调解率	tiao jie lv	1570
 调节内分泌	tiao jie nei fen mi	13500
 调节器	tiao jie qi	22845
@@ -400755,6 +401263,9 @@ sort: by_weight
 通风柜	tong feng gui	1580
 通风机	tong feng ji	5645
 通风孔	tong feng kong	2140
+通风空调	tong feng kong tiao	111
+通风空调工程	tong feng kong tiao gong cheng	111
+通风空调系统	tong feng kong tiao xi tong	111
 通风口	tong feng kou	6315
 通风良好	tong feng liang hao	6045
 通风盘	tong feng pan	960
@@ -400768,6 +401279,7 @@ sort: by_weight
 痛风性	tong feng xing	2145
 痛风性关节炎	tong feng xing guan jie yan	203
 痛风性肾病	tong feng xing shen bing	35
+通风与空调	tong feng yu kong tiao	111
 铜佛	tong fo	2915
 铜佛寺	tong fo si	190
 同佛寺	tong fo si	1
@@ -410633,6 +411145,7 @@ sort: by_weight
 万能胶	wan neng jiao	4195
 万能卡	wan neng ka	40
 万能烤箱	wan neng kao xiang	2
+万能空调遥控器	wan neng kong tiao yao kong qi	111
 万能论	wan neng lun	960
 万能青年旅店	wan neng qing nian lv dian	164
 万能驱动	wan neng qu dong	920
@@ -416607,6 +417120,8 @@ sort: by_weight
 惟口起羞	wei kou qi xiu	1
 惟口兴戎	wei kou xing rong	1
 味苦	wei ku	9995
+微苦	wei ku	2222
+卫裤	wei ku	1111
 韦裤布被	wei ku bu bei	1
 伪库尼奥芋螺	wei ku ni ao yu luo	1
 维库溴铵	wei ku xiu an	1
@@ -418964,6 +419479,7 @@ sort: by_weight
 维修技术	wei xiu ji shu	15380
 维修间	wei xiu jian	358
 维修孔	wei xiu kong	229
+维修空调	wei xiu kong tiao	111
 维修款	wei xiu kuan	72
 维修率	wei xiu lv	835
 维修能力	wei xiu neng li	1465
@@ -424300,6 +424816,7 @@ sort: by_weight
 我失骄杨君失柳	wo shi jiao yang jun shi liu	1180
 我是接班人	wo shi jie ban ren	132
 我是警察	wo shi jing cha	120
+卧室空调	wo shi kong tiao	111
 我试了试	wo shi le shi	398
 卧室里	wo shi li	18140
 我是流氓	wo shi liu mang	2975
@@ -427956,6 +428473,7 @@ sort: by_weight
 吾恐季孙之忧	wu kong ji sun zhi you	2
 无空间	wu kong jian	645
 五孔桥	wu kong qiao	22
+无空调	wu kong tiao	111
 五孔闸	wu kong zha	8
 五口	wu kou	5140
 浯口	wu kou	14
@@ -434129,6 +434647,7 @@ sort: by_weight
 锡坑村	xi keng cun	1
 西坑水库	xi keng shui ku	12
 西坑尾	xi keng wei	56
+洗空调	xi kong tiao	111
 西口	xi kou	12930
 溪口	xi kou	10295
 吸口	xi kou	1270
@@ -437743,6 +438262,7 @@ sort: by_weight
 下级机关	xia ji ji guan	5465
 夏季价	xia ji jia	5
 下级检察院	xia ji jian cha yuan	1
+夏季空调	xia ji kong tiao	111
 虾脊兰	xia ji lan	5
 下棘隆胎鳚	xia ji long tai wei	1
 夏季暖湿	xia ji nuan shi	1180
@@ -438743,15 +439263,19 @@ sort: by_weight
 下体	xia ti	22380
 夏天	xia tian	281105
 下田	xia tian	6240
+夏天吹空调	xia tian chui kong tiao	111
 夏天到了	xia tian dao le	2155
 夏天的风	xia tian de feng	4020
 夏天的衣服	xia tian de yi fu	162
 夏天的雨	xia tian de yu	945
+夏天开空调	xia tian kai kong tiao	111
+夏天空调	xia tian kong tiao	111
 夏天里	xia tian li	3815
 夏天去	xia tian qu	230
 夏天无	xia tian wu	14
 夏天无滴眼液	xia tian wu di yan ye	1
 夏天无片	xia tian wu pian	4
+夏天有空调	xia tian you kong tiao	111
 下天竺	xia tian zhu	295
 下天竺寺	xia tian zhu si	105
 下调	xia tiao	86390
@@ -439391,6 +439915,7 @@ sort: by_weight
 下座	xia zuo	2095
 瞎琢磨	xia zuo mo	790
 下作业	xia zuo ye	85
+显矮	xian ai	3333
 险隘	xian ai	935
 腺癌	xian ai	132
 腺癌物	xian ai wu	3
@@ -443956,6 +444481,7 @@ sort: by_weight
 想开	xiang kai	17710
 想开点	xiang kai dian	1910
 香开酒库门	xiang kai jiu ku men	1
+想开空调	xiang kai kong tiao	111
 想看	xiang kan	91775
 相看	xiang kan	8565
 相看白刃血纷纷	xiang kan bai ren xue fen fen	2
@@ -443976,6 +444502,7 @@ sort: by_weight
 向客户	xiang ke hu	40140
 乡科级	xiang ke ji	2580
 相克相济	xiang ke xiang ji	111
+像空调	xiang kong tiao	111
 相控阵	xiang kong zhen	4815
 向空中	xiang kong zhong	6055
 巷口	xiang kou	10470
@@ -448212,6 +448739,7 @@ sort: by_weight
 小孔裸腹鳉	xiao kong luo fu jiang	1
 小孔歧须𬶏	xiao kong qi xu wei	1
 小孔雀	xiao kong que	115
+小空调	xiao kong tiao	111
 小空投	xiao kong tou	175
 小孔亚口鱼	xiao kong ya kou yu	1
 小孔鰋	xiao kong yan	1
@@ -448713,6 +449241,7 @@ sort: by_weight
 小迷糊	xiao mi hu	1635
 小米加步枪	xiao mi jia bu qiang	1515
 小米科技园	xiao mi ke ji yuan	196
+小米空调	xiao mi kong tiao	111
 小米凉粉	xiao mi liang fen	1
 笑眯眯	xiao mi mi	23555
 小秘密	xiao mi mi	9650
@@ -452625,8 +453154,9 @@ sort: by_weight
 写下去	xie xia qu	6220
 卸下重担	xie xia zhong dan	135
 斜线	xie xian	14305
-谢贤	xie xian	3990
-挟嫌	xie xian	270
+谢贤	xie xian	399
+血线	xie xian	111
+挟嫌	xie xian	27
 歇闲	xie xian	10
 挟嫌报复	xie xian bao fu	9999
 斜线关夜蛾	xie xian guan ye e	1
@@ -453953,6 +454483,7 @@ sort: by_weight
 新丰江水库	xin feng jiang shui ku	295
 新风景	xin feng jing	760
 新丰垦殖场	xin feng ken zhi chang	1
+新风空调	xin feng kong tiao	111
 新丰绿树起黄埃	xin feng lv shu qi huang ai	1
 新风貌	xin feng mao	3665
 新丰美酒斗十千	xin feng mei jiu dou shi qian	2
@@ -455015,6 +455546,7 @@ sort: by_weight
 新课改	xin ke gai	12195
 新客户	xin ke hu	23940
 新科技	xin ke ji	17165
+新科空调	xin ke kong tiao	111
 辛克莱	xin ke lai	1185
 心可宁胶囊	xin ke ning jiao nang	1
 心可舒颗粒	xin ke shu ke li	1
@@ -455031,6 +455563,7 @@ sort: by_weight
 新坑径	xin keng jing	2
 心空	xin kong	4640
 新控件	xin kong jian	745
+新空调	xin kong tiao	111
 心口	xin kou	19170
 信口	xin kou	4025
 忻口	xin kou	1600
@@ -455226,6 +455759,7 @@ sort: by_weight
 新理论	xin li lun	143
 心里美	xin li mei	2935
 心里没底	xin li mei di	4385
+心里没底儿	xin li mei di er	4385
 心里没人	xin li mei ren	111
 心里迷瞪	xin li mi deng	9999
 心理描写	xin li miao xie	3440
@@ -461777,6 +462311,7 @@ sort: by_weight
 休克肺	xiu ke fei	1
 休克疗法	xiu ke liao fa	2465
 休克型肺炎	xiu ke xing fei yan	1
+修空调	xiu kong tiao	111
 袖口	xiu kou	20135
 袖扣	xiu kou	3700
 羞口	xiu kou	11
@@ -464087,6 +464622,7 @@ sort: by_weight
 旋宫酒店	xuan gong jiu dian	20
 选购	xuan gou	300720
 选购件	xuan gou jian	3650
+选购空调	xuan gou kong tiao	111
 选购商品	xuan gou shang pin	25700
 选购物品	xuan gou wu pin	850
 选购者	xuan gou zhe	500
@@ -464248,6 +464784,7 @@ sort: by_weight
 轩朗	xuan lang	115
 宣劳	xuan lao	130
 选了	xuan le	48170
+宣了	xuan le	11
 选了放弃了	xuan le fang qi le	100
 绚丽	xuan li	79855
 炫丽	xuan li	5890
@@ -466165,9 +466702,10 @@ sort: by_weight
 薛下村乡	xue xia cun xiang	1
 雪下得好大	xue xia de hao da	100
 削下来	xue xia lai	380
+血线	xue xian	6666
 雪线	xue xian	5920
 学衔	xue xian	1180
-学贤	xue xian	600
+# 学贤	xue xian	0
 学宪法	xue xian fa	119
 学先进	xue xian jin	3080
 雪仙丽	xue xian li	16
@@ -472614,6 +473152,7 @@ sort: by_weight
 羊的	yang de	2204
 痒得	yang de	2000
 痒的	yang de	1000
+阳的	yang de	111
 # 样地	yang de	0
 # 氧的	yang de	0
 养得比	yang de bi	35
@@ -474536,6 +475075,7 @@ sort: by_weight
 扬子江	yang zi jiang	13825
 扬子江路街道	yang zi jiang lu jie dao	25
 扬子江头杨柳春	yang zi jiang tou yang liu chun	1180
+扬子空调	yang zi kong tiao	111
 养子女	yang zi nv	5820
 杨紫琼	yang zi qiong	4625
 杨子荣	yang zi rong	3915
@@ -475296,6 +475836,7 @@ sort: by_weight
 要开	yao kai	30210
 要开车	yao kai che	67
 要开发	yao kai fa	5235
+要开空调	yao kai kong tiao	111
 要开票	yao kai piao	62
 要开始	yao kai shi	13965
 要看	yao kan	192165
@@ -481090,6 +481631,7 @@ sort: by_weight
 移动开放平台	yi dong kai fang ping tai	12
 移动客户端	yi dong ke hu duan	1268
 移动控件	yi dong kong jian	224
+移动空调	yi dong kong tiao	111
 移动类	yi dong lei	142
 移动力	yi dong li	1965
 移动铃声下载	yi dong ling sheng xia zai	60
@@ -484070,6 +484612,7 @@ sort: by_weight
 一孔	yi kong	3335
 一孔不达	yi kong bu da	1
 意恐迟迟归	yi kong chi chi gui	1180
+以空调	yi kong tiao	111
 一空依傍	yi kong yi bang	111
 以控制	yi kong zhi	14235
 一孔之见	yi kong zhi jian	1780
@@ -484206,6 +484749,7 @@ sort: by_weight
 怡莱酒店	yi lai jiu dian	181
 伊莱克顿	yi lai ke dun	1
 伊莱克斯	yi lai ke si	9205
+伊莱克斯空调	yi lai ke si kong tiao	111
 依赖库	yi lai ku	8704
 伊濑茉莉也	yi lai mo li ye	141
 依赖软件	yi lai ruan jian	75
@@ -487753,6 +488297,7 @@ sort: by_weight
 一台服务器	yi tai fu wu qi	12240
 逸态横生	yi tai heng sheng	1
 伊泰克	yi tai ke	280
+一台空调	yi tai kong tiao	111
 伊泰莲娜	yi tai lian na	3210
 抑肽酶	yi tai mei	1
 一抬手	yi tai shou	199
@@ -488169,6 +488714,7 @@ sort: by_weight
 一拖多	yi tuo duo	930
 一拖二	yi tuo er	10
 一脱二	yi tuo er	1
+一拖二空调	yi tuo er kong tiao	111
 依托红霉素	yi tuo hong mei su	26
 依托红霉素颗粒	yi tuo hong mei su ke li	3
 一拖净	yi tuo jing	343
@@ -491507,7 +492053,7 @@ sort: by_weight
 印的	yin de	23015
 银的	yin de	13230
 阴的	yin de	8660
-阴德	yin de	4015
+阴德	yin de	4
 印得比	yin de bi	50
 隐德来希	yin de lai xi	20
 阴得像	yin de xiang	10
@@ -501344,6 +501890,7 @@ sort: by_weight
 又恐琼楼玉宇	you kong qiong lou yu yu	1180
 又恐汝不察吾衷	you kong ru bu cha wu zhong	6
 有空时	you kong shi	3040
+有空调	you kong tiao	111
 有空位	you kong wei	775
 犹恐相逢是梦中	you kong xiang feng shi meng zhong	1
 有空再聊	you kong zai liao	190
@@ -510352,6 +510899,7 @@ sort: by_weight
 元长厚	yuan chang hou	7
 原厂家	yuan chang jia	73
 园长江	yuan chang jiang	6
+原厂空调	yuan chang kong tiao	111
 原唱铃声	yuan chang ling sheng	67
 原厂商	yuan chang shang	67
 原肠体腔动物	yuan chang ti qiang dong wu	1
@@ -512162,6 +512710,7 @@ sort: by_weight
 圆形菜单	yuan xing cai dan	642
 原型车	yuan xing che	3875
 圆形虫	yuan xing chong	29
+圆形的空调出风口	yuan xing de kong tiao chu feng kou	111
 圆形碘泡虫	yuan xing dian pao chong	3
 圆形动物门	yuan xing dong wu men	2
 原型对象	yuan xing dui xiang	2937
@@ -512173,6 +512722,7 @@ sort: by_weight
 圆形进度条	yuan xing jin du tiao	749
 圆形剧场	yuan xing ju chang	445
 远行客	yuan xing ke	110
+圆形空调出风口	yuan xing kong tiao chu feng kou	111
 原型链	yuan xing lian	2738
 圆形鳞斑蟹	yuan xing lin ban xie	1
 原型模式	yuan xing mo shi	3957
@@ -513463,7 +514013,9 @@ sort: by_weight
 越急越是	yue ji yue shi	60
 悦己者	yue ji zhe	2855
 越加	yue jia	7720
-岳家	yue jia	3895
+越假	yue jia	6666
+约架	yue jia	3333
+岳家	yue jia	389
 岳家军	yue jia jun	35
 越甲鸣君	yue jia ming jun	1
 月甲鱼	yue jia yu	10
@@ -513645,12 +514197,14 @@ sort: by_weight
 约克公爵	yue ke gong jue	144
 约克郡	yue ke jun	1750
 约克郡犬	yue ke jun quan	73
+约克空调	yue ke kong tiao	111
 约克那斯藻	yue ke na si zao	1
 悦可婷	yue ke ting	1
 约克夏	yue ke xia	4115
 约克夏梗	yue ke xia geng	218
 约克夏梗犬	yue ke xia geng quan	10
 约克夏犭更犬	yue ke xia quan geng quan	1
+约克中央空调	yue ke zhong yang kong tiao	111
 越扣越紧	yue kou yue jin	30
 越哭越	yue ku yue	65
 越哭越后悔	yue ku yue hou hui	10
@@ -532408,6 +532962,7 @@ sort: by_weight
 政法机关	zheng fa ji guan	7185
 政法教育	zheng fa jiao yu	158
 政法界右派分子谬论汇集	zheng fa jie you pai fen zi miu lun hui ji	2
+蒸发空调	zheng fa kong tiao	111
 蒸发了	zheng fa le	5120
 政法类	zheng fa lei	1460
 蒸发冷却	zheng fa leng que	545
@@ -536225,6 +536780,8 @@ sort: by_weight
 制高点	zhi gao dian	26560
 至高点	zhi gao dian	301
 趾高飞扬	zhi gao fei yang	1
+志高空调	zhi gao kong tiao	111
+志高空调维修	zhi gao kong tiao wei xiu	111
 脂膏莫润	zhi gao mo run	1
 趾高气昂	zhi gao qi ang	3333
 趾高气扬	zhi gao qi yang	6795
@@ -537281,6 +537838,7 @@ sort: by_weight
 制冷机	zhi leng ji	5435
 制冷机厂	zhi leng ji chang	10
 制冷空调	zhi leng kong tiao	7440
+制冷空调设备	zhi leng kong tiao she bei	111
 直愣愣	zhi leng leng	1830
 制冷量	zhi leng liang	6130
 制冷能力	zhi leng neng li	625
@@ -537289,6 +537847,7 @@ sort: by_weight
 制冷系统	zhi leng xi tong	8310
 制冷压缩机	zhi leng ya suo ji	2440
 制冷业	zhi leng ye	285
+制冷与空调	zhi leng yu kong tiao	111
 知冷知热	zhi leng zhi re	1025
 治理	zhi li	495460
 智力	zhi li	267470
@@ -537624,6 +538183,7 @@ sort: by_weight
 只流	zhi liu	1470
 直馏	zhi liu	785
 脂瘤	zhi liu	12
+直流变频空调	zhi liu bian pin kong tiao	111
 滞留不归	zhi liu bu gui	1070
 只留存	zhi liu cun	68
 直流电	zhi liu dian	9005
@@ -537994,6 +538554,7 @@ sort: by_weight
 智能客	zhi neng ke	2
 智能科技有限公司	zhi neng ke ji you xian gong si	3835
 智能科学	zhi neng ke xue	36
+智能空调	zhi neng kong tiao	111
 智能控制	zhi neng kong zhi	17565
 智能狂拼	zhi neng kuang pin	1605
 智能路由器	zhi neng lu you qi	176
@@ -542397,6 +542958,7 @@ sort: by_weight
 中国科学院心理研究所	zhong guo ke xue yuan xin li yan jiu suo	2670
 中国科学院优秀博士后评选条例	zhong guo ke xue yuan you xiu bo shi hou ping xuan tiao li	1
 中国空军	zhong guo kong jun	10875
+中国空调	zhong guo kong tiao	111
 中国会计	zhong guo kuai ji	111
 中国会计评论	zhong guo kuai ji ping lun	1
 中国会计学会	zhong guo kuai ji xue hui	1
@@ -543854,6 +544416,7 @@ sort: by_weight
 中间茎方头鱼	zhong jian jing fang tou yu	1
 中间锯花𫚔	zhong jian ju hua hui	1
 中间巨牙天竺鲷	zhong jian ju ya tian zhu diao	1
+中间空调	zhong jian kong tiao	111
 中坚力量	zhong jian li liang	18620
 中间连膜鰕虎鱼	zhong jian lian mo xia hu yu	1
 中间瘤体星虫	zhong jian liu ti xing chong	1
@@ -545534,6 +546097,7 @@ sort: by_weight
 中心客运站	zhong xin ke yun zhan	182
 中心坑	zhong xin keng	2
 中信控股	zhong xin kong gu	3
+中心空调	zhong xin kong tiao	111
 中心控制	zhong xin kong zhi	2215
 中心力	zhong xin li	10
 忠心烈胆	zhong xin lie dan	111
@@ -545878,6 +546442,39 @@ sort: by_weight
 中央军委委员	zhong yang jun wei wei yuan	4345
 中央军委主席	zhong yang jun wei zhu xi	39605
 中央空调	zhong yang kong tiao	79895
+中央空调安装	zhong yang kong tiao an zhuang	111
+中央空调安装公司	zhong yang kong tiao an zhuang gong si	111
+中央空调保养	zhong yang kong tiao bao yang	111
+中央空调产品	zhong yang kong tiao chan pin	111
+中央空调出风口	zhong yang kong tiao chu feng kou	111
+中央空调风口	zhong yang kong tiao feng kou	111
+中央空调改造	zhong yang kong tiao gai zao	111
+中央空调工程	zhong yang kong tiao gong cheng	111
+中央空调管道	zhong yang kong tiao guan dao	111
+中央空调行业	zhong yang kong tiao hang ye	111
+中央空调回收	zhong yang kong tiao hui shou	111
+中央空调机组	zhong yang kong tiao ji zu	111
+中央空调价格	zhong yang kong tiao jia ge	111
+中央空调节能	zhong yang kong tiao jie neng	111
+中央空调节能改造	zhong yang kong tiao jie neng gai zao	111
+中央空调冷却塔	zhong yang kong tiao leng que ta	111
+中央空调末端	zhong yang kong tiao mo duan	111
+中央空调木托	zhong yang kong tiao mu tuo	111
+中央空调配件	zhong yang kong tiao pei jian	111
+中央空调品牌	zhong yang kong tiao pin pai	111
+中央空调清洗	zhong yang kong tiao qing xi	111
+中央空调设备	zhong yang kong tiao she bei	111
+中央空调设计	zhong yang kong tiao she ji	111
+中央空调市场	zhong yang kong tiao shi chang	111
+中央空调水系统	zhong yang kong tiao shui xi tong	111
+中央空调通风管道	zhong yang kong tiao tong feng guan dao	111
+中央空调维保	zhong yang kong tiao wei bao	111
+中央空调维修	zhong yang kong tiao wei xiu	111
+中央空调维修保养	zhong yang kong tiao wei xiu bao yang	111
+中央空调系统	zhong yang kong tiao xi tong	111
+中央空调销售	zhong yang kong tiao xiao shou	111
+中央空调制冷	zhong yang kong tiao zhi leng	111
+中央空调主机	zhong yang kong tiao zhu ji	111
 中央控制	zhong yang kong zhi	7220
 中央领导	zhong yang ling dao	37345
 中央领导同志	zhong yang ling dao tong zhi	7745
@@ -548032,6 +548629,7 @@ sort: by_weight
 筑巢引凤	zhu chao yin feng	2630
 驻车	zhu che	3333
 驻车灯	zhu che deng	172
+驻车空调	zhu che kong tiao	111
 驻车制动指示灯	zhu che zhi dong zhi shi deng	3
 诸宸	zhu chen	72
 逐趁	zhu chen	15
@@ -552728,6 +553326,8 @@ sort: by_weight
 专业课二	zhuan ye ke er	106
 专业科目	zhuan ye ke mu	10300
 专业课一	zhuan ye ke yi	176
+专业空调	zhuan ye kong tiao	111
+专业空调维修	zhuan ye kong tiao wei xiu	111
 专业会计	zhuan ye kuai ji	111
 专业会计师	zhuan ye kuai ji shi	111
 专业领域	zhuan ye ling yu	24380
@@ -552874,6 +553474,7 @@ sort: by_weight
 专用记账凭证	zhuan yong ji zhang ping zheng	45
 专用接口	zhuan yong jie kou	1235
 专用卷	zhuan yong juan	50
+专用空调	zhuan yong kong tiao	111
 专用链	zhuan yong lian	115
 专用连接	zhuan yong lian jie	500
 专用名	zhuan yong ming	345
@@ -553298,6 +553899,7 @@ sort: by_weight
 装可爱	zhuang ke ai	3340
 状颗粒	zhuang ke li	72
 庄窠乡	zhuang ke xiang	1
+装空调	zhuang kong tiao	111
 装口袋	zhuang kou dai	270
 装酷	zhuang ku	4000
 撞库	zhuang ku	1111
@@ -555206,6 +555808,7 @@ sort: by_weight
 自带杯	zi dai bei	137
 子带编码	zi dai bian ma	42
 子代病毒	zi dai bing du	65
+自带空调	zi dai kong tiao	111
 自带滤镜	zi dai lv jing	121
 子代细胞	zi dai xi bao	195
 子弹	zi dan	118195
@@ -555374,6 +555977,7 @@ sort: by_weight
 自动放弃	zi dong fang qi	17605
 自动分词	zi dong fen ci	69
 自动分类	zi dong fen lei	542
+自动分区空调	zi dong fen qu kong tiao	111
 自动分析仪	zi dong fen xi yi	660
 自动分页	zi dong fen ye	1195
 自动扶梯	zi dong fu ti	7455
@@ -555395,6 +555999,7 @@ sort: by_weight
 自动豪华	zi dong hao hua	7383
 自动合成	zi dong he cheng	475
 自动合成仪	zi dong he cheng yi	5
+自动恒温空调	zi dong heng wen kong tiao	111
 自动呼叫	zi dong hu jiao	850
 自动化	zi dong hua	398260
 自动化部署	zi dong hua bu shu	1008
@@ -555444,7 +556049,9 @@ sort: by_weight
 自动开机	zi dong kai ji	3905
 自动开票	zi dong kai piao	44
 自动开启	zi dong kai qi	5900
+自动空调	zi dong kong tiao	111
 自动空调控制系统	zi dong kong tiao kong zhi xi tong	113
+自动空调系统	zi dong kong tiao xi tong	111
 自动控制	zi dong kong zhi	52120
 自动控制系统	zi dong kong zhi xi tong	8260
 自动控制原理	zi dong kong zhi yuan li	74
@@ -556754,6 +557361,7 @@ sort: by_weight
 自清	zi qing	5120
 恣情	zi qing	1275
 自清洁	zi qing jie	73
+自清洁空调	zi qing jie kong tiao	111
 自清凉无汗	zi qing liang wu han	1
 自清亭	zi qing ting	4
 自轻自贱	zi qing zi jian	900
@@ -560609,6 +561217,7 @@ sort: by_weight
 组合软件	zu he ruan jian	945
 组合设计	zu he she ji	1795
 组合式	zu he shi	19120
+组合式空调机组	zu he shi kong tiao ji zu	111
 组合数	zu he shu	4008
 组合数取模	zu he shu qu mo	194
 组合数学	zu he shu xue	2346
@@ -562666,10 +563275,12 @@ sort: by_weight
 嘴下死	zui xia si	3
 最先	zui xian	95330
 最鲜	zui xian	7555
-醉仙	zui xian	5210
+最咸	zui xian	6685
+最闲	zui xian	5555
+最显	zui xian	4444
 最险	zui xian	2195
-罪嫌	zui xian	650
-最咸	zui xian	85
+醉仙	zui xian	521
+罪嫌	zui xian	65
 最先讲	zui xian jiang	12
 最先进	zui xian jin	124605
 最现实	zui xian shi	22070
@@ -564165,8 +564776,9 @@ sort: by_weight
 作曲人	zuo qu ren	165
 作曲者	zuo qu zhe	2685
 左拳	zuo quan	5555
+做全	zuo quan	4444
 座圈	zuo quan	1630
-左券	zuo quan	135
+左券	zuo quan	13
 左权	zuo quan	1
 左券可操	zuo quan ke cao	1
 左权县	zuo quan xian	1325
