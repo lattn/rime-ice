@@ -1519,7 +1519,7 @@
 #///
 ---
 name: base
-version: "2023-04-18"
+version: "2023-04-19"
 sort: by_weight
 ...
 # +_+
@@ -15046,6 +15046,8 @@ sort: by_weight
 绑紧	bang jin	1590
 绑进来	bang jin lai	64
 傍角儿	bang jue er	9999
+绑卡	bang ka	1111
+绑卡送	bang ka song	111
 帮看一下	bang kan yi xia	64
 蚌壳	bang ke	3355
 棒客	bang ke	5
@@ -42743,8 +42745,8 @@ sort: by_weight
 藏尸	cang shi	875
 藏尸案	cang shi an	119
 藏式面条	cang shi mian tiao	2
-藏书	cang shu	49180
 仓鼠	cang shu	6585
+藏书	cang shu	4918
 苍术苷	cang shu gan	1
 藏书阁	cang shu ge	1765
 藏书家	cang shu jia	2435
@@ -47097,6 +47099,8 @@ sort: by_weight
 常规比赛中	chang gui bi sai zhong	965
 长跪不起	chang gui bu qi	1400
 常规裁军	chang gui cai jun	20
+常规操作	chang gui cao zuo	111
+常规操作了	chang gui cao zuo le	111
 常规动力	chang gui dong li	179
 常规工作	chang gui gong zuo	5720
 常规光源治疗机	chang gui guang yuan zhi liao ji	1
@@ -61101,6 +61105,8 @@ sort: by_weight
 搋子	chuai zi	250
 串案	chuan an	1910
 穿安全靴	chuan an quan xue	1
+穿袄	chuan ao	111
+穿袄子	chuan ao zi	111
 穿白色	chuan bai se	4545
 川白芷	chuan bai zhi	39
 川百止痒洗剂	chuan bai zhi yang xi ji	1
@@ -61345,8 +61351,10 @@ sort: by_weight
 船的	chuan de	32090
 传得	chuan de	9700
 传的	chuan de	450
+喘得	chuan de	111
 穿得比	chuan de bi	485
 传得比	chuan de bi	20
+喘得不行	chuan de bu xing	111
 穿的戴的	chuan de dai de	100
 穿得单薄	chuan de dan bo	175
 传得到	chuan de dao	20
@@ -72573,9 +72581,10 @@ sort: by_weight
 大蛇	da she	18540
 大赦	da she	7005
 搭设	da she	5380
+打蛇	da she	555
 大社	da she	448
 打射	da she	25
-大畲	da she	9
+大畲村	da she cun	1
 打蛇打七寸	da she da qi cun	355
 大社会	da she hui	4100
 大社会计划	da she hui ji hua	1
@@ -96595,9 +96604,11 @@ sort: by_weight
 斗法	dou fa	7010
 都发生	dou fa sheng	7310
 都发现	dou fa xian	5495
-兜翻	dou fan	9999
+都烦	dou fan	5555
+兜翻	dou fan	111
 豆饭菜羹	dou fan cai geng	1
 都翻过来	dou fan guo lai	68
+都烦死	dou fan si	5555
 斗方	dou fang	2670
 窦房传导阻滞	dou fang chuan dao zu zhi	1
 都放到	dou fang dao	152
@@ -102253,6 +102264,7 @@ sort: by_weight
 多聊	duo liao	6995
 多聊几句	duo liao ji ju	1180
 多了解	duo liao jie	13155
+多了解了解	duo liao jie liao jie	111
 多列	duo lie	7288
 多列显示	duo lie xian shi	96
 多鳞	duo lin	100
@@ -122863,6 +122875,7 @@ sort: by_weight
 氟氯西林钠	fu lv xi lin na	2
 副旅长	fu lv zhang	1390
 驸马	fu ma	9999
+辅码	fu ma	1111
 符码	fu ma	1
 福码大厦	fu ma da sha	174
 呋麻滴鼻液	fu ma di bi ye	52
@@ -139859,6 +139872,8 @@ sort: by_weight
 沟灌	gou guan	1085
 诟龟呼天	gou gui hu tian	1
 狗果定理	gou guo ding li	192
+狗汉奸	gou han jian	222
+够罕见	gou han jian	111
 够好	gou hao	10310
 沟壕	gou hao	280
 沟壑	gou he	12230
@@ -252184,6 +252199,7 @@ sort: by_weight
 领港员	ling gang yuan	120
 另搞	ling gao	200
 另搞一套	ling gao yi tao	820
+领个	ling ge	5555
 灵歌	ling ge	1385
 灵格风	ling ge feng	1205
 灵格斯词霸	ling ge si ci ba	24
@@ -341797,6 +341813,8 @@ sort: by_weight
 骚人雅士	sao ren ya shi	111
 骚人逸客	sao ren yi ke	1
 扫日劳清肺止咳胶囊	sao ri lao qing fei zhi ke jiao nang	4
+骚瑞	sao rui	1111
+骚瑞骚瑞	sao rui sao rui	111
 嫂嫂	sao sao	87190
 搔搔	sao sao	2445
 扫扫	sao sao	1090
@@ -342462,7 +342480,9 @@ sort: by_weight
 沙东乡	sha dong xiang	3
 沙垌镇	sha dong zhen	4
 啥都	sha dou	9999
+啥都不差	sha dou bu cha	111
 啥都是	sha dou shi	71
+啥都闻不到	sha dou wen bu dao	111
 啥都要	sha dou yao	67
 杀毒	sha du	105165
 杀毒工具	sha du gong ju	2495
@@ -424345,6 +424365,7 @@ sort: by_weight
 我联系	wo lian xi	111
 我靓我秀	wo liang wo xiu	1
 我了解	wo liao jie	13785
+我了解了	wo liao jie le	111
 我了解你	wo liao jie ni	985
 沃林格	wo lin ge	60
 我领	wo ling	5535
@@ -427971,33 +427992,34 @@ sort: by_weight
 五荤三厌	wu hun san yan	111
 武魂真身	wu hun zhen shen	161
 无货	wu huo	13500
-武火	wu huo	5535
+武火	wu huo	553
 无活动	wu huo dong	1230
 五火神焰扇	wu huo shen yan shan	4
 吴火狮	wu huo shi	9
+无级	wu ji	77197
 无机	wu ji	69045
-武技	wu ji	16410
 乌鸡	wu ji	13970
 无际	wu ji	13185
 屋脊	wu ji	11120
+无极	wu ji	11111
 污迹	wu ji	10860
-无计	wu ji	9730
 五级	wu ji	9145
-无稽	wu ji	7850
-无几	wu ji	5280
 舞技	wu ji	3910
-无及	wu ji	1975
-无济	wu ji	1590
+武技	wu ji	1641
 舞妓	wu ji	1145
-无极	wu ji	1111
-戊基	wu ji	870
+吾即	wu ji	1111
+无几	wu ji	528
 无忌	wu ji	482
-无级	wu ji	197
+无稽	wu ji	78
+戊基	wu ji	8
+无及	wu ji	1
 # 伍骥	wu ji	0
 # 午汲	wu ji	0
 # 吴极	wu ji	0
 # 吴激	wu ji	0
 # 屋基	wu ji	0
+# 无济	wu ji	0
+# 无计	wu ji	0
 乌鸡白凤颗粒	wu ji bai feng ke li	1
 乌鸡白凤片	wu ji bai feng pian	1
 乌鸡白凤丸	wu ji bai feng wan	86
@@ -428083,14 +428105,14 @@ sort: by_weight
 物价	wu jia	99520
 五家	wu jia	23385
 无价	wu jia	22970
-吴家	wu jia	14725
 无家	wu jia	4815
-吾家	wu jia	4115
 屋架	wu jia	4100
-武家	wu jia	3775
-五加	wu jia	2925
 五架	wu jia	1985
-五甲	wu jia	1205
+吾家	wu jia	411
+五加	wu jia	5
+吴家	wu jia	2
+武家	wu jia	2
+# 五甲	wu jia	0
 吴家坝	wu jia ba	14
 无价宝	wu jia bao	1400
 吾家碑不昧	wu jia bei bu mei	1
@@ -445601,6 +445623,9 @@ sort: by_weight
 相思成疾	xiang si cheng ji	860
 相似处	xiang si chu	1175
 相思村	xiang si cun	4
+相似的	xiang si de	3333
+相似地	xiang si de	1
+相似的地方	xiang si de di fang	111
 相似的人	xiang si de ren	1760
 相似点	xiang si dian	2305
 相思豆	xiang si dou	1910
@@ -456037,6 +456062,8 @@ sort: by_weight
 心灵之力	xin ling zhi li	13
 心灵之约	xin ling zhi yue	1840
 心灵转换	xin ling zhuan huan	10
+心流	xin liu	3333
+辛硫	xin liu	1
 新柳街道	xin liu jie dao	1
 辛硫磷	xin liu lin	3730
 新流派	xin liu pai	180
@@ -531722,7 +531749,9 @@ sort: by_weight
 真路人	zhen lu ren	182
 真鹿亚科	zhen lu ya ke	1
 振鹭在庭	zhen lu zai ting	1
+真乱	zhen luan	6666
 阵挛	zhen luan	21
+真乱啊	zhen luan a	111
 真乱舞书	zhen luan wu shu	10
 震落	zhen luo	1790
 真落实	zhen luo shi	100
@@ -540906,16 +540935,16 @@ sort: by_weight
 置于	zhi yu	158595
 之余	zhi yu	149910
 治愈	zhi yu	110720
-之于	zhi yu	62280
 止于	zhi yu	24750
 之语	zhi yu	24125
-智育	zhi yu	10735
-之虞	zhi yu	9845
+之于	zhi yu	6228
 值域	zhi yu	3375
 知遇	zhi yu	1830
-值遇	zhi yu	830
 稚语	zhi yu	360
-直喻	zhi yu	55
+智育	zhi yu	10
+直喻	zhi yu	5
+# 之虞	zhi yu	0
+# 值遇	zhi yu	0
 # 稚鱼	zhi yu	0
 # 致于	zhi yu	0
 # 芝宇	zhi yu	0
