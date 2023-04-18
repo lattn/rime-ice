@@ -1519,7 +1519,7 @@
 #///
 ---
 name: base
-version: "2023-04-17"
+version: "2023-04-18"
 sort: by_weight
 ...
 # +_+
@@ -6020,6 +6020,8 @@ sort: by_weight
 暗影法术伤害	an ying fa shu shang hai	5
 案萤干死	an ying gan si	1
 暗影钢爪	an ying gang zhao	1
+暗影国度	an ying guo du	100
+暗影国度前夕	an ying guo du qian xi	100
 暗影火炬城	an ying huo ju cheng	120
 暗影集中	an ying ji zhong	6
 暗影界	an ying jie	183
@@ -14895,6 +14897,8 @@ sort: by_weight
 搬嘴弄舌	ban zui nong she	111
 扮作	ban zuo	5235
 半坐半卧	ban zuo ban wo	4
+棒啊	bang a	3333
+帮啊	bang a	111
 帮爱乡	bang ai xiang	1
 帮办	bang ban	4180
 邦板牙	bang ban ya	6
@@ -25086,6 +25090,7 @@ sort: by_weight
 币重言甘	bi zhong yan gan	111
 鼻肿眼青	bi zhong yan qing	1
 比重要	bi zhong yao	218
+比中指	bi zhong zhi	111
 避重逐轻	bi zhong zhu qing	1
 臂肘	bi zhou	1010
 敝帚	bi zhou	350
@@ -33090,6 +33095,8 @@ sort: by_weight
 捕俘	bu fu	505
 不腐败	bu fu bai	690
 不浮不沉	bu fu bu chen	27
+不服不行	bu fu bu xing	111
+不服不行啊	bu fu bu xing a	111
 不负春光	bu fu chun guang	196
 不负此生	bu fu ci sheng	100
 不服从	bu fu cong	14620
@@ -35648,6 +35655,9 @@ sort: by_weight
 不能买	bu neng mai	2030
 不能卖	bu neng mai	1830
 不能买卖	bu neng mai mai	815
+不能没有	bu neng mei you	111
+不能没有你	bu neng mei you ni	111
+不能没有你们	bu neng mei you ni men	111
 不能勉强	bu neng mian qiang	1500
 不能拿	bu neng na	7510
 不能偏离	bu neng pian li	590
@@ -134856,7 +134866,8 @@ sort: by_weight
 根瘤	gen liu	1505
 根瘤菌	gen liu jun	2105
 根路径	gen lu jing	360
-跟卖	gen mai	111
+跟卖	gen mai	222
+跟买	gen mai	111
 根毛	gen mao	4305
 根霉	gen mei	613
 根霉促进素	gen mei cu jin su	1
@@ -134884,6 +134895,7 @@ sort: by_weight
 根盘今在阖闾城	gen pan jin zai he lv cheng	1
 根皮	gen pi	1965
 跟屁虫	gen pi chong	3440
+跟评	gen ping	1111
 跟其他	gen qi ta	63
 跟前	gen qian	67410
 跟前跟后	gen qian gen hou	225
@@ -153438,6 +153450,8 @@ sort: by_weight
 还不稳定	hai bu wen ding	101
 还不下班啊	hai bu xia ban a	12500
 还不行	hai bu xing	16595
+还不行吗	hai bu xing ma	111
+还不行么	hai bu xing me	111
 海不扬波	hai bu yang bo	59
 还不一定	hai bu yi ding	5090
 还不一样	hai bu yi yang	8
@@ -154975,6 +154989,7 @@ sort: by_weight
 还挺	hai ting	42380
 还听	hai ting	13600
 还挺好看	hai ting hao kan	340
+还挺火的	hai ting huo de	111
 海廷加	hai ting jia	19
 还停留在	hai ting liu zai	64
 还听说	hai ting shuo	1111
@@ -155187,6 +155202,7 @@ sort: by_weight
 海星类	hai xing lei	3
 海兴路	hai xing lu	20
 海星旅馆	hai xing lv guan	41
+还行吗	hai xing ma	111
 海兴县	hai xing xian	1190
 海兴镇	hai xing zhen	1
 海熊	hai xiong	125
@@ -218603,6 +218619,7 @@ sort: by_weight
 聚居区	ju ju qu	8615
 拘拘儒儒	ju ju ru ru	1
 聚聚散散	ju ju san san	655
+菊苣属	ju ju shu	13
 巨屦小屦同贾	ju ju xiao ju tong jia	2
 聚居着	ju ju zhe	1310
 句句真研	ju ju zhen yan	161
@@ -219766,6 +219783,7 @@ sort: by_weight
 居重驭轻	ju zhong yu qing	3
 举重运动	ju zhong yun dong	450
 举重运动员	ju zhong yun dong yuan	3333
+举中指	ju zhong zhi	111
 剧中主角	ju zhong zhu jue	575
 聚众滋事	ju zhong zi shi	464
 居轴处中	ju zhou chu zhong	111
@@ -248446,6 +248464,7 @@ sort: by_weight
 梁静	liang jing	4890
 凉井	liang jing	11
 亮晶晶	liang jing jing	12655
+梁靖崑	liang jing kun	100
 梁靖琪	liang jing qi	1
 梁静茹	liang jing ru	17230
 良久	liang jiu	55685
@@ -253705,7 +253724,8 @@ sort: by_weight
 六朝旧事随流水	liu chao jiu shi sui liu shui	1180
 六朝如梦鸟空啼	liu chao ru meng niao kong ti	7
 六朝脂粉	liu chao zhi fen	1
-刘彻	liu che	7350
+溜车	liu che	5555
+刘彻	liu che	22
 六尘	liu chen	666
 刘晨	liu chen	578
 刘谌	liu chen	2
@@ -290147,6 +290167,7 @@ sort: by_weight
 你不到	ni bu dao	1265
 你不懂	ni bu dong	10095
 你不动	ni bu dong	485
+你不服不行	ni bu fu bu xing	111
 你不给我	ni bu gei wo	63
 你不跟	ni bu gen	149
 你不公平	ni bu gong ping	200
@@ -291833,6 +291854,9 @@ sort: by_weight
 尼亚加拉瀑布	ni ya jia la pu bu	1080
 尼亚鹩哥	ni ya liao ge	1
 尼亚美	ni ya mei	185
+你呀你呀	ni ya ni ya	3333
+你丫你丫	ni ya ni ya	111
+你丫你丫的	ni ya ni ya de	111
 你言我语	ni yan wo yu	425
 泥阳	ni yang	5
 尼洋河	ni yang he	3005
@@ -298052,6 +298076,7 @@ sort: by_weight
 排号	pai hao	10860
 拍好	pai hao	8105
 牌好	pai hao	1455
+派号	pai hao	99
 排好版	pai hao ban	913
 拍好了	pai hao le	13
 排洪	pai hong	3495
@@ -298074,6 +298099,10 @@ sort: by_weight
 徘徊者	pai huai zhe	835
 排患解纷	pai huan jie fen	111
 拍黄瓜	pai huang gua	1295
+派回	pai hui	3333
+拍灰	pai hui	1111
+排灰	pai hui	111
+排灰设备	pai hui she bei	111
 拍婚纱照	pai hun sha zhao	4315
 派活	pai huo	330
 派活儿	pai huo er	55
@@ -400238,6 +400267,7 @@ sort: by_weight
 听会穴	ting hui xue	6
 停火	ting huo	8995
 挺火	ting huo	1085
+挺火的	ting huo de	111
 停火协议	ting huo xie yi	1595
 停火者	ting huo zhe	10
 停机	ting ji	44215
@@ -413507,6 +413537,7 @@ sort: by_weight
 网络概念	wang luo gai nian	1275
 网络歌曲	wang luo ge qu	4935
 网络歌手	wang luo ge shou	5595
+网络跟评	wang luo gen ping	111
 网络工程	wang luo gong cheng	30700
 网络工程师	wang luo gong cheng shi	22120
 网络宫殿	wang luo gong dian	1
@@ -414219,6 +414250,7 @@ sort: by_weight
 网上找的	wang shang zhao de	416
 网上招聘	wang shang zhao pin	16680
 网上征婚	wang shang zheng hun	1305
+往上指	wang shang zhi	111
 网上直播	wang shang zhi bo	4565
 网上支付	wang shang zhi fu	67755
 网上直销	wang shang zhi xiao	2915
@@ -414604,6 +414636,7 @@ sort: by_weight
 王下七武海	wang xia qi wu hai	184
 往下跳	wang xia tiao	3180
 往下压	wang xia ya	1915
+往下指	wang xia zhi	111
 往下坠	wang xia zhui	1240
 往下走	wang xia zou	8345
 网线	wang xian	45610
@@ -414988,6 +415021,7 @@ sort: by_weight
 网油鱼卷	wang you yu juan	4
 网友原创	wang you yuan chuang	11730
 王佑镇	wang you zhen	6
+往右指	wang you zhi	111
 网友支持度	wang you zhi chi du	10655
 网游装备	wang you zhuang bei	540
 网友自拍	wang you zi pai	14580
@@ -415347,6 +415381,7 @@ sort: by_weight
 王佐学校	wang zuo xue xiao	10
 往左移	wang zuo yi	64
 王佐镇政府	wang zuo zhen zheng fu	17
+往左指	wang zuo zhi	111
 # 威阿	wei a	0
 唯阿之间	wei a zhi jian	1
 胃癌	wei ai	40750
@@ -439031,7 +439066,11 @@ sort: by_weight
 下南山	xia nan shan	12
 瞎闹	xia nao	1120
 下能	xia neng	12900
+吓你	xia ni	3333
 狎昵	xia ni	430
+下泥	xia ni	111
+下泥巴	xia ni ba	111
+下泥巴雨	xia ni ba yu	111
 吓你一跳	xia ni yi tiao	9999
 下年	xia nian	5320
 下年度	xia nian du	7725
@@ -465512,10 +465551,10 @@ sort: by_weight
 选准	xuan zhun	15815
 悬浊液	xuan zhuo ye	750
 选自	xuan zi	34580
-玄子	xuan zi	5775
 选字	xuan zi	2325
 旋子	xuan zi	1260
 楦子	xuan zi	35
+玄子	xuan zi	2
 旋子锅魁	xuan zi guo kui	10
 旋子凉粉	xuan zi liang fen	34
 玄宗	xuan zong	17695
@@ -468117,10 +468156,11 @@ sort: by_weight
 压倒一切	ya dao yi qie	8970
 压倒优势	ya dao you shi	700
 压倒元白	ya dao yuan bai	111
+丫的	ya de	33333
 压得	ya de	23930
 压的	ya de	22735
 哑的	ya de	2020
-雅德	ya de	38
+雅德	ya de	1
 亚德里	ya de li	54
 亚得里亚编织虫	ya de li ya bian zhi chong	1
 亚得里亚海	ya de li ya hai	1165
@@ -524258,7 +524298,9 @@ sort: by_weight
 占了	zhan le	112675
 站了	zhan le	101050
 沾了	zhan le	13795
-战了	zhan le	4650
+斩了	zhan le	6666
+蘸了	zhan le	5555
+战了	zhan le	465
 占了个位置	zhan le ge wei zhi	65
 占了上风	zhan le shang feng	118
 站立	zhan li	87765
@@ -526505,6 +526547,7 @@ sort: by_weight
 张小姐	zhang xiao jie	40705
 张晓洁	zhang xiao jie	1
 张小雷	zhang xiao lei	163
+张小龙	zhang xiao long	3333
 张晓梅	zhang xiao mei	381
 张晓平	zhang xiao ping	75
 张孝骞	zhang xiao qian	25
@@ -530407,6 +530450,7 @@ sort: by_weight
 这样报	zhe yang bao	94
 遮阳布	zhe yang bu	290
 这样不好	zhe yang bu hao	4225
+这样不行	zhe yang bu xing	111
 这样才能	zhe yang cai neng	109220
 这样长	zhe yang chang	1510
 这样打	zhe yang da	2330
@@ -530423,6 +530467,8 @@ sort: by_weight
 这样分	zhe yang fen	71
 这样干	zhe yang gan	3245
 这样搞	zhe yang gao	60
+这样还不行	zhe yang hai bu xing	111
+这样还不行吗	zhe yang hai bu xing ma	111
 这样会	zhe yang hui	48845
 遮阳镜	zhe yang jing	9999
 这样就	zhe yang jiu	190325
@@ -560625,11 +560671,13 @@ sort: by_weight
 走到哪里	zou dao na li	16440
 走到一起	zou dao yi qi	15570
 走到这里	zou dao zhe li	2595
-走的	zou de	159550
 走得	zou de	78705
+走的	zou de	1595
 走得比	zou de bi	1370
 走得到	zou de dao	120
 走得好	zou de hao	1170
+走得很快	zou de hen kuai	111
+走得很快啊	zou de hen kuai a	111
 走得快	zou de kuai	1705
 走得慢	zou de man	1165
 邹德强	zou de qiang	146
