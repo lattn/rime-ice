@@ -79,6 +79,7 @@
 # 「以小博大/以小搏大」，不知道🤷‍♂️
 # 「琅邪」「琅琊」
 # 「迷踪」「谜踪」
+# 「马利亚、玛利亚」
 #
 #
 ##### 以 #* 开头的可能有争议：
@@ -95,6 +96,7 @@
 #* 「勾拳」→「钩拳」（Hook 本就是钩子的意思）
 #* 「滴里耷拉、滴里搭拉、滴哩答拉」→「嘀里嗒啦」，都没收录，照「嘀里嘟噜」「嘀嗒」来类推。
 #* 「蓬门荜户」→「蓬门筚户」《现汉》推荐「荜」，《现规》推荐「荜」，按字义来看，「荜」是植物，「筚」是用植物做的东西，应该用「筚」比较合适。😡
+#* 「蓬荜生辉」→「蓬筚生辉」同上
 #* 「抗不住、抗得住」→「扛不住、扛得住」
 #* 「比划」→「比画」，《现汉》推荐「比画」，《现规》推荐「比划」。
 #* 「传受」→「传授」，《现汉》收录了「传受」，感觉没必要。
@@ -1524,10 +1526,14 @@
 # 「索马里亚」→「索马利亚」
 # 「玛丽雅、玛丽亚、马丽娅、马里亚、马丽亚、玛利娅、玛丽娅、玛莉亚、玛俐亚」→「马利亚、玛利亚」🤦‍♂️
 # 「嘀嘀打车」→「滴滴打车」
+# 「诺大」→「偌大」
+# 「水笼头」→「水龙头」
+# 「莫里亚」→「莫利亚」
+# 「蓄牧」→「畜牧」
 #///
 ---
 name: base
-version: "2023-04-19"
+version: "2023-04-23"
 sort: by_weight
 ...
 # +_+
@@ -2286,6 +2292,8 @@ sort: by_weight
 阿柔比星	a rou bi xing	8
 阿柔乡	a rou xiang	11
 阿瑞斯	a rui si	3210
+阿萨德基地	a sa de ji di	111
+阿萨德空军基地	a sa de kong jun ji di	111
 阿萨尔	a sa er	194
 阿萨姆	a sa mu	1705
 阿萨姆尖粉蝶	a sa mu jian fen die	1
@@ -2690,6 +2698,7 @@ sort: by_weight
 爱德华芋螺	ai de hua yu luo	1
 爱德华雉	ai de hua zhi	1
 爱德华兹	ai de hua zi	1084
+爱德华兹空军基地	ai de hua zi kong jun ji di	111
 爱的活力	ai de huo li	180
 爱的季节	ai de ji jie	3330
 爱的纪念	ai de ji nian	158
@@ -2867,6 +2876,7 @@ sort: by_weight
 挨个儿	ai ge er	1175
 矮个儿	ai ge er	450
 艾戈勒	ai ge le	100
+埃格林空军基地	ai ge lin kong jun ji di	111
 埃格蒙德	ai ge meng de	1
 埃格蒙德的营地	ai ge meng de de ying di	1
 埃格努	ai ge nu	169
@@ -2892,6 +2902,7 @@ sort: by_weight
 爱国活动	ai guo huo dong	405
 爱国家	ai guo jia	1000
 爱国教育	ai guo jiao yu	1735
+爱国教育基地	ai guo jiao yu ji di	111
 爱国精神	ai guo jing shen	4150
 爱国敬业	ai guo jing ye	104
 爱过了	ai guo le	2495
@@ -2920,6 +2931,7 @@ sort: by_weight
 爱国之心	ai guo zhi xin	2315
 爱国主义	ai guo zhu yi	82985
 爱国主义教育	ai guo zhu yi jiao yu	28865
+爱国主义教育基地	ai guo zhu yi jiao yu ji di	111
 爱国主义精神	ai guo zhu yi jing shen	8085
 爱国主义者	ai guo zhu yi zhe	1995
 艾哈迈德	ai ha mai de	9717
@@ -3870,6 +3882,7 @@ sort: by_weight
 爱在七夕	ai zai qi xi	194
 爱在深秋	ai zai shen qiu	1340
 爱在现实面前	ai zai xian shi mian qian	1
+爱在终局之前	ai zai zhong ju zhi qian	111
 艾泽尔	ai ze er	153
 艾泽拉斯	ai ze la si	6390
 艾泽里	ai ze li	185
@@ -3985,6 +3998,7 @@ sort: by_weight
 暗坝	an ba	111
 安巴	an ba	2
 俺爸俺妈	an ba an ma	136
+安巴拉空军基地	an ba la kong jun ji di	111
 安白瓶	an bai ping	150
 安白泰姆海蛳螺	an bai tai mu hai si luo	1
 案板	an ban	6330
@@ -4209,10 +4223,12 @@ sort: by_weight
 安德路	an de lu	100
 安德路南社区	an de lu nan she qu	1
 安德鲁斯鲸	an de lu si jing	1
+安德鲁斯空军基地	an de lu si kong jun ji di	111
 安德路西口	an de lu xi kou	9
 安德罗波夫	an de luo bo fu	138
 安得南征驰捷报	an de nan zheng chi jie bao	1
 安德森	an de sen	12940
+安德森空军基地	an de sen kong jun ji di	111
 按的是	an de shi	200
 安得万里风	an de wan li feng	2
 安得万里裘	an de wan li qiu	1
@@ -5331,6 +5347,7 @@ sort: by_weight
 安全会议	an quan hui yi	1695
 安全级	an quan ji	4455
 安全计	an quan ji	50
+安全基地	an quan ji di	111
 安全机构	an quan ji gou	2445
 安全机关	an quan ji guan	1340
 安全技术	an quan ji shu	88985
@@ -5929,6 +5946,7 @@ sort: by_weight
 安心立命	an xin li ming	111
 安心落意	an xin luo yi	1
 安心是药更无方	an xin shi yao geng wu fang	1
+安心溯源季	an xin su yuan ji	111
 安心恬荡	an xin tian dang	1
 安信天行	an xin tian xing	87
 安新县	an xin xian	2045
@@ -6404,6 +6422,7 @@ sort: by_weight
 昂然自若	ang ran zi ruo	111
 昂仁	ang ren	385
 昂仁县	ang ren xian	390
+盎撒	ang sa	111
 昂赛乡	ang sai xiang	13
 昂山素姬	ang shan su ji	20
 昂首	ang shou	15055
@@ -6635,6 +6654,7 @@ sort: by_weight
 奥法	ao fa	1
 奥法惩戒	ao fa cheng jie	1
 奥法惩戒之	ao fa cheng jie zhi	1
+奥帆基地	ao fan ji di	111
 澳方	ao fang	111
 奥飞动漫	ao fei dong man	10
 奥菲曼	ao fei man	9
@@ -10041,6 +10061,7 @@ sort: by_weight
 白点波士顿龙虾	bai dian bo shi dun long xia	1
 白癜风	bai dian feng	12045
 白癜风胶囊	bai dian feng jiao nang	12
+白癜风治疗基地	bai dian feng zhi liao ji di	111
 白点富天竺鲷	bai dian fu tian zhu diao	1
 拜殿乡	bai dian xiang	3
 百蝶午	bai die wu	1
@@ -10862,6 +10883,7 @@ sort: by_weight
 百咳静糖浆	bai ke jing tang jiang	1
 柏克莱	bai ke lai	2015
 拜科努尔	bai ke nu er	800
+拜科努尔航天发射基地	bai ke nu er hang tian fa she ji di	111
 百科全书	bai ke quan shu	39180
 百科全书派	bai ke quan shu pai	245
 百科探奇	bai ke tan qi	1
@@ -12255,6 +12277,7 @@ sort: by_weight
 白象方便面	bai xiang fang bian mian	166
 拜相封侯	bai xiang feng hou	111
 百香果	bai xiang guo	2218
+百香果基地	bai xiang guo ji di	111
 白象街	bai xiang jie	149
 白象居	bai xiang ju	198
 白鲞扣鸡	bai xiang kou ji	17
@@ -13093,6 +13116,7 @@ sort: by_weight
 半瞋半喜	ban chen ban xi	1
 半嗔半笑	ban chen ban xiao	3
 半嗔半怨	ban chen ban yuan	2
+半称心	ban chen xin	111
 办成	ban cheng	42640
 扮成	ban cheng	12570
 半成	ban cheng	3950
@@ -16052,6 +16076,7 @@ sort: by_weight
 保供电	bao gong dian	101
 包工队	bao gong dui	755
 褒公鄂公毛发动	bao gong e gong mao fa dong	1
+保供基地	bao gong ji di	111
 保工街	bao gong jie	115
 包公庙	bao gong miao	139
 保供人员	bao gong ren yuan	198
@@ -16266,6 +16291,7 @@ sort: by_weight
 保护海洋	bao hu hai yang	132
 保护好	bao hu hao	45455
 保护环境	bao hu huan jing	58755
+保护基地	bao hu ji di	111
 保护机制	bao hu ji zhi	166
 保护价	bao hu jia	1013
 保护价格	bao hu jia ge	81
@@ -18083,6 +18109,7 @@ sort: by_weight
 保障公民	bao zhang gong min	15090
 保障功能	bao zhang gong neng	4310
 保障工作	bao zhang gong zuo	16615
+保障基地	bao zhang ji di	111
 保障计划	bao zhang ji hua	4855
 保障基金	bao zhang ji jin	2865
 保障机制	bao zhang ji zhi	26950
@@ -19763,6 +19790,7 @@ sort: by_weight
 北京华宇信息	bei jing hua yu xin xi	12
 北京华宇信息技术有限公司	bei jing hua yu xin xi ji shu you xian gong si	12
 北京画院	bei jing hua yuan	2530
+北京基地	bei jing ji di	111
 北京几届	bei jing ji jie	1
 北京吉普	bei jing ji pu	6670
 背景技术	bei jing ji shu	1255
@@ -27709,8 +27737,12 @@ sort: by_weight
 标准化病人	biao zhun hua bing ren	19
 标准化法	biao zhun hua fa	5180
 标准化管理	biao zhun hua guan li	16905
+标准化基地	biao zhun hua ji di	111
 标准化技术委员会	biao zhun hua ji shu wei yuan hui	16370
 标准化良好行为企业	biao zhun hua liang hao xing wei qi ye	564
+标准化生产基地	biao zhun hua sheng chan ji di	111
+标准化示范基地	biao zhun hua shi fan ji di	111
+标准化种植基地	biao zhun hua zhong zhi ji di	111
 标准化组织	biao zhun hua zu zhi	4655
 标准会员	biao zhun hui yuan	2030
 标准计	biao zhun ji	1745
@@ -32206,7 +32238,10 @@ sort: by_weight
 不出问题	bu chu wen ti	4060
 不出席	bu chu xi	1520
 步出西城门	bu chu xi cheng men	1
-不出县	bu chu xian	113
+不出现	bu chu xian	3333
+不出线	bu chu xian	222
+不出险	bu chu xian	111
+不出县	bu chu xian	1
 不处嫌疑间	bu chu xian yi jian	5
 不出校	bu chu xiao	131
 不出小区	bu chu xiao qu	172
@@ -34934,6 +34969,7 @@ sort: by_weight
 补篮	bu lan	2310
 布兰	bu lan	1
 布缆船	bu lan chuan	800
+不烂的	bu lan de	4444
 布兰德	bu lan de	4295
 布兰登	bu lan deng	3420
 布兰卡	bu lan ka	9000
@@ -40288,6 +40324,7 @@ sort: by_weight
 采购规则	cai gou gui ze	235
 采购合同	cai gou he tong	11175
 采购活动	cai gou huo dong	9980
+采购基地	cai gou ji di	111
 采购机构	cai gou ji gou	14935
 采购计划	cai gou ji hua	13710
 采购价	cai gou jia	2790
@@ -41512,6 +41549,7 @@ sort: by_weight
 蔡泽林	cai ze lin	187
 采摘	cai zhai	56445
 蔡宅	cai zhai	11
+采摘基地	cai zhai ji di	111
 采摘期	cai zhai qi	955
 才占八斗	cai zhan ba dou	1
 财长	cai zhang	11763
@@ -41785,6 +41823,7 @@ sort: by_weight
 参观访问	can guan fang wen	7730
 参观访问法	can guan fang wen fa	8
 参观工厂	can guan gong chang	1060
+参观红色教育基地	can guan hong se jiao yu ji di	111
 参观活动	can guan huo dong	2815
 参观考察	can guan kao cha	22270
 餐馆老板	can guan lao ban	2035
@@ -42501,9 +42540,11 @@ sort: by_weight
 仓储规模	cang chu gui mo	87
 仓储合同	cang chu he tong	906
 仓储货架	cang chu huo jia	9685
+仓储基地	cang chu ji di	111
 仓储配送	cang chu pei song	41
 仓储设备	cang chu she bei	4255
 仓储式	cang chu shi	4235
+仓储物流基地	cang chu wu liu ji di	111
 仓储业	cang chu ye	6110
 仓促	cang cu	30165
 仓促从事	cang cu cong shi	20
@@ -43232,6 +43273,7 @@ sort: by_weight
 草莓果泥	cao mei guo ni	29
 草莓花束	cao mei hua shu	134
 草莓活颜纤果汁	cao mei huo yan xian guo zhi	1
+草莓基地	cao mei ji di	111
 草莓夹心面包	cao mei jia xin mian bao	8
 草莓酱	cao mei jiang	1930
 草莓镰翅小卷蛾	cao mei lian chi xiao juan e	1
@@ -43259,6 +43301,7 @@ sort: by_weight
 草莓炸弹	cao mei zha dan	143
 草莓芝士饼	cao mei zhi shi bing	54
 草莓芝士蛋糕	cao mei zhi shi dan gao	38
+草莓种植基地	cao mei zhong zhi ji di	111
 草莓状血管瘤	cao mei zhuang xie guan liu	9
 草莓状血管瘤	cao mei zhuang xue guan liu	9
 曹门街道	cao men jie dao	3
@@ -43332,8 +43375,10 @@ sort: by_weight
 草皮街	cao pi jie	60
 草坪	cao ping	77950
 草坪灯	cao ping deng	3685
+草坪基地	cao ping ji di	111
 草坪区	cao ping qu	127
 草坪上	cao ping shang	11705
+草坪种植基地	cao ping zhong zhi ji di	111
 草坡	cao po	5125
 草埔总站	cao pu zong zhan	10
 操起	cao qi	6830
@@ -44032,6 +44077,7 @@ sort: by_weight
 测试后	ce shi hou	12365
 测试环境	ce shi huan jing	13771
 测试机	ce shi ji	8696
+测试基地	ce shi ji di	111
 测试计划	ce shi ji hua	4470
 测试技巧	ce shi ji qiao	73
 测试技术	ce shi ji shu	14630
@@ -44554,6 +44600,8 @@ sort: by_weight
 插播	cha bo	12825
 插播广告	cha bo guang gao	3245
 茶博士	cha bo shi	1860
+差不	cha bu	3333
+插补	cha bu	2222
 差不差	cha bu cha	110
 察布查尔	cha bu cha er	875
 察布查尔锡伯	cha bu cha er xi bo	35
@@ -45388,6 +45436,7 @@ sort: by_weight
 茶叶沟	cha ye gou	2
 茶叶罐	cha ye guan	2475
 茶叶盒	cha ye he	1050
+茶叶基地	cha ye ji di	111
 茶叶鲫鱼汤	cha ye ji yu tang	8
 茶叶加工	cha ye jia gong	3700
 茶叶经营	cha ye jing ying	440
@@ -45396,6 +45445,7 @@ sort: by_weight
 茶叶实验场	cha ye shi yan chang	2
 茶叶筒	cha ye tong	180
 茶叶熏鸡	cha ye xun ji	8
+茶叶种植基地	cha ye zhong zhi ji di	111
 茶叶粥	cha ye zhou	33
 差异	cha yi	500278
 诧异	cha yi	63230
@@ -45457,6 +45507,7 @@ sort: by_weight
 茶苑	cha yuan	2785
 差远	cha yuan	485
 察院胡同	cha yuan hu tong	10
+茶园基地	cha yuan ji di	111
 差远了	cha yuan le	6135
 茶园坪	cha yuan ping	4
 茶园坡路	cha yuan po lu	28
@@ -45939,6 +45990,7 @@ sort: by_weight
 产胶	chan jiao	1605
 缠脚	chan jiao	550
 产胶国	chan jiao guo	520
+产教融合实训基地	chan jiao rong he shi xun ji di	111
 缠结	chan jie	2410
 蝉街	chan jie	37
 掺进	chan jin	2465
@@ -46058,6 +46110,7 @@ sort: by_weight
 产品行	chan pin hang	59
 产品合格率	chan pin he ge lv	3420
 产品化	chan pin hua	6130
+产品基地	chan pin ji di	111
 产品计划	chan pin ji hua	2135
 产品积压	chan pin ji ya	2185
 产品及周期优化法	chan pin ji zhou qi you hua fa	15
@@ -46088,6 +46141,7 @@ sort: by_weight
 产品认证	chan pin ren zheng	46060
 产品设计	chan pin she ji	70130
 产品设计图	chan pin she ji tu	958
+产品生产基地	chan pin sheng chan ji di	111
 产品升级	chan pin sheng ji	8500
 产品生命周期	chan pin sheng ming zhou qi	9190
 产品时	chan pin shi	64
@@ -46337,6 +46391,8 @@ sort: by_weight
 铲雪	chan xue	1105
 铲雪车	chan xue che	178
 产学研	chan xue yan	49915
+产学研合作基地	chan xue yan he zuo ji di	111
+产学研基地	chan xue yan ji di	111
 谗言	chan yan	5440
 巉岩	chan yan	9
 谗言冷语	chan yan leng yu	111
@@ -46354,6 +46410,8 @@ sort: by_weight
 产业大军	chan ye da jun	1140
 产业带	chan ye dai	24080
 产业发展	chan ye fa zhan	185040
+产业孵化基地	chan ye fu hua ji di	111
+产业扶贫基地	chan ye fu pin ji di	111
 产业革命	chan ye ge ming	4115
 产业工会	chan ye gong hui	4880
 产业工人	chan ye gong ren	9580
@@ -46361,10 +46419,12 @@ sort: by_weight
 产业规模	chan ye gui mo	14675
 产业互联网	chan ye hu lian wang	102
 产业化	chan ye hua	263235
+产业化基地	chan ye hua ji di	111
 产业化经营	chan ye hua jing ying	16640
 产业环境	chan ye huan jing	4635
 产业基础	chan ye ji chu	11920
 产业基地	chan ye ji di	38365
+产业基地建设	chan ye ji di jian she	111
 产业集聚	chan ye ji ju	13090
 产业集群	chan ye ji qun	45610
 产业集团	chan ye ji tuan	12155
@@ -46387,6 +46447,7 @@ sort: by_weight
 产业升级	chan ye sheng ji	30095
 产业生态链	chan ye sheng tai lian	106
 产业市场	chan ye shi chang	5310
+产业示范基地	chan ye shi fan ji di	111
 产业税	chan ye shui	13
 产业损害调查信息查阅与信息披露规定	chan ye sun hai diao cha xin xi cha yue yu xin xi pi lu gui ding	7
 产业体系	chan ye ti xi	9460
@@ -48048,6 +48109,7 @@ sort: by_weight
 长沙海底世界	chang sha hai di shi jie	110
 长沙会战	chang sha hui zhan	615
 长沙火车站	chang sha huo che zhan	1855
+长沙基地	chang sha ji di	111
 长沙加大	chang sha jia da	23
 长沙街道办事处	chang sha jie dao ban shi chu	6
 长沙经济技术开发区	chang sha jing ji ji shu kai fa qu	267
@@ -50685,6 +50747,7 @@ sort: by_weight
 车辆购置	che liang gou zhi	16485
 车辆管理	che liang guan li	19215
 车辆管理所	che liang guan li suo	17935
+车辆基地	che liang ji di	111
 车辆检测	che liang jian ce	2310
 车辆空调	che liang kong tiao	111
 车辆类别	che liang lei bie	3230
@@ -52947,11 +53010,13 @@ sort: by_weight
 成都城	cheng du cheng	385
 成都出口加工区	cheng du chu kou jia gong qu	17
 成都传智播客	cheng du chuan zhi bo ke	77
+成都大熊猫基地	cheng du da xiong mao ji di	111
 成都大学	cheng du da xue	1082
 成都担担面	cheng du dan dan mian	42
 成都蛋汤	cheng du dan tang	7
 成都道	cheng du dao	29
 成都高新技术产业开发区人民检察院	cheng du gao xin ji shu chan ye kai fa qu ren min jian cha yuan	10
+成都基地	cheng du ji di	111
 成都机票	cheng du ji piao	9790
 成都集团	cheng du ji tuan	185
 成都建投	cheng du jian tou	12500
@@ -52993,6 +53058,7 @@ sort: by_weight
 成都外国语学校	cheng du wai guo yu xue xiao	302
 成都晚报	cheng du wan bao	3560
 成都文理学院	cheng du wen li xue yuan	143
+成都熊猫基地	cheng du xiong mao ji di	111
 成都疫情	cheng du yi qing	141
 成都一诊	cheng du yi zhen	130
 成都银行	cheng du yin hang	111
@@ -53249,6 +53315,7 @@ sort: by_weight
 城郭人民半已非	cheng guo ren min ban yi fei	1
 成果物	cheng guo wu	1
 成果转化	cheng guo zhuan hua	36840
+成果转化基地	cheng guo zhuan hua ji di	111
 澄海	cheng hai	23025
 # 程海	cheng hai	0
 成海璃子	cheng hai li zi	1
@@ -53918,6 +53985,7 @@ sort: by_weight
 成人化	cheng ren hua	4000
 成人话题	cheng ren hua ti	675
 成人级	cheng ren ji	225
+成人基地	cheng ren ji di	111
 成人激情	cheng ren ji qing	7230
 成人教育	cheng ren jiao yu	74855
 成人教育学院	cheng ren jiao yu xue yuan	72
@@ -57336,6 +57404,7 @@ sort: by_weight
 虫鸣	chong ming	5230
 重名查询	chong ming cha xun	141
 崇明岛	chong ming dao	5010
+崇明基地	chong ming ji di	111
 崇明街道	chong ming jie dao	3
 重名率	chong ming lv	160
 重命名	chong ming ming	26535
@@ -57552,6 +57621,7 @@ sort: by_weight
 重生成树	chong sheng cheng shu	4
 重生成妖	chong sheng cheng yao	18
 冲绳岛	chong sheng dao	1225
+冲绳基地	chong sheng ji di	111
 重生计划	chong sheng ji hua	129
 冲绳群岛	chong sheng qun dao	245
 重生神犬	chong sheng shen quan	27
@@ -57800,6 +57870,7 @@ sort: by_weight
 重新发行	chong xin fa xing	625
 重新犯罪	chong xin fan zui	2685
 重新放	chong xin fang	945
+重新分班	chong xin fen ban	111
 重新分布	chong xin fen bu	1005
 重新分割	chong xin fen ge	740
 重新分类	chong xin fen lei	1650
@@ -57859,6 +57930,7 @@ sort: by_weight
 重新确立	chong xin que li	2835
 重新燃起	chong xin ran qi	4055
 重新认识	chong xin ren shi	16735
+重新认识一下	chong xin ren shi yi xia	111
 重新上	chong xin shang	63
 重新上架	chong xin shang jia	143
 重新上市	chong xin shang shi	795
@@ -58108,6 +58180,7 @@ sort: by_weight
 充足理由律	chong zu li you lv	230
 充足率	chong zu lv	12910
 重组率	chong zu lv	2
+重组器	chong zu qi	111
 重组人白介素	chong zu ren bai jie su	35
 重组人表皮	chong zu ren biao pi	22
 重组人生长激素	chong zu ren sheng zhang ji su	48
@@ -58122,6 +58195,7 @@ sort: by_weight
 重做	chong zuo	17275
 崇左	chong zuo	4445
 充作	chong zuo	3575
+重做了	chong zuo le	111
 重做日志	chong zuo ri zhi	1989
 崇左市	chong zuo shi	4400
 崇左县	chong zuo xian	210
@@ -58476,11 +58550,12 @@ sort: by_weight
 臭皮囊	chou pi nang	1440
 丑瓢鳍鰕虎鱼	chou piao qi xia hu yu	1
 丑婆子	chou po zi	30
-抽泣	chou qi	12030
 臭气	chou qi	11315
+抽齐	chou qi	8888
 抽气	chou qi	6255
+臭棋	chou qi	5810
 抽起	chou qi	3035
-臭棋	chou qi	810
+抽泣	chou qi	1203
 抽气泵	chou qi beng	490
 臭气冲天	chou qi chong tian	645
 抽气机	chou qi ji	530
@@ -58806,6 +58881,7 @@ sort: by_weight
 储备	chu bei	193520
 储备贷款	chu bei dai kuan	385
 储备法	chu bei fa	140
+储备基地	chu bei ji di	111
 储备基金	chu bei ji jin	4500
 储备金	chu bei jin	5310
 储备局	chu bei ju	2685
@@ -58914,6 +58990,7 @@ sort: by_weight
 初产	chu chan	2145
 出产地	chu chan di	3575
 初产妇	chu chan fu	1840
+出产基地	chu chan ji di	111
 出产量	chu chan liang	240
 出产品	chu chan pin	4495
 除颤器	chu chan qi	346
@@ -61267,6 +61344,7 @@ sort: by_weight
 传承创新	chuan cheng chuang xin	169
 传承好	chuan cheng hao	175
 传承红色基因	chuan cheng hong se ji yin	145
+传承基地	chuan cheng ji di	111
 传承精神	chuan cheng jing shen	195
 传承历史	chuan cheng li shi	181
 川澄绫子	chuan cheng ling zi	144
@@ -62105,6 +62183,7 @@ sort: by_weight
 喘息不已	chuan xi bu yi	215
 船溪村	chuan xi cun	7
 传檄而定	chuan xi er ding	111
+传习基地	chuan xi ji di	111
 喘息灵胶囊	chuan xi ling jiao nang	1
 喘息声	chuan xi sheng	4675
 喘息未安	chuan xi wei an	1
@@ -62486,6 +62565,7 @@ sort: by_weight
 创刊于	chuang kan yu	5335
 创客	chuang ke	9999
 创客坊	chuang ke fang	160
+创客基地	chuang ke ji di	111
 创可贴	chuang ke tie	10985
 窗孔	chuang kong	675
 窗口	chuang kou	500419
@@ -62684,6 +62764,9 @@ sort: by_weight
 创新	chuang xin	500864
 创新产品	chuang xin chan pin	11375
 创新成果	chuang xin cheng guo	16440
+创新创业孵化基地	chuang xin chuang ye fu hua ji di	111
+创新创业基地	chuang xin chuang ye ji di	111
+创新创业示范基地	chuang xin chuang ye shi fan ji di	111
 创新创造	chuang xin chuang zao	194
 创新大厦	chuang xin da sha	164
 创新道	chuang xin dao	1
@@ -62692,6 +62775,7 @@ sort: by_weight
 创新发展	chuang xin fa zhan	29130
 创新发展之路	chuang xin fa zhan zhi lu	766
 创新方面	chuang xin fang mian	7075
+创新孵化基地	chuang xin fu hua ji di	111
 创新服务	chuang xin fu wu	11660
 创新改革	chuang xin gai ge	123
 创新高	chuang xin gao	16940
@@ -62699,6 +62783,7 @@ sort: by_weight
 创新公司	chuang xin gong si	481
 创新管理	chuang xin guan li	14235
 创新活动	chuang xin huo dong	14800
+创新基地	chuang xin ji di	111
 创新基金	chuang xin ji jin	21565
 创新纪录	chuang xin ji lu	530
 创新技术	chuang xin ji shu	11185
@@ -62718,6 +62803,8 @@ sort: by_weight
 创新融	chuang xin rong	65
 创新设计	chuang xin she ji	12895
 创新试点	chuang xin shi dian	2465
+创新示范基地	chuang xin shi fan ji di	111
+创新实践基地	chuang xin shi jian ji di	111
 创新思维	chuang xin si wei	27645
 创新体系	chuang xin ti xi	26450
 创新性	chuang xin xing	38200
@@ -62746,14 +62833,18 @@ sort: by_weight
 创业板上市实战	chuang ye ban shang shi shi zhan	6
 创业板市场	chuang ye ban shi chang	9999
 创业成功	chuang ye cheng gong	155
+创业创新基地	chuang ye chuang xin ji di	111
 创业垂统	chuang ye chui tong	111
 创业村	chuang ye cun	32
 创业大道	chuang ye da dao	183
 创业大街	chuang ye da jie	789
 创业大厦	chuang ye da sha	419
 创业道	chuang ye dao	6
+创业孵化基地	chuang ye fu hua ji di	111
+创业孵化示范基地	chuang ye fu hua shi fan ji di	111
 创业公司	chuang ye gong si	4899
 创业环保	chuang ye huan bao	1460
+创业基地	chuang ye ji di	111
 创业计划	chuang ye ji hua	12115
 创业计划书	chuang ye ji hua shu	23
 创业机会	chuang ye ji hui	10630
@@ -62776,6 +62867,7 @@ sort: by_weight
 创业史	chuang ye shi	3995
 创业是	chuang ye shi	941
 创业失败	chuang ye shi bai	186
+创业示范基地	chuang ye shi fan ji di	111
 创业投资	chuang ye tou zi	49160
 创业投资公司	chuang ye tou zi gong si	2785
 创业投资企业管理暂行办法	chuang ye tou zi qi ye guan li zan xing ban fa	639
@@ -62799,6 +62891,7 @@ sort: by_weight
 创意纲要	chuang yi gang yao	5
 创意公司	chuang yi gong si	695
 创意过程	chuang yi guo cheng	330
+创意基地	chuang yi ji di	111
 创意经济	chuang yi jing ji	4000
 创意链	chuang yi lian	182
 创一流	chuang yi liu	13680
@@ -62887,6 +62980,7 @@ sort: by_weight
 创作方法	chuang zuo fang fa	3610
 创作歌手	chuang zuo ge shou	3040
 创作过程	chuang zuo guo cheng	5095
+创作基地	chuang zuo ji di	111
 创作激励	chuang zuo ji li	152
 创作技巧	chuang zuo ji qiao	1055
 创作家	chuang zuo jia	590
@@ -63057,6 +63151,8 @@ sort: by_weight
 吹糠见米	chui kang jian mi	107
 吹壳子	chui ke zi	15
 吹空调	chui kong tiao	111
+吹口气	chui kou qi	1111
+吹口气儿	chui kou qi er	1111
 吹口哨	chui kou shao	6030
 吹喇叭	chui la ba	1910
 吹拉弹唱	chui la tan chang	1870
@@ -69026,6 +69122,7 @@ sort: by_weight
 打得火热	da de huo re	3380
 大得惊人	da de jing ren	2890
 大得酒店	da de jiu dian	1
+打得烂	da de lan	111
 大德路	da de lu	237
 打得慢	da de man	74
 打得满	da de man	64
@@ -70415,6 +70512,7 @@ sort: by_weight
 大吉大利	da ji da li	5595
 打击到	da ji dao	790
 打击盗版	da ji dao ban	10105
+大基地	da ji di	111
 大棘杜父鱼	da ji du fu yu	1
 打击法	da ji fa	16
 打击犯罪	da ji fan zui	8650
@@ -71582,12 +71680,12 @@ sort: by_weight
 大略驾群才	da lve jia qun cai	1
 大妈	da ma	48300
 大码	da ma	35400
+大吗	da ma	33070
 大骂	da ma	30725
 大麻	da ma	22745
 打吗	da ma	22255
 打码	da ma	21675
 打骂	da ma	18860
-大吗	da ma	13070
 大马	da ma	540
 # 达玛	da ma	0
 # 达马	da ma	0
@@ -71887,6 +71985,7 @@ sort: by_weight
 打闹	da nao	16595
 大闹	da nao	14095
 大脑半球	da nao ban qiu	1435
+大脑爆炸	da nao bao zha	111
 大脑大静脉	da nao da jing mai	1
 大脑袋	da nao dai	4170
 大脑瓜	da nao gua	141
@@ -72035,7 +72134,9 @@ sort: by_weight
 大棚菜	da peng cai	800
 大篷车	da peng che	7015
 大彭村	da peng cun	17
+大棚基地	da peng ji di	111
 大鹏鸟	da peng niao	1765
+大棚蔬菜基地	da peng shu cai ji di	111
 大鹏湾畔	da peng wan pan	170
 大烹五鼎	da peng wu ding	1
 大鹏一日同风起	da peng yi ri tong feng qi	67
@@ -72825,6 +72926,7 @@ sort: by_weight
 大暑节气	da shu jie qi	168
 大数据	da shu ju	27185
 大数据安全	da shu ju an quan	100
+大数据产业基地	da shu ju chan ye ji di	111
 大数据处理	da shu ju chu li	2575
 大数据存储	da shu ju cun chu	620
 大数据方案	da shu ju fang an	64
@@ -73767,6 +73869,7 @@ sort: by_weight
 大型活动	da xing huo dong	32915
 大型机	da xing ji	8905
 大兴集	da xing ji	8
+大型基地	da xing ji di	111
 大型集会	da xing ji hui	1795
 大型计算机	da xing ji suan ji	2305
 大型轿车	da xing jiao che	910
@@ -73777,6 +73880,7 @@ sort: by_weight
 大行李箱	da xing li xiang	177
 大行令	da xing ling	1
 大兴煤矿	da xing mei kuang	810
+大型煤炭基地	da xing mei tan ji di	111
 大行其道	da xing qi dao	24085
 大型企业	da xing qi ye	118725
 大兴桥北	da xing qiao bei	5
@@ -73795,6 +73899,7 @@ sort: by_weight
 大型商场	da xing shang chang	13470
 大型商业银行	da xing shang ye yin hang	111
 大型深海九棍鱼	da xing shen hai jiu gun yu	1
+大型生产基地	da xing sheng chan ji di	111
 大形势	da xing shi	194
 大行受大名	da xing shou da ming	1
 大型水库	da xing shui ku	3565
@@ -73847,6 +73952,7 @@ sort: by_weight
 大胸怀	da xiong huai	138
 大熊猫	da xiong mao	39425
 大熊猫古代名考	da xiong mao gu dai ming kao	1
+大熊猫基地	da xiong mao ji di	111
 大熊猫栖息地	da xiong mao qi xi di	578
 大熊猫泉泉	da xiong mao quan quan	6
 大熊猫细胞库	da xiong mao xi bao ku	10
@@ -74011,6 +74117,7 @@ sort: by_weight
 大丫头	da ya tou	960
 大牙土天牛	da ya tu tian niu	4
 大亚湾	da ya wan	9890
+大亚湾核电基地	da ya wan he dian ji di	111
 大亚湾核电站	da ya wan he dian zhan	3745
 打压下	da ya xia	1805
 大雅之堂	da ya zhi tang	6435
@@ -77117,6 +77224,7 @@ sort: by_weight
 单基因杂种	dan ji yin za zhong	10
 单击右键	dan ji you jian	10170
 单机游戏	dan ji you xi	17710
+单机游戏下载基地	dan ji you xi xia zai ji di	111
 单击左键	dan ji zuo jian	7990
 单价	dan jia	224005
 担架	dan jia	16500
@@ -78832,6 +78940,7 @@ sort: by_weight
 当间谍	dang jian die	500
 当间儿	dang jian er	145
 党建工作	dang jian gong zuo	74450
+党建基地	dang jian ji di	111
 党建联系点	dang jian lian xi dian	111
 党建内容	dang jian nei rong	376
 挡箭牌	dang jian pai	6760
@@ -79076,6 +79185,7 @@ sort: by_weight
 当时花下就传杯	dang shi hua xia jiu chuan bei	1
 当时家	dang shi jia	38
 当事教育	dang shi jiao yu	352
+党史教育基地	dang shi jiao yu ji di	111
 当世界	dang shi jie	4400
 当时就	dang shi jiu	34550
 当时命而大行乎天下	dang shi ming er da xing hu tian xia	1
@@ -79200,6 +79310,7 @@ sort: by_weight
 # 党姓	dang xing	0
 当刑而王	dang xing er wang	4
 党性分析	dang xing fen xi	30955
+党性教育基地	dang xing jiao yu ji di	111
 党性修养	dang xing xiu yang	11855
 党性原则	dang xing yuan ze	5620
 当雄	dang xiong	6355
@@ -79255,6 +79366,7 @@ sort: by_weight
 党员干部法律知识读本	dang yuan gan bu fa lv zhi shi du ben	3
 党员干部法律知识学习读本	dang yuan gan bu fa lv zhi shi xue xi du ben	6
 党员活动	dang yuan huo dong	189
+党员教育基地	dang yuan jiao yu ji di	111
 党员联系	dang yuan lian xi	111
 党员领导	dang yuan ling dao	125
 党员权利	dang yuan quan li	4454
@@ -79603,6 +79715,7 @@ sort: by_weight
 道达尔	dao da er	2835
 到达港	dao da gang	635
 到达国	dao da guo	160
+到达基地	dao da ji di	111
 到达率	dao da lv	7020
 倒大霉	dao da mei	1245
 道大莫容	dao da mo rong	1
@@ -79981,6 +80094,7 @@ sort: by_weight
 导火线	dao huo xian	7165
 悼祭	dao ji	65
 到基层去	dao ji ceng qu	65
+到基地	dao ji di	111
 到极点	dao ji dian	15430
 到几点	dao ji dian	1505
 到季度末	dao ji du mo	12
@@ -80472,12 +80586,12 @@ sort: by_weight
 道生堂	dao sheng tang	1
 道生一	dao sheng yi	2255
 倒是	dao shi	244675
-导师	dao shi	205940
-到时	dao shi	99115
-道士	dao shi	89670
-导视	dao shi	4555
-盗尸	dao shi	600
-捣实	dao shi	440
+导师	dao shi	20594
+到时	dao shi	9911
+道士	dao shi	8967
+导视	dao shi	455
+盗尸	dao shi	60
+捣实	dao shi	44
 # 道是	dao shi	0
 # 道石	dao shi	0
 道士袱	dao shi fu	3
@@ -81672,6 +81786,7 @@ sort: by_weight
 德塔文	de ta wen	151
 德特里克	de te li ke	157
 德特里克堡	de te li ke bao	133
+德特里克堡基地	de te li ke bao ji di	111
 得体	de ti	47190
 的天	de tian	1111
 德天	de tian	1
@@ -83781,6 +83896,7 @@ sort: by_weight
 第二级	di er ji	12055
 第二辑	di er ji	6100
 滴耳剂	di er ji	12
+第二基地	di er ji di	111
 第二季度	di er ji du	25760
 第二集合地点	di er ji he di dian	12
 第二济困医院	di er ji kun yi yuan	26
@@ -85237,6 +85353,7 @@ sort: by_weight
 地平天成	di ping tian cheng	111
 地平线	di ping xian	22770
 地平线上	di ping xian shang	5605
+地平线月球基地	di ping xian yue qiu ji di	111
 低平中国溪蟹	di ping zhong guo xi xie	1
 堤坡	di po	870
 地铺	di pu	9420
@@ -87364,6 +87481,7 @@ sort: by_weight
 地下绘图师	di xia hui tu shi	1
 地下活动	di xia huo dong	1340
 地下火炬塔	di xia huo ju ta	1
+地下基地	di xia ji di	111
 地下家蚊	di xia jia wen	16
 地下坚牢	di xia jian lao	1
 地下建筑物	di xia jian zhu wu	530
@@ -89620,6 +89738,7 @@ sort: by_weight
 电驴	dian lv	9100
 滇绿	dian lv	253
 电驴下载	dian lv xia zai	1960
+电驴下载基地	dian lv xia zai ji di	111
 点吗	dian ma	9999
 点嘛	dian ma	8888
 电码	dian ma	3555
@@ -89956,6 +90075,7 @@ sort: by_weight
 殿上	dian shang	9015
 店上村委会	dian shang cun wei hui	3
 点上方	dian shang fang	1325
+电商基地	dian shang ji di	111
 电商架构	dian shang jia gou	50
 点上来	dian shang lai	575
 电商平台	dian shang ping tai	1311
@@ -89964,6 +90084,7 @@ sort: by_weight
 电商系统	dian shang xi tong	465
 电商营销	dian shang ying xiao	34
 垫上运动	dian shang yun dong	500
+电商直播基地	dian shang zhi bo ji di	111
 电商之都	dian shang zhi du	100
 电烧伤	dian shao shang	40
 点射	dian she	5135
@@ -90862,6 +90983,7 @@ sort: by_weight
 电子信息产品	dian zi xin xi chan pin	17845
 电子信息产品污染防治管理办法	dian zi xin xi chan pin wu ran fang zhi guan li ban fa	225
 电子信息产业发展基金管理办法	dian zi xin xi chan ye fa zhan ji jin guan li ban fa	2
+电子信息产业基地	dian zi xin xi chan ye ji di	111
 电子信息类	dian zi xin xi lei	161
 电子信箱	dian zi xin xiang	124560
 电子学	dian zi xue	14450
@@ -94863,6 +94985,7 @@ sort: by_weight
 动漫壁纸	dong man bi zhi	1460
 动漫地带	dong man di dai	810
 动漫画	dong man hua	4360
+动漫基地	dong man ji di	111
 动漫卡通	dong man ka tong	3790
 动漫美女	dong man mei nv	500
 动漫片	dong man pian	2150
@@ -95980,6 +96103,7 @@ sort: by_weight
 冬训	dong xun	8635
 冬汛	dong xun	170
 # 董恂	dong xun	0
+冬训基地	dong xun ji di	111
 动循矩法	dong xun ju fa	1
 东寻西觅	dong xun xi mi	111
 东亚	dong ya	96555
@@ -96889,6 +97013,7 @@ sort: by_weight
 兜老底	dou lao di	10
 斗姥阁	dou lao ge	13
 都老了	dou lao le	5235
+逗了	dou le	9999
 逗乐	dou le	9010
 抖了	dou le	8120
 斗了	dou le	5490
@@ -102037,6 +102162,7 @@ sort: by_weight
 多棘刺缘吸虫	duo ji ci yuan xi chong	1
 多棘单须叶鲈	duo ji dan xu ye lu	1
 多级的	duo ji de	2415
+多基地	duo ji di	111
 多棘杜父鱼	duo ji du fu yu	1
 多级反馈	duo ji fan kui	72
 多级反馈队列	duo ji fan kui dui lie	259
@@ -103594,6 +103720,7 @@ sort: by_weight
 萼距花	e ju hua	3
 俄军	e jun	12380
 鄂军	e jun	350
+俄军基地	e jun ji di	111
 扼亢拊背	e kang fu bei	1
 俄克拉荷马	e ke la he ma	1515
 俄克拉荷马爆炸案	e ke la he ma bao zha an	24
@@ -103665,6 +103792,7 @@ sort: by_weight
 俄罗斯队	e luo si dui	3705
 俄罗斯方块	e luo si fang kuai	11190
 俄罗斯共	e luo si gong	18
+俄罗斯军事基地	e luo si jun shi ji di	111
 俄罗斯卡尔梅克国立大学	e luo si ka er mei ke guo li da xue	3
 俄罗斯联邦	e luo si lian bang	14045
 俄罗斯联邦外国公民法律地位法	e luo si lian bang wai guo gong min fa lv di wei fa	16
@@ -108828,6 +108956,7 @@ sort: by_weight
 发展后劲	fa zhan hou jin	15165
 发展环境	fa zhan huan jing	61110
 发展缓慢	fa zhan huan man	8340
+发展基地	fa zhan ji di	111
 发展计划	fa zhan ji hua	45000
 发展计划委员会	fa zhan ji hua wei yuan hui	9520
 发展机会	fa zhan ji hui	23225
@@ -108975,6 +109104,7 @@ sort: by_weight
 法治建设与法学	fa zhi jian she yu fa xue	68
 法治讲演录	fa zhi jiang yan lu	10
 法制教育	fa zhi jiao yu	43510
+法治教育基地	fa zhi jiao yu ji di	111
 法制节目	fa zhi jie mu	130
 法制进行时	fa zhi jin xing shi	108
 法治经纬	fa zhi jing wei	1
@@ -109259,6 +109389,7 @@ sort: by_weight
 翻船	fan chuan	4225
 反穿	fan chuan	1450
 樊川	fan chuan	1
+帆船基地	fan chuan ji di	111
 帆船赛	fan chuan sai	2015
 反传统	fan chuan tong	7305
 帆船运动	fan chuan yun dong	1175
@@ -109323,6 +109454,7 @@ sort: by_weight
 翻得起	fan de qi	30
 犯得上	fan de shang	1095
 犯得着	fan de zhao	1740
+范登堡空军基地	fan deng bao kong jun ji di	111
 反帝	fan di	7785
 翻地	fan di	1855
 返抵	fan di	1275
@@ -109480,6 +109612,7 @@ sort: by_weight
 反腐败工作	fan fu bai gong zuo	29840
 反复不常	fan fu bu chang	111
 反腐倡廉	fan fu chang lian	95505
+反腐倡廉教育基地	fan fu chang lian jiao yu ji di	111
 反腐惩恶	fan fu cheng e	101
 反复打	fan fu da	360
 反复地说	fan fu de shuo	960
@@ -109693,6 +109826,7 @@ sort: by_weight
 返回给我	fan hui gei wo	65
 返回函数	fan hui han shu	3411
 返回恢复	fan hui hui fu	12
+返回基地	fan hui ji di	111
 返回家	fan hui jia	830
 返回键	fan hui jian	7629
 返回键监听	fan hui jian jian ting	54
@@ -110912,6 +111046,7 @@ sort: by_weight
 凡与	fan yu	1180
 反于	fan yu	1160
 反余割	fan yu ge	20
+繁育基地	fan yu ji di	111
 梵宇琳宫	fan yu lin gong	111
 泛羽流商	fan yu liu shang	111
 反余切	fan yu qie	55
@@ -111005,6 +111140,7 @@ sort: by_weight
 繁殖场	fan zhi chang	2205
 反制措施	fan zhi cuo shi	163
 繁殖后代	fan zhi hou dai	2080
+繁殖基地	fan zhi ji di	111
 范之杰	fan zhi jie	1
 繁殖力	fan zhi li	2780
 繁殖率	fan zhi lv	2065
@@ -111338,8 +111474,10 @@ sort: by_weight
 防潮箱	fang chao xiang	1355
 房车	fang che	23210
 纺车	fang che	3715
+房车基地	fang che ji di	111
 房车节	fang che jie	9
 放车里	fang che li	62
+房车露营基地	fang che lu ying ji di	111
 放车上	fang che shang	87
 防尘	fang chen	46810
 防尘防水	fang chen fang shui	755
@@ -111985,6 +112123,7 @@ sort: by_weight
 方技	fang ji	1
 # 方纪	fang ji	0
 纺机厂	fang ji chang	32
+房基地	fang ji di	111
 放几个	fang ji ge	73
 芳基化	fang ji hua	30
 防己黄芪汤	fang ji huang qi tang	3
@@ -113201,6 +113340,7 @@ sort: by_weight
 防御反击	fang yu fan ji	119
 防御反应	fang yu fan ying	630
 防御工事	fang yu gong shi	4850
+防御基地	fang yu ji di	111
 防御机制	fang yu ji zhi	3600
 防御戒指	fang yu jie zhi	16
 防御蓝宝石	fang yu lan bao shi	1
@@ -115467,6 +115607,7 @@ sort: by_weight
 飞行狐猴	fei xing hu hou	1
 飞行活动	fei xing huo dong	1950
 飞行基本规则	fei xing ji ben gui ze	174
+飞行基地	fei xing ji di	111
 飞行计划	fei xing ji hua	1840
 飞行记录	fei xing ji lu	162
 飞行吉普	fei xing ji pu	6
@@ -115623,6 +115764,7 @@ sort: by_weight
 非医保	fei yi bao	660
 非裔秘鲁人	fei yi bi lu ren	111
 非遗传承	fei yi chuan cheng	141
+非遗传承基地	fei yi chuan cheng ji di	111
 非遗传性	fei yi chuan xing	690
 非胰岛素	fei yi dao su	880
 非胰岛素依赖型糖尿病	fei yi dao su yi lai xing tang niao bing	13
@@ -116595,6 +116737,7 @@ sort: by_weight
 愤激	fen ji	2
 分级包干体制	fen ji bao gan ti zhi	11
 分级菜单	fen ji cai dan	40
+分基地	fen ji di	111
 分级分类	fen ji fen lei	5250
 分级分离	fen ji fen li	70
 分级分税制	fen ji fen shui zhi	4
@@ -118176,6 +118319,7 @@ sort: by_weight
 峰巅	feng dian	3560
 峰店	feng dian	3
 风电场	feng dian chang	6415
+风电基地	feng dian ji di	111
 锋电位	feng dian wei	85
 疯掉	feng diao	8755
 封掉	feng diao	655
@@ -121993,6 +122137,7 @@ sort: by_weight
 氟化钙	fu hua gai	940
 富华广场	fu hua guang chang	7
 孵化机	fu hua ji	705
+孵化基地	fu hua ji di	111
 富华集团	fu hua ji tuan	1
 氟化钾	fu hua jia	445
 富华街	fu hua jie	2
@@ -123221,10 +123366,12 @@ sort: by_weight
 扶贫办	fu pin ban	13520
 扶贫帮困	fu pin bang kun	9685
 扶贫材料	fu pin cai liao	68
+扶贫产业基地	fu pin chan ye ji di	111
 扶贫点	fu pin dian	1280
 扶贫法	fu pin fa	10
 扶贫工程	fu pin gong cheng	5130
 扶贫工作	fu pin gong zuo	15995
+扶贫基地	fu pin ji di	111
 扶贫基金	fu pin ji jin	1605
 扶贫济困	fu pin ji kun	10620
 扶贫开发	fu pin kai fa	45900
@@ -123232,6 +123379,7 @@ sort: by_weight
 扶贫款	fu pin kuan	1335
 扶贫联系点	fu pin lian xi dian	111
 扶贫楼	fu pin lou	1
+扶贫示范基地	fu pin shi fan ji di	111
 幅频特性	fu pin te xing	640
 扶贫先扶志	fu pin xian fu zhi	108
 扶贫政策	fu pin zheng ce	1380
@@ -124291,6 +124439,7 @@ sort: by_weight
 服务化	fu wu hua	1915
 服务级别	fu wu ji bie	1460
 服务基层	fu wu ji ceng	145
+服务基地	fu wu ji di	111
 服务机构	fu wu ji gou	126855
 服务基金	fu wu ji jin	1250
 服务记录	fu wu ji lu	1035
@@ -124688,6 +124837,7 @@ sort: by_weight
 福星公司	fu xing gong si	5
 福星花园社区	fu xing hua yuan she qu	3
 赋形剂	fu xing ji	1190
+复兴基地	fu xing ji di	111
 福星集团	fu xing ji tuan	69
 复兴街	fu xing jie	44
 福星科技	fu xing ke ji	12500
@@ -126249,6 +126399,7 @@ sort: by_weight
 该机	gai ji	113185
 钙剂	gai ji	4655
 改寄	gai ji	230
+该基地	gai ji di	111
 该季度	gai ji du	1575
 该基金会	gai ji jin hui	2325
 改机制	gai ji zhi	133
@@ -127604,6 +127755,7 @@ sort: by_weight
 柑橘格蝽	gan ju ge chun	1
 柑橘光盾绿天牛	gan ju guang dun lv tian niu	1
 柑橘黄	gan ju huang	128
+柑橘基地	gan ju ji di	111
 柑橘锯天牛	gan ju ju tian niu	1
 柑橘卷叶蛾	gan ju juan ye e	1
 柑橘全爪螨	gan ju quan zhao man	13
@@ -129425,6 +129577,7 @@ sort: by_weight
 钢铁行业	gang tie hang ye	24860
 钢铁合剂	gang tie he ji	145
 钢铁混凝土	gang tie hun ning tu	10
+钢铁基地	gang tie ji di	111
 钢铁集团	gang tie ji tuan	14680
 钢铁价格	gang tie jia ge	1600
 钢铁界	gang tie jie	235
@@ -129634,9 +129787,11 @@ sort: by_weight
 高百岁	gao bai sui	3
 告白信	gao bai xin	163
 告白夜	gao bai ye	176
+高版	gao ban	1111
 高版本	gao ban ben	3930
 高半胱氨酸	gao ban guang an suan	695
 高坂桐乃	gao ban tong nai	126
+高半头	gao ban tou	3930
 高帮	gao bang	1111
 高帮鞋	gao bang xie	1111
 高宝宝	gao bao bao	16
@@ -131783,6 +131938,7 @@ sort: by_weight
 高新技术产品	gao xin ji shu chan pin	34120
 高新技术产业	gao xin ji shu chan ye	101175
 高新技术产业化	gao xin ji shu chan ye hua	13280
+高新技术产业基地	gao xin ji shu chan ye ji di	111
 高新技术产业开发	gao xin ji shu chan ye kai fa	4235
 高新技术成果	gao xin ji shu cheng guo	11885
 高新技术成果出资	gao xin ji shu cheng guo chu zi	208
@@ -132850,6 +133006,7 @@ sort: by_weight
 各级党委和政府	ge ji dang wei he zheng fu	16815
 各级党组	ge ji dang zu	216
 各级党组织	ge ji dang zu zhi	57125
+各基地	ge ji di	111
 各级地方政府	ge ji di fang zheng fu	8332
 各季度	ge ji du	2000
 各级干部	ge ji gan bu	16205
@@ -133326,6 +133483,7 @@ sort: by_weight
 歌名	ge ming	27320
 革命传统	ge ming chuan tong	11395
 革命传统教育	ge ming chuan tong jiao yu	10210
+革命传统教育基地	ge ming chuan tong jiao yu ji di	111
 革命创制	ge ming chuang zhi	1
 革命党	ge ming dang	6620
 革命党人	ge ming dang ren	3595
@@ -134662,6 +134820,8 @@ sort: by_weight
 给信号	gei xin hao	175
 给蓄电池充电	gei xu dian chi chong dian	210
 给学生	gei xue sheng	72890
+给呀	gei ya	7777
+给丫	gei ya	111
 给药	gei yao	40760
 给药系统	gei yao xi tong	20
 给爷	gei ye	3333
@@ -134691,6 +134851,8 @@ sort: by_weight
 跟班走	gen ban zou	175
 根宝	gen bao	2040
 跟包	gen bao	690
+根宝基地	gen bao ji di	111
+根宝足球基地	gen bao zu qiu ji di	111
 根本	gen ben	500589
 根本保障	gen ben bao zhang	120
 根本保证	gen ben bao zheng	18395
@@ -136753,6 +136915,7 @@ sort: by_weight
 公共事件	gong gong shi jian	149
 公共食堂	gong gong shi tang	1175
 公共事务	gong gong shi wu	24450
+公共实训基地	gong gong shi xun ji di	111
 公共事业	gong gong shi ye	28100
 公共数据	gong gong shu ju	1073
 公共投资	gong gong tou zi	2275
@@ -136806,6 +136969,7 @@ sort: by_weight
 宫古海峡	gong gu hai xia	1180
 巩固好	gong gu hao	154
 共固化作用	gong gu hua zuo yong	1
+巩固基地	gong gu ji di	111
 肱骨髁间骨折	gong gu ke jian gu zhe	1
 巩固了	gong gu le	17760
 巩固率	gong gu lv	3665
@@ -137048,6 +137212,7 @@ sort: by_weight
 弓箭坊	gong jian fang	48
 巩建丰	gong jian feng	3
 恭俭胡同	gong jian hu tong	5
+共建基地	gong jian ji di	111
 共建家园	gong jian jia yuan	187
 攻坚克难	gong jian ke nan	4495
 共建美好家园	gong jian mei hao jia yuan	194
@@ -138162,6 +138327,7 @@ sort: by_weight
 公司后	gong si hou	72
 公司化	gong si hua	8625
 攻丝机	gong si ji	1515
+公司基地	gong si ji di	111
 公司基金	gong si ji jin	655
 公司集团	gong si ji tuan	1580
 公司间	gong si jian	5025
@@ -139060,6 +139226,7 @@ sort: by_weight
 供应过剩	gong ying guo sheng	1680
 供应合同	gong ying he tong	4855
 公营化	gong ying hua	2
+供应基地	gong ying ji di	111
 供应计划	gong ying ji hua	2245
 供应价格	gong ying jia ge	2005
 供应舰	gong ying jian	9999
@@ -139068,6 +139235,7 @@ sort: by_weight
 供应链	gong ying lian	160830
 供应链风险管理	gong ying lian feng xian guan li	77
 供应链管理	gong ying lian guan li	483
+供应链基地	gong ying lian ji di	111
 供应量	gong ying liang	45160
 供应品	gong ying pin	2405
 供应汽车	gong ying qi che	1135
@@ -139535,6 +139703,7 @@ sort: by_weight
 工作会议上	gong zuo hui yi shang	28295
 工作伙伴	gong zuo huo ban	5255
 工作集	gong zuo ji	808
+工作基地	gong zuo ji di	111
 工作机构	gong zuo ji gou	36310
 工作计划	gong zuo ji hua	86845
 工作积极性	gong zuo ji ji xing	20555
@@ -144230,6 +144399,7 @@ sort: by_weight
 管道符号	guan dao fu hao	691
 管道工	guan dao gong	1495
 管道工程	guan dao gong cheng	7890
+关岛基地	guan dao ji di	111
 管道局	guan dao ju	2295
 关道口	guan dao kou	1
 管道流	guan dao liu	981
@@ -146662,6 +146832,7 @@ sort: by_weight
 广福行	guang fu hang	342
 光复会	guang fu hui	935
 光复活	guang fu huo	3
+光伏基地	guang fu ji di	111
 光复旧物	guang fu jiu wu	84
 广福里	guang fu li	3
 光复路	guang fu lu	1520
@@ -147861,6 +148032,7 @@ sort: by_weight
 广州火车东站	guang zhou huo che dong zhan	629
 广州火车站	guang zhou huo che zhan	5995
 广州火车站总站	guang zhou huo che zhan zong zhan	15
+广州基地	guang zhou ji di	111
 广州机票	guang zhou ji piao	6860
 广州鸡仔饼	guang zhou ji zai bing	1
 广州江南科友科技	guang zhou jiang nan ke you ke ji	87
@@ -150015,6 +150187,7 @@ sort: by_weight
 国防建设	guo fang jian she	20295
 国防教育	guo fang jiao yu	26190
 国防教育法	guo fang jiao yu fa	1195
+国防教育基地	guo fang jiao yu ji di	111
 国防教育中心	guo fang jiao yu zhong xin	31
 国防军	guo fang jun	11310
 国防军司	guo fang jun si	25
@@ -150470,6 +150643,7 @@ sort: by_weight
 国际军事法庭	guo ji jun shi fa ting	660
 国际开发	guo ji kai fa	910
 国际开发协会	guo ji kai fa xie hui	635
+国际科技合作基地	guo ji ke ji he zuo ji di	111
 国际科技合作与交流专项经费管理办法	guo ji ke ji he zuo yu jiao liu zhuan xiang jing fei guan li ban fa	2
 国际科学技术会议与展览管理暂行办法	guo ji ke xue ji shu hui yi yu zhan lan guan li zan xing ban fa	6
 国际恐怖主义	guo ji kong bu zhu yi	2915
@@ -151051,6 +151225,7 @@ sort: by_weight
 国家三级	guo jia san ji	3335
 国家森林	guo jia sen lin	3145
 国家森林公园	guo jia sen lin gong yuan	30855
+国家森林康养基地	guo jia sen lin kang yang ji di	111
 国家商标	guo jia shang biao	1900
 国家商标局	guo jia shang biao ju	4925
 国家上海新药安全评价研究中心	guo jia shang hai xin yao an quan ping jia yan jiu zhong xin	7
@@ -151062,6 +151237,7 @@ sort: by_weight
 国家社会主义	guo jia she hui zhu yi	1560
 国家审计署	guo jia shen ji shu	4960
 国家审判机关	guo jia shen pan ji guan	556
+国家生物产业基地	guo jia sheng wu chan ye ji di	111
 国家市场	guo jia shi chang	2710
 国家食品安全事故应急预案	guo jia shi pin an quan shi gu ying ji yu an	99
 国家食品药品监督管理局听证规则	guo jia shi pin yao pin jian du guan li ju ting zheng gui ze	15
@@ -151071,6 +151247,7 @@ sort: by_weight
 国家实物标准暂行管理办法	guo jia shi wu biao zhun zan xing guan li ban fa	1
 国嘉实业	guo jia shi ye	12500
 国家石油和化学工业局	guo jia shi you he hua xue gong ye ju	216
+国家双创示范基地	guo jia shuang chuang shi fan ji di	111
 国家税	guo jia shui	2210
 国家税收	guo jia shui shou	11945
 国家税收执法权	guo jia shui shou zhi fa quan	1
@@ -151124,6 +151301,7 @@ sort: by_weight
 国家卫生城市考核命名和监督管理办法	guo jia wei sheng cheng shi kao he ming ming he jian du guan li ban fa	13
 国家危险废物名录	guo jia wei xian fei wu ming lu	376
 郭嘉文	guo jia wen	117
+国家文化出口基地	guo jia wen hua chu kou ji di	111
 国家文凭	guo jia wen ping	142
 国家文物局	guo jia wen wu ju	12375
 郭家务	guo jia wu	4
@@ -152112,6 +152290,7 @@ sort: by_weight
 果树场	guo shu chang	11
 过熟的	guo shu de	240
 果蔬罐头	guo shu guan tou	950
+果蔬基地	guo shu ji di	111
 果树学	guo shu xue	790
 果蔬饮	guo shu yin	146
 果树园	guo shu yuan	430
@@ -152763,6 +152942,7 @@ sort: by_weight
 果园北区	guo yuan bei qu	1
 过元旦	guo yuan dan	133
 果园东路	guo yuan dong lu	3
+果园基地	guo yuan ji di	111
 果园里	guo yuan li	2685
 果园南道	guo yuan nan dao	4
 郭元强	guo yuan qiang	129
@@ -153840,6 +154020,7 @@ sort: by_weight
 还跟着	hai gen zhe	4710
 海埂	hai geng	3185
 海埂大坝	hai geng da ba	105
+海埂基地	hai geng ji di	111
 海工电影院	hai gong dian ying yuan	1
 海狗	hai gou	4840
 还够	hai gou	3005
@@ -154140,6 +154321,7 @@ sort: by_weight
 海空	hai kong	8535
 海孔角蜂巢珊瑚	hai kong jiao feng chao shan hu	1
 海空军	hai kong jun	2535
+海空军基地	hai kong jun ji di	111
 海空运	hai kong yun	410
 海口	hai kou	193540
 海寇	hai kou	1250
@@ -155063,10 +155245,12 @@ sort: by_weight
 海外关系	hai wai guan xi	1265
 海外华侨	hai wai hua qiao	6530
 海外华人	hai wai hua ren	12700
+海外基地	hai wai ji di	111
 海外机构	hai wai ji gou	2230
 海外基金	hai wai ji jin	4485
 海外交通史博物馆	hai wai jiao tong shi bo wu guan	72
 海外精品	hai wai jing pin	5
+海外军事基地	hai wai jun shi ji di	111
 海外留学	hai wai liu xue	15125
 海外旅行	hai wai lv xing	1270
 海外旅游	hai wai lv you	6055
@@ -155075,6 +155259,7 @@ sort: by_weight
 海外侨胞	hai wai qiao bao	12420
 海外人才	hai wai ren cai	5725
 海外上市	hai wai shang shi	17890
+海外生产基地	hai wai sheng chan ji di	111
 海外市场	hai wai shi chang	37535
 海外投资	hai wai tou zi	12990
 海外投资法	hai wai tou zi fa	5
@@ -155156,6 +155341,7 @@ sort: by_weight
 海峡骨螺	hai xia gu luo	1
 海峡两岸	hai xia liang an	40975
 海峡两岸关系	hai xia liang an guan xi	2365
+海峡两岸交流基地	hai xia liang an jiao liu ji di	111
 海峡两岸商务仲裁制度比较研究	hai xia liang an shang wu zhong cai zhi du bi jiao yan jiu	1
 海峡西岸	hai xia xi an	18760
 海霞新村	hai xia xin cun	9
@@ -157471,6 +157657,7 @@ sort: by_weight
 航空货运	hang kong huo yun	8990
 航空货运代理	hang kong huo yun dai li	1394
 航空货运单	hang kong huo yun dan	1131
+航空基地	hang kong ji di	111
 航空机票	hang kong ji piao	2080
 航空界	hang kong jie	1350
 航空局	hang kong ju	1415
@@ -158981,11 +159168,11 @@ sort: by_weight
 好生之德	hao sheng zhi de	1640
 好事	hao shi	177930
 耗时	hao shi	38120
-好时	hao shi	17170
 好使	hao shi	13285
 好诗	hao shi	9770
+好湿	hao shi	8800
 豪士	hao shi	1800
-好湿	hao shi	880
+好时	hao shi	1717
 好施	hao shi	11
 嚆矢	hao shi	1
 好事不出门	hao shi bu chu men	1210
@@ -160228,6 +160415,7 @@ sort: by_weight
 褐点弧翅卷蛾	he dian hu chi juan e	1
 和电话	he dian hua	65
 核电花园	he dian hua yuan	3
+核电基地	he dian ji di	111
 核电机组	he dian ji zu	3555
 褐点墨天牛	he dian mo tian niu	1
 褐点拟隆头鱼	he dian ni long tou yu	1
@@ -160688,6 +160876,7 @@ sort: by_weight
 荷花淀	he hua dian	1200
 荷花东路	he hua dong lu	1
 荷花豆腐大虾	he hua dou fu da xia	6
+荷花基地	he hua ji di	111
 荷花奖	he hua jiang	124
 荷花街道办事处	he hua jie dao ban shi chu	18
 荷花开后西湖好	he hua kai hou xi hu hao	1
@@ -160766,6 +160955,7 @@ sort: by_weight
 # 鹖鸡	he ji	0
 褐基斑粉蝶	he ji ban fen die	1
 合计达	he ji da	1460
+核基地	he ji di	111
 何济公	he ji gong	63
 喝几壶	he ji hu	64
 和积互变公式	he ji hu bian gong shi	5
@@ -161233,6 +161423,7 @@ sort: by_weight
 合每股	he mei gu	650
 和美国	he mei guo	68
 和妹妹	he mei mei	10505
+赫梅米姆空军基地	he mei mi mu kong jun ji di	111
 贺美琦	he mei qi	155
 何梅协定	he mei xie ding	330
 褐眉眼蝶	he mei yan die	1
@@ -161594,6 +161785,7 @@ sort: by_weight
 呵欠	he qian	5550
 呵欠连天	he qian lian tian	365
 核潜艇	he qian ting	17660
+核潜艇基地	he qian ting ji di	111
 荷枪实弹	he qiang shi dan	3530
 河桥	he qiao	2
 # 何桥	he qiao	0
@@ -161853,6 +162045,7 @@ sort: by_weight
 何事辛苦怨斜晖	he shi xin ku yuan xie hui	1
 何时休	he shi xiu	109
 核试验	he shi yan	11845
+核试验基地	he shi yan ji di	111
 核实一下	he shi yi xia	8
 何时倚虚幌	he shi yi xu huang	1
 何事阴阳工	he shi yin yang gong	2
@@ -161943,6 +162136,7 @@ sort: by_weight
 核算方法	he suan fang fa	8990
 鹤算龟龄	he suan gui ling	111
 核算后	he suan hou	100
+核酸基地	he suan ji di	111
 核酸检测报告	he suan jian ce bao gao	103
 核酸检测点	he suan jian ce dian	149
 核酸检测机构	he suan jian ce ji gou	147
@@ -162023,6 +162217,7 @@ sort: by_weight
 核桃糕	he tao gao	402
 核桃根象甲	he tao gen xiang jia	1
 核桃红米饭	he tao hong mi fan	14
+核桃基地	he tao ji di	111
 核桃鸡汤	he tao ji tang	4
 核桃举肢蛾	he tao ju zhi e	21
 核桃卷叶象	he tao juan ye xiang	1
@@ -162406,6 +162601,7 @@ sort: by_weight
 核心概念	he xin gai nian	4980
 禾欣股份	he xin gu fen	33
 核心机	he xin ji	1180
+核心基地	he xin ji di	111
 核心技术	he xin ji shu	89950
 核心家庭	he xin jia ting	1885
 核心价值	he xin jia zhi	39845
@@ -162962,6 +163158,7 @@ sort: by_weight
 合作化	he zuo hua	5785
 合作化路	he zuo hua lu	314
 合作伙伴	he zuo huo ban	330035
+合作基地	he zuo ji di	111
 合作计划	he zuo ji hua	7135
 合作机会	he zuo ji hui	7550
 合作机制	he zuo ji zhi	13525
@@ -164353,6 +164550,7 @@ sort: by_weight
 很烦	hen fan	16065
 很反感	hen fan gan	4825
 很繁华	hen fan hua	720
+很方	hen fang	111
 很方便	hen fang bian	65460
 很费	hen fei	6525
 很肥	hen fei	1420
@@ -165037,6 +165235,7 @@ sort: by_weight
 横店	heng dian	11730
 横店东磁	heng dian dong ci	140
 横店集团	heng dian ji tuan	3015
+横店影视基地	heng dian ying shi ji di	111
 恒定	heng ding	30015
 衡定	heng ding	1065
 恒定比特率	heng ding bi te lv	74
@@ -165151,6 +165350,7 @@ sort: by_weight
 哼唧	heng ji	1300
 横击	heng ji	560
 恒基达鑫	heng ji da xin	1
+恒基地产	heng ji di chan	111
 恒基伟业	heng ji wei ye	3045
 桁架	heng jia	5840
 横加	heng jia	2390
@@ -165497,6 +165697,7 @@ sort: by_weight
 恒星月	heng xing yue	9999
 横行直撞	heng xing zhi zhuang	111
 横须贺	heng xu he	2185
+横须贺基地	heng xu he ji di	111
 横痃	heng xuan	999
 恒压	heng ya	11885
 恒牙	heng ya	4700
@@ -166823,12 +167024,16 @@ sort: by_weight
 红色感叹号	hong se gan tan hao	474
 红色高棉	hong se gao mian	735
 红色革命	hong se ge ming	123
+红色革命教育基地	hong se ge ming jiao yu ji di	111
 红色故事	hong se gu shi	130
 红色光芒	hong se guang mang	176
+红色基地	hong se ji di	111
+红色教育基地	hong se jiao yu ji di	111
 红色经典	hong se jing dian	4185
 红色警戒	hong se jing jie	4905
 红色恐怖	hong se kong bu	285
 红色旅游	hong se lv you	34745
+红色旅游基地	hong se lv you ji di	111
 红色毛癣菌	hong se mao xuan jun	2
 红色旗帜	hong se qi zhi	3333
 红色蔷薇	hong se qiang wei	299
@@ -166837,6 +167042,7 @@ sort: by_weight
 红色书本	hong se shu ben	3333
 红色素	hong se su	1905
 红色头发	hong se tou fa	3333
+红色文化教育基地	hong se wen hua jiao yu ji di	111
 红色物	hong se wu	60
 红色血栓	hong se xue shuan	3
 红色摇滚	hong se yao gun	30
@@ -167821,6 +168027,7 @@ sort: by_weight
 后北宫村	hou bei gong cun	8
 后备军	hou bei jun	8945
 后备力量	hou bei li liang	9035
+后备人才基地	hou bei ren cai ji di	111
 后备人员	hou bei ren yuan	1985
 后备式	hou bei shi	1355
 后北屯	hou bei tun	94
@@ -168011,6 +168218,7 @@ sort: by_weight
 后房	hou fang	1535
 后放	hou fang	1524
 后房村	hou fang cun	1
+后方基地	hou fang ji di	111
 后防线	hou fang xian	4830
 后方医院	hou fang yi yuan	665
 侯方域	hou fang yu	27
@@ -170982,6 +171190,7 @@ sort: by_weight
 户外媒介	hu wai mei jie	770
 户外媒体	hu wai mei ti	5775
 户外拓展	hu wai tuo zhan	4950
+户外拓展基地	hu wai tuo zhan ji di	111
 户外用品	hu wai yong pin	17105
 户外运动	hu wai yun dong	73080
 户外直播	hu wai zhi bo	138
@@ -172227,6 +172436,7 @@ sort: by_weight
 化工股	hua gong gu	36
 化工股份	hua gong gu fen	9875
 化工行业	hua gong hang ye	16895
+化工基地	hua gong ji di	111
 化工集团	hua gong ji tuan	11660
 化工技校	hua gong ji xiao	12
 化工局	hua gong ju	675
@@ -172415,9 +172625,11 @@ sort: by_weight
 花卉草木	hua hui cao mu	200
 花卉大	hua hui da	71
 华辉东方城	hua hui dong fang cheng	147
+花卉基地	hua hui ji di	111
 花会开	hua hui kai	190
 华汇康城	hua hui kang cheng	8
 花卉苗木	hua hui miao mu	9230
+花卉苗木基地	hua hui miao mu ji di	111
 花卉盆景	hua hui pen jing	2130
 华汇商厦	hua hui shang sha	1
 花卉市场	hua hui shi chang	9190
@@ -172430,6 +172642,7 @@ sort: by_weight
 花卉栽培	hua hui zai pei	1670
 华晖正天	hua hui zheng tian	65
 花卉种植	hua hui zhong zhi	2425
+花卉种植基地	hua hui zhong zhi ji di	111
 花卉种子	hua hui zhong zi	1380
 化魂	hua hun	1585
 画魂	hua hun	835
@@ -172520,6 +172733,7 @@ sort: by_weight
 滑跤	hua jiao	120
 花椒毒素	hua jiao du su	20
 花椒粉	hua jiao fen	4377
+花椒基地	hua jiao ji di	111
 画角描头	hua jiao miao tou	1
 华教授	hua jiao shou	98
 花胶瘦肉羹	hua jiao shou rou geng	1
@@ -172920,6 +173134,7 @@ sort: by_weight
 化募	hua mu	95
 花木成畦手自栽	hua mu cheng qi shou zi zai	1
 花木扶疏	hua mu fu shu	1290
+花木基地	hua mu ji di	111
 花木街道	hua mu jie dao	106
 花木兰	hua mu lan	10970
 花木路	hua mu lu	236
@@ -172938,6 +173153,7 @@ sort: by_weight
 华南广场	hua nan guang chang	13
 华南国际商城	hua nan guo ji shang cheng	1
 华南虎	hua nan hu	6870
+华南基地	hua nan ji di	111
 华南橘斑傲尺蛾	hua nan ju ban ao chi e	1
 华南理工	hua nan li gong	3825
 华南理工大学	hua nan li gong da xue	21760
@@ -173574,6 +173790,7 @@ sort: by_weight
 华微电子	hua wei dian zi	13
 华为公司	hua wei gong si	9370
 化为灰烬	hua wei hui jin	5710
+华为基地	hua wei ji di	111
 华为机试	hua wei ji shi	139
 华为技术	hua wei ji shu	9305
 化为己有	hua wei ji you	165
@@ -173729,6 +173946,7 @@ sort: by_weight
 花乡桥南	hua xiang qiao nan	7
 花乡桥西	hua xiang qiao xi	1
 滑翔伞	hua xiang san	5795
+滑翔伞基地	hua xiang san ji di	111
 画像师	hua xiang shi	150
 花相似	hua xiang si	129
 花香乡	hua xiang xiang	5
@@ -175384,6 +175602,7 @@ sort: by_weight
 环境激素	huan jing ji su	9999
 环境监测	huan jing jian ce	43650
 环境教育	huan jing jiao yu	18250
+环境教育基地	huan jing jiao yu ji di	111
 环境经济	huan jing jing ji	2340
 环境经济学	huan jing jing ji xue	1215
 环境纠纷	huan jing jiu fen	685
@@ -175622,7 +175841,9 @@ sort: by_weight
 欢闹	huan nao	1200
 换脑筋	huan nao jin	270
 换脑子	huan nao zi	210
+换能	huan neng	111
 换能器	huan neng qi	5545
+换能原理	huan neng yuan li	111
 还你	huan ni	17880
 换你	huan ni	3333
 还你自由	huan ni zi you	158
@@ -177948,6 +178169,7 @@ sort: by_weight
 荒唐之言	huang tang zhi yan	18
 黄桃	huang tao	2840
 黄桃罐头	huang tao guan tou	987
+黄桃基地	huang tao ji di	111
 黄藤素胶囊	huang teng su jiao nang	1
 黄藤素片	huang teng su pian	5
 黄体	huang ti	12750
@@ -178814,6 +179036,7 @@ sort: by_weight
 回到从前	hui dao cong qian	5840
 会到摧车折楫时	hui dao cui che zhe ji shi	1
 回到过去	hui dao guo qu	9110
+回到基地	hui dao ji di	111
 回到家	hui dao jia	62380
 回到家乡	hui dao jia xiang	10530
 回到家中	hui dao jia zhong	13770
@@ -179461,6 +179684,7 @@ sort: by_weight
 灰姬霸鹟	hui ji ba weng	1
 惠及百姓	hui ji bai xing	156
 灰姬蝽	hui ji chun	1
+回基地	hui ji di	111
 汇集合成	hui ji he cheng	1
 讳疾忌医	hui ji ji yi	3265
 汇集了	hui ji le	38820
@@ -181417,6 +181641,7 @@ sort: by_weight
 婚纱礼服	hun sha li fu	7535
 婚纱模板	hun sha mu ban	1385
 婚纱摄影	hun sha she ying	29060
+婚纱摄影基地	hun sha she ying ji di	111
 婚纱网	hun sha wang	26
 婚纱影楼	hun sha ying lou	8825
 婚纱照	hun sha zhao	17790
@@ -182058,6 +182283,7 @@ sort: by_weight
 或东或南	huo dong huo nan	1
 或东或西	huo dong huo xi	13
 活动基础	huo dong ji chu	390
+活动基地	huo dong ji di	111
 活动家	huo dong jia	5555
 活动矫治器	huo dong jiao zhi qi	3
 活动进程	huo dong jin cheng	785
@@ -182684,6 +182910,8 @@ sort: by_weight
 火龙洞	huo long dong	755
 火龙黼黻	huo long fu fu	1
 火龙果	huo long guo	11229
+火龙果基地	huo long guo ji di	111
+火龙果种植基地	huo long guo zhong zhi ji di	111
 或龙或神	huo long huo shen	5
 活龙活现	huo long huo xian	620
 火龙烈焰	huo long lie yan	1
@@ -183497,6 +183725,7 @@ sort: by_weight
 或行或走	huo xing huo zou	15
 或行或坐	huo xing huo zuo	30
 活性剂	huo xing ji	4735
+火星基地	huo xing ji di	111
 火星街道	huo xing jie dao	178
 火星乱冒	huo xing luan mao	1
 活性区	huo xing qu	120
@@ -185045,34 +185274,99 @@ sort: by_weight
 季弟	ji di	7
 # 吉蒂	ji di	0
 # 迹地	ji di	0
+基地吧	ji di ba	111
+基地班	ji di ban	111
+基地爆炸	ji di bao zha	111
+基地布局	ji di bu ju	111
+基地采摘	ji di cai zhai	111
+基地参观	ji di can guan	111
 基底层	ji di ceng	2985
+基地车	ji di che	111
+基地打造	ji di da zao	111
+基地带	ji di dai	111
+基地带动	ji di dai dong	111
 基底动脉	ji di dong mai	1440
+基地发展	ji di fa zhan	111
 极地反击	ji di fan ji	104
+基地负责人	ji di fu ze ren	111
+基地共建	ji di gong jian	111
+基地工作	ji di gong zuo	111
 极地馆	ji di guan	1425
+基地管理	ji di guan li	111
+基地规划	ji di gui hua	111
+基地规模	ji di gui mo	111
+基地航空公司	ji di hang kong gong si	111
+基地合作	ji di he zuo	111
 及第后寄长安故人	ji di hou ji chang an gu ren	1
 极地狐	ji di hu	45
 基地化	ji di hua	2815
+基地环境	ji di huan jing	111
+基地计划	ji di ji hua	111
 际地极天	ji di ji tian	111
+基地建成	ji di jian cheng	111
+基地简介	ji di jian jie	111
+基地建立	ji di jian li	111
 基地建设	ji di jian she	60305
+基地揭牌	ji di jie pai	111
+基地介绍	ji di jie shao	111
 棘地荆天	ji di jing tian	111
 蹐地局天	ji di ju tian	1
+基地考察	ji di kao cha	111
+基地恐怖组织	ji di kong bu zu zhi	111
 吉蒂拉	ji di la	1
+基地落户	ji di luo hu	111
+基地面积	ji di mian ji	111
 基底膜	ji di mo	2890
+基地内	ji di nei	111
+基地能手乐队	ji di neng shou le dui	111
 际地蟠天	ji di pan tian	1
+基地培训	ji di pei xun	111
+基地企业	ji di qi ye	111
+基地人员	ji di ren yuan	111
+基地设施	ji di she shi	111
 基底神经节	ji di shen jing jie	8
 极地神射手	ji di shen she shou	1
+基地生产	ji di sheng chan	111
+基地示范	ji di shi fan	111
+基地视频	ji di shi pin	111
+基地授牌	ji di shou pai	111
 几滴水	ji di shui	640
+基地水晶	ji di shui jing	111
+基地司令	ji di si ling	111
+基地台	ji di tai	111
 极地探险	ji di tan xian	685
 基地网	ji di wang	58
+基地务工	ji di wu gong	111
 基底细胞癌	ji di xi bao ai	50
 基底细胞瘤	ji di xi bao liu	3
 基底细胞上皮瘤	ji di xi bao shang pi liu	2
+基地县	ji di xian	111
+基地项目	ji di xiang mu	111
+基地校	ji di xiao	111
+基地小虎	ji di xiao hu	111
 基地信息	ji di xin xi	420
+基地型	ji di xing	111
 极地雪犬	ji di xue quan	1
+基地学校	ji di xue xiao	111
+基地训练	ji di xun lian	111
+基地一	ji di yi	111
+基地医院	ji di yi yuan	111
+基地运营	ji di yun ying	111
+基地在哪里	ji di zai na li	111
+基地在线	ji di zai xian	111
 极地蚤钩虾	ji di zao gou xia	1
 基地站	ji di zhan	57
+基地展示	ji di zhan shi	111
 基地址	ji di zhi	194
+基地直播	ji di zhi bo	111
+基地直采	ji di zhi cai	111
+基地直供	ji di zhi gong	111
+基地直销	ji di zhi xiao	111
+基地中	ji di zhong	111
+基地中心	ji di zhong xin	111
+基地种植	ji di zhong zhi	111
 及第粥	ji di zhou	770
+基地主任	ji di zhu ren	111
 基地组织	ji di zu zhi	5220
 几点	ji dian	132135
 祭奠	ji dian	63020
@@ -187554,6 +187848,8 @@ sort: by_weight
 技能考核	ji neng kao he	5100
 技能冷却	ji neng leng que	86
 技能培训	ji neng pei xun	59490
+技能培训基地	ji neng pei xun ji di	111
+技能人才培训基地	ji neng ren cai pei xun ji di	111
 机能衰退	ji neng shuai tui	610
 技能特长	ji neng te chang	200
 技能特效	ji neng te xiao	188
@@ -190156,6 +190452,7 @@ sort: by_weight
 继续加	ji xu jia	382
 继续加强	ji xu jia qiang	38090
 继续教育	ji xu jiao yu	125490
+继续教育基地	ji xu jiao yu ji di	111
 急须解决	ji xu jie jue	10290
 急需解决	ji xu jie jue	1286
 继续进行	ji xu jin xing	42860
@@ -190221,6 +190518,7 @@ sort: by_weight
 绩学之士	ji xue zhi shi	111
 集训	ji xun	30075
 集训队	ji xun dui	3865
+集训基地	ji xun ji di	111
 集训期	ji xun qi	70
 集训赛	ji xun sai	60
 计勋行赏	ji xun xing shang	111
@@ -193323,6 +193621,8 @@ sort: by_weight
 加收费用	jia shou fei yong	3355
 假手机	jia shou ji	570
 嘉手纳	jia shou na	185
+嘉手纳基地	jia shou na ji di	111
+嘉手纳空军基地	jia shou na kong jun ji di	111
 假手旁人	jia shou pang ren	3
 假手他人	jia shou ta ren	470
 假手于人	jia shou yu ren	350
@@ -194632,6 +194932,7 @@ sort: by_weight
 检测管	jian ce guan	1040
 检测后	jian ce hou	5120
 监测机	jian ce ji	135
+检测基地	jian ce ji di	111
 检测机构	jian ce ji gou	47410
 检测技术	jian ce ji shu	25840
 检测结果	jian ce jie guo	33060
@@ -195733,6 +196034,7 @@ sort: by_weight
 间脊尺蛾	jian ji chi e	1
 煎鸡蛋	jian ji dan	2890
 剑戟刀枪	jian ji dao qiang	111
+建基地	jian ji di	111
 碱基对	jian ji dui	1060
 碱基堆积	jian ji dui ji	20
 见机而行	jian ji er xing	111
@@ -196246,6 +196548,7 @@ sort: by_weight
 建立规范	jian li gui fan	11230
 监理合同	jian li he tong	10190
 建立基础	jian li ji chu	1610
+建立基地	jian li ji di	111
 建立局	jian li ju	83
 建立开放	jian li kai fang	220
 简历库	jian li ku	3225
@@ -196264,6 +196567,7 @@ sort: by_weight
 监理人员	jian li ren yuan	13335
 建立日期	jian li ri qi	1805
 简历上	jian li shang	87
+建立生产基地	jian li sheng chan ji di	111
 监理师	jian li shi	8755
 建立时间	jian li shi jian	75025
 见利思义	jian li si yi	560
@@ -196286,6 +196590,7 @@ sort: by_weight
 建立银行	jian li yin hang	111
 建立于	jian li yu	12870
 监理员	jian li yuan	3005
+建立月球基地	jian li yue qiu ji di	111
 建立在	jian li zai	153195
 建立者	jian li zhe	2530
 建立政府	jian li zheng fu	11595
@@ -196959,6 +197264,7 @@ sort: by_weight
 建设好	jian she hao	26590
 建设和谐	jian she he xie	32450
 建设和谐社会	jian she he xie she hui	19645
+建设基地	jian she ji di	111
 建设基金	jian she ji jin	4025
 建设集团	jian she ji tuan	21805
 建设机械	jian she ji xie	3880
@@ -196990,6 +197296,7 @@ sort: by_weight
 建设上	jian she shang	76
 建设社会主义	jian she she hui zhu yi	126
 建设申请	jian she shen qing	1
+建设生产基地	jian she sheng chan ji di	111
 建设生态文明	jian she sheng tai wen ming	115
 建设史	jian she shi	2335
 建设师	jian she shi	230
@@ -197473,6 +197780,7 @@ sort: by_weight
 见习爱神	jian xi ai shen	830
 见习版主	jian xi ban zhu	9185
 尖细的	jian xi de	1925
+见习基地	jian xi ji di	111
 建西街	jian xi jie	37
 间隙连接	jian xi lian jie	245
 间隙连接蛋白	jian xi lian jie dan bai	10
@@ -197945,6 +198253,7 @@ sort: by_weight
 尖凿	jian zao	90
 建造成	jian zao cheng	920
 建造出	jian zao chu	1760
+建造基地	jian zao ji di	111
 建造起来	jian zao qi lai	1090
 建造师	jian zao shi	48140
 建造师执业资格考试实施办法	jian zao shi zhi ye zi ge kao shi shi shi ban fa	238
@@ -199923,6 +200232,9 @@ sort: by_weight
 江夏公园	jiang xia gong yuan	1
 江夏郡	jiang xia jun	5
 降下来	jiang xia lai	16110
+降下来啊	jiang xia lai a	16110
+降下来了	jiang xia lai le	16110
+降下来了啊	jiang xia lai le a	16110
 江夏区	jiang xia qu	4365
 讲下去	jiang xia qu	2885
 降下去	jiang xia qu	755
@@ -201570,6 +201882,7 @@ sort: by_weight
 交流会暨	jiao liu hui ji	199
 交流会上	jiao liu hui shang	3850
 交流活动	jiao liu huo dong	29845
+交流基地	jiao liu ji di	111
 交流接触器	jiao liu jie chu qi	3095
 交流经验	jiao liu jing yan	17175
 交流了	jiao liu le	19950
@@ -201980,6 +202293,7 @@ sort: by_weight
 礁石嶙嶙	jiao shi lin lin	111
 矫时慢物	jiao shi man wu	1
 教师培训	jiao shi pei xun	31285
+教师培训基地	jiao shi pei xun ji di	111
 教师培养	jiao shi pei yang	5305
 教师评价	jiao shi ping jia	5910
 脚湿气	jiao shi qi	16
@@ -202508,6 +202822,7 @@ sort: by_weight
 教学环节	jiao xue huan jie	18285
 教学活动	jiao xue huo dong	51055
 教学机	jiao xue ji	390
+教学基地	jiao xue ji di	111
 教学计划	jiao xue ji hua	59050
 教学机器	jiao xue ji qi	230
 教学检查	jiao xue jian cha	5145
@@ -202517,6 +202832,7 @@ sort: by_weight
 教学课件	jiao xue ke jian	17505
 教学科目	jiao xue ke mu	825
 教学科研	jiao xue ke yan	33945
+教学科研基地	jiao xue ke yan ji di	111
 教学理念	jiao xue li nian	16715
 教学楼	jiao xue lou	59580
 教学论文	jiao xue lun wen	8240
@@ -202541,9 +202857,11 @@ sort: by_weight
 教学示范	jiao xue shi fan	1935
 教学实践	jiao xue shi jian	25695
 教学时间	jiao xue shi jian	8095
+教学实践基地	jiao xue shi jian ji di	111
 教学视频	jiao xue shi pin	3445
 教学时数	jiao xue shi shu	2655
 教学实习	jiao xue shi xi	6560
+教学实习基地	jiao xue shi xi ji di	111
 教学使用	jiao xue shi yong	2110
 教学手册	jiao xue shou ce	240
 教学手段	jiao xue shou duan	32605
@@ -202606,6 +202924,7 @@ sort: by_weight
 校验和	jiao yan he	6751
 椒盐花卷	jiao yan hua juan	15
 教研活动	jiao yan huo dong	23090
+教研基地	jiao yan ji di	111
 椒盐卷饼	jiao yan juan bing	3333
 校验码	jiao yan ma	10280
 椒盐麻饼	jiao yan ma bing	1
@@ -202887,6 +203206,7 @@ sort: by_weight
 教育目标	jiao yu mu biao	12780
 教育目的	jiao yu mu di	111
 教育培训	jiao yu pei xun	179495
+教育培训基地	jiao yu pei xun ji di	111
 教育培养	jiao yu pei yang	9080
 教育批评	jiao yu pi ping	195
 教育片	jiao yu pian	5790
@@ -202903,8 +203223,10 @@ sort: by_weight
 教育设施	jiao yu she shi	5795
 教育设施重大安全事故罪	jiao yu she shi zhong da an quan shi gu zui	97
 教育史	jiao yu shi	8050
+教育示范基地	jiao yu shi fan ji di	111
 教育世家	jiao yu shi jia	192
 教育时间	jiao yu shi jian	119
+教育实践基地	jiao yu shi jian ji di	111
 教育事务	jiao yu shi wu	455
 教育实习	jiao yu shi xi	3505
 教育实验	jiao yu shi yan	8275
@@ -203323,6 +203645,7 @@ sort: by_weight
 接不了	jie bu liao	675
 借不了	jie bu liao	80
 截不了	jie bu liao	25
+解不了封	jie bu liao feng	111
 接不起	jie bu qi	70
 结不起来	jie bu qi lai	135
 接不起来	jie bu qi lai	20
@@ -203626,6 +203949,7 @@ sort: by_weight
 借的款	jie de kuan	75
 接得起	jie de qi	90
 借的钱	jie de qian	1140
+借的书	jie de shu	111
 截的图	jie de tu	3665
 借的债	jie de zhai	130
 街灯	jie deng	9125
@@ -206834,6 +207158,7 @@ sort: by_weight
 进度缓慢	jin du huan man	1235
 进度会	jin du hui	215
 禁毒教育	jin du jiao yu	2465
+禁毒教育基地	jin du jiao yu ji di	111
 禁毒警察	jin du jing cha	192
 金都景苑	jin du jing yuan	2
 金都名苑	jin du ming yuan	5
@@ -207264,6 +207589,7 @@ sort: by_weight
 金果榄	jin guo lan	270
 巾帼奇才	jin guo qi cai	1
 金果实业	jin guo shi ye	12500
+巾帼脱贫示范基地	jin guo tuo pin shi fan ji di	111
 巾帼英豪	jin guo ying hao	16
 巾帼英雄	jin guo ying xiong	2805
 巾帼丈夫	jin guo zhang fu	111
@@ -207527,6 +207853,7 @@ sort: by_weight
 紧急的	jin ji de	300
 紧急地	jin ji de	37
 金基德	jin ji de	2
+进基地	jin ji di	100
 金鸡独立	jin ji du li	4492
 金基范	jin ji fan	20
 金鸡放赦	jin ji fang she	3
@@ -213248,6 +213575,7 @@ sort: by_weight
 # 井泉	jing quan	0
 经权达变	jing quan da bian	1
 经全国	jing quan guo	6560
+警犬基地	jing quan ji di	111
 精确	jing que	169920
 颈缺	jing que	90
 精确测量	jing que ce liang	3525
@@ -213601,6 +213929,7 @@ sort: by_weight
 敬事后食	jing shi hou shi	111
 经世济民	jing shi ji min	615
 警示教育	jing shi jiao yu	17065
+警示教育基地	jing shi jiao yu ji di	111
 靖世九柱	jing shi jiu zhu	170
 惊世绝俗	jing shi jue su	111
 警示录	jing shi lu	1265
@@ -217625,6 +217954,7 @@ sort: by_weight
 九寨沟	jiu zhai gou	79570
 九寨沟风景名胜区	jiu zhai gou feng jing ming sheng qu	41
 九寨沟县	jiu zhai gou xian	1615
+旧宅基地	jiu zhai ji di	111
 旧寨乡	jiu zhai xiang	113
 酒债寻常行处有	jiu zhai xun chang xing chu you	2
 就占	jiu zhan	20070
@@ -217786,6 +218116,7 @@ sort: by_weight
 救助船	jiu zhu chuan	430
 就注定	jiu zhu ding	14845
 救助过	jiu zhu guo	1180
+救助基地	jiu zhu ji di	111
 救助基金	jiu zhu ji jin	8775
 救助金	jiu zhu jin	5205
 救助款	jiu zhu kuan	1205
@@ -221480,6 +221811,7 @@ sort: by_weight
 军事学校	jun shi xue xiao	1255
 军事学院	jun shi xue yuan	5755
 军事训练	jun shi xun lian	18455
+军事训练基地	jun shi xun lian ji di	111
 军事演习	jun shi yan xi	11790
 军事医学	jun shi yi xue	5275
 均是由	jun shi you	62985
@@ -222724,6 +223056,7 @@ sort: by_weight
 开发环境搭建	kai fa huan jing da jian	2157
 开发环境配置	kai fa huan jing pei zhi	800
 开发基础	kai fa ji chu	635
+开发基地	kai fa ji di	111
 开发计划	kai fa ji hua	9000
 开发计划委员会	kai fa ji hua wei yuan hui	1
 开发技巧	kai fa ji qiao	784
@@ -224532,6 +224865,7 @@ sort: by_weight
 堪培拉	kan pei la	7855
 堪培拉的风	kan pei la de feng	1
 看片	kan pian	8675
+看片基地	kan pian ji di	111
 看拼音	kan pin yin	123
 看评分	kan ping fen	158
 看乒乓球	kan ping pang qiu	110
@@ -225282,6 +225616,7 @@ sort: by_weight
 康强逢吉	kang qiang feng ji	111
 康桥	kang qiao	1498
 康桥半岛	kang qiao ban dao	20
+康桥基地	kang qiao ji di	111
 康桥丽景	kang qiao li jing	2
 康桥圣菲	kang qiao sheng fei	16
 康桥镇政府	kang qiao zhen zheng fu	11
@@ -225461,6 +225796,7 @@ sort: by_weight
 抗氧化物	kang yang hua wu	3000
 抗氧化性	kang yang hua xing	2050
 抗氧剂	kang yang ji	4785
+康养基地	kang yang ji di	111
 炕洋芋	kang yang yu	18
 康扬镇	kang yang zhen	2
 抗药	kang yao	3215
@@ -226000,6 +226336,7 @@ sort: by_weight
 考试分数	kao shi fen shu	6000
 考试辅导	kao shi fu dao	18860
 考试合格	kao shi he ge	40980
+考试基地	kao shi ji di	111
 考试及格	kao shi ji ge	1470
 考试焦虑	kao shi jiao lv	3760
 考试结果	kao shi jie guo	7195
@@ -226417,6 +226754,7 @@ sort: by_weight
 课程改革	ke cheng gai ge	86975
 课程纲要	ke cheng gang yao	1355
 刻成光盘	ke cheng guang pan	106
+课程基地	ke cheng ji di	111
 课程计划	ke cheng ji hua	9215
 课程教材	ke cheng jiao cai	11745
 课程教学	ke cheng jiao xue	27805
@@ -226507,6 +226845,7 @@ sort: by_weight
 客串演出	ke chuan yan chu	1245
 科创	ke chuang	1111
 科创二街	ke chuang er jie	2
+科创基地	ke chuang ji di	111
 科春社区	ke chun she qu	2
 柯赐海	ke ci hai	24
 科茨海鲶	ke ci hai nian	1
@@ -227076,8 +227415,10 @@ sort: by_weight
 可继承	ke ji cheng	1355
 科技成果	ke ji cheng guo	165455
 科技成果转化法	ke ji cheng guo zhuan hua fa	141
+科技成果转化基地	ke ji cheng guo zhuan hua ji di	111
 科技处	ke ji chu	15945
 科技创新	ke ji chuang xin	159435
+科技创新基地	ke ji chuang xin ji di	111
 科技大楼	ke ji da lou	3775
 科技大厦	ke ji da sha	22350
 科技大学	ke ji da xue	20395
@@ -227178,6 +227519,7 @@ sort: by_weight
 科技市场	ke ji shi chang	6740
 科技时代	ke ji shi dai	4165
 科技是第一生产力	ke ji shi di yi sheng chan li	3200
+科技示范基地	ke ji shi fan ji di	111
 科技实力	ke ji shi li	148
 科技事业	ke ji shi ye	13215
 科技实业有限公司	ke ji shi ye you xian gong si	7665
@@ -227316,6 +227658,7 @@ sort: by_weight
 科教处	ke jiao chu	3090
 可教的	ke jiao de	200
 可交换	ke jiao huan	1855
+科教基地	ke jiao ji di	111
 科教经典剧场	ke jiao jing dian ju chang	3
 科教片	ke jiao pian	3195
 科教片儿	ke jiao pian er	9999
@@ -228109,9 +228452,12 @@ sort: by_weight
 科普队	ke pu dui	85
 科普工作	ke pu gong zuo	26730
 科普活动	ke pu huo dong	16025
+科普基地	ke pu ji di	111
 科普教育	ke pu jiao yu	14630
+科普教育基地	ke pu jiao yu ji di	111
 科普科幻	ke pu ke huan	111
 科普库	ke pu ku	87
+科普示范基地	ke pu shi fan ji di	111
 科普下	ke pu xia	65
 科普一下	ke pu yi xia	96
 科普知识	ke pu zhi shi	12310
@@ -228931,6 +229277,7 @@ sort: by_weight
 科学学院	ke xue xue yuan	12160
 科学训练	ke xue xun lian	188
 科学研究	ke xue yan jiu	168335
+科学研究基地	ke xue yan jiu ji di	111
 科学研究人员	ke xue yan jiu ren yuan	830
 科学研究所	ke xue yan jiu suo	18615
 科学研究院	ke xue yan jiu yuan	37525
@@ -228999,6 +229346,7 @@ sort: by_weight
 科研工作	ke yan gong zuo	44230
 可延缓	ke yan huan	1940
 科研活动	ke yan huo dong	7560
+科研基地	ke yan ji di	111
 科研机构	ke yan ji gou	92800
 科研教学	ke yan jiao xue	3815
 科研界	ke yan jie	340
@@ -230791,6 +231139,7 @@ sort: by_weight
 空头	kong tou	336
 空投补给	kong tou bu ji	100
 空头换手	kong tou huan shou	1
+空投基地	kong tou ji di	111
 空头交易	kong tou jiao yi	230
 空投节	kong tou jie	151
 空投枪	kong tou qiang	187
@@ -235342,6 +235691,7 @@ sort: by_weight
 辣椒骨	la jiao gu	116
 辣椒很辣	la jiao hen la	111
 辣椒红	la jiao hong	2944
+辣椒基地	la jiao ji di	111
 辣椒酱	la jiao jiang	14882
 拉交情	la jiao qing	60
 辣椒素	la jiao su	2345
@@ -235352,6 +235702,7 @@ sort: by_weight
 辣椒油树脂	la jiao you shu zhi	38
 辣椒鱼	la jiao yu	87
 辣椒仔	la jiao zai	273
+辣椒种植基地	la jiao zhong zhi ji di	111
 辣椒种子	la jiao zhong zi	127
 蜡蚧扁角长尾跳小蜂	la jie bian jiao chang wei tiao xiao feng	1
 蜡蚧扁角短尾跳小蜂	la jie bian jiao duan wei tiao xiao feng	1
@@ -236714,8 +237065,8 @@ sort: by_weight
 蓝靛颏儿	lan dian ke er	9999
 烂电脑	lan dian nao	1
 蓝点拟门齿雀鲷	lan dian ni men chi que diao	1
-蓝调	lan diao	20775
 烂掉	lan diao	5545
+蓝调	lan diao	2077
 滥调	lan diao	680
 蓝调倾城	lan diao qing cheng	2
 蓝调沙龙	lan diao sha long	21
@@ -236996,6 +237347,7 @@ sort: by_weight
 蓝莓罐头	lan mei guan tou	7
 蓝玫瑰	lan mei gui	2350
 蓝莓果泥	lan mei guo ni	7
+蓝莓基地	lan mei ji di	111
 蓝妹妹	lan mei mei	1305
 蓝莓慕斯	lan mei mu si	9
 蓝莓奶酪	lan mei nai lao	22
@@ -237974,6 +238326,7 @@ sort: by_weight
 稂莠	lang you	65
 浪游薄宦	lang you bo huan	111
 稂莠不齐	lang you bu qi	1
+狼友基地	lang you ji di	111
 榔榆	lang yu	500
 阆苑	lang yuan	2405
 阆苑琼楼	lang yuan qiong lou	1
@@ -238390,6 +238743,7 @@ sort: by_weight
 劳动市场	lao dong shi chang	2525
 劳动事故伤残鉴定与赔偿	lao dong shi gu shang can jian ding yu pei chang	4
 劳动时间	lao dong shi jian	8525
+劳动实践基地	lao dong shi jian ji di	111
 劳动适龄人口	lao dong shi ling ren kou	385
 劳动手册	lao dong shou ce	2695
 劳动手段	lao dong shou duan	470
@@ -238561,6 +238915,7 @@ sort: by_weight
 劳宫穴	lao gong xue	84
 老工业	lao gong ye	37225
 老工业基地	lao gong ye ji di	123
+老工业基地振兴	lao gong ye ji di zhen xing	111
 劳工证	lao gong zheng	1310
 劳工组织	lao gong zu zhi	1785
 老狗	lao gou	5590
@@ -238699,6 +239054,7 @@ sort: by_weight
 老基层	lao ji ceng	65
 牢记初心	lao ji chu xin	159
 牢记初心使命	lao ji chu xin shi ming	170
+老基地	lao ji di	111
 劳基法	lao ji fa	450
 老骥伏枥	lao ji fu li	2360
 老骥伏枥志在千里	lao ji fu li zhi zai qian li	19
@@ -241098,6 +241454,7 @@ sort: by_weight
 冷链	leng lian	6605
 冷脸	leng lian	1725
 冷链食品	leng lian shi pin	116
+冷链物流基地	leng lian wu liu ji di	111
 冷链系统	leng lian xi tong	235
 冷脸子	leng lian zi	9999
 冷疗法	leng liao fa	2
@@ -242948,6 +243305,7 @@ sort: by_weight
 离开父母	li kai fu mu	3360
 离开公司	li kai gong si	9120
 离开工作	li kai gong zuo	3170
+离开基地	li kai ji di	111
 离开家	li kai jia	10265
 离开家里	li kai jia li	470
 离开家乡	li kai jia xiang	5000
@@ -246100,6 +246458,7 @@ sort: by_weight
 联合会杯	lian he hui bei	2010
 联合会员	lian he hui yuan	112
 联合会员资格或非正式会员资格	lian he hui yuan zi ge huo fei zheng shi hui yuan zi ge	5
+联合基地	lian he ji di	111
 联合兼并	lian he jian bing	867
 联合检测	lian he jian ce	162
 联合舰队	lian he jian dui	5890
@@ -247625,8 +247984,10 @@ sort: by_weight
 廉正	lian zheng	2770
 廉政公署	lian zheng gong shu	3760
 廉政建设	lian zheng jian she	35425
+廉政教育基地	lian zheng jiao yu ji di	111
 廉政篇	lian zheng pian	20
 廉政文化	lian zheng wen hua	36670
+廉政文化教育基地	lian zheng wen hua jiao yu ji di	111
 廉政意见	lian zheng yi jian	341
 炼制	lian zhi	19135
 廉直	lian zhi	1111
@@ -247985,10 +248346,12 @@ sort: by_weight
 两大部分	liang da bu fen	73
 量大的	liang da de	6430
 两大集	liang da ji	60
+两大基地	liang da ji di	111
 两大块	liang da kuai	3780
 两大类	liang da lei	44000
 两大片	liang da pian	545
 两大奇迹	liang da qi ji	111
+两大生产基地	liang da sheng chan ji di	111
 两大王牌	liang da wang pai	111
 两大系	liang da xi	360
 量大小	liang da xiao	1750
@@ -248201,6 +248564,7 @@ sort: by_weight
 两个孩子	liang ge hai zi	33460
 两个黄鹂鸣翠柳	liang ge huang li ming cui liu	1180
 两个基本点	liang ge ji ben dian	5590
+两个基地	liang ge ji di	111
 两个键	liang ge jian	1555
 两个件	liang ge jian	319
 两个角度	liang ge jiao du	4215
@@ -248394,6 +248758,7 @@ sort: by_weight
 两记	liang ji	3355
 良吉	liang ji	1
 粮机厂	liang ji chang	10
+两基地	liang ji di	111
 两极分化	liang ji fen hua	19705
 两极化	liang ji hua	2890
 凉鸡米线	liang ji mi xian	95
@@ -248964,6 +249329,7 @@ sort: by_weight
 粮食风险基金	liang shi feng xian ji jin	3690
 粮食供求	liang shi gong qiu	4190
 粮食供应	liang shi gong ying	4370
+粮食基地	liang shi ji di	111
 良时吉日	liang shi ji ri	111
 粮食价格	liang shi jia ge	12825
 粮食加工	liang shi jia gong	9975
@@ -248980,6 +249346,7 @@ sort: by_weight
 梁实秋	liang shi qiu	5699
 粮食日	liang shi ri	835
 粮食生产	liang shi sheng chan	45160
+粮食生产基地	liang shi sheng chan ji di	111
 粮食市场	liang shi shi chang	15475
 粮食收购	liang shi shou gou	17975
 粮食收购保护价	liang shi shou gou bao hu jia	156
@@ -249489,7 +249856,9 @@ sort: by_weight
 良种厂	liang zhong chang	10
 良种畜	liang zhong chu	105
 良种繁育场	liang zhong fan yu chang	59
+良种繁育基地	liang zhong fan yu ji di	111
 良种化	liang zhong hua	1805
+良种基地	liang zhong ji di	111
 两种类型	liang zhong lei xing	19400
 两种人	liang zhong ren	5825
 两重心字罗衣	liang zhong xin zi luo yi	1
@@ -250030,6 +250399,7 @@ sort: by_weight
 聊性	liao xing	360
 廖姓	liao xing	325
 辽兴宗	liao xing zong	3
+疗休养基地	liao xiu yang ji di	111
 聊叙	liao xu	55
 疗癣卡西甫散	liao xuan ka xi fu san	10
 獠牙	liao ya	8695
@@ -250731,10 +251101,12 @@ sort: by_weight
 临床法医学	lin chuang fa yi xue	5
 临床工作	lin chuang gong zuo	15170
 临床护理	lin chuang hu li	4120
+临床基地	lin chuang ji di	111
 临床检查	lin chuang jian cha	2370
 临床检验	lin chuang jian yan	9285
 临床检验基础	lin chuang jian yan ji chu	2
 临床教学	lin chuang jiao xue	5290
+临床教学基地	lin chuang jiao xue ji di	111
 临床经验	lin chuang jing yan	27000
 临床疗效	lin chuang liao xiao	9065
 临床流行病学	lin chuang liu xing bing xue	57
@@ -251418,6 +251790,7 @@ sort: by_weight
 临食废箸	lin shi fei zhu	111
 临时工	lin shi gong	25870
 临时会话	lin shi hui hua	149
+临时基地	lin shi ji di	111
 临时价格干预	lin shi jia ge gan yu	11875
 临时救济	lin shi jiu ji	845
 临时决定	lin shi jue ding	4705
@@ -252273,6 +252646,7 @@ sort: by_weight
 领航者	ling hang zhe	8850
 零号	ling hao	2325
 领好	ling hao	550
+零号基地	ling hao ji di	111
 零和	ling he	9999
 凌河	ling he	1
 零河	ling he	1
@@ -257573,6 +257947,7 @@ sort: by_weight
 龙虾汤	long xia tang	308
 龙虾调料	long xia tiao liao	1
 龙下乡	long xia xiang	2
+龙虾养殖基地	long xia yang zhi ji di	111
 陇县	long xian	2680
 龙涎	long xian	1530
 隆线背鳞虫	long xian bei lin chong	1
@@ -258983,6 +259358,7 @@ sort: by_weight
 鲁郡	lu jun	2
 陆军部	lu jun bu	2015
 卢俊峰	lu jun feng	139
+陆军基地	lu jun ji di	111
 陆军军官	lu jun jun guan	695
 陆军军官学校	lu jun jun guan xue xiao	1110
 陆军上校	lu jun shang xiao	810
@@ -259976,6 +260352,7 @@ sort: by_weight
 录影带	lu ying dai	13195
 露营地	lu ying di	1640
 录影机	lu ying ji	1525
+露营基地	lu ying ji di	111
 露营用品	lu ying yong pin	440
 露营者	lu ying zhe	575
 录用	lu yong	211385
@@ -261739,6 +262116,7 @@ sort: by_weight
 荦荦大者	luo luo da zhe	40
 落落寡合	luo luo gua he	365
 落落寡欢	luo luo gua huan	875
+落落落落	luo luo luo luo	100
 落落莓	luo luo mei	183
 落落穆穆	luo luo mu mu	1
 罗罗诺亚·索隆	luo luo nuo ya suo long	111
@@ -263014,6 +263392,7 @@ sort: by_weight
 氯化锰	lv hua meng	171
 绿化面积	lv hua mian ji	11915
 绿化苗木	lv hua miao mu	10840
+绿化苗木基地	lv hua miao mu ji di	111
 氯化钠	lv hua na	15860
 氯化钠滴眼液	lv hua na di yan ye	2
 氯化钠溶液	lv hua na rong ye	17
@@ -263318,6 +263697,7 @@ sort: by_weight
 绿色轰炸机	lv se hong zha ji	3
 绿色轰炸机蠕虫	lv se hong zha ji ru chong	1
 绿色环保	lv se huan bao	47470
+绿色基地	lv se ji di	111
 绿色家园	lv se jia yuan	8965
 绿色建材	lv se jian cai	8575
 滤色镜	lv se jing	2670
@@ -263771,6 +264151,7 @@ sort: by_weight
 旅游合同	lv you he tong	14704
 旅游活动	lv you huo dong	21695
 滤油机	lv you ji	3910
+旅游基地	lv you ji di	111
 旅游纪念品	lv you ji nian pin	14460
 旅游集散中心	lv you ji san zhong xin	2756
 旅游节	lv you jie	24395
@@ -264922,6 +265303,7 @@ sort: by_weight
 麻蓝岛	ma lan dao	1
 马栏广场	ma lan guang chang	21
 马兰花	ma lan hua	1520
+马兰基地	ma lan ji di	111
 马兰开花	ma lan kai hua	102
 马兰拉面	ma lan la mian	46
 马栏山	ma lan shan	157
@@ -268856,6 +269238,7 @@ sort: by_weight
 冒皮皮	mao pi pi	14
 毛皮围脖	mao pi wei bo	25
 毛片	mao pian	19765
+毛片基地	mao pian ji di	111
 毛片下载	mao pian xia zai	965
 毛票	mao piao	760
 毛瓢虫	mao piao chong	1
@@ -269819,6 +270202,7 @@ sort: by_weight
 没电	mei dian	8505
 没点	mei dian	5480
 煤店	mei dian	285
+煤电基地	mei dian ji di	111
 没电了	mei dian le	7155
 没颠没倒	mei dian mei dao	1
 没点着	mei dian zhao	120
@@ -270391,6 +270775,7 @@ sort: by_weight
 美国国务院	mei guo guo wu yuan	7685
 美国海关	mei guo hai guan	3380
 美国海军	mei guo hai jun	23835
+美国海军基地	mei guo hai jun ji di	111
 美国航空	mei guo hang kong	4400
 美国航空公司	mei guo hang kong gong si	2310
 美国合众银行	mei guo he zhong yin hang	111
@@ -270399,6 +270784,7 @@ sort: by_weight
 美国化	mei guo hua	2725
 美国𫚔	mei guo hui	19
 美国籍	mei guo ji	1470
+美国基地	mei guo ji di	111
 没过几天	mei guo ji tian	5800
 每过几天	mei guo ji tian	1180
 美国加息	mei guo jia xi	186
@@ -270415,8 +270801,10 @@ sort: by_weight
 美国卷毛猫	mei guo juan mao mao	4
 美国军队	mei guo jun dui	5450
 美国军事	mei guo jun shi	3260
+美国军事基地	mei guo jun shi ji di	111
 美国军用鸽	mei guo jun yong ge	3
 美国空军	mei guo kong jun	13460
+美国空军基地	mei guo kong jun ji di	111
 美国会计师	mei guo kuai ji shi	1
 美国会计协会	mei guo kuai ji xie hui	1
 美国会计准则	mei guo kuai ji zhun ze	111
@@ -270607,6 +270995,7 @@ sort: by_weight
 梅花蛋糕	mei hua dan gao	15
 梅花糕	mei hua gao	2315
 煤化工	mei hua gong	18655
+煤化工基地	mei hua gong ji di	111
 梅花谷	mei hua gu	122
 美化环境	mei hua huan jing	8425
 梅花欢喜漫天雪	mei hua huan xi man tian xue	15
@@ -270687,6 +271076,7 @@ sort: by_weight
 美稷	mei ji	2
 没几次	mei ji ci	63
 没记得	mei ji de	3333
+美基地	mei ji di	111
 每季度	mei ji du	31165
 没几个	mei ji ge	10570
 没几个人	mei ji ge ren	4475
@@ -270887,6 +271277,7 @@ sort: by_weight
 霉菌性肺炎	mei jun xing fei yan	6
 霉菌性角膜炎	mei jun xing jiao mo yan	2
 霉菌性外耳道炎	mei jun xing wai er dao yan	14
+美军驻伊拉克基地	mei jun zhu yi la ke ji di	111
 梅卡德尔	mei ka de er	161
 美卡音像	mei ka yin xiang	775
 没开	mei kai	10555
@@ -272295,6 +272686,7 @@ sort: by_weight
 煤炭工业局	mei tan gong ye ju	5024
 煤炭股	mei tan gu	160
 煤炭行业	mei tan hang ye	17435
+煤炭基地	mei tan ji di	111
 煤炭价格	mei tan jia ge	12095
 煤炭交易所	mei tan jiao yi suo	5
 煤炭经营监管办法	mei tan jing ying jian guan ban fa	79
@@ -272494,6 +272886,7 @@ sort: by_weight
 梅湾街道	mei wan jie dao	20
 没完了是吧	mei wan le shi ba	111
 没完没了	mei wan mei liao	28235
+没完没了啊	mei wan mei liao a	28235
 没完没了了	mei wan mei liao le	28235
 没完没了了吧	mei wan mei liao le ba	28235
 没完没了了是吧	mei wan mei liao le shi ba	111
@@ -273368,7 +273761,8 @@ sort: by_weight
 # 梅汁	mei zhi	0
 没指标	mei zhi biao	101
 美芝股份	mei zhi gu fen	200
-酶制剂	mei zhi ji	7405
+没知己	mei zhi ji	1111
+酶制剂	mei zhi ji	74
 没知觉	mei zhi jue	101
 没治了	mei zhi le	885
 梅汁排骨	mei zhi pai gu	4
@@ -275033,7 +275427,9 @@ sort: by_weight
 猕猴骑土牛	mi hou qi tu niu	3
 猕猴桃	mi hou tao	40357
 猕猴桃猴	mi hou tao hou	1
+猕猴桃基地	mi hou tao ji di	111
 猕猴桃牛奶汁	mi hou tao niu nai zhi	1
+猕猴桃种植基地	mi hou tao zhong zhi ji di	111
 迷糊	mi hu	32815
 迷糊虫	mi hu chong	64
 迷糊的	mi hu de	4040
@@ -275374,6 +275770,7 @@ sort: by_weight
 秘密会议	mi mi hui yi	1625
 秘密活动	mi mi huo dong	1110
 迷迷惑惑	mi mi huo huo	7
+秘密基地	mi mi ji di	111
 咪咪叫	mi mi jiao	60
 秘密结社	mi mi jie she	655
 秘密警察	mi mi jing cha	3950
@@ -277088,6 +277485,7 @@ sort: by_weight
 描绘着	miao hui zhe	3180
 妙计	miao ji	10745
 妙极	miao ji	4750
+苗基地	miao ji di	111
 妙极了	miao ji le	1670
 苗家	miao jia	10365
 苗家堡	miao jia bu	1
@@ -277169,6 +277567,8 @@ sort: by_weight
 苗木	miao mu	86120
 苗木诚	miao mu cheng	144
 苗木花卉	miao mu hua hui	4155
+苗木基地	miao mu ji di	111
+苗木种植基地	miao mu zhong zhi ji di	111
 庙南	miao nan	10
 淼南渡之焉如	miao nan du zhi yan ru	1
 秒内	miao nei	27625
@@ -277182,6 +277582,7 @@ sort: by_weight
 庙坡头村	miao po tou cun	9
 苗圃	miao pu	35405
 庙铺	miao pu	3
+苗圃基地	miao pu ji di	111
 苗圃路	miao pu lu	64
 苗圃农场	miao pu nong chang	2
 苗期	miao qi	12195
@@ -277526,6 +277927,7 @@ sort: by_weight
 民兵	min bing	58435
 民兵队	min bing dui	155
 民兵号	min bing hao	15
+民兵训练基地	min bing xun lian ji di	111
 民兵组织	min bing zu zhi	2980
 民不安枕	min bu an zhen	1
 民不堪命	min bu kan ming	345
@@ -285665,6 +286067,7 @@ sort: by_weight
 奶油汁炸鱼	nai you zhi zha yu	1
 乃玉乃金	nai yu nai jin	1
 奶源	nai yuan	7955
+奶源基地	nai yuan ji di	111
 乃曰	nai yue	2960
 乃在大海南	nai zai da hai nan	3
 乃在大诲隅	nai zai da hui yu	1
@@ -286139,6 +286542,7 @@ sort: by_weight
 男法师	nan fa shi	3333
 南法信	nan fa xin	140
 难返	nan fan	885
+南繁基地	nan fan ji di	111
 男反派	nan fan pai	3333
 南凡镇	nan fan zhen	2
 南方	nan fang	344505
@@ -286169,6 +286573,7 @@ sort: by_weight
 南方花园	nan fang hua yuan	187
 南方灰伯劳	nan fang hui bo lao	1
 南方汇通股份有限公司	nan fang hui tong gu fen you xian gong si	2
+南方基地	nan fang ji di	111
 南方基金	nan fang ji jin	2760
 南方建材股份有限公司	nan fang jian cai gu fen you xian gong si	10
 南方局	nan fang ju	1335
@@ -286572,6 +286977,7 @@ sort: by_weight
 男技工	nan ji gong	3333
 南极光	nan ji guang	370
 南极光眼虫	nan ji guang yan chong	1
+南极基地	nan ji ji di	111
 南极考察	nan ji kao cha	1460
 南极老人	nan ji lao ren	111
 南极老人星	nan ji lao ren xing	2
@@ -290055,6 +290461,8 @@ sort: by_weight
 能源管理	neng yuan guan li	7210
 能源管理法	neng yuan guan li fa	19
 能源行业	neng yuan hang ye	3300
+能源化工基地	neng yuan hua gong ji di	111
+能源基地	neng yuan ji di	111
 能源技术	neng yuan ji shu	6965
 能源集团	neng yuan ji tuan	190
 能源价格	neng yuan jia ge	11070
@@ -290393,6 +290801,7 @@ sort: by_weight
 你的看法	ni de kan fa	10520
 尼德兰	ni de lan	3333
 尼德兰革命	ni de lan ge ming	150
+你得了吧	ni de le ba	4035
 你的泪	ni de lei	4750
 你的理由	ni de li you	5710
 你的脸	ni de lian	21620
@@ -291618,6 +292027,8 @@ sort: by_weight
 你所有	ni suo you	64
 你所有的一切	ni suo you de yi qie	100
 你所做的一切	ni suo zuo de yi qie	100
+你他	ni ta	222
+你她	ni ta	111
 泥他沽酒拔金钗	ni ta gu jiu ba jin chai	1
 你他妈的	ni ta ma de	9310
 你太	ni tai	9999
@@ -293041,6 +293452,7 @@ sort: by_weight
 酿酒	niang jiu	56065
 娘舅	niang jiu	2545
 酿酒厂	niang jiu chang	3940
+酿酒基地	niang jiu ji di	111
 酿酒师	niang jiu shi	3135
 酿酒原料	niang jiu yuan liao	1460
 娘拉乡	niang la xiang	4
@@ -293699,6 +294111,8 @@ sort: by_weight
 凝定	ning ding	1075
 拧动	ning dong	1375
 凝冻	ning dong	1310
+宁东基地	ning dong ji di	111
+宁东能源化工基地	ning dong neng yuan hua gong ji di	111
 宁都	ning du	493
 宁都县	ning du xian	2485
 拧断	ning duan	1255
@@ -294810,6 +295224,7 @@ sort: by_weight
 农产品产地安全管理办法	nong chan pin chan di an quan guan li ban fa	53
 农产品出口	nong chan pin chu kou	15510
 农产品地理标志管理办法	nong chan pin di li biao zhi guan li ban fa	28
+农产品基地	nong chan pin ji di	111
 农产品加工	nong chan pin jia gong	27700
 农产品加工业	nong chan pin jia gong ye	16370
 农产品经纪人	nong chan pin jing ji ren	1350
@@ -294817,6 +295232,7 @@ sort: by_weight
 农产品批发	nong chan pin pi fa	1705
 农产品批发市场	nong chan pin pi fa shi chang	13140
 农产品生产	nong chan pin sheng chan	14850
+农产品生产基地	nong chan pin sheng chan ji di	111
 农产品市场	nong chan pin shi chang	15890
 农产品收购价格	nong chan pin shou gou jia ge	500
 农产品质量安全法	nong chan pin zhi liang an quan fa	7780
@@ -294861,6 +295277,7 @@ sort: by_weight
 农村承包经营户	nong cun cheng bao jing ying hu	1175
 农村村民委员会	nong cun cun min wei yuan hui	1855
 农村党员	nong cun dang yuan	35965
+农村的宅基地	nong cun de zhai ji di	111
 农村地区	nong cun di qu	37295
 农村电网	nong cun dian wang	7035
 农村调查	nong cun diao cha	1750
@@ -294940,6 +295357,10 @@ sort: by_weight
 农村用地	nong cun yong di	288
 农村用电	nong cun yong dian	1630
 农村宅基地	nong cun zhai ji di	4731
+农村宅基地改革	nong cun zhai ji di gai ge	111
+农村宅基地管理	nong cun zhai ji di guan li	111
+农村宅基地确权	nong cun zhai ji di que quan	111
+农村宅基地审批	nong cun zhai ji di shen pi	111
 农村宅基地使用权	nong cun zhai ji di shi yong quan	320
 农村政策	nong cun zheng ce	5790
 农村征地拆迁纠纷处理实务	nong cun zheng di chai qian jiu fen chu li shi wu	5
@@ -295268,6 +295689,7 @@ sort: by_weight
 农民运动	nong min yun dong	7865
 农民运动会	nong min yun dong hui	1115
 农民增收	nong min zeng shou	80385
+农民宅基地	nong min zhai ji di	111
 农民战争	nong min zhan zheng	3345
 农民专业合作社法	nong min zhuan ye he zuo she fa	3387
 弄明白	nong ming bai	23260
@@ -295502,6 +295924,7 @@ sort: by_weight
 农业户口	nong ye hu kou	6345
 农业化	nong ye hua	1120
 农业化学	nong ye hua xue	1325
+农业基地	nong ye ji di	111
 农业技术	nong ye ji shu	69940
 农业技术人员	nong ye ji shu ren yuan	5205
 农业技术体系	nong ye ji shu ti xi	155
@@ -295542,8 +295965,10 @@ sort: by_weight
 农业社会	nong ye she hui	4145
 农业生产	nong ye sheng chan	134490
 农业生产合作社	nong ye sheng chan he zuo she	2680
+农业生产基地	nong ye sheng chan ji di	111
 农业生产者	nong ye sheng chan zhe	2515
 农业生产资料	nong ye sheng chan zi liao	18760
+农业示范基地	nong ye shi fan ji di	111
 农业示范区	nong ye shi fan qu	3032
 农业示范园区	nong ye shi fan yuan qu	1090
 农业试验站	nong ye shi yan zhan	21
@@ -296080,6 +296505,7 @@ sort: by_weight
 诺福克	nuo fu ke	1615
 诺福克岛	nuo fu ke dao	405
 诺福克岛布布克鹰鸮	nuo fu ke dao bu bu ke ying xiao	1
+诺福克海军基地	nuo fu ke hai jun ji di	111
 诺福克鹃鵙	nuo fu ke juan ju	1
 诺幅克啄羊鹦鹉	nuo fu ke zhuo yang ying wu	1
 诺弗勒恶龙	nuo fu lei e long	10
@@ -298426,6 +298852,7 @@ sort: by_weight
 拍摄分辨率	pai she fen bian lv	1045
 拍摄过程	pai she guo cheng	3435
 拍摄花絮	pai she hua xu	3450
+拍摄基地	pai she ji di	111
 拍摄角度	pai she jiao du	3240
 拍摄模式	pai she mo shi	22645
 拍摄内容	pai she nei rong	965
@@ -300824,6 +301251,7 @@ sort: by_weight
 培育法	pei yu fa	215
 沛雨甘霖	pei yu gan lin	1
 培育胡同	pei yu hu tong	6
+培育基地	pei yu ji di	111
 佩玉鸣銮	pei yu ming luan	1
 佩玉鸣鸾罢歌舞	pei yu ming luan ba ge wu	1
 培育者	pei yu zhe	860
@@ -301126,26 +301554,25 @@ sort: by_weight
 喷嘴儿	pen zui er	5
 喷嘴式	pen zui shi	85
 硼吖嗪	peng a qin	1
-蓬安	peng an	2155
-彭安	peng an	5
-蓬安县	peng an xian	1035
+蓬安	peng an	2
+彭安	peng an	1
+蓬安县	peng an xian	10
 烹坝	peng ba	5
 棚扒吊拷	peng ba diao kao	1
 烹坝乡	peng ba xiang	4
 烹白肉	peng bai rou	47
 碰杯	peng bei	4750
 捧杯	peng bei	2415
-朋辈	peng bei	1305
+朋辈	peng bei	13
 碰壁	peng bi	14785
-蓬荜	peng bi	250
+蓬筚	peng bi	250
+# 蓬荜	peng bi	0
 彭壁生	peng bi sheng	1
-蓬荜生光	peng bi sheng guang	1111
 蓬筚生光	peng bi sheng guang	3
-蓬荜生辉	peng bi sheng hui	80
 蓬筚生辉	peng bi sheng hui	53
 朋比为奸	peng bi wei jian	999
-蓬荜有辉	peng bi you hui	1
-蓬荜增辉	peng bi zeng hui	1111
+蓬筚有辉	peng bi you hui	1
+蓬筚增辉	peng bi zeng hui	1111
 蓬勃	peng bo	45255
 彭伯	peng bo	13
 蓬勃暗沙	peng bo an sha	560
@@ -301872,6 +302299,7 @@ sort: by_weight
 被发拊膺	pi fa fu ying	111
 批发公司	pi fa gong si	3220
 批发行	pi fa hang	153
+批发基地	pi fa ji di	111
 批发价	pi fa jia	205235
 批发价格	pi fa jia ge	25140
 批发零售	pi fa ling shou	28935
@@ -303886,6 +304314,7 @@ sort: by_weight
 贫瘠	pin ji	9865
 牝鸡晨鸣	pin ji chen ming	111
 贫瘠的	pin ji de	7910
+拼基地	pin ji di	111
 贫肌纽鳃樽	pin ji niu sai zun	1
 牝鸡司晨	pin ji si chen	999
 牝鸡司旦	pin ji si dan	111
@@ -304745,6 +305174,7 @@ sort: by_weight
 苹果官方文档	ping guo guan fang wen dang	1299
 苹果花	ping guo hua	605
 苹果机	ping guo ji	13495
+苹果基地	ping guo ji di	111
 苹果酱	ping guo jiang	690
 苹果酒	ping guo jiu	1165
 苹果卷	ping guo juan	132
@@ -306832,6 +307262,7 @@ sort: by_weight
 普光禅寺	pu guang chan si	645
 铺轨	pu gui	3620
 铺轨机	pu gui ji	125
+铺轨基地	pu gui ji di	111
 扑过来	pu guo lai	8440
 朴海日	pu hai ri	7
 铺好	pu hao	9035
@@ -307291,6 +307722,7 @@ sort: by_weight
 葡萄核	pu tao he	195
 葡萄花	pu tao hua	9
 葡萄灰	pu tao hui	999
+葡萄基地	pu tao ji di	111
 葡萄架	pu tao jia	2540
 葡萄架下	pu tao jia xia	1305
 葡萄酒	pu tao jiu	298849
@@ -307369,6 +307801,7 @@ sort: by_weight
 葡萄栽培	pu tao zai pei	1770
 葡萄汁	pu tao zhi	8909
 葡萄种植	pu tao zhong zhi	5025
+葡萄种植基地	pu tao zhong zhi ji di	111
 葡萄状肉瘤	pu tao zhuang rou liu	2
 葡萄籽	pu tao zi	10790
 葡萄子	pu tao zi	131
@@ -307395,6 +307828,7 @@ sort: by_weight
 埔田	pu tian	28
 普天堡战斗	pu tian bao zhan dou	20
 铺天盖地	pu tian gai di	38065
+普天间基地	pu tian jian ji di	111
 铺田绿茸茸	pu tian lv rong rong	2
 莆田人	pu tian ren	2115
 普天三洋	pu tian san yang	4
@@ -308033,6 +308467,7 @@ sort: by_weight
 汽车产品外部标志管理办法	qi che chan pin wai bu biao zhi guan li ban fa	227
 汽车产业	qi che chan ye	26865
 汽车产业发展	qi che chan ye fa zhan	1800
+汽车产业基地	qi che chan ye ji di	111
 汽车产业开发区	qi che chan ye kai fa qu	70
 汽车产业研究	qi che chan ye yan jiu	336
 汽车厂	qi che chang	11395
@@ -308094,6 +308529,7 @@ sort: by_weight
 汽车衡	qi che heng	1335
 汽车化工用品	qi che hua gong yong pin	48
 汽车货运站	qi che huo yun zhan	11
+汽车基地	qi che ji di	111
 汽车机电技术	qi che ji dian ji shu	4
 汽车技术服务与营销	qi che ji shu fu wu yu ying xiao	551
 汽车集团	qi che ji tuan	19475
@@ -308167,6 +308603,7 @@ sort: by_weight
 汽车商	qi che shang	1550
 汽车商店	qi che shang dian	10
 汽车设计	qi che she ji	7340
+汽车生产基地	qi che sheng chan ji di	111
 汽车生产企业	qi che sheng chan qi ye	8935
 汽车市场	qi che shi chang	39545
 汽车事故	qi che shi gu	480
@@ -310903,6 +311340,7 @@ sort: by_weight
 其他国家	qi ta guo jia	92515
 其他含义	qi ta han yi	1300
 其他行业	qi ta hang ye	37625
+其他基地	qi ta ji di	111
 其他机关	qi ta ji guan	4825
 其他机器	qi ta ji qi	2295
 其他家	qi ta jia	623
@@ -311908,6 +312346,7 @@ sort: by_weight
 企业资源	qi ye zi yuan	20365
 企业资源规划	qi ye zi yuan gui hua	148
 企业自主权	qi ye zi zhu quan	1025
+企业总部基地	qi ye zong bu ji di	111
 企业宗旨	qi ye zong zhi	12840
 企业租赁	qi ye zu lin	1080
 企业租赁经营合同	qi ye zu lin jing ying he tong	83
@@ -313620,6 +314059,7 @@ sort: by_weight
 千金贵体	qian jin gui ti	111
 前襟后裾	qian jin hou ju	1
 前紧后松	qian jin hou song	715
+前进基地	qian jin ji di	111
 前进街	qian jin jie	286
 千金骏马换小妾	qian jin jun ma huan xiao qie	1
 潜进来	qian jin lai	140
@@ -314637,6 +315077,7 @@ sort: by_weight
 潜水服	qian shui fu	1655
 欠税公告办法	qian shui gong gao ban fa	157
 潜水航行	qian shui hang xing	5
+潜水基地	qian shui ji di	111
 潜水镜	qian shui jing	1285
 潜水帽	qian shui mao	40
 潜水面罩	qian shui mian zhao	3333
@@ -314817,6 +315258,7 @@ sort: by_weight
 前庭大腺	qian ting da xian	7
 前庭大腺囊肿	qian ting da xian nang zhong	13
 前庭大腺脓肿	qian ting da xian nong zhong	5
+潜艇基地	qian ting ji di	111
 前庭蜗神经	qian ting wo shen jing	9999
 前庭悬鱼	qian ting xuan yu	1
 前童	qian tong	1725
@@ -315030,6 +315472,7 @@ sort: by_weight
 乾县豆腐脑	qian xian dou fu nao	14
 乾县挂面	qian xian gua mian	12
 乾县锅盔	qian xian guo kui	33
+前线基地	qian xian ji di	111
 前嫌尽释	qian xian jin shi	320
 牵线人	qian xian ren	9999
 钱先生	qian xian sheng	7585
@@ -315155,6 +315598,7 @@ sort: by_weight
 前沿轨道	qian yan gui dao	15
 迁延过时	qian yan guo shi	1
 前烟灰缸	qian yan hui gang	27
+前沿基地	qian yan ji di	111
 迁延稽留	qian yan ji liu	1
 迁延羁留	qian yan ji liu	1
 前沿技术	qian yan ji shu	10810
@@ -319860,6 +320304,7 @@ sort: by_weight
 青岛海信	qing dao hai xin	3050
 青岛黄海学院	qing dao huang hai xue yuan	126
 青岛机	qing dao ji	1
+青岛基地	qing dao ji di	111
 青岛嘉园	qing dao jia yuan	346
 青岛家园	qing dao jia yuan	9
 青岛嘉园北门	qing dao jia yuan bei men	3
@@ -320650,6 +321095,7 @@ sort: by_weight
 轻解罗裳	qing jie luo chang	1180
 青芥末	qing jie mo	127
 清洁能源	qing jie neng yuan	21105
+清洁能源基地	qing jie neng yuan ji di	111
 清洁能源汽车	qing jie neng yuan qi che	1257
 清洁皮肤	qing jie pi fu	5450
 清洁器	qing jie qi	2810
@@ -322663,6 +323109,7 @@ sort: by_weight
 清血八味	qing xue ba wei	17
 清血八味胶囊	qing xue ba wei jiao nang	4
 清雪车	qing xue che	136
+青训基地	qing xun ji di	111
 轻巡洋舰	qing xun yang jian	960
 清雅	qing ya	23525
 轻压	qing ya	5265
@@ -326496,6 +326943,7 @@ sort: by_weight
 全国经济	quan guo jing ji	155
 全国经济普查条例	quan guo jing ji pu cha tiao li	384
 全国剧场管理工作试行条例	quan guo ju chang guan li gong zuo shi xing tiao li	3
+全国科普教育基地	quan guo ke pu jiao yu ji di	111
 全国会计	quan guo kuai ji	111
 全国劳动模范	quan guo lao dong mo fan	7000
 全国老龄委	quan guo lao ling wei	407
@@ -330226,6 +330674,7 @@ sort: by_weight
 人才工作	ren cai gong zuo	60810
 人才观	ren cai guan	14090
 人才荟萃	ren cai hui cui	3450
+人才基地	ren cai ji di	111
 人才济济	ren cai ji ji	8905
 人才给予	ren cai ji yu	111
 人才交流	ren cai jiao liu	43545
@@ -330243,7 +330692,9 @@ sort: by_weight
 人才难得	ren cai nan de	92
 人才派遣法	ren cai pai qian fa	8
 人才培训	ren cai pei xun	35550
+人才培训基地	ren cai pei xun ji di	111
 人才培养	ren cai pei yang	177655
+人才培养基地	ren cai pei yang ji di	111
 人才强国	ren cai qiang guo	3020
 人才强国战略	ren cai qiang guo zhan lve	14680
 人才热线	ren cai re xian	31415
@@ -331181,6 +331632,7 @@ sort: by_weight
 人类化	ren lei hua	13
 人类活动	ren lei huo dong	16650
 人类疾病动物模型	ren lei ji bing dong wu mo xing	11
+人类基地	ren lei ji di	111
 人类基因组	ren lei ji yin zu	5395
 人类基因组计划	ren lei ji yin zu ji hua	3285
 人类健康	ren lei jian kang	102
@@ -334937,6 +335389,7 @@ sort: by_weight
 揉捏法	rou nie fa	2
 揉捏着	rou nie zhe	1425
 肉牛	rou niu	33620
+肉牛养殖基地	rou niu yang zhi ji di	111
 揉弄	rou nong	685
 柔懦寡断	rou nuo gua duan	111
 肉排	rou pai	1665
@@ -336652,6 +337105,7 @@ sort: by_weight
 软件层	ruan jian ceng	630
 软件产品	ruan jian chan pin	62890
 软件产业	ruan jian chan ye	44760
+软件产业基地	ruan jian chan ye ji di	111
 软件厂商	ruan jian chang shang	13190
 软件常识	ruan jian chang shi	11
 软件超市	ruan jian chao shi	660
@@ -338839,6 +339293,7 @@ sort: by_weight
 三大范式	san da fan shi	241
 三大改造	san da gai zao	1210
 三大革命	san da ge ming	455
+三大基地	san da ji di	111
 三大纪律	san da ji lv	3075
 三大件	san da jian	5590
 三大节	san da jie	190
@@ -338852,6 +339307,7 @@ sort: by_weight
 三大球	san da qiu	760
 三大任务	san da ren wu	3365
 三大赛	san da sai	106
+三大生产基地	san da sheng chan ji di	111
 三大王	san da wang	33
 三大王牌	san da wang pai	111
 三大洋	san da yang	760
@@ -339147,6 +339603,7 @@ sort: by_weight
 三个和尚没水吃	san ge he shang mei shui chi	515
 三个和尚没水喝	san ge he shang mei shui he	455
 三个火枪手	san ge huo qiang shou	940
+三个基地	san ge ji di	111
 三个季度	san ge ji du	4620
 三个键	san ge jian	1185
 三个阶段	san ge jie duan	44895
@@ -339400,6 +339857,7 @@ sort: by_weight
 三季稻	san ji dao	175
 三畿道	san ji dao	174
 三极的	san ji de	70
+三基地	san ji di	111
 三级电影	san ji dian ying	2455
 三季度	san ji du	64135
 三极管	san ji guan	23435
@@ -341294,6 +341752,7 @@ sort: by_weight
 三灶街	san zao jie	3
 三灶医院	san zao yi yuan	17
 三则	san ze	333
+三泽基地	san ze ji di	111
 三责险	san ze xian	333
 三宅光鳃鱼	san zhai guang sai yu	1
 三站	san zhan	6095
@@ -342042,6 +342501,7 @@ sort: by_weight
 色目人	se mu ren	1130
 色男	se nan	2145
 色妞	se niu	1
+色妞基地	se niu ji di	111
 瑟弄琴调	se nong qin tiao	111
 色女	se nv	3800
 涩女郎	se nv lang	1675
@@ -342052,6 +342512,7 @@ sort: by_weight
 色匹配	se pi pei	5
 色偏	se pian	6685
 色片	se pian	2415
+色片基地	se pian ji di	111
 色平衡	se ping heng	18
 色谱	se pu	20990
 色谱法	se pu fa	11800
@@ -342063,6 +342524,7 @@ sort: by_weight
 色情电影	se qing dian ying	21540
 色情服务	se qing fu wu	2445
 色情广告	se qing guang gao	550
+色情基地	se qing ji di	111
 色情卡通	se qing ka tong	205
 色情狂	se qing kuang	1800
 色情漫画	se qing man hua	800
@@ -342233,6 +342695,7 @@ sort: by_weight
 森林火灾	sen lin huo zai	18875
 森林警察	sen lin jing cha	820
 森林砍伐	sen lin kan fa	843
+森林康养基地	sen lin kang yang ji di	111
 森林里	sen lin li	24220
 森林猫	sen lin mao	129
 森林面积	sen lin mian ji	7600
@@ -346160,6 +346623,7 @@ sort: by_weight
 上海火车站	shang hai huo che zhan	1570
 上海机场	shang hai ji chang	207
 上海机床厂	shang hai ji chuang chang	26
+上海基地	shang hai ji di	111
 上海机电	shang hai ji dian	1835
 上海鸡饭煲	shang hai ji fan bao	1
 上海机票	shang hai ji piao	23915
@@ -346989,6 +347453,7 @@ sort: by_weight
 商品交易所	shang pin jiao yi suo	7190
 商品经济	shang pin jing ji	24570
 商品粮	shang pin liang	10460
+商品粮基地	shang pin liang ji di	111
 商品量计量违法行为处罚规定	shang pin liang ji liang wei fa xing wei chu fa gui ding	12
 商品粮棉油	shang pin liang mian you	87
 商品零售	shang pin ling shou	6400
@@ -347049,6 +347514,7 @@ sort: by_weight
 上气不接下气	shang qi bu jie xia qi	6285
 尚其亨	shang qi heng	2
 上汽集团	shang qi ji tuan	8095
+上汽宁德基地	shang qi ning de ji di	111
 伤其十指	shang qi shi zhi	420
 赏奇析疑	shang qi xi yi	111
 商洽	shang qia	6910
@@ -349730,6 +350196,7 @@ sort: by_weight
 社会实践	she hui shi jian	67740
 社会实践表	she hui shi jian biao	196
 社会实践活动	she hui shi jian huo dong	25560
+社会实践基地	she hui shi jian ji di	111
 社会事务	she hui shi wu	20305
 社会事业	she hui shi ye	75980
 社会适应	she hui shi ying	9345
@@ -349861,6 +350328,7 @@ sort: by_weight
 社会转型	she hui zhuan xing	11430
 社会总产值	she hui zong chan zhi	220
 社会总供给	she hui zong gong ji	605
+社会组织孵化基地	she hui zu zhi fu hua ji di	111
 摄魂怪	she hun guai	160
 摄魂枪	she hun qiang	1
 摄魂追魄	she hun zhui po	1
@@ -350687,6 +351155,7 @@ sort: by_weight
 射影含沙	she ying han sha	1
 摄影合同	she ying he tong	11
 摄影机	she ying ji	23450
+摄影基地	she ying ji di	111
 摄影技巧	she ying ji qiao	3200
 摄影技术	she ying ji shu	9210
 摄影记者	she ying ji zhe	12270
@@ -351691,9 +352160,9 @@ sort: by_weight
 神嚎鬼哭	shen hao gui ku	6
 神号鬼泣	shen hao gui qi	1
 审核	shen he	500539
-沈河	shen he	2475
 深壑	shen he	1625
 深河	shen he	120
+# 沈河	shen he	0
 审核被拒	shen he bei ju	94
 审核表	shen he biao	7145
 审核部	shen he bu	1690
@@ -351940,6 +352409,7 @@ sort: by_weight
 身价大涨	shen jia da zhang	130
 沈家墩村	shen jia dun cun	6
 深加工	shen jia gong	89965
+深加工基地	shen jia gong ji di	111
 沈家路东新路口	shen jia lu dong xin lu kou	1
 沈家门	shen jia men	4845
 沈家弄路	shen jia nong lu	11
@@ -352537,6 +353007,7 @@ sort: by_weight
 神秘河	shen mi he	174
 神秘湖	shen mi hu	101
 神秘化	shen mi hua	2190
+神秘基地	shen mi ji di	111
 神秘家	shen mi jia	25
 神秘戒指	shen mi jie zhi	15
 神秘恐怖	shen mi kong bu	135
@@ -352945,6 +353416,7 @@ sort: by_weight
 申请银行贷款	shen qing yin hang dai kuan	111
 沈清源	shen qing yuan	167
 申请再审	shen qing zai shen	6090
+申请宅基地	shen qing zhai ji di	111
 申请栈	shen qing zhan	132
 申请者	shen qing zhe	81100
 申请支付令	shen qing zhi fu ling	1655
@@ -353961,7 +354433,8 @@ sort: by_weight
 神韵	shen yun	39160
 身孕	shen yun	10935
 神运鬼输	shen yun gui shu	1
-深栽	shen zai	345
+身在	shen zai	7777
+深栽	shen zai	34
 身在曹营心在汉	shen zai cao ying xin zai han	1225
 身在度鸟上	shen zai du niao shang	2
 身在福中不知福	shen zai fu zhong bu zhi fu	1510
@@ -354045,6 +354518,7 @@ sort: by_weight
 深圳华为	shen zhen hua wei	2735
 深圳会堂	shen zhen hui tang	71
 深圳机场	shen zhen ji chang	7375
+深圳基地	shen zhen ji di	111
 深圳机票	shen zhen ji piao	8675
 深圳交警	shen zhen jiao jing	130
 深圳金融发展专项资金管理办法	shen zhen jin rong fa zhan zhuan xiang zi jin guan li ban fa	1
@@ -354420,6 +354894,9 @@ sort: by_weight
 生产环境	sheng chan huan jing	15891
 生产活动	sheng chan huo dong	15365
 生产基地	sheng chan ji di	182385
+生产基地建设	sheng chan ji di jian she	111
+生产基地建设项目	sheng chan ji di jian she xiang mu	111
+生产基地项目	sheng chan ji di xiang mu	111
 生产计划	sheng chan ji hua	34525
 生产积极性	sheng chan ji ji xing	7600
 生产基金	sheng chan ji jin	115
@@ -354427,6 +354904,7 @@ sort: by_weight
 生产技能	sheng chan ji neng	4010
 生产技术	sheng chan ji shu	117425
 生产加工	sheng chan jia gong	48135
+生产加工基地	sheng chan jia gong ji di	111
 生产价值	sheng chan jia zhi	905
 生产建设	sheng chan jian she	7415
 生产建设兵团	sheng chan jian she bing tuan	2995
@@ -354471,6 +354949,7 @@ sort: by_weight
 生产社会化	sheng chan she hui hua	1420
 生产设施	sheng chan she shi	9670
 生产生活秩序	sheng chan sheng huo zhi xu	182
+生产示范基地	sheng chan shi fan ji di	111
 生产实践	sheng chan shi jian	8575
 生产时间	sheng chan shi jian	6305
 生产实习	sheng chan shi xi	6985
@@ -354498,9 +354977,11 @@ sort: by_weight
 生产性	sheng chan xing	38935
 生产性建设	sheng chan xing jian she	300
 生产形势	sheng chan xing shi	2660
+生产性实训基地	sheng chan xing shi xun ji di	111
 生产行为	sheng chan xing wei	2075
 生产许可证	sheng chan xu ke zheng	89095
 生产需要	sheng chan xu yao	10615
+生产研发基地	sheng chan yan fa ji di	111
 生产要素	sheng chan yao su	48535
 生产要素市场	sheng chan yao su shi chang	1860
 生产用水	sheng chan yong shui	3900
@@ -354517,6 +354998,7 @@ sort: by_weight
 生产指数	sheng chan zhi shu	320
 生产秩序	sheng chan zhi xu	3770
 生产制造	sheng chan zhi zao	38085
+生产制造基地	sheng chan zhi zao ji di	111
 生产中的	sheng chan zhong de	13375
 生产周期	sheng chan zhou qi	10580
 生产专业化	sheng chan zhuan ye hua	1180
@@ -355127,6 +355609,7 @@ sort: by_weight
 生活过程	sheng huo guo cheng	830
 生活过得	sheng huo guo de	5050
 生活环境	sheng huo huan jing	70210
+生活基地	sheng huo ji di	111
 生活技能	sheng huo ji neng	7140
 生活简单	sheng huo jian dan	2625
 生活俭朴	sheng huo jian pu	1505
@@ -356251,6 +356734,7 @@ sort: by_weight
 生态化	sheng tai hua	10880
 生态环保	sheng tai huan bao	190
 生态环境	sheng tai huan jing	253985
+生态基地	sheng tai ji di	111
 盛泰集团	sheng tai ji tuan	190
 生态家园	sheng tai jia yuan	161
 生态建设	sheng tai jian she	44535
@@ -356291,6 +356775,7 @@ sort: by_weight
 生态学	sheng tai xue	35105
 生态学家	sheng tai xue jia	2045
 生态掩体	sheng tai yan ti	10
+生态养殖基地	sheng tai yang zhi ji di	111
 生态遗传学	sheng tai yi chuan xue	1
 生态意识	sheng tai yi shi	1930
 生态银行	sheng tai yin hang	111
@@ -356512,6 +356997,8 @@ sort: by_weight
 生物医学工程	sheng wu yi xue gong cheng	9390
 生物医学模式	sheng wu yi xue mo shi	38
 生物医药	sheng wu yi yao	36755
+生物医药产业基地	sheng wu yi yao chan ye ji di	111
+生物医药基地	sheng wu yi yao ji di	111
 生物引擎	sheng wu yin qing	30
 生物因素	sheng wu yin su	113
 生物有机肥	sheng wu you ji fei	3600
@@ -356838,6 +357325,7 @@ sort: by_weight
 盛元	sheng yuan	78
 盛远	sheng yuan	16
 生源地	sheng yuan di	6545
+生源基地	sheng yuan ji di	111
 生源争夺战	sheng yuan zheng duo zhan	115
 声乐	sheng yue	47955
 圣约	sheng yue	1240
@@ -356991,6 +357479,7 @@ sort: by_weight
 生猪肉	sheng zhu rou	590
 圣侏儒	sheng zhu ru	1
 省主席	sheng zhu xi	1150
+生猪养殖基地	sheng zhu yang zhi ji di	111
 生拽活拖	sheng zhuai huo tuo	1
 生拽死拖	sheng zhuai si tuo	1
 盛馔	sheng zhuan	380
@@ -358335,6 +358824,7 @@ sort: by_weight
 试点高校	shi dian gao xiao	7685
 试点公司	shi dian gong si	1920
 试点工作	shi dian gong zuo	104930
+试点基地	shi dian ji di	111
 试点经验	shi dian jing yan	4875
 十点宽卵莹叶甲	shi dian kuan luan ying ye jia	1
 试点企业	shi dian qi ye	15840
@@ -358691,6 +359181,7 @@ sort: by_weight
 示范合同	shi fan he tong	1975
 示范户	shi fan hu	21280
 示范基地	shi fan ji di	51595
+示范基地建设	shi fan ji di jian she	111
 示范教学	shi fan jiao xue	1325
 师范教育	shi fan jiao yu	10145
 示范街	shi fan jie	2420
@@ -359605,6 +360096,7 @@ sort: by_weight
 石花菜	shi hua cai	9999
 石花菜鲍鱼汤	shi hua cai bao yu tang	1
 石化产品	shi hua chan pin	5405
+石化产业基地	shi hua chan ye ji di	111
 石化厂	shi hua chang	1410
 石花村	shi hua cun	8
 石化村	shi hua cun	2
@@ -359621,6 +360113,7 @@ sort: by_weight
 石化工业	shi hua gong ye	5335
 似花还似非花	shi hua hai shi fei hua	3
 石化行业	shi hua hang ye	7595
+石化基地	shi hua ji di	111
 石化集团	shi hua ji tuan	4805
 石花尖垦殖场	shi hua jian ken zhi chang	33
 世华龙樾	shi hua long yue	12
@@ -360163,6 +360656,7 @@ sort: by_weight
 石见穿	shi jian chuan	31
 事件传递	shi jian chuan di	4773
 事件传递机制	shi jian chuan di ji zhi	413
+实践创新基地	shi jian chuang xin ji di	111
 时间戳	shi jian chuo	27108
 时间词	shi jian ci	9999
 石建村	shi jian cun	7
@@ -360228,6 +360722,8 @@ sort: by_weight
 世间花叶不相伦	shi jian hua ye bu xiang lun	1
 时间回溯	shi jian hui su	114
 实践活动	shi jian huo dong	100505
+实践基地	shi jian ji di	111
+实践基地建设	shi jian ji di jian she	111
 时间继电器	shi jian ji dian qi	3025
 事件记录	shi jian ji lu	5160
 时间机器	shi jian ji qi	1930
@@ -360242,6 +360738,8 @@ sort: by_weight
 事件监听器	shi jian jian ting qi	3889
 实践教程	shi jian jiao cheng	122
 实践教学	shi jian jiao xue	26320
+实践教学基地	shi jian jiao xue ji di	111
+实践教育基地	shi jian jiao yu ji di	111
 尸检结果	shi jian jie guo	108
 时间进度	shi jian jin du	3765
 石缄金匮	shi jian jin kui	1
@@ -364545,6 +365043,7 @@ sort: by_weight
 是喜是悲	shi xi shi bei	740
 时喜时悲	shi xi shi bei	175
 是夕始觉有迁谪意	shi xi shi jue you qian zhe yi	1
+实习实训基地	shi xi shi xun ji di	111
 是喜是忧	shi xi shi you	960
 石溪水	shi xi shui	6
 实习司	shi xi si	1
@@ -364904,6 +365403,7 @@ sort: by_weight
 实训场	shi xun chang	1165
 视讯会议	shi xun hui yi	2680
 实训基地	shi xun ji di	25335
+实训基地建设	shi xun ji di jian she	111
 十旬休假	shi xun xiu jia	152
 石洵瑶	shi xun yao	125
 是呀	shi ya	51570
@@ -365025,6 +365525,7 @@ sort: by_weight
 十堰市	shi yan shi	23020
 试验室	shi yan shi	20110
 实验式	shi yan shi	11
+试验示范基地	shi yan shi fan ji di	111
 实验室家具	shi yan shi jia ju	1190
 实验室检查	shi yan shi jian cha	565
 十堰市利用外资优惠政策	shi yan shi li yong wai zi you hui zheng ce	1
@@ -365663,8 +366164,11 @@ sort: by_weight
 实用阶段	shi yong jie duan	1480
 试用金	shi yong jin	115
 食用菌	shi yong jun	54140
+食用菌基地	shi yong jun ji di	111
 食用菌菌种管理办法	shi yong jun jun zhong guan li ban fa	37
 食用菌类	shi yong jun lei	875
+食用菌生产基地	shi yong jun sheng chan ji di	111
+食用菌种植基地	shi yong jun zhong zhi ji di	111
 试用开通	shi yong kai tong	68
 试用课本	shi yong ke ben	80
 实用科普	shi yong ke pu	87
@@ -366664,6 +367168,7 @@ sort: by_weight
 狮子喵	shi zi miao	146
 石子馍	shi zi mo	376
 师资培训	shi zi pei xun	20395
+师资培训基地	shi zi pei xun ji di	111
 石子坪村	shi zi ping cun	3
 狮子桥	shi zi qiao	161
 十字桥	shi zi qiao	10
@@ -367803,6 +368308,7 @@ sort: by_weight
 手机价格	shou ji jia ge	4945
 手机僵尸病毒	shou ji jiang shi bing du	139
 手机开发	shou ji kai fa	1680
+手机看片基地	shou ji kan pian ji di	111
 收集了	shou ji le	42025
 手机了	shou ji le	965
 手机里	shou ji li	15260
@@ -369641,6 +370147,7 @@ sort: by_weight
 蔬菜沙拉	shu cai sha la	3333
 疏财尚气	shu cai shang qi	1
 蔬菜生产	shu cai sheng chan	16020
+蔬菜生产基地	shu cai sheng chan ji di	111
 蔬菜水果	shu cai shui guo	15100
 蔬菜汤	shu cai tang	8421
 蔬菜维生素汤	shu cai wei sheng su tang	1
@@ -369652,6 +370159,7 @@ sort: by_weight
 疏财仗义	shu cai zhang yi	245
 蔬菜汁	shu cai zhi	4515
 蔬菜种植	shu cai zhong zhi	9760
+蔬菜种植基地	shu cai zhong zhi ji di	111
 输财助边	shu cai zhu bian	4
 蔬菜猪肉饼	shu cai zhu rou bing	1
 输惨了	shu can le	5
@@ -369703,6 +370211,7 @@ sort: by_weight
 输出功能	shu chu gong neng	5980
 输出国	shu chu guo	4820
 输出函数	shu chu han shu	990
+输出基地	shu chu ji di	111
 输出结果	shu chu jie guo	7645
 输出接口	shu chu jie kou	13810
 输出进程	shu chu jin cheng	421
@@ -372978,7 +373487,9 @@ sort: by_weight
 双重责任	shuang chong ze ren	900
 双处理器	shuang chu li qi	2205
 双创	shuang chuang	1
+双创基地	shuang chuang ji di	111
 双床间	shuang chuang jian	860
+双创示范基地	shuang chuang shi fan ji di	111
 双唇	shuang chun	29825
 双春年	shuang chun nian	137
 双唇音	shuang chun yin	90
@@ -373246,6 +373757,7 @@ sort: by_weight
 双击标签栏	shuang ji biao qian lan	18
 双击打开	shuang ji da kai	5395
 双季稻	shuang ji dao	1425
+双基地	shuang ji di	111
 双箕斗	shuang ji dou	1
 双吉胡同	shuang ji hu tong	1
 双吉街道	shuang ji jie dao	9
@@ -374262,6 +374774,7 @@ sort: by_weight
 水产学院	shui chan xue yuan	51
 水产养殖	shui chan yang zhi	29700
 水产养殖场	shui chan yang zhi chang	288
+水产养殖基地	shui chan yang zhi ji di	111
 水产业	shui chan ye	7785
 水产资源	shui chan zi yuan	2800
 水产资源繁殖保护条例	shui chan zi yuan fan zhi bao hu tiao li	26
@@ -374337,6 +374850,7 @@ sort: by_weight
 水稻黑尾叶蝉	shui dao hei wei ye chan	1
 水岛宏	shui dao hong	3
 水稻灰飞虱	shui dao hui fei shi	20
+水稻基地	shui dao ji di	111
 水道口	shui dao kou	200
 水稻良种场	shui dao liang zhong chang	3
 水稻农场	shui dao nong chang	8
@@ -374354,6 +374868,7 @@ sort: by_weight
 水稻粘虫	shui dao zhan chong	1
 水稻之父	shui dao zhi fu	185
 水稻直纹稻弄蝶	shui dao zhi wen dao nong die	1
+水稻种植基地	shui dao zhong zhi ji di	111
 水道子	shui dao zi	1
 水道子胡同	shui dao zi hu tong	2
 水的	shui de	241040
@@ -374609,6 +375124,7 @@ sort: by_weight
 水果罐头	shui guo guan tou	2470
 水果湖	shui guo hu	3685
 水果鸡	shui guo ji	237
+水果基地	shui guo ji di	111
 水果鸡冻	shui guo ji dong	1
 水果夹心蛋糕	shui guo jia xin dan gao	7
 睡过觉	shui guo jiao	1580
@@ -374643,6 +375159,7 @@ sort: by_weight
 水果月饼	shui guo yue bing	120
 水果渣	shui guo zha	30
 水果汁	shui guo zhi	2370
+水果种植基地	shui guo zhong zhi ji di	111
 谁还	shui hai	27055
 水害	shui hai	7000
 水海产品	shui hai chan pin	930
@@ -377697,6 +378214,7 @@ sort: by_weight
 四大国有银行	si da guo you yin hang	111
 四大海味	si da hai wei	9
 四大行	si da hang	1585
+四大基地	si da ji di	111
 四大家	si da jia	5010
 四大家鱼	si da jia yu	1185
 四大家族	si da jia zu	4745
@@ -377721,6 +378239,7 @@ sort: by_weight
 四大名校	si da ming xiao	122
 四大名镇	si da ming zhen	740
 四大名著	si da ming zhu	6145
+四大生产基地	si da sheng chan ji di	111
 四大世家	si da shi jia	770
 四大尸祖	si da shi zu	196
 斯达舒胶囊	si da shu jiao nang	7
@@ -378453,6 +378972,7 @@ sort: by_weight
 四棘虫属	si ji chong shu	1
 四级词汇	si ji ci hui	164
 四级单词	si ji dan ci	188
+四基地	si ji di	111
 四季东巷	si ji dong xiang	13
 四季豆	si ji dou	7030
 四季度	si ji du	32025
@@ -383161,6 +383681,7 @@ sort: by_weight
 素质测评	su zhi ce ping	5715
 素质参差不齐	su zhi cen ci bu qi	111
 素质教育	su zhi jiao yu	226445
+素质教育基地	su zhi jiao yu ji di	111
 酥制培乳	su zhi pei ru	1
 素质评价	su zhi ping jia	181
 素质拓展	su zhi tuo zhan	9325
@@ -386769,9 +387290,10 @@ sort: by_weight
 它所含	ta suo han	465
 他所说	ta suo shuo	4075
 他所做	ta suo zuo	650
-他她	ta ta	9999
-她她	ta ta	8888
-塔塔	ta ta	8750
+他他	ta ta	9999
+他她	ta ta	8888
+她她	ta ta	7777
+塔塔	ta ta	2750
 踏踏	ta ta	1835
 塌塌	ta ta	76
 塔塔尔	ta ta er	1070
@@ -386790,6 +387312,9 @@ sort: by_weight
 她坦言	ta tan yan	2340
 他躺在	ta tang zai	4995
 她躺在	ta tang zai	3995
+他特	ta te	5555
+她特	ta te	111
+它特	ta te	1
 塔特拉山牧羊犬犬	ta te la shan mu yang quan quan	1
 他特意	ta te yi	4000
 她特意	ta te yi	3000
@@ -388136,6 +388661,7 @@ sort: by_weight
 太空怪物	tai kong guai wu	35
 太空户	tai kong hu	10
 太空机	tai kong ji	40
+太空基地	tai kong ji di	111
 太空科技	tai kong ke ji	169
 太空科学	tai kong ke xue	585
 太空垃圾	tai kong la ji	9999
@@ -393524,10 +394050,12 @@ sort: by_weight
 特色菜	te se cai	18790
 特色产品	te se chan pin	13235
 特色产业	te se chan ye	32960
+特色产业基地	te se chan ye ji di	111
 特色炒饭	te se chao fan	107
 特色店	te se dian	2070
 特色服务	te se fu wu	22610
 特色功能	te se gong neng	13795
+特色基地	te se ji di	111
 特色经济	te se jing ji	12450
 特色旅游	te se lv you	10560
 特色美食	te se mei shi	4870
@@ -394225,6 +394753,7 @@ sort: by_weight
 提得比	ti de bi	195
 踢得比	ti de bi	125
 踢得好	ti de hao	116
+提得好	ti de hao	111
 提得起	ti de qi	920
 踢得像	ti de xiang	45
 踢得着	ti de zhao	20
@@ -395202,6 +395731,7 @@ sort: by_weight
 体验出	ti yan chu	1065
 体验到	ti yan dao	47755
 体验度量	ti yan du liang	12
+体验基地	ti yan ji di	111
 体验角色	ti yan jue se	190
 体验了几天	ti yan le ji tian	111
 体验模式	ti yan mo shi	108
@@ -395333,6 +395863,7 @@ sort: by_weight
 体育学校	ti yu xue xiao	1535
 体育学院	ti yu xue yuan	9310
 体育训练	ti yu xun lian	5015
+体育训练基地	ti yu xun lian ji di	111
 体育训练中心	ti yu xun lian zhong xin	170
 体育业	ti yu ye	279
 体育用品	ti yu yong pin	39695
@@ -396320,6 +396851,7 @@ sort: by_weight
 天津话	tian jin hua	1750
 天津馄饨	tian jin hun tun	7
 天津火腿肠	tian jin huo tui chang	12
+天津基地	tian jin ji di	111
 天津街	tian jin jie	104
 甜津津	tian jin jin	480
 天津金城银行	tian jin jin cheng yin hang	111
@@ -399642,6 +400174,7 @@ sort: by_weight
 铁路司机学校	tie lu si ji xue xiao	113
 铁炉塘	tie lu tang	5
 铁路网	tie lu wang	6270
+铁路物流基地	tie lu wu liu ji di	111
 铁路系统	tie lu xi tong	4615
 铁路线	tie lu xian	8805
 铁路小区	tie lu xiao qu	200
@@ -400165,6 +400698,7 @@ sort: by_weight
 听得到啊	ting de dao a	71
 听得到吗	ting de dao ma	230
 听得懂	ting de dong	9960
+廷德尔空军基地	ting de er kong jun ji di	111
 听的歌	ting de ge	7765
 听的歌曲	ting de ge qu	4950
 停的话	ting de hua	64
@@ -400175,6 +400709,7 @@ sort: by_weight
 听得像	ting de xiang	60
 挺得像	ting de xiang	45
 听得着	ting de zhao	105
+挺低	ting di	5555
 挺低的	ting di de	1185
 停电	ting dian	69665
 亭店	ting dian	2
@@ -400229,6 +400764,7 @@ sort: by_weight
 挺感人	ting gan ren	770
 挺感兴趣	ting gan xing qu	910
 挺高	ting gao	6760
+挺高的	ting gao de	1185
 挺高兴	ting gao xing	4325
 听歌	ting ge	34150
 停格	ting ge	955
@@ -400667,6 +401203,7 @@ sort: by_weight
 亭亭	ting ting	1111
 听听吧	ting ting ba	2005
 停停当当	ting ting dang dang	90
+婷婷基地	ting ting ji di	111
 听听就得了	ting ting jiu de le	111
 停停开开	ting ting kai kai	90
 听听看	ting ting kan	3115
@@ -404114,6 +404651,7 @@ sort: by_weight
 投江	tou jiang	3090
 头角	tou jiao	3625
 头焦额烂	tou jiao e lan	1
+投教基地	tou jiao ji di	111
 头角峥嵘	tou jiao zheng rong	390
 头节	tou jie	17
 头结点	tou jie dian	9247
@@ -404943,6 +405481,7 @@ sort: by_weight
 投资者	tou zi zhe	500414
 投资者关系	tou zi zhe guan xi	4
 投资者教育	tou zi zhe jiao yu	1
+投资者教育基地	tou zi zhe jiao yu ji di	111
 投资政策	tou zi zheng ce	7830
 投资证券	tou zi zheng quan	3385
 投资支出	tou zi zhi chu	1605
@@ -407034,6 +407573,7 @@ sort: by_weight
 退出应用	tui chu ying yong	3175
 退出娱乐圈	tui chu yu le quan	135
 退出运行	tui chu yun xing	525
+退出宅基地	tui chu zhai ji di	111
 退出账号	tui chu zhang hao	115
 退出组织	tui chu zu zhi	95
 推窗	tui chuang	3065
@@ -407162,6 +407702,7 @@ sort: by_weight
 推广工作	tui guang gong zuo	26285
 推广会	tui guang hui	6150
 推广活动	tui guang huo dong	20890
+推广基地	tui guang ji di	111
 推广节	tui guang jie	87
 推广力度	tui guang li du	8720
 推广软件	tui guang ruan jian	5495
@@ -408703,12 +409244,15 @@ sort: by_weight
 拓展	tuo zhan	468745
 拓展到	tuo zhan dao	74
 拓展会	tuo zhan hui	34
+拓展基地	tuo zhan ji di	111
 拓展欧几里得	tuo zhan ou ji li de	224
 拓展培训	tuo zhan pei xun	7640
+拓展培训基地	tuo zhan pei xun ji di	111
 拓展期权	tuo zhan qi quan	2
 拓展市场	tuo zhan shi chang	15840
 拓展坞	tuo zhan wu	150
 拓展训练	tuo zhan xun lian	18245
+拓展训练基地	tuo zhan xun lian ji di	111
 拓展业务	tuo zhan ye wu	149
 拓展知识	tuo zhan zhi shi	189
 拖着	tuo zhe	63230
@@ -409609,6 +410153,7 @@ sort: by_weight
 外景地	wai jing di	5755
 外景队	wai jing dui	260
 外经济	wai jing ji	2815
+外景基地	wai jing ji di	111
 外经局	wai jing ju	2415
 外经贸	wai jing mao	51685
 外经贸部	wai jing mao bu	34895
@@ -409764,6 +410309,7 @@ sort: by_weight
 外贸英语	wai mao ying yu	7505
 外贸增长	wai mao zeng zhang	5235
 外贸中心酒店	wai mao zhong xin jiu dian	15
+外贸转型升级基地	wai mao zhuan xing sheng ji ji di	111
 外媒	wai mei	9999
 外门	wai men	3770
 歪门邪道	wai men xie dao	3000
@@ -410056,9 +410602,11 @@ sort: by_weight
 外形尺寸	wai xing chi cun	68465
 外形大方	wai xing da fang	230
 外星怪物	wai xing guai wu	3333
+外星基地	wai xing ji di	111
 外姓旁人	wai xing pang ren	111
 外星人	wai xing ren	41320
 外姓人	wai xing ren	9999
+外星人基地	wai xing ren ji di	111
 外形上	wai xing shang	4455
 外星生命	wai xing sheng ming	1340
 外星生物	wai xing sheng wu	2970
@@ -419582,6 +420130,7 @@ sort: by_weight
 卫星定位系统	wei xing ding wei xi tong	5160
 为性而爱	wei xing er ai	590
 卫星发射	wei xing fa she	8415
+卫星发射基地	wei xing fa she ji di	111
 微型高止夜蛙	wei xing gao zhi ye wa	1
 卫星广播	wei xing guang bo	4060
 卫星广场	wei xing guang chang	217
@@ -419649,6 +420198,7 @@ sort: by_weight
 维修工人	wei xiu gong ren	980
 未休关西卒	wei xiu guan xi zu	101
 维修合同	wei xiu he tong	1115
+维修基地	wei xiu ji di	111
 维修计划	wei xiu ji hua	1510
 维修基金	wei xiu ji jin	24565
 维修记录	wei xiu ji lu	4090
@@ -420640,6 +421190,7 @@ sort: by_weight
 汶川县城	wen chuan xian cheng	140
 温床	wen chuang	15050
 文创	wen chuang	111
+文创基地	wen chuang ji di	111
 文创街	wen chuang jie	180
 温春	wen chun	11
 文春炮	wen chun pao	119
@@ -421003,8 +421554,8 @@ sort: by_weight
 文翰	wen han	1540
 问寒问暖	wen han wen nuan	2755
 问寒问热	wen han wen re	111
-问好	wen hao	43390
 问号	wen hao	31740
+问好	wen hao	23390
 文豪	wen hao	8255
 文号	wen hao	9
 温和	wen he	165045
@@ -421053,6 +421604,8 @@ sort: by_weight
 文化产品	wen hua chan pin	9999
 文化产业	wen hua chan ye	120285
 文化产业促进法	wen hua chan ye cu jin fa	104
+文化产业基地	wen hua chan ye ji di	111
+文化产业示范基地	wen hua chan ye shi fan ji di	111
 文化场	wen hua chang	55
 文化场所	wen hua chang suo	1885
 文化潮	wen hua chao	75
@@ -421102,6 +421655,7 @@ sort: by_weight
 文化会馆	wen hua hui guan	340
 文化活动	wen hua huo dong	52195
 文化祭	wen hua ji	121
+文化基地	wen hua ji di	111
 文化机构	wen hua ji gou	4195
 文化基金	wen hua ji jin	685
 文化价值	wen hua jia zhi	12670
@@ -423229,6 +423783,8 @@ sort: by_weight
 我操你妈了个逼	wo cao ni ma le ge bi	22
 我肏你妈了个逼	wo cao ni ma le ge bi	11
 卧槽泥马勒戈壁	wo cao ni ma le ge bi	1
+我测	wo ce	111
+我测了	wo ce le	111
 我曾	wo ceng	70665
 我曾经	wo ceng jing	96395
 我曾在	wo ceng zai	9310
@@ -425146,7 +425702,9 @@ sort: by_weight
 我所说	wo suo shuo	2425
 我所知道	wo suo zhi dao	8160
 我所做的一切	wo suo zuo de yi qie	100
-卧榻	wo ta	2390
+我他	wo ta	3333
+我她	wo ta	2222
+卧榻	wo ta	239
 卧榻鼾睡	wo ta han shui	1
 我他妈	wo ta ma	9660
 卧榻岂容鼾睡	wo ta qi rong han shui	1
@@ -426041,6 +426599,8 @@ sort: by_weight
 我走呀	wo zou ya	100
 我走在	wo zou zai	6630
 我最	wo zui	145945
+我嘴	wo zui	222
+我醉	wo zui	111
 我最爱	wo zui ai	12260
 我最不	wo zui bu	3855
 我最恨	wo zui hen	1545
@@ -426719,6 +427279,7 @@ sort: by_weight
 五大国有银行	wu da guo you yin hang	111
 五大湖	wu da hu	2020
 五大花园	wu da hua yuan	48
+五大基地	wu da ji di	111
 吴大琨	wu da kun	4
 武大郎	wu da lang	8295
 武大郎卖烧饼	wu da lang mai shao bing	3
@@ -426732,6 +427293,7 @@ sort: by_weight
 武打片儿	wu da pian er	9999
 乌达区	wu da qu	515
 五大三粗	wu da san cu	2685
+五大生产基地	wu da sheng chan ji di	111
 无大事	wu da shi	182
 五大王	wu da wang	111
 五大王牌	wu da wang pai	111
@@ -426747,6 +427309,7 @@ sort: by_weight
 五袋	wu dai	920
 吴岱	wu dai	4
 吴带当风	wu dai dang feng	435
+乌代德空军基地	wu dai de kong jun ji di	111
 吴大夫	wu dai fu	111
 吴岱豪	wu dai hao	12
 五带连膜鰕虎鱼	wu dai lian mo xia hu yu	1
@@ -427704,6 +428267,7 @@ sort: by_weight
 武汉华工安鼎信息技术有限责任公司	wu han hua gong an ding xin xi ji shu you xian ze ren gong si	87
 武汉华工安鼎有限责任公司	wu han hua gong an ding you xian ze ren gong si	87
 武汉会战	wu han hui zhan	970
+武汉基地	wu han ji di	111
 武汉街	wu han jie	9
 武汉解封	wu han jie feng	115
 武汉军工总医院	wu han jun gong zong yi yuan	1
@@ -429180,6 +429744,7 @@ sort: by_weight
 物流管理	wu liu guan li	64125
 五柳鳜鱼	wu liu gui yu	1
 物流化	wu liu hua	87
+物流基地	wu liu ji di	111
 物流客服	wu liu ke fu	169
 乌溜溜	wu liu liu	1300
 五六年	wu liu nian	9110
@@ -431360,6 +431925,7 @@ sort: by_weight
 无锡疫情	wu xi yi qing	141
 无锡银行	wu xi yin hang	111
 无吸引力	wu xi yin li	265
+无锡影视基地	wu xi ying shi ji di	111
 吴熙载	wu xi zai	3
 无锡中院	wu xi zhong yuan	87
 吴溪紫蟹肥	wu xi zi xie fei	1
@@ -433027,7 +433593,9 @@ sort: by_weight
 西安工业	xi an gong ye	176
 西安工业大学未央校区	xi an gong ye da xue wei yang xiao qu	9
 西安航空	xi an hang kong	177
+西安航空基地	xi an hang kong ji di	111
 西安航天	xi an hang tian	281
+西安航天基地	xi an hang tian ji di	111
 西安机电信息学院	xi an ji dian xin xi xue yuan	2
 西安机票	xi an ji piao	4490
 西安建筑科技大学	xi an jian zhu ke ji da xue	4790
@@ -435416,6 +435984,7 @@ sort: by_weight
 西南风	xi nan feng	2440
 西南航空	xi nan hang kong	3805
 西南合成	xi nan he cheng	7
+西南基地	xi nan ji di	111
 西南角	xi nan jiao	9375
 西南郊	xi nan jiao	1140
 西南交大	xi nan jiao da	3435
@@ -438222,7 +438791,7 @@ sort: by_weight
 下腹痛	xia fu tong	2355
 下附突	xia fu tu	1
 下服务器	xia fu wu qi	680
-下该	xia gai	6825
+瞎该	xia gai	6825
 下疳	xia gan	3535
 虾干	xia gan	990
 瞎干	xia gan	185
@@ -438705,6 +439274,7 @@ sort: by_weight
 夏令时间	xia ling shi jian	335
 下岭头	xia ling tou	3
 夏令营	xia ling ying	37865
+夏令营基地	xia ling ying ji di	111
 下流	xia liu	34945
 下刘	xia liu	37
 下流的话	xia liu de hua	420
@@ -440283,6 +440853,7 @@ sort: by_weight
 现场监管	xian chang jian guan	2900
 羡长江之无穷	xian chang jiang zhi wu qiong	7
 显长角皮瘤蛾	xian chang jiao pi liu e	1
+现场教学基地	xian chang jiao xue ji di	111
 现场解说	xian chang jie shuo	1400
 现场经验	xian chang jing yan	2420
 现场勘查	xian chang kan cha	8140
@@ -440464,6 +441035,7 @@ sort: by_weight
 现代化建设	xian dai hua jian she	171420
 现代化进程	xian dai hua jin cheng	16485
 现代化强国	xian dai hua qiang guo	1565
+现代化生产基地	xian dai hua sheng chan ji di	111
 现代化水平	xian dai hua shui ping	144
 现代化学	xian dai hua xue	1320
 现代婚姻家庭经典案例	xian dai hun yin jia ting jing dian an li	2
@@ -440486,6 +441058,7 @@ sort: by_weight
 显带目	xian dai mu	2
 现代农业	xian dai nong ye	65825
 现代农业开发区	xian dai nong ye kai fa qu	34
+现代农业示范基地	xian dai nong ye shi fan ji di	111
 现代农装	xian dai nong zhuang	9
 现代奴隶制	xian dai nu li zhi	77
 现代女性	xian dai nv xing	14790
@@ -441263,6 +441836,8 @@ sort: by_weight
 现金支出	xian jin zhi chu	3520
 现金支付	xian jin zhi fu	10325
 现金支票	xian jin zhi piao	3285
+先进制造基地	xian jin zhi zao ji di	111
+先进制造业基地	xian jin zhi zao ye ji di	111
 现金周转	xian jin zhou zhuan	935
 陷阱	xian jing	164155
 仙境	xian jing	48845
@@ -443151,6 +443726,7 @@ sort: by_weight
 限制措施	xian zhi cuo shi	5880
 先知道	xian zhi dao	3250
 限制到	xian zhi dao	1665
+闲置的宅基地	xian zhi de zhai ji di	111
 限制登录	xian zhi deng lu	148
 闲置费	xian zhi fei	3800
 县支行	xian zhi hang	1305
@@ -443197,6 +443773,7 @@ sort: by_weight
 限制于	xian zhi yu	61
 限制在	xian zhi zai	32925
 限制责任能力	xian zhi ze ren neng li	80
+闲置宅基地	xian zhi zhai ji di	111
 限制者	xian zhi zhe	185
 限制证券买卖实施办法	xian zhi zheng quan mai mai shi shi ban fa	132
 宪制秩序	xian zhi zhi xu	192
@@ -444120,6 +444697,7 @@ sort: by_weight
 香菇多糖	xiang gu duo tang	47
 香菇风爪润肤汤	xiang gu feng zhao run fu tang	1
 香菇鸡	xiang gu ji	23
+香菇基地	xiang gu ji di	111
 香菇鸡肉粥	xiang gu ji rou zhou	135
 香菇茭白汤	xiang gu jiao bai tang	2
 香菇肉酱	xiang gu rou jiang	67
@@ -444141,6 +444719,7 @@ sort: by_weight
 香菇鱿鱼竹笋饭	xiang gu you yu zhu sun fan	1
 香菇玉米饼	xiang gu yu mi bing	1
 香菇蒸排骨	xiang gu zheng pai gu	1
+香菇种植基地	xiang gu zhong zhi ji di	111
 香菇醉鸡	xiang gu zui ji	10
 香瓜	xiang gua	8415
 香瓜汁	xiang gua zhi	15
@@ -444276,6 +444855,7 @@ sort: by_weight
 相和歌	xiang he ge	1780
 香河公安局	xiang he gong an ju	1
 祥和花园	xiang he hua yuan	23
+香河基地	xiang he ji di	111
 香河家具城	xiang he jia ju cheng	28
 响和景从	xiang he jing cong	1
 祥和居委会	xiang he ju wei hui	2
@@ -445009,6 +445589,7 @@ sort: by_weight
 项目合作	xiang mu he zuo	63690
 项目后	xiang mu hou	1324
 项目会	xiang mu hui	110
+项目基地	xiang mu ji di	111
 项目计划	xiang mu ji hua	1449
 项目架构	xiang mu jia gou	1091
 项目建设	xiang mu jian she	117960
@@ -447762,6 +448343,7 @@ sort: by_weight
 消防检查	xiao fang jian cha	140
 消防局	xiao fang ju	10456
 消防课	xiao fang ke	144
+消防科普教育基地	xiao fang ke pu jiao yu ji di	111
 小方块	xiao fang kuai	4160
 消防龙头	xiao fang long tou	425
 小方脉	xiao fang mai	9
@@ -448576,6 +449158,7 @@ sort: by_weight
 消极怠工	xiao ji dai gong	3100
 消极的	xiao ji de	38005
 小己得失	xiao ji de shi	1
+小基地	xiao ji di	111
 消极抵抗	xiao ji di kang	780
 小技雕虫	xiao ji diao chong	111
 小鸡肚肠	xiao ji du chang	465
@@ -449567,6 +450150,7 @@ sort: by_weight
 校内考试	xiao nei kao shi	375
 小内裤	xiao nei ku	3165
 校内生	xiao nei sheng	5
+校内实训基地	xiao nei shi xun ji di	111
 校内调剂	xiao nei tiao ji	157
 校内外	xiao nei wai	12815
 校内网上	xiao nei wang shang	66
@@ -450311,6 +450895,7 @@ sort: by_weight
 销售合同	xiao shou he tong	17080
 小守护	xiao shou hu	158
 销售活动	xiao shou huo dong	10295
+销售基地	xiao shou ji di	111
 销售机构	xiao shou ji gou	8555
 销售计划	xiao shou ji hua	14015
 销售技巧	xiao shou ji qiao	19065
@@ -450785,6 +451370,11 @@ sort: by_weight
 校外培训	xiao wai pei xun	151
 小外甥	xiao wai sheng	1935
 校外生	xiao wai sheng	75
+校外实践基地	xiao wai shi jian ji di	111
+校外实践教学基地	xiao wai shi jian jiao xue ji di	111
+校外实习基地	xiao wai shi xi ji di	111
+校外实习实训基地	xiao wai shi xi shi xun ji di	111
+校外实训基地	xiao wai shi xun ji di	111
 小外孙	xiao wai sun	160
 校外学习	xiao wai xue xi	6290
 小碗	xiao wan	15470
@@ -453065,6 +453655,7 @@ sort: by_weight
 协盛	xie sheng	26
 写生簿	xie sheng bu	30
 写生画	xie sheng hua	655
+写生基地	xie sheng ji di	111
 偕生之疾	xie sheng zhi ji	1
 写实	xie shi	31615
 写诗	xie shi	29345
@@ -453741,6 +454332,7 @@ sort: by_weight
 写字台上	xie zi tai shang	1580
 蝎子王	xie zi wang	1190
 蝎子养殖	xie zi yang zhi	102
+蝎子养殖基地	xie zi yang zhi ji di	111
 蝎子养殖技术	xie zi yang zhi ji shu	3
 蝎子爪	xie zi zhao	160
 写字桌	xie zi zhuo	1980
@@ -454060,6 +454652,7 @@ sort: by_weight
 新财富	xin cai fu	127
 新财经	xin cai jing	28
 新材料	xin cai liao	136327
+新材料产业基地	xin cai liao chan ye ji di	111
 新蔡县	xin cai xian	1380
 新餐厅	xin can ting	200
 新仓村	xin cang cun	12
@@ -455247,6 +455840,7 @@ sort: by_weight
 心急吃不了热豆腐	xin ji chi bu liao re dou fu	153
 心急吃不了热豆粥	xin ji chi bu liao re dou zhou	1585
 心肌挫伤	xin ji cuo shang	3
+新基地	xin ji di	111
 心几烦而不绝兮	xin ji fan er bu jue xi	2
 新机房	xin ji fang	121
 心肌肥大	xin ji fei da	53
@@ -456299,8 +456893,10 @@ sort: by_weight
 新能公司	xin neng gong si	12
 芯能科技	xin neng ke ji	165
 新能源	xin neng yuan	59290
+新能源产业基地	xin neng yuan chan ye ji di	111
 新能源车	xin neng yuan che	8812
 新能源电动汽车	xin neng yuan dian dong qi che	17
+新能源基地	xin neng yuan ji di	111
 新能源客车	xin neng yuan ke che	85
 信你	xin ni	9999
 新拟态	xin ni tai	174
@@ -457400,6 +457996,7 @@ sort: by_weight
 信息产业部电信	xin xi chan ye bu dian xin	586
 信息产业部行政复议实施办法	xin xi chan ye bu xing zheng fu yi shi shi ban fa	3
 信息产业发展	xin xi chan ye fa zhan	5805
+信息产业基地	xin xi chan ye ji di	111
 信息产业局	xin xi chan ye ju	10725
 信息产业厅	xin xi chan ye ting	12685
 信息超市	xin xi chao shi	4550
@@ -458865,6 +459462,7 @@ sort: by_weight
 幸村	xing cun	7
 杏村村	xing cun cun	2
 幸存者	xing cun zhe	21090
+幸存者基地	xing cun zhe ji di	111
 刑措不用	xing cuo bu yong	3
 型厝村	xing cuo cun	1
 刑措胜残	xing cuo sheng can	111
@@ -462841,6 +463439,7 @@ sort: by_weight
 休闲服装	xiu xian fu zhuang	9070
 休闲广场	xiu xian guang chang	8635
 休闲活动	xiu xian huo dong	8945
+休闲基地	xiu xian ji di	111
 休闲街	xiu xian jie	351
 绣线菊	xiu xian ju	1840
 休闲裤	xiu xian ku	7570
@@ -463707,7 +464306,6 @@ sort: by_weight
 畜牧学	xu mu xue	720
 畜牧养殖	xu mu yang zhi	4725
 畜牧业	xu mu ye	102830
-蓄牧业	xu mu ye	80
 畜牧者	xu mu zhe	6
 徐乃昌	xu nai chang	11
 许乃普	xu nai pu	2
@@ -464664,6 +465262,7 @@ sort: by_weight
 宣传机构	xuan chuan ji gou	1085
 宣传家	xuan chuan jia	660
 宣传教育	xuan chuan jiao yu	138055
+宣传教育基地	xuan chuan jiao yu ji di	111
 宣传局	xuan chuan ju	1100
 宣传科	xuan chuan ke	5650
 宣传口号	xuan chuan kou hao	7845
@@ -464921,6 +465520,7 @@ sort: by_weight
 宣讲员	xuan jiang yuan	590
 宣教	xuan jiao	30065
 喧叫	xuan jiao	290
+宣教基地	xuan jiao ji di	111
 癣疥之疾	xuan jie zhi ji	9999
 旋紧	xuan jin	2735
 旋进	xuan jin	965
@@ -466808,6 +467408,7 @@ sort: by_weight
 学习活动	xue xi huo dong	47625
 学习机	xue xi ji	14080
 学习记	xue xi ji	16
+学习基地	xue xi ji di	111
 学习计划	xue xi ji hua	26620
 学习机会	xue xi ji hui	13865
 学习记忆	xue xi ji yi	1275
@@ -469405,8 +470006,10 @@ sort: by_weight
 压制性	ya zhi xing	405
 压制着	ya zhi zhe	2530
 压制住	ya zhi zhu	3545
-亚种	ya zhong	5610
+押中	ya zhong	6666
+亚种	ya zhong	561
 亚中机电市场	ya zhong ji dian shi chang	17
+押中了	ya zhong le	1111
 押中题	ya zhong ti	177
 亚洲	ya zhou	500313
 压轴	ya zhou	11755
@@ -470159,9 +470762,11 @@ sort: by_weight
 研发领域	yan fa ling yu	2155
 研发能力	yan fa neng li	18455
 研发人员	yan fa ren yuan	19455
+研发生产基地	yan fa sheng chan ji di	111
 研发实力	yan fa shi li	7795
 研发投入	yan fa tou ru	14115
 研发项目	yan fa xiang mu	7335
+研发制造基地	yan fa zhi zao ji di	111
 研发中心	yan fa zhong xin	64090
 研发资金	yan fa zi jin	4670
 研发组	yan fa zu	515
@@ -470386,6 +470991,7 @@ sort: by_weight
 烟锅巴	yan guo ba	5
 雁过拔毛	yan guo ba mao	1617
 雁过长空	yan guo chang kong	6
+岩国基地	yan guo ji di	111
 雁过留声	yan guo liu sheng	3940
 言过其实	yan guo qi shi	5960
 颜国强	yan guo qiang	1
@@ -472506,6 +473112,7 @@ sort: by_weight
 艳秀	yan xiu	95
 研修班	yan xiu ban	35370
 研修费	yan xiu fei	220
+研修基地	yan xiu ji di	111
 研修生	yan xiu sheng	4095
 研修学院	yan xiu xue yuan	4485
 延续	yan xu	206810
@@ -472525,7 +473132,10 @@ sort: by_weight
 研学	yan xue	2222
 岩穴	yan xue	191
 验血单	yan xue dan	70
+研学基地	yan xue ji di	111
+研学旅行基地	yan xue lv xing ji di	111
 延雪平	yan xue ping	55
+研学实践教育基地	yan xue shi jian jiao yu ji di	111
 阎学通	yan xue tong	166
 烟熏	yan xun	53502
 严讯	yan xun	80
@@ -472914,6 +473524,7 @@ sort: by_weight
 言志胡同	yan zhi hu tong	4
 炎之呼吸	yan zhi hu xi	162
 焉知祸福	yan zhi huo fu	375
+研制基地	yan zhi ji di	111
 胭脂界粉	yan zhi jie fen	1
 研制开发	yan zhi kai fa	34585
 胭脂扣	yan zhi kou	1660
@@ -473137,6 +473748,7 @@ sort: by_weight
 样板段	yang ban duan	95
 样板费	yang ban fei	68
 样板工程	yang ban gong cheng	4765
+样板基地	yang ban ji di	111
 样板间	yang ban jian	14095
 样板路	yang ban lu	1215
 样板田	yang ban tian	26
@@ -473464,6 +474076,7 @@ sort: by_weight
 杨凤苞	yang feng bao	1
 养蜂场	yang feng chang	510
 仰峰村	yang feng cun	4
+养蜂基地	yang feng ji di	111
 洋峰农场	yang feng nong chang	1
 阳峰乡	yang feng xiang	4
 阳奉阴违	yang feng yin wei	6270
@@ -474025,6 +474638,7 @@ sort: by_weight
 养老保险制度	yang lao bao xian zhi du	10570
 羊酪莼羹	yang lao chun geng	1
 养老服务	yang lao fu wu	196
+养老基地	yang lao ji di	111
 养老基金	yang lao ji jin	8515
 养老金	yang lao jin	72375
 杨老九	yang lao jiu	172
@@ -474190,6 +474804,7 @@ sort: by_weight
 杨梅干	yang mei gan	991
 杨梅糕	yang mei gao	7
 杨梅罐头	yang mei guan tou	1232
+杨梅基地	yang mei ji di	111
 扬眉剑出鞘	yang mei jian chu qiao	1180
 杨梅坑	yang mei keng	271
 杨梅坪	yang mei ping	2
@@ -474282,6 +474897,7 @@ sort: by_weight
 养牛	yang niu	18750
 洋妞	yang niu	3075
 养牛场	yang niu chang	112
+养牛基地	yang niu ji di	111
 氧浓度	yang nong du	2160
 氧浓度监察仪	yang nong du jian cha yi	1
 洋奴	yang nu	1075
@@ -474549,6 +475165,7 @@ sort: by_weight
 养生方	yang sheng fang	615
 养生功	yang sheng gong	129
 杨生黄雀	yang sheng huang que	1
+养生基地	yang sheng ji di	111
 养生家	yang sheng jia	1380
 扬声器	yang sheng qi	97845
 扬声器关闭	yang sheng qi guan bi	3333
@@ -475184,6 +475801,7 @@ sort: by_weight
 养殖面积	yang zhi mian ji	4140
 羊脂球	yang zhi qiu	905
 养殖区	yang zhi qu	4530
+养殖示范基地	yang zhi shi fan ji di	111
 氧指数	yang zhi shu	1385
 养殖水面使用权	yang zhi shui mian shi yong quan	24
 养殖小区	yang zhi xiao qu	1770
@@ -475416,12 +476034,14 @@ sort: by_weight
 药材店	yao cai dian	660
 咬菜根	yao cai gen	50
 药材公司	yao cai gong si	216
+药材基地	yao cai ji di	111
 药材甲	yao cai jia	15
 要材料	yao cai liao	364
 药材商	yao cai shang	265
 药材市场	yao cai shi chang	437
 姚采颖	yao cai ying	14
 药材种植	yao cai zhong zhi	2855
+药材种植基地	yao cai zhong zhi ji di	111
 要惨	yao can	9999
 要残	yao can	1111
 药残	yao can	1
@@ -483309,6 +483929,7 @@ sort: by_weight
 一号船	yi hao chuan	341
 一号船闸	yi hao chuan zha	82
 一号机	yi hao ji	450
+一号基地	yi hao ji di	111
 一号立井	yi hao li jing	38
 一号路	yi hao lu	169
 一号路四号大街口	yi hao lu si hao da jie kou	2
@@ -483754,6 +484375,7 @@ sort: by_weight
 以计代战	yi ji dai zhan	1
 一级的	yi ji de	33305
 易记的	yi ji de	2385
+一基地	yi ji di	111
 一级调研员	yi ji diao yan yuan	194
 易激动	yi ji dong	2070
 一季度	yi ji du	92530
@@ -484887,6 +485509,7 @@ sort: by_weight
 一块一斤	yi kuai yi jin	6
 一块一块	yi kuai yi kuai	5230
 一快一慢	yi kuai yi man	295
+一块宅基地	yi kuai zhai ji di	111
 以快制快	yi kuai zhi kuai	111
 一款	yi kuan	500276
 衣宽带松	yi kuan dai song	1
@@ -484921,6 +485544,7 @@ sort: by_weight
 伊拉克	yi la ke	202435
 伊拉克队	yi la ke dui	2230
 伊拉克共和国	yi la ke gong he guo	9999
+伊拉克军事基地	yi la ke jun shi ji di	111
 伊拉克人	yi la ke ren	6975
 伊拉克首都巴格达	yi la ke shou du ba ge da	111
 伊拉克战争	yi la ke zhan zheng	18025
@@ -485019,6 +485643,8 @@ sort: by_weight
 一浪更比一浪高	yi lang geng bi yi lang gao	382
 伊朗国家	yi lang guo jia	1400
 伊朗核问题	yi lang he wen ti	10570
+伊朗基地	yi lang ji di	111
+伊朗军事基地	yi lang jun shi ji di	111
 伊朗年	yi lang nian	1
 伊朗人	yi lang ren	3145
 伊朗首都德黑兰	yi lang shou du de hei lan	111
@@ -485804,6 +486430,7 @@ sort: by_weight
 伊盟	yi meng	127
 艺萌管家	yi meng guan jia	23
 沂蒙黑猪新品系	yi meng hei zhu xin pin xi	1
+沂蒙红色影视基地	yi meng hong se ying shi ji di	111
 忆梦花	yi meng hua	587
 一梦华胥	yi meng hua xu	111
 沂蒙精神	yi meng jing shen	156
@@ -489412,6 +490039,7 @@ sort: by_weight
 异物志	yi wu zhi	158
 以吾之名	yi wu zhi ming	128
 义务植树	yi wu zhi shu	12445
+义务植树基地	yi wu zhi shu ji di	111
 贻误终身	yi wu zhong shen	45
 义务主体	yi wu zhu ti	1825
 一屋子	yi wu zi	6200
@@ -489440,6 +490068,7 @@ sort: by_weight
 易熄火	yi xi huo	1658
 乙烯基	yi xi ji	5225
 依稀记得	yi xi ji de	5000
+乙烯基地毯	yi xi ji di tan	111
 乙烯基酯	yi xi ji zhi	1885
 以西结	yi xi jie	1080
 以西结书	yi xi jie shu	385
@@ -491397,8 +492026,8 @@ sort: by_weight
 一只手	yi zhi shou	51825
 意志受挫	yi zhi shou cuo	10
 移植手术	yi zhi shou shu	5340
-移植术	yi zhi shu	4765
-已知数	yi zhi shu	420
+移植术	yi zhi shu	476
+已知数	yi zhi shu	42
 异指双爪虾属	yi zhi shuang zhao xia shu	1
 抑制素	yi zhi su	25
 意之所不能察致者	yi zhi suo bu neng cha zhi zhe	1
@@ -496020,6 +496649,7 @@ sort: by_weight
 应急机制	ying ji ji zhi	11665
 硬棘坚体吸虫	ying ji jian ti xi chong	1
 应急救援	ying ji jiu yuan	45515
+应急救援基地	ying ji jiu yuan ji di	111
 应急救助	ying ji jiu zhu	107
 英吉利	ying ji li	2225
 英吉丽	ying ji li	1
@@ -496768,6 +497398,7 @@ sort: by_weight
 影视合集	ying shi he ji	1350
 影视合辑	ying shi he ji	168
 鹰视虎步	ying shi hu bu	2
+影视基地	ying shi ji di	111
 应试教育	ying shi jiao yu	34055
 影视界	ying shi jie	4870
 营市街街道	ying shi jie jie dao	19
@@ -496781,6 +497412,7 @@ sort: by_weight
 应是绿肥红瘦	ying shi lv fei hong shou	6
 影视明星	ying shi ming xing	7605
 英氏莫鲻	ying shi mo zi	1
+影视拍摄基地	ying shi pai she ji di	111
 影视片	ying shi pian	4295
 影视频道	ying shi pin dao	9260
 影视圈	ying shi quan	6880
@@ -496791,6 +497423,7 @@ sort: by_weight
 影视网站	ying shi wang zhan	450
 英氏纹唇鱼	ying shi wen chun yu	1
 影视文化	ying shi wen hua	6095
+影视文化产业基地	ying shi wen hua chan ye ji di	111
 英式西班牙种小猎犬	ying shi xi ban ya zhong xiao lie quan	1
 应是西陵古驿台	ying shi xi ling gu yi tai	1
 英氏狭鰕虎鱼	ying shi xia xia hu yu	1
@@ -496907,6 +497540,7 @@ sort: by_weight
 樱桃虎天牛	ying tao hu tian niu	1
 樱桃胡同	ying tao hu tong	11
 樱桃鸡	ying tao ji	30
+樱桃基地	ying tao ji di	111
 樱桃剑纹夜蛾	ying tao jian wen ye e	1
 樱桃介壳虫	ying tao jie ke chong	1
 樱桃金龟子	ying tao jin gui zi	1
@@ -497600,6 +498234,7 @@ sort: by_weight
 应用商店	ying yong shang dian	3540
 应用生成器	ying yong sheng cheng qi	21
 应用市场	ying yong shi chang	1824
+应用示范基地	ying yong shi fan ji di	111
 应用实例	ying yong shi li	12245
 应用数学	ying yong shu xue	13725
 应用题	ying yong ti	23240
@@ -498659,6 +499294,7 @@ sort: by_weight
 永久奋斗	yong jiu fen dou	189
 永久故障	yong jiu gu zhang	28
 永久化	yong jiu hua	520
+永久基地	yong jiu ji di	111
 永久禁言	yong jiu jin yan	188
 永久举办地	yong jiu ju ban di	111
 永久居所	yong jiu ju suo	90
@@ -498778,10 +499414,11 @@ sort: by_weight
 庸碌	yong lu	3245
 甬路	yong lu	99
 拥炉开酒缸	yong lu kai jiu gang	1
+用吗	yong ma	9999
 用买	yong mai	5695
-永茂	yong mao	2955
 泳帽	yong mao	1745
 拥旄	yong mao	80
+# 永茂	yong mao	0
 用毛笔	yong mao bi	3925
 用毛巾	yong mao jin	9120
 用毛巾擦	yong mao jin ca	735
@@ -499859,6 +500496,7 @@ sort: by_weight
 有才干的	you cai gan de	1585
 有才华	you cai hua	11225
 油菜花	you cai hua	11215
+油菜花基地	you cai hua ji di	111
 油菜花开	you cai hua kai	128
 油菜花田	you cai hua tian	121
 油菜灰地种蝇	you cai hui di zhong ying	1
@@ -499897,6 +500535,7 @@ sort: by_weight
 油茶炒面	you cha chao mian	6
 有差错	you cha cuo	1455
 尤茶黑鸡	you cha hei ji	1
+油茶基地	you cha ji di	111
 有差距	you cha ju	9890
 有差吗	you cha ma	9999
 油茶面	you cha mian	150
@@ -504371,6 +505010,7 @@ sort: by_weight
 游戏程序	you xi cheng xu	4815
 游戏充值	you xi chong zhi	120
 油溪村	you xi cun	7
+游戏打得烂	you xi da de lan	111
 游戏达人	you xi da ren	173
 游戏大厅	you xi da ting	5490
 游戏的一部分	you xi de yi bu fen	100
@@ -504473,6 +505113,7 @@ sort: by_weight
 游戏网站	you xi wang zhan	5250
 游戏文字	you xi wen zi	27
 游戏下载	you xi xia zai	24140
+游戏下载基地	you xi xia zai ji di	111
 游戏下载中心	you xi xia zai zhong xin	100
 尤溪县	you xi xian	2520
 尤溪县公安局	you xi xian gong an ju	176
@@ -505034,6 +505675,7 @@ sort: by_weight
 优秀球员	you xiu qiu yuan	1070
 优秀人才	you xiu ren cai	84800
 优秀生	you xiu sheng	5495
+优秀生源基地	you xiu sheng yuan ji di	111
 优秀团干	you xiu tuan gan	1735
 优秀团员	you xiu tuan yuan	11855
 优秀文化	you xiu wen hua	24225
@@ -506097,6 +506739,7 @@ sort: by_weight
 油纸伞	you zhi san	2690
 有至少	you zhi shao	4490
 优质生活	you zhi sheng huo	116
+优质生源基地	you zhi sheng yuan ji di	111
 有知识	you zhi shi	13480
 有指示	you zhi shi	710
 优质铜制细剑	you zhi tong zhi xi jian	1
@@ -508436,6 +509079,7 @@ sort: by_weight
 鱼苗	yu miao	12540
 育苗场	yu miao chang	790
 育苗厂	yu miao chang	145
+育苗基地	yu miao ji di	111
 语妙绝伦	yu miao jue lun	1
 鱼苗开口	yu miao kai kou	23
 余妙绕梁	yu miao rao liang	1
@@ -510799,6 +511443,7 @@ sort: by_weight
 与中国	yu zhong guo	247515
 与中华	yu zhong hua	91500
 雨中黄叶树	yu zhong huang ye shu	10
+育种基地	yu zhong ji di	111
 雨中即景	yu zhong ji jing	210
 昱中街道	yu zhong jie dao	3
 与众乐	yu zhong le	30
@@ -511963,9 +512608,11 @@ sort: by_weight
 原料厂	yuan liao chang	1140
 原料场	yuan liao chang	410
 原料成本	yuan liao cheng ben	4895
+原料基地	yuan liao ji di	111
 原料价格	yuan liao jia ge	6685
 原料来源	yuan liao lai yuan	5620
 原料类	yuan liao lei	38
+原料生产基地	yuan liao sheng chan ji di	111
 原料市场	yuan liao shi chang	2630
 原料消耗	yuan liao xiao hao	565
 原料性	yuan liao xing	485
@@ -516103,6 +516750,7 @@ sort: by_weight
 运动化	yun dong hua	1820
 运动会	yun dong hui	87525
 运动会奖牌	yun dong hui jiang pai	3333
+运动基地	yun dong ji di	111
 运动机构	yun dong ji gou	685
 运动技能	yun dong ji neng	3950
 运动技术	yun dong ji shu	2800
@@ -516353,6 +517001,7 @@ sort: by_weight
 蕴积	yun ji	1035
 云髻罢梳还对镜	yun ji ba shu hai dui jing	1
 云集村	yun ji cun	4
+云基地	yun ji di	111
 蕴藉风流	yun ji feng liu	1
 云集景从	yun ji jing cong	1
 云集景附	yun ji jing fu	1
@@ -517138,6 +517787,7 @@ sort: by_weight
 云影冠	yun ying guan	1
 运营管理	yun ying guan li	24960
 云影护臂	yun ying hu bi	1
+运营基地	yun ying ji di	111
 云影路	yun ying lu	11
 运营权	yun ying quan	2460
 运营群	yun ying qun	301
@@ -519310,6 +519960,7 @@ sort: by_weight
 在陪	zai pei	2740
 栽培法	zai pei fa	770
 再配合	zai pei he	11260
+栽培基地	zai pei ji di	111
 栽培技术	zai pei ji shu	36930
 栽培品种	zai pei pin zhong	1695
 栽培学	zai pei xue	2595
@@ -521328,6 +521979,7 @@ sort: by_weight
 造船厂	zao chuan chang	13635
 造船公司	zao chuan gong si	1040
 造船工业	zao chuan gong ye	2365
+造船基地	zao chuan ji di	111
 早川濑里奈	zao chuan lai li nai	6666
 早穿毛裘午穿纱	zao chuan mao qiu wu chuan sha	1180
 早川秋	zao chuan qiu	135
@@ -522976,6 +523628,7 @@ sort: by_weight
 增修	zeng xiu	2700
 缯絮足御寒	zeng xu zu yu han	1
 增选	zeng xuan	8555
+增雪弹	zeng xue dan	111
 增压	zeng ya	19035
 增压泵	zeng ya beng	2125
 增压器	zeng ya qi	9815
@@ -523199,7 +523852,9 @@ sort: by_weight
 炸凤尾明虾	zha feng wei ming xia	1
 炸凤尾鱼	zha feng wei yu	38
 炸佛手通脊	zha fo shou tong ji	3
+炸服	zha fu	1111
 乍富不知新受用	zha fu bu zhi xin shou yong	1
+炸服了	zha fu le	111
 扎嘎斯台镇	zha ga si tai zhen	3
 榨干	zha gan	3905
 闸杆	zha gan	815
@@ -523676,10 +524331,29 @@ sort: by_weight
 摘记	zhai ji	1120
 宅急便	zhai ji bian	1300
 宅基地	zhai ji di	57691
+宅基地补偿	zhai ji di bu chang	111
 宅基地法律问题	zhai ji di fa lv wen ti	2
+宅基地分配	zhai ji di fen pei	111
+宅基地复垦	zhai ji di fu ken	111
+宅基地改革	zhai ji di gai ge	111
+宅基地管理	zhai ji di guan li	111
+宅基地建房	zhai ji di jian fang	111
 宅基地纠纷	zhai ji di jiu fen	536
+宅基地流转	zhai ji di liu zhuan	111
+宅基地面积	zhai ji di mian ji	111
+宅基地确权	zhai ji di que quan	111
+宅基地上房屋	zhai ji di shang fang wu	111
+宅基地审批	zhai ji di shen pi	111
+宅基地申请	zhai ji di shen qing	111
 宅基地使用权	zhai ji di shi yong quan	7828
+宅基地使用权人	zhai ji di shi yong quan ren	111
+宅基地使用证	zhai ji di shi yong zheng	111
+宅基地所有权	zhai ji di suo you quan	111
+宅基地闲置	zhai ji di xian zhi	111
+宅基地有偿退出	zhai ji di you chang tui chu	111
 宅基地证	zhai ji di zheng	386
+宅基地制度	zhai ji di zhi du	111
+宅基地制度改革	zhai ji di zhi du gai ge	111
 宅急送	zhai ji song	6565
 宅家	zhai jia	9999
 # 债家	zhai jia	0
@@ -524444,6 +525118,7 @@ sort: by_weight
 战略核武器	zhan lve he wu qi	870
 战略合作	zhan lve he zuo	63015
 战略伙伴	zhan lve huo ban	21720
+战略基地	zhan lve ji di	111
 战略计划	zhan lve ji hua	7610
 战略机遇	zhan lve ji yu	3550
 战略机遇期	zhan lve ji yu qi	137
@@ -524694,6 +525369,7 @@ sort: by_weight
 展示会	zhan shi hui	16810
 展示会上	zhan shi hui shang	1615
 展示活动	zhan shi huo dong	11960
+展示基地	zhan shi ji di	111
 展示架	zhan shi jia	7190
 占世界	zhan shi jie	27155
 詹氏锦鱼	zhan shi jin yu	1
@@ -524906,6 +525582,7 @@ sort: by_weight
 沾血	zhan xue	965
 毡靴	zhan xue	370
 展讯	zhan xun	216
+战训基地	zhan xun ji di	111
 展演	zhan yan	16870
 詹言曲说	zhan yan qu shuo	1
 展眼舒眉	zhan yan shu mei	111
@@ -525376,6 +526053,7 @@ sort: by_weight
 长得像	zhang de xiang	10255
 胀得像	zhang de xiang	110
 涨得像	zhang de xiang	90
+长得像我	zhang de xiang wo	111
 张德馨	zhang de xin	1
 掌灯	zhang deng	2395
 张灯结彩	zhang deng jie cai	5560
@@ -525452,9 +526130,9 @@ sort: by_weight
 长痱子	zhang fei zi	560
 涨粉	zhang fen	111
 张奋强	zhang fen qiang	179
+涨疯	zhang feng	8888
 掌风	zhang feng	6510
-涨风	zhang feng	2999
-张丰	zhang feng	1760
+# 张丰	zhang feng	0
 张丰毅	zhang feng yi	408
 张凤翼	zhang feng yi	3
 章缝镇	zhang feng zhen	160
@@ -532021,31 +532699,32 @@ sort: by_weight
 真少	zhen shao	1165
 真少见	zhen shao jian	190
 震慑	zhen she	25955
-珍摄	zhen she	999
+珍摄	zhen she	2
 震慑力	zhen she li	2445
 真蛇尾目	zhen she wei mu	1
 真身	zhen shen	10725
 真神	zhen shen	9450
 甄审	zhen shen	435
 枕神经痛	zhen shen jing tong	3
-振声	zhen sheng	3190
-振生	zhen sheng	2170
+真生	zhen sheng	111
+# 振声	zhen sheng	0
+# 振生	zhen sheng	0
 真省钱	zhen sheng qian	149
 真省事	zhen sheng shi	111
 真是	zhen shi	500467
-真实	zhen shi	500362
+真实	zhen shi	50036
 珍视	zhen shi	22740
 阵势	zhen shi	19465
 诊室	zhen shi	13230
-针式	zhen shi	4985
 真事	zhen shi	4455
 阵式	zhen shi	2950
 真使	zhen shi	2130
 诊视	zhen shi	955
 甄试	zhen shi	865
+针式	zhen shi	498
 针石	zhen shi	455
-真释	zhen shi	55
 砧石	zhen shi	1
+# 真释	zhen shi	0
 真实案件	zhen shi an jian	111
 真实成本	zhen shi cheng ben	720
 真实出处	zhen shi chu chu	4400
@@ -532074,6 +532753,8 @@ sort: by_weight
 真实戒指	zhen shi jie zhi	1
 真实经历	zhen shi jing li	2885
 真实可信	zhen shi ke xin	5105
+真是没完没了	zhen shi mei wan mei liao	111
+真是没完没了啊	zhen shi mei wan mei liao a	111
 真是没想到	zhen shi mei xiang dao	187
 真实面目	zhen shi mian mu	124
 珍视明滴眼液	zhen shi ming di yan ye	5
@@ -532921,6 +533602,7 @@ sort: by_weight
 整车厂	zheng che chang	3775
 整车货物	zheng che huo wu	780
 整车及零部件	zheng che ji ling bu jian	1913
+整车生产基地	zheng che sheng chan ji di	111
 争车位	zheng che wei	2209
 征尘	zheng chen	1455
 争臣	zheng chen	295
@@ -535777,10 +536459,12 @@ sort: by_weight
 智伯	zhi bo	1485
 指拨	zhi bo	505
 直拨电话	zhi bo dian hua	9550
+直播电商基地	zhi bo dian shang ji di	111
 直播行业	zhi bo hang ye	106
 制博会	zhi bo hui	2640
 直播活动	zhi bo huo dong	192
 直播季	zhi bo ji	123
+直播基地	zhi bo ji di	111
 直播吉林	zhi bo ji lin	1
 直播技术	zhi bo ji shu	127
 直播间	zhi bo jian	5150
@@ -535990,7 +536674,7 @@ sort: by_weight
 职称英语	zhi cheng ying yu	15780
 职称英语考试政策	zhi cheng ying yu kao shi zheng ce	17
 支撑着	zhi cheng zhe	23530
-轵城镇	zhi cheng zhen	145
+轵城镇	zhi cheng zhen	1
 指成之间	zhi cheng zhi jian	1
 支撑住	zhi cheng zhu	1510
 支撑组	zhi cheng zu	63
@@ -537211,6 +537895,7 @@ sort: by_weight
 止汗药	zhi han yao	40
 支行	zhi hang	185290
 直航	zhi hang	12205
+志航基地	zhi hang ji di	111
 只好	zhi hao	438440
 治好	zhi hao	34235
 之好	zhi hao	10425
@@ -537635,6 +538320,7 @@ sort: by_weight
 直角二角形	zhi jiao er jiao xing	1
 栉角滑大蚊	zhi jiao hua da wen	1
 酯交换	zhi jiao huan	38
+职教基地	zhi jiao ji di	111
 直角颊光鱼	zhi jiao jia guang yu	1
 直角肩	zhi jiao jian	130
 支教老师	zhi jiao lao shi	105
@@ -538638,6 +539324,7 @@ sort: by_weight
 指明方向	zhi ming fang xiang	3245
 致命感应	zhi ming gan ying	172
 致命华彩	zhi ming hua cai	176
+致命换弹	zhi ming huan dan	111
 知命乐天	zhi ming le tian	111
 至明年	zhi ming nian	2610
 知名品牌	zhi ming pin pai	99090
@@ -538823,6 +539510,8 @@ sort: by_weight
 只能在	zhi neng zai	125060
 智能障碍	zhi neng zhang ai	209
 只能这样了	zhi neng zhe yang le	2840
+智能制造产业基地	zhi neng zhi zao chan ye ji di	111
+智能制造基地	zhi neng zhi zao ji di	111
 智能指针	zhi neng zhi zhen	4972
 智能终端	zhi neng zhong duan	3835
 智能助理	zhi neng zhu li	118
@@ -540216,12 +540905,12 @@ sort: by_weight
 直线族	zhi xian zu	20
 只想	zhi xiang	307905
 指向	zhi xiang	201345
-之乡	zhi xiang	86895
 纸箱	zhi xiang	46260
 志向	zhi xiang	41225
+只向	zhi xiang	11180
 之想	zhi xiang	6440
-直响	zhi xiang	6300
-只向	zhi xiang	1180
+之乡	zhi xiang	4689
+直响	zhi xiang	3300
 之相	zhi xiang	2
 # 志祥	zhi xiang	0
 # 志翔	zhi xiang	0
@@ -540721,6 +541410,7 @@ sort: by_weight
 职业健康与安全	zhi ye jian kang yu an quan	731
 职业教育	zhi ye jiao yu	270340
 职业教育法	zhi ye jiao yu fa	4525
+职业教育实训基地	zhi ye jiao yu shi xun ji di	111
 职业介绍	zhi ye jie shao	56880
 职业介绍所	zhi ye jie shao suo	8435
 职业介绍中心	zhi ye jie shao zhong xin	276
@@ -541047,6 +541737,7 @@ sort: by_weight
 止园饭店	zhi yuan fan dian	32
 至远方	zhi yuan fang	280
 志愿服务	zhi yuan fu wu	71405
+志愿服务基地	zhi yuan fu wu ji di	111
 致远高中	zhi yuan gao zhong	168
 致远钩深	zhi yuan gou shen	1
 支援舰	zhi yuan jian	175
@@ -541158,6 +541849,7 @@ sort: by_weight
 制造火焰石	zhi zao huo yan shi	1
 制造机	zhi zao ji	3080
 制造基地	zhi zao ji di	13750
+智造基地	zhi zao ji di	111
 制造技术	zhi zao ji shu	42735
 制造极效法术石	zhi zao ji xiao fa shu shi	1
 制造极效火焰石	zhi zao ji xiao huo yan shi	1
@@ -541202,6 +541894,7 @@ sort: by_weight
 制造谣言	zhi zao yao yan	650
 制造业	zhi zao ye	367240
 制造业厂	zhi zao ye chang	215
+制造业基地	zhi zao ye ji di	111
 制造业者	zhi zao ye zhe	1095
 制造有限公司	zhi zao you xian gong si	56320
 制造舆论	zhi zao yu lun	1510
@@ -541434,6 +542127,7 @@ sort: by_weight
 止中	zhi zhong	3
 知重负重	zhi zhong fu zhong	149
 致中国	zhi zhong guo	1545
+制种基地	zhi zhong ji di	111
 治肿瘤	zhi zhong liu	275
 趾踵相错	zhi zhong xiang cuo	1
 趾踵相接	zhi zhong xiang jie	1
@@ -541630,6 +542324,7 @@ sort: by_weight
 制作工艺	zhi zuo gong yi	43870
 只做过	zhi zuo guo	12
 制作过程	zhi zuo guo cheng	30210
+制作基地	zhi zuo ji di	111
 只做记录	zhi zuo ji lu	68
 制作技术	zhi zuo ji shu	23325
 制作家	zhi zuo jia	555
@@ -542107,6 +542802,7 @@ sort: by_weight
 重大选题备案制	zhong da xuan ti bei an zhi	25
 中大颐和湾	zhong da yi he wan	2
 重大疫情	zhong da yi qing	140
+重大疫情救治基地	zhong da yi qing jiu zhi ji di	111
 重大意义	zhong da yi yi	48575
 中大银泰	zhong da yin tai	147
 重大影响	zhong da ying xiang	41765
@@ -542272,6 +542968,7 @@ sort: by_weight
 中电广通	zhong dian guang tong	77
 重点行业	zhong dian hang ye	23365
 重点户	zhong dian hu	920
+重点基地	zhong dian ji di	111
 重点建设	zhong dian jian she	45910
 重点建设项目	zhong dian jian she xiang mu	19500
 重点讲义民事诉讼法	zhong dian jiang yi min shi su song fa	13
@@ -542316,6 +543013,7 @@ sort: by_weight
 重点校	zhong dian xiao	9999
 重点学科	zhong dian xue ke	38760
 重点学校	zhong dian xue xiao	9580
+重点研究基地	zhong dian yan jiu ji di	111
 中甸叶须鱼	zhong dian ye xu yu	1
 中甸叶须鱼中甸	zhong dian ye xu yu zhong dian	1
 中点伊蚊	zhong dian yi wen	1
@@ -542667,6 +543365,7 @@ sort: by_weight
 中共武安市委	zhong gong wu an shi wei	5
 中共厦门市委	zhong gong xia men shi wei	111
 重工业	zhong gong ye	28225
+重工业基地	zhong gong ye ji di	111
 中共一大	zhong gong yi da	1380
 中共预备党员	zhong gong yu bei dang yuan	2840
 中共政府	zhong gong zheng fu	195
@@ -545173,6 +545872,8 @@ sort: by_weight
 终免	zhong mian	230
 种棉花	zhong mian hua	1520
 种苗	zhong miao	60050
+种苗繁育基地	zhong miao fan yu ji di	111
+种苗基地	zhong miao ji di	111
 中庙街道	zhong miao jie dao	18
 众妙之门	zhong miao zhi men	1125
 中民	zhong min	5715
@@ -545713,6 +546414,7 @@ sort: by_weight
 中石化	zhong shi hua	57660
 中式婚礼	zhong shi hun li	143
 中世纪	zhong shi ji	49380
+中试基地	zhong shi ji di	111
 中世纪时	zhong shi ji shi	630
 中世纪史	zhong shi ji shi	490
 中世纪西欧骑士制度	zhong shi ji xi ou qi shi zhi du	7
@@ -546767,6 +547469,7 @@ sort: by_weight
 中央政治局	zhong yang zheng zhi ju	23030
 中央政治局常委	zhong yang zheng zhi ju chang wei	5830
 中央政治局委员	zhong yang zheng zhi ju wei yuan	8575
+种养殖基地	zhong yang zhi ji di	111
 中央直属	zhong yang zhi shu	8510
 中央主楼	zhong yang zhu lou	7
 中央主席	zhong yang zhu xi	4870
@@ -546785,8 +547488,10 @@ sort: by_weight
 重要部分	zhong yao bu fen	16720
 重要步骤	zhong yao bu zhou	6545
 中药材	zhong yao cai	87425
+中药材基地	zhong yao cai ji di	111
 中药材生产质量管理规范	zhong yao cai sheng chan zhi liang guan li gui fan	416
 中药材生产质量管理规范认证管理办法	zhong yao cai sheng chan zhi liang guan li gui fan ren zheng guan li ban fa	19
+中药材种植基地	zhong yao cai zhong zhi ji di	111
 中药产业	zhong yao chan ye	5325
 中药厂	zhong yao chang	4235
 重要场所	zhong yao chang suo	8265
@@ -546834,6 +547539,7 @@ sort: by_weight
 重要经验	zhong yao jing yan	4235
 重要举措	zhong yao ju cuo	54890
 重要角色	zhong yao jue se	15715
+重要军事基地	zhong yao jun shi ji di	111
 重要课题	zhong yao ke ti	18435
 重药控股	zhong yao kong gu	125
 重要力量	zhong yao li liang	29605
@@ -547313,6 +548019,7 @@ sort: by_weight
 中止审理	zhong zhi shen li	1810
 终止审理	zhong zhi shen li	1415
 终止生效时间	zhong zhi sheng xiao shi jian	1
+种植示范基地	zhong zhi shi fan ji di	111
 终止时间	zhong zhi shi jian	2570
 中止诉讼	zhong zhi su song	3460
 中止谈判	zhong zhi tan pan	288
@@ -547386,6 +548093,7 @@ sort: by_weight
 中转港	zhong zhuan gang	1415
 中转工具	zhong zhuan gong ju	75
 中转行	zhong zhuan hang	340
+中转基地	zhong zhuan ji di	111
 中专家	zhong zhuan jia	80
 中转联程	zhong zhuan lian cheng	9999
 中转平台	zhong zhuan ping tai	75
@@ -547431,6 +548139,7 @@ sort: by_weight
 中资股	zhong zi gu	1055
 种子管理条例	zhong zi guan li tiao li	251
 中子轰击	zhong zi hong ji	225
+种子基地	zhong zi ji di	111
 种子基金	zhong zi ji jin	825
 种子检验	zhong zi jian yan	3110
 中子流	zhong zi liu	140
@@ -549570,6 +550279,7 @@ sort: by_weight
 朱瀚	zhu han	1
 助焊剂	zhu han ji	8070
 驻韩美军	zhu han mei jun	1800
+驻韩美军基地	zhu han mei jun ji di	111
 主函数	zhu han shu	21315
 逐行	zhu hang	5635
 助航	zhu hang	2235
@@ -549685,6 +550395,7 @@ sort: by_weight
 主计处	zhu ji chu	510
 助记词	zhu ji ci	110
 煮鸡蛋	zhu ji dan	15864
+主基地	zhu ji di	111
 主机地址	zhu ji di zhi	4490
 主基调	zhu ji diao	164
 朱继东	zhu ji dong	193
@@ -550465,6 +551176,7 @@ sort: by_weight
 助跑	zhu pao	7355
 主炮	zhu pao	5160
 朱培德	zhu pei de	20
+住培基地	zhu pei ji di	111
 朱彭	zhu peng	1
 猪朋狗友	zhu peng gou you	111
 朱彭年	zhu peng nian	1
@@ -550628,6 +551340,7 @@ sort: by_weight
 朱日和镇	zhu ri he zhen	15
 逐日花	zhu ri hua	3333
 驻日美军	zhu ri mei jun	1770
+驻日美军基地	zhu ri mei jun ji di	111
 注日期	zhu ri qi	589
 主日学	zhu ri xue	545
 逐日之弓	zhu ri zhi gong	129
@@ -551549,6 +552262,7 @@ sort: by_weight
 主要股东	zhu yao gu dong	7725
 主要还是	zhu yao hai shi	36130
 主要货币	zhu yao huo bi	4750
+主要基地	zhu yao ji di	111
 主要机构	zhu yao ji gou	2180
 主要技术	zhu yao ji shu	61865
 主要价值	zhu yao jia zhi	1230
@@ -551585,6 +552299,7 @@ sort: by_weight
 主要人物	zhu yao ren wu	10565
 主要人员	zhu yao ren yuan	4630
 主要商业银行	zhu yao shang ye yin hang	111
+主要生产基地	zhu yao sheng chan ji di	111
 主要是	zhu yao shi	500434
 主要市场	zhu yao shi chang	24170
 主要事迹	zhu yao shi ji	2775
@@ -551962,6 +552677,7 @@ sort: by_weight
 住宅地	zhu zhai di	625
 住宅电话	zhu zhai dian hua	5910
 住宅房	zhu zhai fang	4680
+住宅基地	zhu zhai ji di	111
 住宅价格	zhu zhai jia ge	5370
 住宅建设	zhu zhai jian she	18020
 住宅建筑	zhu zhai jian zhu	17370
@@ -552661,6 +553377,7 @@ sort: by_weight
 转化	zhuan hua	281820
 转化成	zhuan hua cheng	42525
 转化工作	zhuan hua gong zuo	5910
+转化基地	zhuan hua ji di	111
 转化基因	zhuan hua ji yin	2
 转化率	zhuan hua lv	14005
 转化酶	zhuan hua mei	1245
@@ -553520,6 +554237,7 @@ sort: by_weight
 专业化银行制	zhuan ye hua yin hang zhi	5
 专业活动	zhuan ye huo dong	1665
 专业级	zhuan ye ji	22730
+专业基地	zhuan ye ji di	111
 专业技能	zhuan ye ji neng	57095
 专业技能培训	zhuan ye ji neng pei xun	3185
 专业技巧	zhuan ye ji qiao	1470
@@ -553884,7 +554602,9 @@ sort: by_weight
 装备网	zhuang bei wang	581
 装备维修	zhuang bei wei xiu	1450
 装备着	zhuang bei zhe	1260
+装备制造基地	zhuang bei zhi zao ji di	111
 装备制造业	zhuang bei zhi zao ye	37735
+装备制造业基地	zhuang bei zhi zao ye ji di	111
 装备主体	zhuang bei zhu ti	1
 装逼	zhuang bi	9999
 装逼侠	zhuang bi xia	102
@@ -556030,6 +556750,7 @@ sort: by_weight
 自带杯	zi dai bei	137
 子带编码	zi dai bian ma	42
 子代病毒	zi dai bing du	65
+自带的	zi dai de	111
 自带空调	zi dai kong tiao	111
 自带滤镜	zi dai lv jing	121
 子代细胞	zi dai xi bao	195
@@ -557649,6 +558370,7 @@ sort: by_weight
 自然会	zi ran hui	65255
 自然集中	zi ran ji zhong	15
 自然交配	zi ran jiao pei	485
+自然教育基地	zi ran jiao yu ji di	111
 自然界	zi ran jie	83435
 自然景观	zi ran jing guan	51465
 自然经济	zi ran jing ji	7200
@@ -558948,6 +559670,7 @@ sort: by_weight
 自愿互利	zi yuan hu li	1185
 资源环境	zi yuan huan jing	25615
 资源汇总	zi yuan hui zong	479
+资源基地	zi yuan ji di	111
 资源计划	zi yuan ji hua	3220
 资源记录	zi yuan ji lu	1200
 资源记录集	zi yuan ji lu ji	10
@@ -559414,6 +560137,8 @@ sort: by_weight
 总不甘	zong bu gan	15
 总部胡同	zong bu hu tong	14
 总不会	zong bu hui	6975
+总部基地	zong bu ji di	111
+总部基地项目	zong bu ji di xiang mu	111
 总不见	zong bu jian	1120
 总部经济	zong bu jing ji	9275
 总布局	zong bu ju	145
@@ -559761,6 +560486,7 @@ sort: by_weight
 综合活动	zong he huo dong	2100
 总合计	zong he ji	579
 综合基础	zong he ji chu	3295
+综合基地	zong he ji di	111
 综合计划	zong he ji hua	2680
 综合技术服务业	zong he ji shu fu wu ye	296
 综合计算工时制	zong he ji suan gong shi zhi	403
@@ -559783,6 +560509,7 @@ sort: by_weight
 综合垦殖场	zong he ken zhi chang	6
 综合类	zong he lei	38105
 综合利用	zong he li yong	85855
+综合利用基地	zong he li yong ji di	111
 综合利用率	zong he li yong lv	6725
 综合练习	zong he lian xi	6410
 棕褐猎椿象	zong he lie chun xiang	1
@@ -559808,6 +560535,7 @@ sort: by_weight
 综合生产能力	zong he sheng chan neng li	5360
 总和生育率	zong he sheng yu lv	2340
 综合市场	zong he shi chang	2595
+综合实践基地	zong he shi jian ji di	111
 综合实力	zong he shi li	59410
 综合数据	zong he shu ju	2460
 综合税	zong he shui	35
@@ -559842,6 +560570,7 @@ sort: by_weight
 综合性能	zong he xing neng	14175
 综合性医院	zong he xing yi yuan	7580
 综合学科	zong he xue ke	2260
+综合训练基地	zong he xun lian ji di	111
 综合研究	zong he yan jiu	9750
 综合业务	zong he ye wu	14610
 综合业务数字网	zong he ye wu shu zi wang	2415
@@ -559942,6 +560671,7 @@ sort: by_weight
 总集成	zong ji cheng	64
 总计达	zong ji da	2025
 总计达到	zong ji da dao	860
+总基地	zong ji di	111
 总机构	zong ji gou	8810
 总机关	zong ji guan	725
 踪迹诡秘	zong ji gui mi	1
@@ -560641,6 +561371,7 @@ sort: by_weight
 总装厂	zong zhuang chang	920
 总状花序	zong zhuang hua xu	1650
 总装机	zong zhuang ji	13105
+总装基地	zong zhuang ji di	111
 总装配	zong zhuang pei	425
 总装配厂	zong zhuang pei chang	120
 总装线	zong zhuang xian	1380
@@ -561647,6 +562378,7 @@ sort: by_weight
 足球城	zu qiu cheng	625
 足球大赛	zu qiu da sai	770
 足球队	zu qiu dui	36230
+足球基地	zu qiu ji di	111
 足球甲级联赛	zu qiu jia ji lian sai	1505
 足球界	zu qiu jie	2355
 足球锦标赛	zu qiu jin biao sai	2345
@@ -561669,6 +562401,7 @@ sort: by_weight
 足球小将	zu qiu xiao jiang	2195
 足球鞋	zu qiu xie	3590
 足球选手	zu qiu xuan shou	265
+足球训练基地	zu qiu xun lian ji di	111
 足球越位	zu qiu yue wei	180
 足球运动	zu qiu yun dong	7185
 足球运动员	zu qiu yun dong yuan	5295
@@ -562308,6 +563041,7 @@ sort: by_weight
 最大乘积	zui da cheng ji	473
 最大尺寸	zui da chi cun	4730
 最大的努力	zui da de nu li	162
+最大的生产基地	zui da de sheng chan ji di	111
 最大的一笔	zui da de yi bi	100
 最大的一次	zui da de yi ci	100
 最大的一点	zui da de yi dian	100
@@ -563906,6 +564640,8 @@ sort: by_weight
 最主要的	zui zhu yao de	128270
 最主要的一点	zui zhu yao de yi dian	100
 最主要是	zui zhu yao shi	303
+最赚	zui zhuan	3333
+最赚的	zui zhuan de	3333
 最赚钱	zui zhuan qian	12380
 最专一	zui zhuan yi	105
 罪状	zui zhuang	13305
