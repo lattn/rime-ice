@@ -13,13 +13,13 @@
 
 # 方案说明
 schema:
-  schema_id: double_pinyin
-  name: 自然码双拼
+  schema_id: double_pinyin_mspy
+  name: 微软双拼
   version: "1"
   author:
     - Dvel
   description: |
-    雾凇拼音 - 自然码双拼
+    雾凇拼音 - 微软双拼
     https://github.com/iDvel/rime-ice
   dependencies:
     - melt_eng  # 英文输入，作为次翻译器挂载到拼音方案
@@ -98,7 +98,7 @@ reduce_english_filter:
   # 降低到第 idx 个位置
   idx: 2
   # 要降低的单词，匹配的是输入码，即全小写。
-  words: [nav,
+  words: [nav, 
   rug, bus, ship, laos, bail, bam, bans, bib, bos, chic, chit, dab, dag,
   dal, dit, dub, dug, fab, gam, ger, gus, hem, hep, hud, kat, lam, lax, lex, lug,
   lux, moc, mos, mot, mum, nad, nay, nib, nip, pak, pap, pax, rig, rum, sac, sal,
@@ -114,19 +114,23 @@ grammar:
 # 主翻译器，拼音
 translator:
   dictionary: rime_ice          # 挂载词库 rime_ice.dict.yaml
-  prism: double_pinyin          # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
+  prism: double_pinyin_mspy     # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
   contextual_suggestions: true  # 开启八股文
   initial_quality: 1.2          # 拼音的权重应该比英文大
   preedit_format:               # preedit_format 影响到输入框的显示和“Shift+回车”上屏的字符
+    - xform/([aoe])(\w)/0$2/
     - xform/([bpmnljqxy])n/$1in/
     - xform/(\w)g/$1eng/
     - xform/(\w)q/$1iu/
     - xform/([gkhvuirzcs])w/$1ua/
     - xform/(\w)w/$1ia/
     - xform/([dtnlgkhjqxyvuirzcs])r/$1uan/
+    - xform/0r/er/
+    - xform/([dtgkhvuirzcs])v/$1ui/
+    - xform/(\w)v/$1ve/
     - xform/(\w)t/$1ve/
     - xform/([gkhvuirzcs])y/$1uai/
-    - xform/(\w)y/$1ing/
+    - xform/(\w)y/$1v/
     - xform/([dtnlgkhvuirzcs])o/$1uo/
     - xform/(\w)p/$1un/
     - xform/([jqx])s/$1iong/
@@ -141,15 +145,15 @@ translator:
     - xform/(\w)z/$1ei/
     - xform/(\w)x/$1ie/
     - xform/(\w)c/$1iao/
-    - xform/([dtgkhvuirzcs])v/$1ui/
     - xform/(\w)b/$1ou/
     - xform/(\w)m/$1ian/
-    - xform/([aoe])\1(\w)/$1$2/
+    - xform/(\w);/$1ing/
+    - xform/0(\w)/$1/
     - "xform/(^|[ '])v/$1zh/"
     - "xform/(^|[ '])i/$1ch/"
     - "xform/(^|[ '])u/$1sh/"
     - xform/([jqxy])v/$1u/
-    - xform/([nl])v/$1ü/
+    - xform/([nl])v/$1ü/ 
 
 
 # 次翻译器，英文
@@ -226,18 +230,18 @@ key_binder:
 # 拼写设定
 speller:
   # 如果不想让什么标点直接上屏，可以加在 alphabet，或者编辑标点符号为两个及以上的映射
-  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA;
   delimiter: " '"  # 第一位<空格>是拼音之间的分隔符；第二位<'>表示可以手动输入单引号来分割拼音。
   algebra:
     - erase/^xx$/
     - derive/^([jqxy])u$/$1v/
-    - derive/^([aoe])([ioun])$/$1$1$2/
-    - xform/^([aoe])(ng)?$/$1$1$2/
+    - derive/^([aoe].*)$/o$1/
+    - xform/^([ae])(.*)$/$1$1$2/
     - xform/iu$/Q/
     - xform/[iu]a$/W/
-    - xform/[uv]an$/R/
+    - xform/er$|[uv]an$/R/
     - xform/[uv]e$/T/
-    - xform/ing$|uai$/Y/
+    - xform/v$|uai$/Y/
     - xform/^sh/U/
     - xform/^ch/I/
     - xform/^zh/V/
@@ -256,9 +260,11 @@ speller:
     - xform/(.)ei$/$1Z/
     - xform/ie$/X/
     - xform/ui$/V/
+    - derive/T$/V/
     - xform/(.)ou$/$1B/
     - xform/in$/N/
+    - xform/ing$/;/
     - xlit/QWRTYUIOPSDFGHMJCKLZXVBN/qwrtyuiopsdfghmjcklzxvbn/
-    - abbrev/^(.).+$/$1/ # 首字母简拼
+    - abbrev/^(.).+$/$1/  # 首字母简拼
     # 可输入大写字母。因为上面的双拼拼写规则用掉了大写字母。做了 xlit 转写，同时适配全拼和双拼。
     - xlit/āḃçďēḟḡĥīĵḱĺḿńōṕɋŕśťūṽẃẋȳź/ABCDEFGHIJKLMNOPQRSTUVWXYZ/
