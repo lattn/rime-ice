@@ -1537,7 +1537,7 @@
 #///
 ---
 name: base
-version: "2023-05-04"
+version: "2023-05-05"
 sort: by_weight
 ...
 # +_+
@@ -5323,6 +5323,7 @@ sort: by_weight
 安全电压	an quan dian ya	1295
 安全电子交易	an quan dian zi jiao yi	53
 安全度	an quan du	7360
+安全度高	an quan du gao	111
 安全法	an quan fa	35305
 安全阀	an quan fa	13965
 安全法规	an quan fa gui	3850
@@ -9357,6 +9358,7 @@ sort: by_weight
 把许多	ba xu duo	5705
 把学生	ba xue sheng	26580
 八旬	ba xun	5555
+罢训	ba xun	111
 拔牙	ba ya	11550
 巴雅尔图	ba ya er tu	16
 巴雅尔吐胡硕镇	ba ya er tu hu shuo zhen	1
@@ -10145,6 +10147,9 @@ sort: by_weight
 百度定位	bai du ding wei	483
 百度翻译	bai du fan yi	475
 百度沸点	bai du fei dian	188
+白度高	bai du gao	111
+百度高管	bai du gao guan	111
+百度高级副总裁	bai du gao ji fu zong cai	111
 百度工具栏	bai du gong ju lan	10
 百堵皆兴	bai du jie xing	4
 百堵皆作	bai du jie zuo	111
@@ -16319,6 +16324,7 @@ sort: by_weight
 保和殿	bao he dian	1445
 饱和点	bao he dian	885
 饱和度	bao he du	25055
+饱和度高	bao he du gao	111
 宝盒儿	bao he er	5575
 鸨合狐绥	bao he hu sui	1
 饱和剂	bao he ji	1
@@ -23865,8 +23871,9 @@ sort: by_weight
 比例原则	bi li yuan ze	2405
 比例约为	bi li yue wei	5190
 比例制	bi li zhi	22
-碧莲	bi lian	14700
-必连	bi lian	3
+必练	bi lian	3333
+碧莲	bi lian	1470
+# 必连	bi lian	0
 碧连天	bi lian tian	1130
 鼻梁	bi liang	24180
 比量	bi liang	3765
@@ -24327,6 +24334,7 @@ sort: by_weight
 逼抢	bi qiang	2135
 鼻腔冲洗	bi qiang chong xi	20
 避强打弱	bi qiang da ruo	1
+比强度高	bi qiang du gao	111
 鼻腔恶性肿瘤	bi qiang e xing zhong liu	2
 避强击惰	bi qiang ji duo	1
 避强击弱	bi qiang ji ruo	7
@@ -25724,6 +25732,11 @@ sort: by_weight
 边防战士	bian fang zhan shi	830
 边防证	bian fang zheng	1880
 边防支队	bian fang zhi dui	5538
+变废	bian fei	3333
+变肥	bian fei	222
+边飞	bian fei	111
+变废了	bian fei le	333
+变肥了	bian fei le	111
 变废为宝	bian fei wei bao	9940
 边锋	bian feng	10115
 变疯	bian feng	490
@@ -26500,6 +26513,7 @@ sort: by_weight
 边式	bian shi	1
 # 边石	bian shi	0
 扁室扁叉啮	bian shi bian cha nie	1
+辨识度高	bian shi du gao	111
 边施工	bian shi gong	151
 边实践	bian shi jian	266
 便是晴天	bian shi qing tian	159
@@ -27447,6 +27461,7 @@ sort: by_weight
 表面功夫	biao mian gong fu	1355
 表面光	biao mian guang	1565
 表面光洁	biao mian guang jie	4065
+表面光洁度高	biao mian guang jie du gao	111
 表面化	biao mian hua	4760
 表面活性剂	biao mian huo xing ji	28675
 表面积	biao mian ji	16335
@@ -27471,6 +27486,7 @@ sort: by_weight
 表面效度	biao mian xiao du	1
 表面性	biao mian xing	860
 表面性能	biao mian xing neng	590
+表面硬度高	biao mian ying du gao	111
 表面硬化	biao mian ying hua	775
 表面张力	biao mian zhang li	6810
 表面质量	biao mian zhi liang	8375
@@ -27887,6 +27903,7 @@ sort: by_weight
 标准后	biao zhun hou	6730
 标准化	biao zhun hua	352945
 标准化病人	biao zhun hua bing ren	19
+标准化程度高	biao zhun hua cheng du gao	111
 标准化法	biao zhun hua fa	5180
 标准化管理	biao zhun hua guan li	16905
 标准化基地	biao zhun hua ji di	111
@@ -40063,6 +40080,7 @@ sort: by_weight
 擦亮眼	ca liang yan	200
 擦亮眼睛	ca liang yan jing	5530
 擦罗彝族乡	ca luo yi zu xiang	1
+擦门	ca men	3333
 擦抹	ca mo	2555
 擦屁股	ca pi gu	3340
 擦皮鞋	ca pi xie	5415
@@ -40192,6 +40210,7 @@ sort: by_weight
 猜测性	cai ce xing	315
 猜测着	cai ce zhe	3295
 采茶	cai cha	10275
+才查	cai cha	111
 采茶工	cai cha gong	200
 采茶舞	cai cha wu	2325
 采茶戏	cai cha xi	9999
@@ -40273,6 +40292,8 @@ sort: by_weight
 彩船	cai chuan	730
 菜传纤手送青丝	cai chuan qian shou song qing si	1
 采椽土阶	cai chuan tu jie	111
+彩窗	cai chuang	3333
+裁床	cai chuang	1111
 彩瓷	cai ci	5530
 才从	cai cong	25235
 彩翠色如柏	cai cui se ru bai	1
@@ -40322,6 +40343,7 @@ sort: by_weight
 才到	cai dao	29970
 菜刀	cai dao	28800
 踩到	cai dao	21605
+财到	cai dao	5555
 采到	cai dao	4695
 裁刀	cai dao	1320
 踩道	cai dao	3
@@ -40744,6 +40766,7 @@ sort: by_weight
 采集植物	cai ji zhi wu	620
 菜价	cai jia	6890
 才加	cai jia	3575
+猜价	cai jia	1111
 # 蔡嘉	cai jia	0
 蔡家坝	cai jia ba	17
 蔡家村	cai jia cun	71
@@ -40770,6 +40793,7 @@ sort: by_weight
 蔡家嘴	cai jia zui	39
 裁剪	cai jian	39175
 裁减	cai jian	15925
+采检	cai jian	111
 菜煎饼	cai jian bing	552
 才建成	cai jian cheng	1055
 裁剪出	cai jian chu	480
@@ -40874,7 +40898,9 @@ sort: by_weight
 菜坑	cai keng	3
 # 蔡坑	cai keng	0
 采空区	cai kong qu	3080
-才酷	cai ku	85
+财库	cai ku	8500
+才酷	cai ku	5500
+菜库	cai ku	1111
 彩酷卡	cai ku ka	1
 彩酷网	cai ku wang	3
 才夸八斗	cai kua ba dou	1
@@ -41142,6 +41168,8 @@ sort: by_weight
 裁判长	cai pan zhang	5180
 菜盘子	cai pan zi	210
 裁判组	cai pan zu	1555
+才跑	cai pao	6666
+彩炮	cai pao	1111
 菜泡饭	cai pao fan	34
 彩喷	cai pen	2520
 彩喷纸	cai pen zhi	1425
@@ -41624,6 +41652,7 @@ sort: by_weight
 采选业	cai xuan ye	77
 才学	cai xue	13690
 采血	cai xue	12505
+踩雪	cai xue	111
 采血车	cai xue che	1130
 才学过人	cai xue guo ren	111
 采血针	cai xue zhen	48
@@ -42430,6 +42459,7 @@ sort: by_weight
 餐勺	can shao	1180
 参芍片	can shao pian	1
 参审	can shen	9999
+惨胜	can sheng	2222
 残生	can sheng	1920
 残剩	can sheng	535
 蚕食	can shi	25370
@@ -42600,6 +42630,7 @@ sort: by_weight
 参与答题	can yu da ti	144
 参与到	can yu dao	56620
 参与赌博	can yu du bo	6615
+参与度高	can yu du gao	111
 参与分红	can yu fen hong	2530
 参与分配	can yu fen pei	7490
 残余分子	can yu fen zi	340
@@ -42889,6 +42920,7 @@ sort: by_weight
 苍节帽虫	cang jie mao chong	1
 仓颉造字	cang jie zao zi	740
 藏进	cang jin	3365
+藏金	cang jin	1111
 藏锦鸡儿	cang jin ji er	1
 藏经	cang jing	13845
 苍劲	cang jing	10095
@@ -42934,6 +42966,7 @@ sort: by_weight
 藏了	cang le	14450
 舱里	cang li	7455
 苍凉	cang liang	23405
+藏粮	cang liang	1111
 藏粮于地	cang liang yu di	141
 藏粮于技	cang liang yu ji	131
 仓廪	cang lin	2815
@@ -43120,6 +43153,7 @@ sort: by_weight
 藏有	cang you	20720
 藏于	cang yu	15670
 苍郁	cang yu	1900
+苍玉	cang yu	111
 藏愚守拙	cang yu shou zhuo	111
 沧源	cang yuan	1
 沧源近溪蟹	cang yuan jin xi xie	1
@@ -43982,6 +44016,7 @@ sort: by_weight
 操作命令	cao zuo ming ling	4438
 操作模式	cao zuo mo shi	17890
 操作难度	cao zuo nan du	3205
+操作难度高	cao zuo nan du gao	111
 操作能力	cao zuo neng li	18675
 操作频繁	cao zuo pin fan	147
 操作平台	cao zuo ping tai	22500
@@ -44199,6 +44234,7 @@ sort: by_weight
 测量技术	ce liang ji shu	9075
 测量结果	ce liang jie guo	12840
 测量精度	ce liang jing du	10870
+测量精度高	ce liang jing du gao	111
 测量控制	ce liang kong zhi	2310
 测量人	ce liang ren	335
 测量时	ce liang shi	6005
@@ -44267,6 +44303,7 @@ sort: by_weight
 恻然泪下	ce ran lei xia	111
 恻然泣下	ce ran qi xia	111
 恻然下泪	ce ran xia lei	111
+侧乳	ce ru	3333
 侧身	ce shen	26855
 厕身	ce shen	340
 测深度	ce shen du	1515
@@ -44319,6 +44356,7 @@ sort: by_weight
 测试脚本	ce shi jiao ben	3090
 测试阶段	ce shi jie duan	7255
 测试结果	ce shi jie guo	43875
+测试精度高	ce shi jing du gao	111
 测试经验	ce shi jing yan	412
 测试卡	ce shi ka	2865
 测试开发	ce shi kai fa	902
@@ -46360,6 +46398,7 @@ sort: by_weight
 产品交易	chan pin jiao yi	5490
 产品结构	chan pin jie gou	67635
 产品介绍	chan pin jie shao	124545
+产品精度高	chan pin jing du gao	111
 产品经理	chan pin jing li	15695
 产品局部欺诈	chan pin ju bu qi zha	27
 产品开发	chan pin kai fa	91285
@@ -53263,6 +53302,7 @@ sort: by_weight
 成都担担面	cheng du dan dan mian	42
 成都蛋汤	cheng du dan tang	7
 成都道	cheng du dao	29
+程度高	cheng du gao	111
 成都高新技术产业开发区人民检察院	cheng du gao xin ji shu chan ye kai fa qu ren min jian cha yuan	10
 成都基地	cheng du ji di	111
 成都机票	cheng du ji piao	9790
@@ -53921,6 +53961,7 @@ sort: by_weight
 称量而出	cheng liang er chu	1
 称量法	cheng liang fa	220
 成量股份	cheng liang gu fen	12500
+称量精度高	cheng liang jing du gao	111
 呈良性	cheng liang xing	550
 成列	cheng lie	1695
 成林	cheng lin	16255
@@ -54013,6 +54054,7 @@ sort: by_weight
 成名曲	cheng ming qu	2310
 称名忆旧容	cheng ming yi jiu rong	2
 成名作	cheng ming zuo	5940
+成魔	cheng mo	6666
 成膜剂	cheng mo ji	645
 成膜体	cheng mo ti	20
 程某	cheng mou	111
@@ -54572,6 +54614,7 @@ sort: by_weight
 成束蛋白	cheng shu dan bai	1
 成熟的标志	cheng shu de biao zhi	4145
 成熟度	cheng shu du	23660
+成熟度高	cheng shu du gao	111
 成熟化	cheng shu hua	1555
 成熟技术	cheng shu ji shu	4830
 成熟阶段	cheng shu jie duan	4705
@@ -54892,6 +54935,7 @@ sort: by_weight
 诚心地	cheng xin de	950
 澄心涤虑	cheng xin di lv	1
 诚信度	cheng xin du	52720
+诚信度高	cheng xin du gao	111
 称薪而爨	cheng xin er cuan	111
 诚信记录	cheng xin ji lu	3085
 澄心静虑	cheng xin jing lv	111
@@ -55680,6 +55724,7 @@ sort: by_weight
 尺寸不合格	chi cun bu he ge	183
 尺寸公差	chi cun gong cha	1850
 尺寸精度	chi cun jing du	3020
+尺寸精度高	chi cun jing du gao	111
 尺寸可取	chi cun ke qu	6
 尺寸图	chi cun tu	2830
 尺寸为	chi cun wei	30580
@@ -61589,6 +61634,7 @@ sort: by_weight
 船厂	chuan chang	18000
 传唱	chuan chang	17165
 穿肠刀	chuan chang dao	138
+传唱度高	chuan chang du gao	111
 串场哥	chuan chang ge	3
 穿长裤	chuan chang ku	1295
 船厂里	chuan chang li	38
@@ -63823,6 +63869,7 @@ sort: by_weight
 蠢动含灵	chun dong han ling	111
 纯度	chun du	45370
 # 春都	chun du	0
+纯度高	chun du gao	111
 春都路	chun du lu	25
 春堆乡	chun dui xiang	1
 醇而不腻	chun er bu ni	55
@@ -64052,6 +64099,7 @@ sort: by_weight
 纯净版	chun jing ban	2185
 纯净苍穹	chun jing cang qiong	106
 纯净度	chun jing du	1935
+纯净度高	chun jing du gao	111
 纯净术	chun jing shu	3
 纯净水	chun jing shui	72812
 纯净物	chun jing wu	1450
@@ -76212,6 +76260,8 @@ sort: by_weight
 带你	dai ni	49820
 待你	dai ni	13535
 代你	dai ni	1111
+呆腻	dai ni	111
+呆腻了	dai ni le	111
 带你去	dai ni qu	13320
 戴妮丝	dai ni si	80
 歹念	dai nian	1105
@@ -89746,10 +89796,10 @@ sort: by_weight
 点将台街	dian jiang tai jie	6
 点将王	dian jiang wang	3
 垫江县	dian jiang xian	3105
-电教	dian jiao	54205
+踮脚	dian jiao	22550
+电教	dian jiao	4205
 点胶	dian jiao	2890
 垫脚	dian jiao	2410
-踮脚	dian jiao	2255
 点交	dian jiao	1195
 殿脚插入赤沙湖	dian jiao cha ru chi sha hu	2
 电教馆	dian jiao guan	11125
@@ -93142,6 +93192,7 @@ sort: by_weight
 定位服务	ding wei fu wu	1807
 定位更新	ding wei geng xin	95
 定位精度	ding wei jing du	7710
+定位精度高	ding wei jing du gao	111
 定位克隆	ding wei ke long	100
 定位孔	ding wei kong	950
 定位控制	ding wei kong zhi	690
@@ -103844,6 +103895,7 @@ sort: by_weight
 阿堵传神	e du chuan shen	111
 恶毒的	e du de	1500
 恶毒的语言	e du de yu yan	975
+额度高	e du gao	111
 恶毒攻击	e du gong ji	1025
 阿堵君	e du jun	1
 饿肚子	e du zi	4815
@@ -104438,6 +104490,7 @@ sort: by_weight
 恶性案件	e xing an jian	3825
 恶性病毒	e xing bing du	2825
 鳄形叉尾鹤鱵	e xing cha wei he zhen	1
+恶性程度高	e xing cheng du gao	111
 恶性毒药	e xing du yao	3
 鳄形短体蛇鳗	e xing duan ti she man	1
 恶形恶状	e xing e zhuang	575
@@ -113776,6 +113829,7 @@ sort: by_weight
 仿真测试	fang zhen ce shi	590
 仿真程序	fang zhen cheng xu	1775
 仿真度	fang zhen du	1625
+仿真度高	fang zhen du gao	111
 仿真服务器	fang zhen fu wu qi	150
 仿真花	fang zhen hua	2135
 仿真机	fang zhen ji	960
@@ -125677,6 +125731,7 @@ sort: by_weight
 复杂点	fu za dian	62
 复杂度	fu za du	54261
 复杂度分析	fu za du fen xi	1032
+复杂度高	fu za du gao	111
 复杂度计算	fu za du ji suan	111
 复杂多变	fu za duo bian	12950
 复杂符号	fu za fu hao	25
@@ -129419,6 +129474,7 @@ sort: by_weight
 港督	gang du	159
 # 港都	gang du	0
 # 钢都	gang du	0
+刚度高	gang du gao	111
 岗堆镇	gang dui zhen	10
 钢鹅	gang e	13
 刚而不愎	gang er bu bi	111
@@ -130480,6 +130536,7 @@ sort: by_weight
 高度不够	gao du bu gou	895
 高度发达	gao du fa da	3880
 高度负责	gao du fu ze	19935
+高度高	gao du gao	111
 高度关注	gao du guan zhu	1
 高度化	gao du hua	1010
 高度计	gao du ji	1695
@@ -137995,6 +138052,7 @@ sort: by_weight
 功率管	gong lv guan	2680
 功率计	gong lv ji	4980
 功率密度	gong lv mi du	2445
+功率密度高	gong lv mi du gao	111
 功率谱	gong lv pu	1940
 功率强劲	gong lv qiang jing	730
 功率损耗	gong lv sun hao	1580
@@ -140110,6 +140168,7 @@ sort: by_weight
 工作评议	gong zuo ping yi	1395
 工作起来	gong zuo qi lai	9140
 工作强度	gong zuo qiang du	5720
+工作强度高	gong zuo qiang du gao	111
 工作勤奋	gong zuo qin fen	3390
 工作情况	gong zuo qing kuang	88340
 工作区	gong zuo qu	19160
@@ -140159,6 +140218,7 @@ sort: by_weight
 工作位置	gong zuo wei zhi	1920
 工作文档	gong zuo wen dang	107
 工作温度	gong zuo wen du	40730
+工作温度高	gong zuo wen du gao	111
 工作文件	gong zuo wen jian	2280
 工作问题	gong zuo wen ti	4825
 工作午餐	gong zuo wu can	1445
@@ -145483,6 +145543,7 @@ sort: by_weight
 关联词	guan lian ci	2580
 关联到	guan lian dao	63
 关联度	guan lian du	11815
+关联度高	guan lian du gao	111
 关联对象	guan lian dui xiang	3224
 关联方	guan lian fang	34925
 关联分析	guan lian fen xi	957
@@ -146462,6 +146523,7 @@ sort: by_weight
 冠珠瓷砖	guan zhu ci zhuan	176
 关注点	guan zhu dian	11680
 关注度	guan zhu du	34055
+关注度高	guan zhu du gao	111
 管竹管山管水	guan zhu guan shan guan shui	1
 关注焦点	guan zhu jiao dian	9845
 关注民生	guan zhu min sheng	8160
@@ -146508,6 +146570,7 @@ sort: by_weight
 管庄惠河建材市场	guan zhuang hui he jian cai shi chang	1
 灌装机	guan zhuang ji	18985
 灌装机械	guan zhuang ji xie	710
+灌装精度高	guan zhuang jing du gao	111
 关庄居委会	guan zhuang ju wei hui	1
 官庄路口	guan zhuang lu kou	35
 官庄毛尖	guan zhuang mao jian	8
@@ -147537,6 +147600,7 @@ sort: by_weight
 光接触	guang jie chu	140
 光接触性皮炎	guang jie chu xing pi yan	1
 光洁度	guang jie du	5315
+光洁度高	guang jie du gao	111
 广捷居	guang jie ju	860
 光解酶	guang jie mei	5
 广结朋友	guang jie peng you	185
@@ -150594,11 +150658,11 @@ sort: by_weight
 郭奉孝	guo feng xiao	172
 国服	guo fu	9999
 国富	guo fu	8888
-果脯	guo fu	8470
 国父	guo fu	5885
 果腹	guo fu	3735
-国府	guo fu	2015
-郭芙	guo fu	823
+果脯	guo fu	1470
+国府	guo fu	201
+郭芙	guo fu	82
 过付	guo fu	2
 # 郭郛	guo fu	0
 国富安	guo fu an	87
@@ -150923,6 +150987,7 @@ sort: by_weight
 国际互联网	guo ji hu lian wang	9999
 国际化	guo ji hua	290280
 国际化程度	guo ji hua cheng du	7625
+国际化程度高	guo ji hua cheng du gao	111
 国际滑联	guo ji hua lian	157
 国际化新形势新对策	guo ji hua xin xing shi xin dui ce	4
 国际化学奥林匹克竞赛	guo ji hua xue ao lin pi ke jing sai	1
@@ -152058,6 +152123,7 @@ sort: by_weight
 过滤法	guo lv fa	1075
 过滤机	guo lv ji	9280
 过滤技术	guo lv ji shu	4060
+过滤精度高	guo lv jing du gao	111
 过滤列	guo lv lie	12
 过滤面积	guo lv mian ji	1750
 过滤能力	guo lv neng li	760
@@ -158216,6 +158282,7 @@ sort: by_weight
 行业规范	hang ye gui fan	12130
 行业规划	hang ye gui hua	4455
 行业价	hang ye jia	64
+行业景气度高	hang ye jing qi du gao	111
 行业经验	hang ye jing yan	13170
 行业亏损	hang ye kui sun	745
 行业利润	hang ye li run	9335
@@ -170876,8 +170943,9 @@ sort: by_weight
 虎略龙韬	hu lve long tao	111
 忽略文件	hu lve wen jian	1299
 互骂	hu ma	9999
-胡麻	hu ma	4090
-呼玛	hu ma	1610
+虎码	hu ma	6666
+胡麻	hu ma	40
+呼玛	hu ma	1
 胡麻饼	hu ma bing	234
 胡麻饼样学京都	hu ma bing yang xue jing du	2
 胡马大宛名	hu ma da yuan ming	4
@@ -174085,6 +174153,7 @@ sort: by_weight
 滑梯	hua ti	8595
 花体	hua ti	1495
 画题	hua ti	1265
+话题度高	hua ti du gao	111
 话题一转	hua ti yi zhuan	1440
 花田	hua tian	4540
 # 华天	hua tian	0
@@ -176011,6 +176080,7 @@ sort: by_weight
 环境卫生	huan jing wei sheng	75180
 环境卫生学	huan jing wei sheng xue	92
 环境温度	huan jing wen du	30385
+环境温度高	huan jing wen du gao	111
 环境文化	huan jing wen hua	3930
 环境问题	huan jing wen ti	44620
 环境物理学	huan jing wu li xue	185
@@ -180644,6 +180714,8 @@ sort: by_weight
 回去得	hui qu de	375
 回去得晚的	hui qu de wan de	1
 回去得早的	hui qu de zao de	1
+回去看看	hui qu kan kan	3333
+会去看看	hui qu kan kan	111
 回去了	hui qu le	33425
 回去咯	hui qu lo	111
 灰躯糜骨	hui qu mi gu	1
@@ -184348,6 +184420,7 @@ sort: by_weight
 活跃的人	huo yue de ren	1270
 活跃等级	huo yue deng ji	198
 活跃度	huo yue du	88835
+活跃度高	huo yue du gao	111
 活跃分子	huo yue fen zi	2975
 活跃股	huo yue gu	215
 活跃期	huo yue qi	2565
@@ -185226,6 +185299,7 @@ sort: by_weight
 集成电路知识产权条约	ji cheng dian lu zhi shi chan quan tiao yue	36
 积成电子	ji cheng dian zi	2
 集成度	ji cheng du	9660
+集成度高	ji cheng du gao	111
 继承法	ji cheng fa	9602
 继承法比较研究	ji cheng fa bi jiao yan jiu	1
 继承发扬	ji cheng fa yang	2885
@@ -187709,6 +187783,7 @@ sort: by_weight
 计量检定	ji liang jian ding	19055
 计量监督	ji liang jian du	4985
 赍粮藉寇	ji liang jie kou	1
+计量精度高	ji liang jing du gao	111
 计量经济学	ji liang jing ji xue	4460
 计量局	ji liang ju	1200
 吉粮康郡	ji liang kang jun	3
@@ -189443,6 +189518,7 @@ sort: by_weight
 技术名词	ji shu ming ci	1020
 技术难点	ji shu nan dian	1059
 技术难度	ji shu nan du	9020
+技术难度高	ji shu nan du gao	111
 技术难题	ji shu nan ti	19885
 技术内幕	ji shu nei mu	1409
 技术能手	ji shu neng shou	9120
@@ -190532,6 +190608,7 @@ sort: by_weight
 机械化步兵	ji xie hua bu bing	620
 机械化部队	ji xie hua bu dui	2100
 机械化程度	ji xie hua cheng du	3210
+机械化程度高	ji xie hua cheng du gao	111
 机械化军	ji xie hua jun	445
 机械记忆	ji xie ji yi	1890
 机械加工	ji xie jia gong	28795
@@ -190551,6 +190628,7 @@ sort: by_weight
 机械能守恒定律	ji xie neng shou heng ding lv	825
 机械配件	ji xie pei jian	5135
 机械强度	ji xie qiang du	8810
+机械强度高	ji xie qiang du gao	111
 机械人	ji xie ren	5405
 机械扫描	ji xie sao miao	45
 机械设备	ji xie she bei	101945
@@ -191615,6 +191693,7 @@ sort: by_weight
 集中点	ji zhong dian	1590
 集中度	ji zhong du	40085
 集中度低	ji zhong du di	2290
+集中度高	ji zhong du gao	111
 继踵而至	ji zhong er zhi	111
 集中反映	ji zhong fan ying	5230
 几种方法	ji zhong fang fa	12995
@@ -192563,6 +192642,7 @@ sort: by_weight
 家弓家正	jia gong jia zheng	1
 加工件	jia gong jian	2345
 加工精度	jia gong jing du	7680
+加工精度高	jia gong jing du gao	111
 加工款	jia gong kuan	45
 加工贸易	jia gong mao yi	76768
 加工能力	jia gong neng li	17885
@@ -195334,6 +195414,7 @@ sort: by_weight
 检测技术	jian ce ji shu	25840
 检测结果	jian ce jie guo	33060
 监测结果	jian ce jie guo	13850
+检测精度高	jian ce jing du gao	111
 监测控制	jian ce kong zhi	1125
 检测码	jian ce ma	189
 检测器	jian ce qi	22545
@@ -204731,6 +204812,7 @@ sort: by_weight
 结构配置	jie gou pei zhi	710
 结构票	jie gou piao	14
 结构强度	jie gou qiang du	2640
+结构强度高	jie gou qiang du gao	111
 结构色	jie gou se	74
 结构上	jie gou shang	30310
 结构设计	jie gou she ji	45890
@@ -205141,6 +205223,7 @@ sort: by_weight
 街景地图	jie jing di tu	118
 洁净度	jie jing du	6375
 结晶度	jie jing du	1530
+洁净度高	jie jing du gao	111
 结晶法	jie jing fa	540
 洁净俯	jie jing fu	1
 借镜观形	jie jing guan xing	1
@@ -206041,6 +206124,7 @@ sort: by_weight
 接受采访	jie shou cai fang	28715
 接受测试	jie shou ce shi	1750
 接受程度	jie shou cheng du	8525
+接受程度高	jie shou cheng du gao	111
 接收单位	jie shou dan wei	11960
 接收到	jie shou dao	27370
 接受到	jie shou dao	7730
@@ -206049,6 +206133,7 @@ sort: by_weight
 接收点	jie shou dian	1820
 接受点	jie shou dian	355
 接受度	jie shou du	5340
+接受度高	jie shou du gao	111
 接收端	jie shou duan	10219
 接收方	jie shou fang	9420
 接受方	jie shou fang	3910
@@ -213716,6 +213801,7 @@ sort: by_weight
 精密测量	jing mi ce liang	2685
 精密电阻	jing mi dian zu	600
 精密度	jing mi du	7890
+精密度高	jing mi du gao	111
 精密附着体	jing mi fu zhuo ti	16
 京密公路	jing mi gong lu	3
 精密股份	jing mi gu fen	12500
@@ -213913,6 +213999,7 @@ sort: by_weight
 惊奇不已	jing qi bu yi	1305
 惊奇的	jing qi de	21515
 惊奇地问	jing qi de wen	208
+景气度高	jing qi du gao	111
 精奇古怪	jing qi gu guai	2
 井企集团	jing qi ji tuan	4
 旌旗价	jing qi jia	45
@@ -213996,6 +214083,7 @@ sort: by_weight
 精确的说	jing que de shuo	210
 精确定义	jing que ding yi	860
 精确度	jing que du	23765
+精确度高	jing que du gao	111
 精确覆盖	jing que fu gai	328
 精确复制	jing que fu zhi	160
 精确计量	jing que ji liang	490
@@ -215619,6 +215707,7 @@ sort: by_weight
 颈椎直角骨凿	jing zhui zhi jiao gu zao	1
 精准	jing zhun	59935
 精准度	jing zhun du	2330
+精准度高	jing zhun du gao	111
 精准对接	jing zhun dui jie	198
 精准发力	jing zhun fa li	118
 精准防控	jing zhun fang kong	177
@@ -216761,6 +216850,7 @@ sort: by_weight
 酒精厂	jiu jing chang	965
 酒精灯	jiu jing deng	6055
 酒精度	jiu jing du	7220
+酒精度高	jiu jing du gao	111
 久经锻炼	jiu jing duan lian	115
 酒井法子	jiu jing fa zi	1745
 久经风霜	jiu jing feng shuang	22
@@ -220350,7 +220440,9 @@ sort: by_weight
 巨幼细胞	ju you xi bao	670
 巨幼细胞贫血	ju you xi bao pin xie	360
 具有一定	ju you yi ding	70
+具有硬度高	ju you ying du gao	111
 具有指导	ju you zhi dao	723
+具有自动化程度高	ju you zi dong hua cheng du gao	111
 居于	ju yu	54660
 局域	ju yu	31710
 拘于	ju yu	4085
@@ -220591,6 +220683,7 @@ sort: by_weight
 居住权	ju zhu quan	12605
 居住人	ju zhu ren	1620
 居住人口	ju zhu ren kou	5600
+居住舒适度高	ju zhu shu shi du gao	111
 居住条件	ju zhu tiao jian	16825
 巨住筒虫巨褶海鞘	ju zhu tong chong ju zhe hai qiao	1
 居住下来	ju zhu xia lai	535
@@ -225892,6 +225985,7 @@ sort: by_weight
 康城南站	kang cheng nan zhan	3
 康城镇	kang cheng zhen	14
 抗冲击	kang chong ji	11875
+抗冲击强度高	kang chong ji qiang du gao	111
 抗冲击性	kang chong ji xing	2670
 扛出来	kang chu lai	90
 炕床	kang chuang	195
@@ -226131,6 +226225,7 @@ sort: by_weight
 抗狂犬病血清	kang kuang quan bing xue qing	41
 抗拉力	kang la li	1230
 抗拉强度	kang la qiang du	9340
+抗拉强度高	kang la qiang du gao	111
 康莱特注射液	kang lai te zhu she ye	19
 闶阆	kang lang	999
 𩾌浪白鱼	kang lang bai yu	1
@@ -226433,6 +226528,7 @@ sort: by_weight
 抗压背锅	kang ya bei guo	113
 抗压路	kang ya lu	151
 抗压强度	kang ya qiang du	9155
+抗压强度高	kang ya qiang du gao	111
 康雅馨	kang ya xin	177
 抗压性	kang ya xing	1585
 抗炎	kang yan	15645
@@ -227957,6 +228053,7 @@ sort: by_weight
 客户汇款	ke hu hui kuan	68
 客户机	ke hu ji	58560
 客户基础	ke hu ji chu	4360
+客户集中度高	ke hu ji zhong du gao	111
 客户价值	ke hu jia zhi	9850
 客户监	ke hu jian	86
 客户经理	ke hu jing li	30965
@@ -227967,6 +228064,7 @@ sort: by_weight
 可忽略	ke hu lve	4585
 客户满意	ke hu man yi	23095
 客户满意度	ke hu man yi du	17855
+客户满意度高	ke hu man yi du gao	111
 客户名称	ke hu ming cheng	6675
 客户那边	ke hu na bian	1
 客户那边业	ke hu na bian ye	1
@@ -229773,6 +229871,7 @@ sort: by_weight
 # 科信	ke xin	0
 可信的	ke xin de	19785
 可信度	ke xin du	40650
+可信度高	ke xin du gao	111
 客心何事转凄然	ke xin he shi zhuan qi ran	1
 科新机电	ke xin ji dian	7
 可信计算	ke xin ji suan	83
@@ -231417,6 +231516,7 @@ sort: by_weight
 空气清新	kong qi qing xin	25875
 空气清新剂	kong qi qing xin ji	6018
 空气湿度	kong qi shi du	11070
+空气湿度高	kong qi shi du gao	111
 空气栓塞	kong qi shuan se	25
 空气调节	kong qi tiao jie	6740
 空气调节器	kong qi tiao jie qi	1910
@@ -231830,6 +231930,7 @@ sort: by_weight
 控温	kong wen	2222
 空文	kong wen	1035
 空文件	kong wen jian	1010
+控温精度高	kong wen jing du gao	111
 控温器	kong wen qi	1665
 空无	kong wu	9805
 空屋	kong wu	2990
@@ -232037,6 +232138,7 @@ sort: by_weight
 控制界	kong zhi jie	47
 控制结构	kong zhi jie gou	3033
 控制精度	kong zhi jing du	2885
+控制精度高	kong zhi jing du gao	111
 控制经济	kong zhi jing ji	1085
 控制局势	kong zhi ju shi	965
 控制开关	kong zhi kai guan	4865
@@ -233138,7 +233240,8 @@ sort: by_weight
 库伦旗	ku lun qi	1005
 库伦图乡	ku lun tu xiang	1
 库洛	ku luo	2
-库洛米	ku luo mi	166
+酷洛米	ku luo mi	3333
+库洛米	ku luo mi	111
 苦旅	ku lv	1111
 圐圙	ku lve	1
 苦马豆	ku ma dou	9
@@ -236622,6 +236725,7 @@ sort: by_weight
 拉伸膜	la shen mo	2470
 拉伸黏度	la shen nian du	1
 拉伸强度	la shen qiang du	5795
+拉伸强度高	la shen qiang du gao	111
 拉升	la sheng	26620
 拉绳	la sheng	6140
 拉屎	la shi	11855
@@ -239408,6 +239512,7 @@ sort: by_weight
 劳动能力	lao dong neng li	48625
 劳动派遣合同	lao dong pai qian he tong	40
 劳动强度	lao dong qiang du	18790
+劳动强度高	lao dong qiang du gao	111
 劳动权	lao dong quan	2415
 劳动群众	lao dong qun zhong	7430
 劳动人口	lao dong ren kou	3950
@@ -253397,6 +253502,7 @@ sort: by_weight
 零活	ling huo	1150
 灵活处理	ling huo chu li	3580
 灵活度	ling huo du	5165
+灵活度高	ling huo du gao	111
 灵活多变	ling huo duo bian	10775
 灵活多样	ling huo duo yang	25585
 零活儿	ling huo er	9999
@@ -253624,6 +253730,7 @@ sort: by_weight
 零秒钟	ling miao zhong	5
 灵敏	ling min	73035
 灵敏度	ling min du	57615
+灵敏度高	ling min du gao	111
 灵敏性	ling min xing	3895
 领命	ling ming	7065
 灵命	ling ming	1500
@@ -268927,6 +269034,7 @@ sort: by_weight
 慢一点	man yi dian	8535
 满意度	man yi du	75675
 满意度调查	man yi du diao cha	5090
+满意度高	man yi du gao	111
 蛮夷猾夏	man yi hua xia	10
 满意就成	man yi jiu cheng	1
 满意率	man yi lv	20605
@@ -274312,6 +274420,7 @@ sort: by_weight
 没遇到	mei yu dao	4100
 每欲到荆州	mei yu dao jing zhou	5
 美誉度	mei yu du	38120
+美誉度高	mei yu du gao	111
 梅雨季	mei yu ji	410
 梅雨季节	mei yu ji jie	3470
 没遇见	mei yu jian	895
@@ -275963,6 +276072,7 @@ sort: by_weight
 密度板	mi du ban	10980
 密度测定	mi du ce ding	875
 弥渡雕球链蚧	mi du diao qiu lian jie	1
+密度高	mi du gao	111
 密度函数	mi du han shu	395
 密度计	mi du ji	2225
 弥渡卷蹄	mi du juan ti	83
@@ -278731,6 +278841,7 @@ sort: by_weight
 敏感地带	min gan di dai	1990
 敏感点	min gan dian	3085
 敏感度	min gan du	21905
+敏感度高	min gan du gao	111
 敏感话题	min gan hua ti	8175
 敏感肌肤	min gan ji fu	4215
 敏感区	min gan qu	10395
@@ -279757,6 +279868,7 @@ sort: by_weight
 铭都雅苑	ming dou ya yuan	1
 名都	ming du	2664
 名都大酒店	ming du da jiu dian	151
+明度高	ming du gao	111
 名都酒店	ming du jiu dian	16
 明断	ming duan	1345
 明多粗锄蛇鳗	ming duo cu chu she man	1
@@ -286697,6 +286809,7 @@ sort: by_weight
 耐压	nai ya	2496
 奶牙	nai ya	999
 耐压力	nai ya li	460
+耐压强度高	nai ya qiang du gao	111
 耐压性	nai ya xing	570
 耐盐碱	nai yan jian	1925
 耐盐性	nai yan xing	14
@@ -287216,6 +287329,7 @@ sort: by_weight
 南杜村	nan du cun	174
 难度大	nan du da	29975
 难度分	nan du fen	290
+难度高	nan du gao	111
 南渡河	nan du he	145
 难度很大	nan du hen da	14235
 南渡江	nan du jiang	1655
@@ -290884,6 +290998,7 @@ sort: by_weight
 能坚持	neng jian chi	18160
 能捡到	neng jian dao	144
 能见度	neng jian du	20110
+能见度高	neng jian du gao	111
 能减肥	neng jian fei	1820
 能将	neng jiang	161345
 能讲	neng jiang	10620
@@ -290970,6 +291085,7 @@ sort: by_weight
 能量耗散	neng liang hao san	14
 能量交换	neng liang jiao huan	1165
 能量猛击	neng liang meng ji	4
+能量密度高	neng liang mi du gao	111
 能量瓶	neng liang ping	141
 能量破坏	neng liang po huai	3
 能量释放	neng liang shi fang	2060
@@ -293546,6 +293662,7 @@ sort: by_weight
 年度大贱卖	nian du da jian mai	5
 黏度低	nian du di	880
 年度调查	nian du diao cha	1095
+黏度高	nian du gao	111
 年度歌单	nian du ge dan	144
 年度歌曲	nian du ge qu	200
 年度工作	nian du gong zuo	34615
@@ -293713,6 +293830,8 @@ sort: by_weight
 年届赐鸠	nian jie ci jiu	1
 黏结剂	nian jie ji	8795
 年节律	nian jie lv	80
+粘接强度高	nian jie qiang du gao	111
+黏结强度高	nian jie qiang du gao	111
 年仅	nian jin	56790
 年金	nian jin	30285
 年近	nian jin	19455
@@ -296166,6 +296285,7 @@ sort: by_weight
 浓度	nong du	229445
 脓毒败血症	nong du bai xue zheng	30
 浓度测定	nong du ce ding	755
+浓度高	nong du gao	111
 浓度计	nong du ji	1710
 农都市场	nong du shi chang	66
 浓度梯度	nong du ti du	685
@@ -299800,7 +299920,7 @@ sort: by_weight
 派用场	pai yong chang	1375
 牌友	pai you	3015
 排忧	pai you	1780
-俳优	pai you	760
+俳优	pai you	1
 排油茶	pai you cha	18
 排忧解难	pai you jie nan	34480
 排油素	pai you su	3
@@ -301572,6 +301692,7 @@ sort: by_weight
 配合尺寸	pei he chi cun	275
 配合调查	pei he diao cha	167
 配合度	pei he du	2115
+配合度高	pei he du gao	111
 配合费	pei he fei	19
 配合好	pei he hao	4285
 配合剂	pei he ji	530
@@ -303600,6 +303721,7 @@ sort: by_weight
 匹配	pi pei	191010
 匹配错误	pi pei cuo wu	149
 匹配度	pi pei du	2315
+匹配度高	pi pei du gao	111
 匹配滤波	pi pei lv bo	28
 匹配模式	pi pei mo shi	5686
 匹配时间	pi pei shi jian	158
@@ -305269,6 +305391,7 @@ sort: by_weight
 品牌优势	pin pai you shi	22430
 品牌战略	pin pai zhan lve	50330
 品牌知名度	pin pai zhi ming du	23170
+品牌知名度高	pin pai zhi ming du gao	111
 品牌忠诚度	pin pai zhong cheng du	7155
 品牌专卖	pin pai zhuan mai	2760
 品牌资产	pin pai zi chan	9720
@@ -307006,6 +307129,7 @@ sort: by_weight
 平正	ping zheng	5010
 平政	ping zheng	65
 平整度	ping zheng du	11075
+平整度高	ping zheng du gao	111
 平政路街道	ping zheng lu jie dao	33
 凭证式	ping zheng shi	6100
 凭证书	ping zheng shu	50
@@ -308031,6 +308155,7 @@ sort: by_weight
 蒲瓜	pu gua	1
 铺管	pu guan	755
 普光禅寺	pu guang chan si	645
+曝光度高	pu guang du gao	111
 铺轨	pu gui	3620
 铺轨机	pu gui ji	125
 铺轨基地	pu gui ji di	111
@@ -310233,6 +310358,7 @@ sort: by_weight
 齐河	qi he	3535
 七盒	qi he	80
 契合点	qi he dian	3750
+契合度高	qi he du gao	111
 契诃夫	qi he fu	3920
 淇河鲫	qi he ji	142
 淇河鲫鱼	qi he ji yu	121
@@ -311498,6 +311624,7 @@ sort: by_weight
 骑墙	qi qiang	955
 骑枪	qi qiang	2
 气枪打靶	qi qiang da ba	8
+其强度高	qi qiang du gao	111
 骑墙两下	qi qiang liang xia	1
 骑墙派	qi qiang pai	235
 蹊跷	qi qiao	14615
@@ -313677,6 +313804,7 @@ sort: by_weight
 恰尔巴格乡	qia er ba ge xiang	108
 恰尔巴格乡政府	qia er ba ge xiang zheng fu	2
 恰尔隆乡	qia er long xiang	19
+恰饭	qia fan	1111
 恰逢	qia feng	21450
 恰盖乡	qia gai xiang	1
 洽购	qia gou	2105
@@ -317078,6 +317206,7 @@ sort: by_weight
 强渡大渡河	qiang du da du he	1275
 强度等级	qiang du deng ji	5005
 强杜父鱼	qiang du fu yu	1
+强度高	qiang du gao	111
 强度计算	qiang du ji suan	1975
 强度极限	qiang du ji xian	335
 强度控制	qiang du kong zhi	225
@@ -319125,6 +319254,7 @@ sort: by_weight
 切割成	qie ge cheng	4905
 切割刀	qie ge dao	725
 切割机	qie ge ji	24725
+切割精度高	qie ge jing du gao	111
 切割器	qie ge qi	1550
 切割潜蝇茧蜂	qie ge qian ying jian feng	1
 且歌且舞	qie ge qie wu	500
@@ -319548,6 +319678,8 @@ sort: by_weight
 秦兵马俑	qin bing ma yong	2575
 秦炳文	qin bing wen	1
 秦伯未	qin bo wei	16
+亲不	qin bu	5555
+勤不	qin bu	111
 寝不安席	qin bu an xi	365
 寝不安枕	qin bu an zhen	111
 寝不成寐	qin bu cheng mei	111
@@ -319556,7 +319688,8 @@ sort: by_weight
 寝不遑安	qin bu huang an	111
 寝不聊寐	qin bu liao mei	1
 寝不能寐	qin bu neng mei	111
-亲不亲	qin bu qin	455
+亲不亲	qin bu qin	4550
+勤不勤	qin bu qin	111
 亲不亲故乡人	qin bu qin gu xiang ren	8
 勤不言苦	qin bu yan ku	75
 芹菜	qin cai	57135
@@ -319831,6 +319964,8 @@ sort: by_weight
 秦镜高悬	qin jing gao xuan	9999
 秦景公	qin jing gong	26
 钦敬之忱	qin jing zhi chen	1
+琴酒	qin jiu	3333
+亲舅	qin jiu	1111
 秦九韶	qin jiu shao	8
 亲旧知其如此	qin jiu zhi qi ru ci	2
 寝具	qin ju	6385
@@ -321199,6 +321334,7 @@ sort: by_weight
 轻度发烧	qing du fa shao	115
 轻度发作	qing du fa zuo	30
 轻度腹泻	qing du fu xie	495
+轻度高血压	qing du gao xue ya	111
 轻度精神发育迟滞	qing du jing shen fa yu chi zhi	79
 清毒图腾	qing du tu teng	5
 轻度污染	qing du wu ran	143
@@ -321863,6 +321999,7 @@ sort: by_weight
 清洁车	qing jie che	1111
 清洁的	qing jie de	30680
 清洁度	qing jie du	6030
+清洁度高	qing jie du gao	111
 清洁队	qing jie dui	620
 情节恶劣	qing jie e lie	8440
 清洁发展机制项目运行管理办法	qing jie fa zhan ji zhi xiang mu yun xing guan li ban fa	42
@@ -323651,6 +323788,7 @@ sort: by_weight
 清晰的	qing xi de	136115
 清晰地	qing xi de	54920
 清晰度	qing xi du	49200
+清晰度高	qing xi du gao	111
 清洗法	qing xi fa	750
 清洗费	qing xi fei	83
 情系故里	qing xi gu li	35
@@ -330005,6 +330143,7 @@ sort: by_weight
 群众工作	qun zhong gong zuo	23050
 群众观点	qun zhong guan dian	5880
 群众关系	qun zhong guan xi	1060
+群众关注度高	qun zhong guan zhu du gao	111
 群众化	qun zhong hua	1290
 群众会	qun zhong hui	935
 群众基础	qun zhong ji chu	25165
@@ -330017,6 +330156,7 @@ sort: by_weight
 群众路线	qun zhong lu xian	26705
 群众满意	qun zhong man yi	24305
 群众满意度	qun zhong man yi du	6235
+群众满意度高	qun zhong man yi du gao	111
 群众民主	qun zhong min zhu	135
 群众生活	qun zhong sheng huo	12935
 群众体育	qun zhong ti yu	13010
@@ -330867,6 +331007,8 @@ sort: by_weight
 热豆浆	re dou jiang	132
 热度	re du	41420
 热毒	re du	7285
+热度高	re du gao	111
+热度高涨	re du gao zhang	111
 热镀管	re du guan	140
 热毒宁注射液	re du ning zhu she ye	27
 热毒平颗粒	re du ping ke li	3
@@ -332323,6 +332465,7 @@ sort: by_weight
 认可程度	ren ke cheng du	4210
 认可的	ren ke de	130395
 认可度	ren ke du	11300
+认可度高	ren ke du gao	111
 任课教师	ren ke jiao shi	30340
 任课老师	ren ke lao shi	9530
 任克礼	ren ke li	240
@@ -332357,6 +332500,7 @@ sort: by_weight
 人口理论	ren kou li lun	1365
 人口流动	ren kou liu dong	111
 人口密度	ren kou mi du	14665
+人口密度高	ren kou mi du gao	111
 人口密集	ren kou mi ji	156
 人口年龄构成	ren kou nian ling gou cheng	235
 人口年龄金字塔	ren kou nian ling jin zi ta	1
@@ -333130,6 +333274,7 @@ sort: by_weight
 人生的一切	ren sheng de yi qie	100
 人生得意须尽欢	ren sheng de yi xu jin huan	2570
 人生得一知己足矣	ren sheng de yi zhi ji zu yi	1180
+人生地不熟	ren sheng di bu shou	6370
 人生地不熟	ren sheng di bu shu	6370
 人生地疏	ren sheng di shu	111
 人声鼎沸	ren sheng ding fei	10200
@@ -334143,6 +334288,7 @@ sort: by_weight
 人之初	ren zhi chu	6325
 认知地图	ren zhi di tu	6
 认知度	ren zhi du	21660
+认知度高	ren zhi du gao	111
 任志刚	ren zhi gang	1720
 仁智各见	ren zhi ge jian	10
 认知革命	ren zhi ge ming	6
@@ -343191,6 +343337,7 @@ sort: by_weight
 色彩	se cai	500479
 色彩斑斓	se cai ban lan	16255
 色彩饱和度	se cai bao he du	4135
+色彩饱和度高	se cai bao he du gao	111
 色彩缤纷	se cai bin fen	7830
 色彩层	se cai ceng	120
 色彩搭配	se cai da pei	17305
@@ -343287,6 +343434,7 @@ sort: by_weight
 色拉油	se la you	15520
 色狼	se lang	56550
 色牢度	se lao du	8540
+色牢度高	se lao du gao	111
 瑟雷四眼宝螺	se lei si yan bao luo	1
 色楞格河	se leng ge he	250
 色厉胆薄	se li dan bo	6
@@ -344796,6 +344944,7 @@ sort: by_weight
 筛分	shai fen	12535
 筛分机	shai fen ji	975
 筛粉机	shai fen ji	450
+筛分精度高	shai fen jing du gao	111
 晒干	shai gan	27455
 晒个	shai ge	111
 晒谷	shai gu	1160
@@ -350619,6 +350768,7 @@ sort: by_weight
 设备制造	she bei zhi zao	42935
 设备种类	she bei zhong lei	1990
 设备状况	she bei zhuang kuang	1930
+设备自动化程度高	she bei zi dong hua cheng du gao	111
 设备字体	she bei zi ti	145
 设备组	she bei zu	1065
 设备租赁	she bei zu lin	7910
@@ -350921,6 +351071,7 @@ sort: by_weight
 社会观念	she hui guan nian	3530
 社会关系	she hui guan xi	55705
 社会关注	she hui guan zhu	15035
+社会关注度高	she hui guan zhu du gao	111
 社会规范	she hui gui fan	8090
 社会规则	she hui gui ze	39
 社会和谐	she hui he xie	49260
@@ -350997,6 +351148,7 @@ sort: by_weight
 社会权力	she hui quan li	1670
 社会群体	she hui qun ti	12545
 社会热点	she hui re dian	14585
+社会认可度高	she hui ren ke du gao	111
 社会沙文主义	she hui sha wen zhu yi	65
 社会上	she hui shang	101260
 社会商品	she hui shang pin	2830
@@ -351215,6 +351367,7 @@ sort: by_weight
 设计阶段	she ji jie duan	8920
 设计结构	she ji jie gou	2680
 涉及金额	she ji jin e	6195
+射击精度高	she ji jing du gao	111
 舍己救人	she ji jiu ren	2805
 设计局	she ji ju	4470
 设计开发	she ji kai fa	27905
@@ -358623,6 +358776,7 @@ sort: by_weight
 识别标签	shi bie biao qian	320
 识别标志	shi bie biao zhi	3940
 识别成功	shi bie cheng gong	119
+识别度高	shi bie du gao	111
 识别方法	shi bie fang fa	3690
 识别方式	shi bie fang shi	840
 识别机	shi bie ji	840
@@ -358980,6 +359134,7 @@ sort: by_weight
 市场后	shi chang hou	2142
 市场化	shi chang hua	189615
 市场化程度	shi chang hua cheng du	11350
+市场化程度高	shi chang hua cheng du gao	111
 市场环境	shi chang huan jing	66005
 市场汇率	shi chang hui lv	2570
 市场活力	shi chang huo li	156
@@ -359035,6 +359190,7 @@ sort: by_weight
 市场趋势	shi chang qu shi	8510
 市场热	shi chang re	3065
 市场热点	shi chang re dian	7100
+市场认可度高	shi chang ren ke du gao	111
 市场容量	shi chang rong liang	19430
 市场融资	shi chang rong zi	1915
 市场上	shi chang shang	500278
@@ -359704,6 +359860,7 @@ sort: by_weight
 湿度测定	shi du ce ding	65
 适度从紧	shi du cong jin	1115
 湿度大	shi du da	196
+湿度高	shi du gao	111
 湿度计	shi du ji	1970
 十渡桥	shi du qiao	1
 湿毒清胶囊	shi du qing jiao nang	6
@@ -364490,8 +364647,8 @@ sort: by_weight
 事生肘腋	shi sheng zhou ye	111
 事实	shi shi	510349
 实施	shi shi	501523
+试试	shi shi	425505
 实时	shi shi	372365
-试试	shi shi	225505
 适时	shi shi	177885
 时时	shi shi	124830
 实事	shi shi	70930
@@ -369284,6 +369441,7 @@ sort: by_weight
 受绞刑	shou jiao xing	60
 受教育	shou jiao yu	70680
 受教育程度	shou jiao yu cheng du	11260
+受教育程度高	shou jiao yu cheng du gao	111
 受教育权	shou jiao yu quan	5850
 受教育者	shou jiao yu zhe	27140
 首届	shou jie	247685
@@ -372807,6 +372965,7 @@ sort: by_weight
 舒适的家	shu shi de jia	1485
 熟食店	shu shi dian	1440
 舒适度	shu shi du	23710
+舒适度高	shu shi du gao	111
 暑湿风寒	shu shi feng han	111
 舒适感	shu shi gan	11320
 暑湿感冒颗粒	shu shi gan mao ke li	1
@@ -383507,6 +383666,7 @@ sort: by_weight
 速度翡翠	su du fei cui	1
 速度感	su du gan	4580
 速度感应式转向系统	su du gan ying shi zhuan xiang xi tong	65
+速度高	su du gao	111
 速度过快	su du guo kuai	4270
 速度很慢	su du hen man	6995
 速度滑冰	su du hua bing	9999
@@ -384693,6 +384853,7 @@ sort: by_weight
 酸豆角炒肉末	suan dou jiao chao rou mo	51
 酸豆角肉沫	suan dou jiao rou mo	16
 酸度	suan du	12080
+酸度高	suan du gao	111
 酸度过低	suan du guo di	5
 酸度计	suan du ji	3695
 酸度调节剂	suan du tiao jie ji	328
@@ -391456,6 +391617,7 @@ sort: by_weight
 摊丁入亩	tan ding ru mu	737
 谭豆花	tan dou hua	81
 贪渎	tan du	1040
+坦度高	tan du gao	111
 坦度螺酮	tan du luo tong	1
 贪黩无艺	tan du wu yi	111
 谈对象	tan dui xiang	55155
@@ -392626,6 +392788,7 @@ sort: by_weight
 唐都医院	tang dou yi yuan	853
 糖度	tang du	2820
 塘肚	tang du	4
+糖度高	tang du gao	111
 汤段	tang duan	78
 唐顿	tang dun	1
 唐顿庄园	tang dun zhuang yuan	9999
@@ -396300,6 +396463,7 @@ sort: by_weight
 啼声	ti sheng	1755
 提升到	ti sheng dao	39380
 提升高度	ti sheng gao du	1640
+提升高度高	ti sheng gao du gao	111
 提升机	ti sheng ji	8445
 提升间	ti sheng jian	1
 提升进程权限	ti sheng jin cheng quan xian	50
@@ -397217,6 +397381,7 @@ sort: by_weight
 天都城	tian du cheng	80
 天都峰	tian du feng	4575
 天妒风流	tian du feng liu	40
+甜度高	tian du gao	111
 天妒红颜	tian du hong yan	475
 天都路	tian du lu	172
 天妒英才	tian du ying cai	1940
@@ -399999,6 +400164,7 @@ sort: by_weight
 调节机制	tiao jie ji zhi	4675
 调解机制	tiao jie ji zhi	1330
 调解结果	tiao jie jie guo	1125
+调节精度高	tiao jie jing du gao	111
 调解纠纷	tiao jie jiu fen	2790
 调节空调	tiao jie kong tiao	111
 调节空调温度	tiao jie kong tiao wen du	111
@@ -400865,6 +401031,7 @@ sort: by_weight
 贴好	tie hao	7040
 贴合	tie he	17195
 铁盒	tie he	5720
+贴合度高	tie he du gao	111
 贴合机	tie he ji	555
 铁合金	tie he jin	20585
 铁合金厂	tie he jin chang	1725
@@ -405628,6 +405795,7 @@ sort: by_weight
 透明的	tou ming de	103850
 透明的价格	tou ming de jia ge	320
 透明度	tou ming du	104145
+透明度高	tou ming du gao	111
 透明度好	tou ming du hao	1535
 透明化	tou ming hua	14865
 透明胶	tou ming jiao	2350
@@ -411778,6 +411946,7 @@ sort: by_weight
 完成程序	wan cheng cheng xu	515
 晚成单罗衫	wan cheng dan luo shan	1
 完成度	wan cheng du	3535
+完成度高	wan cheng du gao	111
 完成端口	wan cheng duan kou	1110
 万承风	wan cheng feng	3
 完成工业	wan cheng gong ye	1796
@@ -417537,6 +417706,7 @@ sort: by_weight
 围肚	wei du	7
 维度表	wei du biao	100
 纬度的	wei du de	2170
+纬度高	wei du gao	111
 魏都区	wei du qu	770
 围堵政策	wei du zheng ce	201
 为赌注	wei du zhu	1110
@@ -422284,6 +422454,9 @@ sort: by_weight
 温度范围	wen du fan wei	15660
 温度分布	wen du fen bu	1880
 温度感受器	wen du gan shou qi	1
+温度高	wen du gao	111
+温度高低	wen du gao di	111
+温度高时	wen du gao shi	111
 温度和湿度	wen du he shi du	5780
 温度计	wen du ji	30715
 温度控制	wen du kong zhi	11855
@@ -422482,6 +422655,7 @@ sort: by_weight
 文化潮	wen hua chao	75
 文化城	wen hua cheng	5005
 文化程度	wen hua cheng du	73745
+文化程度高	wen hua cheng du gao	111
 文化冲击	wen hua chong ji	960
 文化冲突	wen hua chong tu	4240
 文化处	wen hua chu	3165
@@ -423101,7 +423275,10 @@ sort: by_weight
 文美	wen mei	18
 文美村	wen mei cun	1
 纹眉苇鹪鹩	wen mei wei jiao liao	1
+问懵	wen meng	3333
+蚊虻	wen meng	1111
 蚊虻负山	wen meng fu shan	111
+问懵了	wen meng le	333
 文秘	wen mi	99340
 文秘人员	wen mi ren yuan	3190
 文秘网	wen mi wang	5345
@@ -424562,7 +424739,10 @@ sort: by_weight
 我不是坏人	wo bu shi huai ren	111
 我不是说了吗	wo bu shi shuo le ma	500
 我不是一个人	wo bu shi yi ge ren	192
+我不熟	wo bu shou	1185
+我不熟悉	wo bu shou xi	1185
 我不熟	wo bu shu	1185
+我不熟悉	wo bu shu xi	1185
 我不爽	wo bu shuang	450
 我不说	wo bu shuo	7900
 我不说话	wo bu shuo hua	151
@@ -424797,9 +424977,9 @@ sort: by_weight
 卧倒在地	wo dao zai di	330
 我的	wo de	502376
 握的	wo de	14940
-沃德	wo de	9810
 握得	wo de	4770
 卧的	wo de	1265
+沃德	wo de	111
 我的啊	wo de a	2335
 我的爱	wo de ai	62080
 我的爱好	wo de ai hao	4940
@@ -435265,6 +435445,7 @@ sort: by_weight
 吸毒成瘾	xi du cheng yin	695
 吸毒的人	xi du de ren	720
 吸毒贩毒	xi du fan du	945
+细度高	xi du gao	111
 吸毒人员	xi du ren yuan	154
 吸毒上瘾	xi du shang yin	225
 吸毒者	xi du zhe	9715
@@ -436157,6 +436338,7 @@ sort: by_weight
 习经	xi jing	5
 袭警案	xi jing an	445
 西京北	xi jing bei	155
+洗净度高	xi jing du gao	111
 西京公司	xi jing gong si	13
 洗净后	xi jing hou	10760
 洗颈就戮	xi jing jiu lu	1
@@ -439928,6 +440110,7 @@ sort: by_weight
 下级人民政府	xia ji ren min zheng fu	5145
 下汲肾阴	xia ji shen yin	1
 夏季食品	xia ji shi pin	325
+夏季温度高	xia ji wen du gao	111
 夏季学期	xia ji xue qi	670
 夏季衣服	xia ji yi fu	250
 下极俞	xia ji yu	1
@@ -440935,6 +441118,7 @@ sort: by_weight
 夏天空调	xia tian kong tiao	111
 夏天里	xia tian li	3815
 夏天去	xia tian qu	230
+夏天温度高	xia tian wen du gao	111
 夏天无	xia tian wu	14
 夏天无滴眼液	xia tian wu di yan ye	1
 夏天无片	xia tian wu pian	4
@@ -443385,6 +443569,7 @@ sort: by_weight
 咸馓子	xian san zi	24
 显色	xian se	8480
 咸涩	xian se	1355
+显色度高	xian se du gao	111
 嫌色细胞癌	xian se xi bao ai	1
 显色性	xian se xing	2110
 显色指数	xian se zhi shu	1020
@@ -445647,6 +445832,7 @@ sort: by_weight
 相关成本	xiang guan cheng ben	1845
 相关程度	xiang guan cheng du	1695
 相关度	xiang guan du	5655
+相关度高	xiang guan du gao	111
 相关法律	xiang guan fa lv	105315
 相关法律法规	xiang guan fa lv fa gui	54205
 相关分析	xiang guan fen xi	4455
@@ -447149,6 +447335,7 @@ sort: by_weight
 相似点	xiang si dian	2305
 相思豆	xiang si dou	1910
 相似度	xiang si du	5135
+相似度高	xiang si du gao	111
 相似度计算	xiang si du ji suan	207
 相思断肠红	xiang si duan chang hong	143
 相思枫叶丹	xiang si feng ye dan	1
@@ -455028,6 +455215,7 @@ sort: by_weight
 楔叶纲	xie ye gang	1
 谢业枧	xie ye jian	9
 脇野龙	xie ye long	1
+血液黏稠度高	xie ye nian chou du gao	111
 血液循环	xie ye xun huan	106515
 血液循环系统	xie ye xun huan xi tong	275
 鞋业有限公司	xie ye you xian gong si	14760
@@ -458114,6 +458302,7 @@ sort: by_weight
 新任的	xin ren de	20
 信任的	xin ren de	10
 信任度	xin ren du	18070
+信任度高	xin ren du gao	111
 衅稔恶盈	xin ren e ying	1
 新人福利	xin ren fu li	190
 信任感	xin ren gan	12385
@@ -459604,6 +459793,7 @@ sort: by_weight
 信用第一	xin yong di yi	490
 信用调查	xin yong diao cha	2930
 信用度	xin yong du	24735
+信用度高	xin yong du gao	111
 信用额度	xin yong e du	9400
 信用分析	xin yong fen xi	990
 信用风险	xin yong feng xian	18960
@@ -459688,6 +459878,7 @@ sort: by_weight
 新雨带秋岚	xin yu dai qiu lan	1
 信誉第一	xin yu di yi	26575
 信誉度	xin yu du	45845
+信誉度高	xin yu du gao	111
 新预告	xin yu gao	105
 新余国科	xin yu guo ke	133
 信誉好	xin yu hao	10490
@@ -493947,6 +494138,8 @@ sort: by_weight
 印度腹囊海龙	yin du fu nang hai long	1
 印度咖喱焖羊腩	yin du ga li men yang nan	1
 印度感棒水母	yin du gan bang shui mu	1
+印度高官	yin du gao guan	111
+印度高铁	yin du gao tie	111
 印度共和国	yin du gong he guo	3333
 印度共和国宪法	yin du gong he guo xian fa	11
 印度公司	yin du gong si	1990
@@ -512872,6 +513065,7 @@ sort: by_weight
 圆窗	yuan chuang	865
 原创博客	yuan chuang bo ke	304
 原创代码	yuan chuang dai ma	96
+原创度高	yuan chuang du gao	111
 原创翻译	yuan chuang fan yi	505
 原创歌曲	yuan chuang ge qu	10585
 原创教程	yuan chuang jiao cheng	93
@@ -523267,6 +523461,8 @@ sort: by_weight
 遭骂	zao ma	370
 枣馒头	zao man tou	189
 糟毛豆	zao mao dou	112
+早没	zao mei	7777
+早梅	zao mei	1111
 灶美村	zao mei cun	1
 灶门	zao men	595
 灶门祢豆子	zao men mi dou zi	133
@@ -532658,6 +532854,7 @@ sort: by_weight
 真不少	zhen bu shao	3330
 真不是	zhen bu shi	11920
 真不熟	zhen bu shou	191
+真不熟	zhen bu shu	191
 真不爽	zhen bu shuang	535
 真不想	zhen bu xiang	2695
 真不珍惜	zhen bu zhen xi	103
@@ -533361,6 +533558,7 @@ sort: by_weight
 真空电磁阀	zhen kong dian ci fa	87
 真空吊具	zhen kong diao ju	72
 真空度	zhen kong du	7150
+真空度高	zhen kong du gao	111
 真空镀膜	zhen kong du mo	2885
 真空断路器	zhen kong duan lu qi	4230
 真空干燥	zhen kong gan zao	2430
@@ -539898,6 +540096,7 @@ sort: by_weight
 质量差价	zhi liang cha jia	175
 质量担保	zhi liang dan bao	2115
 质量单位	zhi liang dan wei	535
+质量的	zhi liang de	100
 质量等级	zhi liang deng ji	15205
 质量低劣	zhi liang di lie	4075
 质量第一	zhi liang di yi	50755
@@ -540336,6 +540535,7 @@ sort: by_weight
 致命的诱惑	zhi ming de you huo	158
 致命点	zhi ming dian	355
 知名度	zhi ming du	229305
+知名度高	zhi ming du gao	111
 指明方向	zhi ming fang xiang	3245
 致命感应	zhi ming gan ying	172
 致命华彩	zhi ming hua cai	176
@@ -540444,6 +540644,7 @@ sort: by_weight
 智能互联系统	zhi neng hu lian xi tong	111
 智能化	zhi neng hua	151605
 职能化	zhi neng hua	650
+智能化程度高	zhi neng hua cheng du gao	111
 智能化犯罪	zhi neng hua fan zui	20
 只能换	zhi neng huan	230
 智能机	zhi neng ji	3835
@@ -543661,6 +543862,7 @@ sort: by_weight
 忠诚的人	zhong cheng de ren	910
 忠诚调查令	zhong cheng diao cha ling	1
 忠诚度	zhong cheng du	60985
+忠诚度高	zhong cheng du gao	111
 中成股份	zhong cheng gu fen	350
 中诚海华	zhong cheng hai hua	34
 忠诚合同	zhong cheng he tong	5
@@ -544083,6 +544285,7 @@ sort: by_weight
 中毒病	zhong du bing	7
 中度的	zhong du de	1600
 中毒的	zhong du de	35
+重度高血压	zhong du gao xue ya	111
 重渡沟	zhong du gou	169
 重度精神发育迟滞	zhong du jing shen fa yu chi zhi	33
 中杜鹃	zhong du juan	194
@@ -544303,6 +544506,7 @@ sort: by_weight
 中孚服务器	zhong fu fu wu qi	87
 中孚服务器审计系统	zhong fu fu wu qi shen ji xi tong	87
 中福会	zhong fu hui	530
+重复精度高	zhong fu jing du gao	111
 中富乐	zhong fu le	5
 钟阜路	zhong fu lu	99
 钟阜门	zhong fu men	18
@@ -545624,6 +545828,7 @@ sort: by_weight
 中核宾馆	zhong he bin guan	48
 中河低线𫚭	zhong he di xian lie	1
 中和殿	zhong he dian	1075
+重合度高	zhong he du gao	111
 中和反应	zhong he fan ying	940
 众和公司	zhong he gong si	11
 众合公司	zhong he gong si	6
@@ -547423,6 +547628,7 @@ sort: by_weight
 终始不渝	zhong shi bu yu	3
 中市场	zhong shi chang	2395
 重视程度	zhong shi cheng du	22005
+重视程度高	zhong shi cheng du gao	111
 中式传统糕点	zhong shi chuan tong gao dian	119
 中石村	zhong shi cun	7
 忠实的	zhong shi de	27305
@@ -554637,6 +554843,8 @@ sort: by_weight
 专款	zhuan kuan	12170
 转款	zhuan kuan	2715
 专款专用	zhuan kuan zhuan yong	29880
+转啦	zhuan la	5555
+赚啦	zhuan la	3333
 转来	zhuan lai	17520
 赚来	zhuan lai	10685
 专来	zhuan lai	815
@@ -555242,6 +555450,7 @@ sort: by_weight
 专业地位	zhuan ye di wei	675
 专业店	zhuan ye dian	6185
 专业度	zhuan ye du	2100
+专业度高	zhuan ye du gao	111
 专业队	zhuan ye dui	6370
 专业对口	zhuan ye dui kou	10475
 专业队伍	zhuan ye dui wu	13450
@@ -555256,6 +555465,7 @@ sort: by_weight
 专业户	zhuan ye hu	21425
 专业化	zhuan ye hua	265190
 专业化程度	zhuan ye hua cheng du	6725
+专业化程度高	zhuan ye hua cheng du gao	111
 专业化经营	zhuan ye hua jing ying	2730
 专业化银行制	zhuan ye hua yin hang zhi	5
 专业活动	zhuan ye huo dong	1665
@@ -556883,6 +557093,7 @@ sort: by_weight
 准确的说	zhun que de shuo	903
 准确定位	zhun que ding wei	14800
 准确度	zhun que du	42185
+准确度高	zhun que du gao	111
 准确解	zhun que jie	18
 准确率	zhun que lv	35505
 准确率达	zhun que lv da	1570
@@ -557970,6 +558181,7 @@ sort: by_weight
 自动化	zi dong hua	398260
 自动化部署	zi dong hua bu shu	1008
 自动化测试	zi dong hua ce shi	5942
+自动化程度高	zi dong hua cheng du gao	111
 自动化对象	zi dong hua dui xiang	430
 自动化服务器	zi dong hua fu wu qi	265
 自动化工程学院	zi dong hua gong cheng xue yuan	50
@@ -559525,6 +559737,7 @@ sort: by_weight
 紫如意	zi ru yi	2
 滋润	zi run	158595
 滋润度	zi run du	2510
+滋润度高	zi run du gao	111
 滋润乡	zi run xiang	7
 自若	zi ruo	5560
 字若涂鸦	zi ruo tu ya	1
@@ -560459,6 +560672,7 @@ sort: by_weight
 自由电荷	zi you dian he	145
 自由电子	zi you dian zi	2020
 自由度	zi you du	24820
+自由度高	zi you du gao	111
 自由锻	zi you duan	470
 自由兑换	zi you dui huan	7050
 资优儿童	zi you er tong	230
