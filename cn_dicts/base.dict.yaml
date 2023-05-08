@@ -1537,7 +1537,7 @@
 #///
 ---
 name: base
-version: "2023-05-05"
+version: "2023-05-09"
 sort: by_weight
 ...
 # +_+
@@ -11340,8 +11340,8 @@ sort: by_weight
 白膜侵睛	bai mo qin jing	1
 白磨嘴皮	bai mo zui pi	1
 百亩	bai mu	13000
-柏木	bai mu	5790
 白木	bai mu	3880
+柏木	bai mu	579
 柏木村	bai mu cun	8
 百慕大	bai mu da	6205
 百慕大躄鱼	bai mu da bi yu	1
@@ -43415,7 +43415,7 @@ sort: by_weight
 草灰	cao hui	600
 草鸡	cao ji	2455
 曹记驴肉	cao ji lv rou	91
-曹家	cao jia	1
+曹家	cao jia	111
 曹家村	cao jia cun	103
 曹家村委会	cao jia cun wei hui	2
 曹家渡	cao jia du	345
@@ -75343,12 +75343,11 @@ sort: by_weight
 大椎穴	da zhui xue	149
 打准考证	da zhun kao zheng	152
 打字	da zi	70320
-大字	da zi	58835
-沓子	da zi	9999
+大字	da zi	8835
+沓子	da zi	7999
 搭子	da zi	6666
 大姊	da zi	5930
-鞑子	da zi	5825
-达孜	da zi	1160
+鞑子	da zi	582
 打字啊	da zi a	100
 打字吧	da zi ba	370
 打字办公	da zi ban gong	293
@@ -75365,6 +75364,8 @@ sort: by_weight
 大资金	da zi jin	21
 打字练习	da zi lian xi	2265
 鞑子桥	da zi qiao	1
+打字区	da zi qu	3333
+达孜区	da zi qu	1
 大自然	da zi ran	202455
 大自然的一切	da zi ran de yi qie	100
 大自然野生昆虫馆	da zi ran ye sheng kun chong guan	69
@@ -75374,7 +75375,7 @@ sort: by_weight
 大字体	da zi ti	9735
 打字通	da zi tong	2135
 打字王	da zi wang	410
-达孜县	da zi xian	765
+达孜县	da zi xian	1
 打字员	da zi yuan	12340
 大资源	da zi yuan	860
 打字纸	da zi zhi	9999
@@ -78151,6 +78152,7 @@ sort: by_weight
 单式	dan shi	10585
 淡市	dan shi	99
 胆石	dan shi	46
+但是被	dan shi bei	6666
 胆石病	dan shi bing	675
 单士兵	dan shi bing	3
 单式簿记	dan shi bu ji	55
@@ -94731,8 +94733,8 @@ sort: by_weight
 东汉末年	dong han mo nian	104
 东汉时期	dong han shi qi	3940
 东韩寨村委会	dong han zhai cun wei hui	1
-东航	dong hang	29040
 懂行	dong hang	7625
+东航	dong hang	2904
 栋号	dong hao	550
 恫吓	dong he	4165
 东河	dong he	726
@@ -94952,9 +94954,9 @@ sort: by_weight
 东渐西被	dong jian xi bei	1
 东建乡	dong jian xiang	3
 动检站	dong jian zhan	1450
-东江	dong jiang	22165
 冻僵	dong jiang	8585
 东疆	dong jiang	1617
+东江	dong jiang	221
 东江菜	dong jiang cai	787
 东疆春	dong jiang chun	131
 东江村	dong jiang cun	57
@@ -97745,6 +97747,8 @@ sort: by_weight
 都晚了	dou wan le	222
 都玩了	dou wan le	11
 都完全	dou wan quan	7820
+都往	dou wang	6666
+都忘	dou wang	1111
 都忘不了	dou wang bu liao	3565
 都忘掉	dou wang diao	1590
 都忘了	dou wang le	12485
@@ -126776,9 +126780,9 @@ sort: by_weight
 改换门楣	gai huan men mei	111
 改换门庭	gai huan men ting	1400
 改换头面	gai huan tou mian	1
-该会	gai hui	62460
+改回	gai hui	9450
 该回	gai hui	8400
-改回	gai hui	7450
+该会	gai hui	6246
 改悔	gai hui	1135
 改回来	gai hui lai	2630
 该回来的	gai hui lai de	293
@@ -133984,6 +133988,8 @@ sort: by_weight
 歌片儿	ge pian er	9999
 葛漂亮	ge piao liang	182
 各品牌	ge pin pai	21685
+各凭	ge ping	5555
+隔屏	ge ping	1111
 各凭本事	ge ping ben shi	235
 割破	ge po	5950
 歌谱	ge pu	4580
@@ -140830,7 +140836,7 @@ sort: by_weight
 沟通一下	gou tong yi xia	4
 沟通与交流	gou tong yu jiao liu	6440
 狗头	gou tou	16935
-沟头	gou tou	87
+沟头	gou tou	1
 沟头村	gou tou cun	5
 狗头军师	gou tou jun shi	1215
 狗头山	gou tou shan	6
@@ -154538,6 +154544,7 @@ sort: by_weight
 还好听	hai hao ting	111
 还好我	hai hao wo	91
 还好我没放弃	hai hao wo mei fang qi	111
+还好笑	hai hao xiao	333
 还好些	hai hao xie	111
 还好呀	hai hao ya	165
 还好一点	hai hao yi dian	111
@@ -179394,6 +179401,7 @@ sort: by_weight
 蛔虫药	hui chong yao	55
 回抽	hui chou	2920
 回筹转策	hui chou zhuan ce	1
+会出	hui chu	33333
 汇出	hui chu	29955
 挥出	hui chu	15510
 绘出	hui chu	10520
@@ -182344,6 +182352,7 @@ sort: by_weight
 混着	hun zhe	5680
 阍者	hun zhe	280
 混着呢	hun zhe ne	65
+魂之	hun zhi	333
 混种	hun zhong	1495
 混装	hun zhuang	1111
 浑浊	hun zhuo	24565
@@ -213521,6 +213530,7 @@ sort: by_weight
 警愦觉聋	jing kui jue long	1
 净亏损	jing kui sun	4555
 京昆高速	jing kun gao su	177
+惊啦	jing la	3333
 竟来	jing lai	1820
 净来虚的	jing lai xu de	1
 井栏	jing lan	1625
@@ -223226,6 +223236,8 @@ sort: by_weight
 卡立普多	ka li pu duo	2
 卡里乌斯	ka li wu si	118
 卡莲芳	ka lian fang	1
+卡林	ka lin	111
+卡琳	ka lin	111
 咔啉	ka lin	35
 卡隆	ka long	111
 # 卡龙	ka long	0
@@ -240899,6 +240911,7 @@ sort: by_weight
 勒布朗	le bu lang	2415
 勒布朗詹姆斯	le bu lang zhan mu si	180
 勒布朗·詹姆斯	le bu lang zhan mu si	100
+乐不乐观	le bu le guan	3333
 乐不了	le bu liao	80
 乐不起来	le bu qi lai	1030
 乐不思蜀	le bu si shu	4315
@@ -240976,6 +240989,7 @@ sort: by_weight
 乐古道巷	le gu dao xiang	4
 乐谷银滩	le gu yin tan	113
 乐观	le guan	162955
+乐观不乐观	le guan bu le guan	3333
 乐观的	le guan de	49715
 乐观地	le guan de	7800
 乐观进取	le guan jin qu	163
@@ -247486,7 +247500,7 @@ sort: by_weight
 练家子	lian jia zi	9999
 练剑	lian jian	5440
 联检	lian jian	5400
-联建	lian jian	111
+# 联建	lian jian	0
 联建村	lian jian cun	41
 连降	lian jiang	9999
 # 廉江	lian jiang	0
@@ -262160,7 +262174,7 @@ sort: by_weight
 罗阿诺克小鲈	luo a nuo ke xiao lu	1
 罗蔼轩	luo ai xuan	10
 落案	luo an	505
-洛安	luo an	15
+# 洛安	luo an	0
 洛安村	luo an cun	8
 罗安达	luo an da	930
 珞巴	luo ba	1380
@@ -267741,7 +267755,7 @@ sort: by_weight
 买来	mai lai	70420
 买来试试	mai lai shi shi	140
 麦浪	mai lang	2450
-麦朗	mai lang	11
+# 麦朗	mai lang	0
 麦朗村	mai lang cun	4
 麦朗工业区	mai lang gong ye qu	1
 卖老	mai lao	1950
@@ -288396,8 +288410,8 @@ sort: by_weight
 南墙湾	nan qiang wan	4
 南桥	nan qiao	19740
 难侨	nan qiao	1215
-南谯	nan qiao	505
-南侨	nan qiao	343
+# 南侨	nan qiao	0
+# 南谯	nan qiao	0
 南桥村	nan qiao cun	46
 南侨村	nan qiao cun	1
 南谯区	nan qiao qu	495
@@ -300197,7 +300211,7 @@ sort: by_weight
 潘集区	pan ji qu	1060
 潘基文	pan ji wen	21464
 潘集寨学校	pan ji zhai xue xiao	4
-潘家	pan jia	12230
+潘家	pan jia	122
 潘家村	pan jia cun	103
 潘家华	pan jia hua	139
 潘家口	pan jia kou	1020
@@ -316721,10 +316735,10 @@ sort: by_weight
 千元	qian yuan	110305
 前缘	qian yuan	13545
 前院	qian yuan	6230
-前园	qian yuan	1340
-钱渊	qian yuan	51
-钱元	qian yuan	2
-钱园	qian yuan	1
+# 前园	qian yuan	0
+# 钱元	qian yuan	0
+# 钱园	qian yuan	0
+# 钱渊	qian yuan	0
 前园村	qian yuan cun	3
 黔源电力	qian yuan dian li	192
 前圆恩寺胡同	qian yuan en si hu tong	28
@@ -318361,6 +318375,7 @@ sort: by_weight
 巧辩	qiao bian	515
 巧变	qiao bian	1
 桥边村	qiao bian cun	8
+桥边儿	qiao bian er	12015
 敲边鼓	qiao bian gu	875
 翘辫子	qiao bian zi	655
 瞧病	qiao bing	670
@@ -382931,8 +382946,8 @@ sort: by_weight
 宋嫂面	song sao mian	102
 宋嫂鱼羹	song sao yu geng	665
 嵩山	song shan	27585
-松山	song shan	16110
-崧山	song shan	5
+松山	song shan	111
+# 崧山	song shan	0
 嵩山禅宗	song shan chan zong	60
 松山村	song shan cun	49
 嵩山村	song shan cun	15
@@ -385997,8 +386012,8 @@ sort: by_weight
 笋干儿	sun gan er	9999
 笋干黄豆	sun gan huang dou	1
 孙甘露	sun gan lu	106
-笋岗	sun gang	4920
-孙刚	sun gang	2925
+孙刚	sun gang	2
+笋岗	sun gang	1
 笋岗仓库	sun gang cang ku	24
 笋岗村	sun gang cun	138
 笋岗街道	sun gang jie dao	145
@@ -389709,6 +389724,8 @@ sort: by_weight
 太酷	tai ku	655
 太苦逼	tai ku bi	1
 太苦逼了	tai ku bi le	1
+太酷啦	tai ku la	3333
+太苦啦	tai ku la	1111
 太苦了	tai ku le	2775
 太酷了	tai ku le	2305
 太苦了吧	tai ku le ba	2775
@@ -397065,7 +397082,7 @@ sort: by_weight
 # 天碧	tian bi	0
 天边	tian bian	48940
 田边	tian bian	1358
-舔遍	tian bian	111
+舔遍	tian bian	1111
 田边村	tian bian cun	22
 田边地头	tian bian di tou	355
 天边树若荠	tian bian shu ruo ji	1
@@ -403581,6 +403598,7 @@ sort: by_weight
 通栏广告	tong lan guang gao	6020
 统揽全局	tong lan quan ju	4665
 通廊	tong lang	2170
+通廊式	tong lang shi	2170
 通了	tong le	47670
 痛了	tong le	20500
 同乐	tong le	19390
@@ -411938,10 +411956,11 @@ sort: by_weight
 万车网	wan che wang	277
 万车型	wan che xing	158
 完成	wan cheng	501390
-万成	wan cheng	5610
+玩成	wan cheng	5555
 弯成	wan cheng	4195
-宛城	wan cheng	2680
 晚成	wan cheng	1250
+宛城	wan cheng	268
+# 万成	wan cheng	0
 完成比赛	wan cheng bi sai	1755
 完成程序	wan cheng cheng xu	515
 晚成单罗衫	wan cheng dan luo shan	1
@@ -412140,6 +412159,7 @@ sort: by_weight
 万儿八千	wan er ba qian	600
 玩儿不起	wan er bu qi	130
 玩儿不转	wan er bu zhuan	999
+玩儿成	wan er cheng	555
 婉而成章	wan er cheng zhang	5
 玩儿的	wan er de	5010
 莞尔而笑	wan er er xiao	111
@@ -455521,10 +455541,10 @@ sort: by_weight
 心爱之人	xin ai zhi ren	112
 心爱之物	xin ai zhi wu	132
 心安	xin an	13795
-新岸	xin an	99
-新垵	xin an	1
-新安	xin an	1
-新庵	xin an	1
+新安	xin an	1333
+新岸	xin an	2
+# 新垵	xin an	0
+# 新庵	xin an	0
 新安村	xin an cun	203
 新垵村	xin an cun	7
 新庵村	xin an cun	2
@@ -467573,8 +467593,8 @@ sort: by_weight
 学分数	xue fen shu	2680
 学分银行	xue fen yin hang	111
 学分制	xue fen zhi	23670
-学风	xue feng	55815
 雪峰	xue feng	37110
+学风	xue feng	5581
 雪峰办事处	xue feng ban shi chu	1
 雪峰村	xue feng cun	8
 学风建设	xue feng jian she	12760
@@ -481288,20 +481308,20 @@ sort: by_weight
 遗爱寺钟欹枕听	yi ai si zhong qi zhen ting	1
 以爱为墨	yi ai wei mo	421
 遗爱在民	yi ai zai min	2
-议案	yi an	207320
+一按	yi an	229250
+已按	yi an	116965
 一案	yi an	44420
-一按	yi an	22925
-已按	yi an	16965
-易安	yi an	6950
 疑案	yi an	6575
-医案	yi an	4275
+议案	yi an	5732
 一暗	yi an	4085
 乙胺	yi an	3600
-义安	yi an	2980
-宜安	yi an	2555
-依安	yi an	1425
-遗案	yi an	185
-亿安	yi an	15
+遗案	yi an	1850
+医案	yi an	1275
+# 义安	yi an	0
+# 亿安	yi an	0
+# 依安	yi an	0
+# 宜安	yi an	0
+# 易安	yi an	0
 一案八制	yi an ba zhi	87
 乙胺吡嗪利福异烟片	yi an bi qin li fu yi yan pian	1
 以安促改	yi an cu gai	362
@@ -485160,6 +485180,8 @@ sort: by_weight
 义和庄南里社区	yi he zhuang nan li she qu	1
 一盒子	yi he zi	298
 一合作的	yi he zuo de	30
+一黑	yi hei	6666
+已黑	yi hei	3333
 已黑化	yi hei hua	152
 以黑为白	yi hei wei bai	3
 一黑一白	yi hei yi bai	2020
