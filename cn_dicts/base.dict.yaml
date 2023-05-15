@@ -1537,7 +1537,7 @@
 #///
 ---
 name: base
-version: "2023-05-13"
+version: "2023-05-15"
 sort: by_weight
 ...
 # +_+
@@ -10879,6 +10879,7 @@ sort: by_weight
 白净	bai jing	14285
 白鲸	bai jing	4620
 百景	bai jing	540
+白颈长尾雉	bai jing chang wei zhi	111
 百井坊巷	bai jing fang xiang	83
 白晶晶	bai jing jing	4205
 白晶菊	bai jing ju	160
@@ -15328,6 +15329,7 @@ sort: by_weight
 绑扎带	bang zha dai	114
 帮着	bang zhe	34780
 绑着	bang zhe	7545
+绑着脚	bang zhe jiao	111
 棒着呢	bang zhe ne	85
 绑着呢	bang zhe ne	10
 棒针	bang zhen	9999
@@ -21346,13 +21348,15 @@ sort: by_weight
 北团结	bei tuan jie	6
 北团结街	bei tuan jie jie	11
 被推	bei tui	5555
-被退	bei tui	111
+被退	bei tui	1111
 被推迟	bei tui chi	2310
 被推翻	bei tui fan	4730
 被退回	bei tui hui	3320
 被推荐	bei tui jian	21640
 被推荐者	bei tui jian zhe	955
+被吞	bei tun	3333
 北屯	bei tun	256
+被吞了	bei tun le	3333
 北屯市	bei tun shi	396
 北屯中学	bei tun zhong xue	16
 被拖	bei tuo	11970
@@ -48793,6 +48797,9 @@ sort: by_weight
 肠胃不好	chang wei bu hao	1655
 长尾长丝角𩽾𩾌	chang wei chang si jiao an kang	1
 长尾长丝角𩽾𩾌鱼	chang wei chang si jiao an kang yu	1
+长尾船	chang wei chuan	111
+长尾词	chang wei ci	111
+长尾词排名	chang wei ci pai ming	111
 长尾大角𩽾𩾌	chang wei da jiao an kang	1
 长尾大盘尾	chang wei da pan wei	1
 长尾玳瑁凤蝶	chang wei dai mao feng die	1
@@ -48804,28 +48811,45 @@ sort: by_weight
 常微分方程次数	chang wei fen fang cheng ci shu	5
 长尾副平牙鰕虎鱼	chang wei fu ping ya xia hu yu	1
 长尾高眉鳝	chang wei gao mei shan	1
+长尾怪手	chang wei guai shou	111
+长尾关键词	chang wei guan jian ci	111
+长尾关键词挖掘	chang wei guan jian ci wa jue	111
+长尾关键词优化	chang wei guan jian ci you hua	111
+长尾关键字	chang wei guan jian zi	111
+长尾猴	chang wei hou	111
 长尾鹮	chang wei huan	1
 长尾黄蟌	chang wei huang cong	1
 常委会	chang wei hui	145990
 长尾灰卷尾	chang wei hui juan wei	1
+长尾火狐	chang wei huo hu	111
 长尾寄居姬蛛	chang wei ji ju ji zhu	1
+长尾夹	chang wei jia	111
 长尾娇鹟	chang wei jiao weng	1
 长围巾	chang wei jin	775
+长尾景虎	chang wei jing hu	111
+长尾客户	chang wei ke hu	111
+长尾理论	chang wei li lun	111
 长尾林鸮	chang wei lin xiao	3
+长尾流量	chang wei liu liang	111
 长尾龙猫	chang wei long mao	3
 长尾芦雀属	chang wei lu que shu	1
 长尾鸣鹃鵙	chang wei ming juan ju	1
 长尾奈波鰕虎鱼	chang wei nai bo xia hu yu	1
 肠胃宁片	chang wei ning pian	4
+长尾票夹	chang wei piao jia	111
 长尾前孔鲀	chang wei qian kong tun	1
 长尾雀	chang wei que	16
+长尾鲨	chang wei sha	111
+长尾山雀	chang wei shan que	111
 长尾深海狗母鱼	chang wei shen hai gou mu yu	1
+长尾市场	chang wei shi chang	111
 肠胃舒胶囊	chang wei shu jiao nang	3
 长尾束腰蟹	chang wei shu yao xie	1
 常伟思	chang wei si	118
 长尾外毛猛水蚤	chang wei wai mao meng shui zao	1
 长尾纹胸𬶐	chang wei wen xiong zhao	1
 长尾鸮	chang wei xiao	1
+长尾效应	chang wei xiao ying	111
 长尾鳕亚目	chang wei xue ya mu	1
 肠胃炎	chang wei yan	4220
 长尾雁荡鸟	chang wei yan dang niao	1
@@ -48834,7 +48858,9 @@ sort: by_weight
 长尾异赛瓜参	chang wei yi sai gua can	1
 长尾异饰肛螽	chang wei yi shi gang zhong	1
 肠胃蝇	chang wei ying	2
+长尾用户	chang wei yong hu	111
 长尾玉米卷管螺	chang wei yu mi juan guan luo	1
+长尾猿	chang wei yuan	111
 长尾窄体吸虫	chang wei zhai ti xi chong	1
 长尾真剑水蚤	chang wei zhen jian shui zao	1
 长尾住囊虫	chang wei zhu nang chong	1
@@ -61948,9 +61974,9 @@ sort: by_weight
 传见	chuan jian	875
 船坚炮利	chuan jian pao li	965
 穿件衣服	chuan jian yi fu	119
-串讲	chuan jiang	15905
-川江	chuan jiang	4675
 船桨	chuan jiang	1845
+串讲	chuan jiang	159
+川江	chuan jiang	46
 传教	chuan jiao	17335
 传教士	chuan jiao shi	24225
 川教之声	chuan jiao zhi sheng	132
@@ -71067,6 +71093,7 @@ sort: by_weight
 打搅	da jiao	12440
 大觉	da jiao	6685
 大角	da jiao	5970
+打胶	da jiao	3333
 大轿	da jiao	2060
 打醮	da jiao	630
 大蕉	da jiao	1
@@ -164847,6 +164874,7 @@ sort: by_weight
 狠愎自用	hen bi zi yong	1
 很扁	hen bian	225
 恨别鸟惊心	hen bie niao jing xin	25
+很薄	hen bo	3333
 很薄的一层	hen bo de yi ceng	100
 很不	hen bu	9999
 恨不	hen bu	14
@@ -185480,6 +185508,7 @@ sort: by_weight
 基础设备	ji chu she bei	3045
 基础设施	ji chu she shi	335465
 基础设施建设	ji chu she shi jian she	153705
+基础设施投资银行	ji chu she shi tou zi yin hang	100
 基础设置	ji chu she zhi	538
 基础生命支持	ji chu sheng ming zhi chi	30
 基础数据	ji chu shu ju	17220
@@ -219971,6 +220000,8 @@ sort: by_weight
 巨商富贾	ju shang fu gu	111
 距上海	ju shang hai	4705
 据商务部	ju shang wu bu	3750
+巨少	ju shao	3333
+聚少	ju shao	111
 桔烧巴	ju shao ba	4
 聚少成多	ju shao cheng duo	124
 聚少离多	ju shao li duo	2410
@@ -332970,7 +333001,8 @@ sort: by_weight
 人模狗样	ren mu gou yang	2060
 人模狗样儿	ren mu gou yang er	45
 人模人样	ren mu ren yang	1130
-人哪	ren na	12175
+人呐	ren na	3333
+人哪	ren na	1217
 忍耐	ren nai	54410
 人奶	ren nai	1765
 忍耐不住	ren nai bu zhu	4450
@@ -410516,6 +410548,7 @@ sort: by_weight
 挖井	wa jing	2555
 瓦井	wa jing	4
 挖掘	wa jue	244950
+挖掘长尾关键词	wa jue chang wei guan jian ci	111
 挖掘出	wa jue chu	12455
 挖掘机	wa jue ji	55770
 挖掘机厂	wa jue ji chang	120
@@ -416459,9 +416492,10 @@ sort: by_weight
 王雪娥	wang xue e	115
 王学浩	wang xue hao	42
 王雪花	wang xue hua	160
-网讯	wang xun	57885
-王勋	wang xun	96
-汪洵	wang xun	3
+网讯	wang xun	5788
+王迅	wang xun	111
+# 汪洵	wang xun	0
+# 王勋	wang xun	0
 王亚彬	wang ya bin	65
 王雅迪	wang ya di	6
 王亚辉	wang ya hui	12
@@ -471235,6 +471269,7 @@ sort: by_weight
 压轴好戏	ya zhou hao xi	460
 亚洲货币	ya zhou huo bi	1980
 亚洲基础设施投资	ya zhou ji chu she shi tou zi	8080
+亚洲基础设施投资银行	ya zhou ji chu she shi tou zi yin hang	100
 亚洲纪录	ya zhou ji lu	1965
 亚洲金融	ya zhou jin rong	24
 亚洲金融风暴	ya zhou jin rong feng bao	3225
@@ -495142,6 +495177,7 @@ sort: by_weight
 银红绣球	yin hong xiu qiu	1
 银红艳妆	yin hong yan zhuang	1
 饮虹园	yin hong yuan	11
+银喉长尾	yin hou chang wei	111
 印后设备	yin hou she bei	1380
 寅虎	yin hu	2212
 银狐	yin hu	1311
@@ -543899,6 +543935,7 @@ sort: by_weight
 仲长统	zhong chang tong	7
 中长途	zhong chang tu	1030
 中长外套	zhong chang wai tao	210
+中长尾	zhong chang wei	111
 中长线	zhong chang xian	6625
 中场秀	zhong chang xiu	153
 中场休息	zhong chang xiu xi	4890
@@ -557026,6 +557063,7 @@ sort: by_weight
 锥子山	zhui zi shan	25
 追踪	zhui zong	132325
 追踪报道	zhui zong bao dao	4440
+追踪长尾豹马修	zhui zong chang wei bao ma xiu	111
 追踪程序	zhui zong cheng xu	162
 追踪弹	zhui zong dan	111
 追踪调查	zhui zong diao cha	3415
@@ -563133,9 +563171,9 @@ sort: by_weight
 走下坡路	zou xia po lu	9040
 走下去	zou xia qu	24290
 走下台	zou xia tai	810
-邹县	zou xian	1900
 走线	zou xian	1180
 走险	zou xian	605
+邹县	zou xian	1
 走线清晰	zou xian qing xi	121
 走向	zou xiang	500281
 奏响	zou xiang	14645
@@ -563173,7 +563211,8 @@ sort: by_weight
 走野	zou ye	33
 走夜路	zou ye lu	3090
 奏议	zou yi	2480
-邹益	zou yi	2
+奏一	zou yi	111
+# 邹益	zou yi	0
 走一遍	zou yi bian	1190
 走一步	zou yi bu	9955
 走一部	zou yi bu	18
@@ -563203,7 +563242,7 @@ sort: by_weight
 走账	zou zhang	180
 走着	zou zhe	61605
 奏折	zou zhe	7965
-走这	zou zhe	111
+走这	zou zhe	1111
 走这边	zou zhe bian	375
 走这儿	zou zhe er	111
 走这个	zou zhe ge	62
@@ -563214,12 +563253,14 @@ sort: by_weight
 走着走着	zou zhe zou zhe	12890
 走之	zou zhi	10200
 走纸	zou zhi	2765
-邹智	zou zhi	6
+奏之	zou zhi	111
+# 邹智	zou zhi	0
 走之旁	zou zhi pang	1111
 奏之曲	zou zhi qu	15
 邹忠	zou zhong	6
 邹忠臣	zou zhong chen	115
-邹庄	zou zhuang	12
+奏状	zou zhuang	22
+邹庄	zou zhuang	1
 走子	zou zi	525
 走自己	zou zi ji	68
 走自己的路	zou zi ji de lu	20320
