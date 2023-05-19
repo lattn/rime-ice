@@ -1541,10 +1541,11 @@
 # 「气势凶凶」→「气势汹汹」
 # 「龙蟠、蟠龙」→「龙盘、盘龙」
 # 「作派」→「做派」
+# 「所作的」→「所做的」
 #///
 ---
 name: base
-version: "2023-05-18"
+version: "2023-05-19"
 sort: by_weight
 ...
 # +_+
@@ -8876,6 +8877,7 @@ sort: by_weight
 巴山银芽	ba shan yin ya	16
 巴山中路	ba shan zhong lu	5
 坝上	ba shang	14830
+坝上地区	ba shang di qu	100
 把上海	ba shang hai	2945
 跋涉	ba she	25655
 跋涉长途	ba she chang tu	6
@@ -16586,8 +16588,8 @@ sort: by_weight
 宝剑	bao jian	51125
 包间	bao jian	33235
 保荐	bao jian	25385
-保监	bao jian	8965
 宝鉴	bao jian	5620
+保监	bao jian	89
 保健按摩	bao jian an mo	6950
 薄煎饼	bao jian bing	435
 保健操	bao jian cao	3785
@@ -18826,7 +18828,8 @@ sort: by_weight
 被处以	bei chu yi	7935
 被除以	bei chu yi	5
 被传	bei chuan	9999
-北川	bei chuan	1
+背传	bei chuan	1111
+北川	bei chuan	111
 被传播	bei chuan bo	1155
 北川村	bei chuan cun	2
 北川景子	bei chuan jing zi	19
@@ -44463,6 +44466,7 @@ sort: by_weight
 侧躺	ce tang	9999
 侧躺在	ce tang zai	9999
 测体温	ce ti wen	1585
+侧跳	ce tiao	1111
 侧停	ce ting	3333
 侧厅	ce ting	1111
 侧头	ce tou	9060
@@ -44654,6 +44658,7 @@ sort: by_weight
 曾当过	ceng dang guo	1885
 曾到	ceng dao	13950
 蹭到	ceng dao	1180
+蹭到了	ceng dao le	1180
 噌地	ceng de	9999
 噌的	ceng de	1111
 曾得到	ceng de dao	3515
@@ -45109,6 +45114,7 @@ sort: by_weight
 查戈斯群岛磨塘鳢	cha ge si qun dao mo tang li	1
 查个血	cha ge xue	50
 插根儿	cha gen er	15
+茶工	cha gong	1111
 茶贡尺蛾	cha gong chi e	1
 茶垢	cha gou	9999
 查股网	cha gu wang	22
@@ -45309,6 +45315,8 @@ sort: by_weight
 茶口	cha kou	6
 插口道	cha kou dao	371
 查库	cha ku	530
+查啦	cha la	3333
+差啦	cha la	1111
 察拉乡	cha la xiang	1
 插蜡烛	cha la zhu	225
 查来查去	cha lai cha qu	78
@@ -45369,9 +45377,15 @@ sort: by_weight
 茶洛乡	cha luo xiang	6
 查旅费	cha lv fei	31
 茶绿色素	cha lv se su	4
+查嘛	cha ma	4444
+差吗	cha ma	3333
+差嘛	cha ma	2222
+查码	cha ma	111
 茶马古道	cha ma gu dao	14365
 查马克	cha ma ke	20
 插满	cha man	5805
+查没	cha mei	2222
+差没	cha mei	1111
 茶眉眼镜鸮	cha mei yan jing xiao	1
 茶苗	cha miao	2880
 察民意	cha min yi	118
@@ -45394,6 +45408,8 @@ sort: by_weight
 察偶个木虱	cha ou ge mu shi	1
 插排	cha pai	999
 茶盘	cha pan	4660
+茶泡	cha pao	1111
+茶泡饭	cha pao fan	1111
 茶棚	cha peng	1955
 查票	cha piao	4685
 查票员	cha piao yuan	400
@@ -56136,6 +56152,7 @@ sort: by_weight
 持积极	chi ji ji	2410
 持己见	chi ji jian	21
 吃鸡模式	chi ji mo shi	144
+吃鸡扒	chi ji pa	111
 吃鸡去	chi ji qu	339
 赤脊山豺狼人	chi ji shan chai lang ren	1
 尺籍伍符	chi ji wu fu	111
@@ -69298,6 +69315,9 @@ sort: by_weight
 大葱水	da cong shui	111
 大促	da cu	1111
 大崔各庄	da cui ge zhuang	1
+大脆鸡扒	da cui ji pa	100
+大脆鸡扒麦满分	da cui ji pa mai man fen	100
+大脆鸡扒麦满分组合	da cui ji pa mai man fen zu he	100
 大村村	da cun cun	6
 大村村委会	da cun cun wei hui	10
 大村子	da cun zi	5070
@@ -86560,6 +86580,7 @@ sort: by_weight
 抵上	di shang	2620
 底墒	di shang	1415
 地上的血迹	di shang de xue ji	111
+地上地下	di shang di xia	100
 地上茎	di shang jing	365
 递上来	di shang lai	510
 地上爬的	di shang pa de	1180
@@ -96809,8 +96830,8 @@ sort: by_weight
 董仲舒	dong zhong shu	8075
 董仲书	dong zhong shu	2
 东中西部	dong zhong xi bu	2800
-东周	dong zhou	11255
-东洲	dong zhou	3680
+东周	dong zhou	1125
+# 东洲	dong zhou	0
 东周村	dong zhou cun	20
 东洲岛	dong zhou dao	187
 东周各庄	dong zhou ge zhuang	1
@@ -101407,7 +101428,7 @@ sort: by_weight
 对席判决	dui xi pan jue	34
 对系统	dui xi tong	64
 对下	dui xia	31420
-对虾	dui xia	20185
+对虾	dui xia	2018
 对辖区	dui xia qu	21395
 对下属	dui xia shu	149
 兑现	dui xian	100360
@@ -123953,7 +123974,7 @@ sort: by_weight
 腹腔脓肿	fu qiang nong zhong	13
 腹腔妊娠	fu qiang ren shen	22
 腹腔引流管	fu qiang yin liu guan	8
-浮桥	fu qiao	11315
+浮桥	fu qiao	1131
 浮桥村	fu qiao cun	12
 浮桥街	fu qiao jie	1
 浮桥社区	fu qiao she qu	4
@@ -126372,7 +126393,8 @@ sort: by_weight
 嘎巴儿	ga ba er	9999
 尕巴松多	ga ba song duo	5
 嘎嘣脆	ga beng cui	90
-嘎查	ga cha	4950
+轧差	ga cha	1111
+嘎查	ga cha	495
 尬吹	ga chui	9999
 嘎措乡	ga cuo xiang	7
 嘎达梅林	ga da mei lin	56
@@ -126388,7 +126410,6 @@ sort: by_weight
 噶尔丹	ga er dan	23
 噶尔县	ga er xian	560
 嘎嘎	ga ga	42460
-轧轧	ga ga	1235
 尜尜	ga ga	1
 嘎嘎胡同	ga ga hu tong	2
 旮旮旯旯	ga ga la la	20
@@ -129945,6 +129966,7 @@ sort: by_weight
 港商	gang shang	929
 岗上	gang shang	400
 刚上车	gang shang che	175
+刚上地铁	gang shang di tie	100
 冈上肌	gang shang ji	6
 刚上来	gang shang lai	1120
 刚上市	gang shang shi	8025
@@ -137517,8 +137539,8 @@ sort: by_weight
 共和	gong he	41820
 恭贺	gong he	13205
 共贺	gong he	1705
-公和	gong he	305
-公合	gong he	7
+# 公合	gong he	0
+# 公和	gong he	0
 共和村	gong he cun	150
 共和党	gong he dang	13125
 共和党人	gong he dang ren	2550
@@ -146914,9 +146936,9 @@ sort: by_weight
 光导元件	guang dao yuan jian	1
 广岛之恋	guang dao zhi lian	1215
 光的	guang de	85345
-广德	guang de	11850
-光德	guang de	1315
 逛得	guang de	985
+广德	guang de	118
+# 光德	guang de	0
 光的波动说	guang de bo dong shuo	220
 光的波粒二象性	guang de bo li er xiang xing	265
 光德村	guang de cun	5
@@ -162012,6 +162034,7 @@ sort: by_weight
 河南大尹头如雪	he nan da yin tou ru xue	1
 河南道	he nan dao	6
 河南东路	he nan dong lu	82
+河南都市频道	he nan du shi pin dao	111
 河南队	he nan dui	1445
 河南方言	he nan fang yan	183
 河南副异饰肛螽	he nan fu yi shi gang zhong	1
@@ -164145,8 +164168,8 @@ sort: by_weight
 黑角绢粉蝶	hei jiao juan fen die	1
 黑角龙	hei jiao long	105
 黑角密缨天牛	hei jiao mi ying tian niu	1
-黑椒牛扒	hei jiao niu ba	205
 黑椒牛柳	hei jiao niu liu	484
+黑椒牛扒	hei jiao niu pa	205
 黑椒牛仔骨	hei jiao niu zai gu	160
 黑教堂	hei jiao tang	145
 黑角叶鰕虎	hei jiao ye xia hu	1
@@ -171116,6 +171139,8 @@ sort: by_weight
 湖南大学	hu nan da xue	21745
 湖南大学北校区	hu nan da xue bei xiao qu	46
 湖南第一师范	hu nan di yi shi fan	206
+湖南都市	hu nan du shi	111
+湖南都市频道	hu nan du shi pin dao	111
 湖南发展	hu nan fa zhan	199
 湖南富强律师事务所	hu nan fu qiang lv shi shi wu suo	1
 湖南高考	hu nan gao kao	172
@@ -188348,6 +188373,8 @@ sort: by_weight
 济南大学	ji nan da xue	4375
 极难得	ji nan de	520
 济南地铁	ji nan di tie	174
+济南都市频道	ji nan du shi pin dao	111
+济南都市圈	ji nan du shi quan	111
 济难扶危	ji nan fu wei	111
 济南钢铁	ji nan gang tie	3620
 济南郡	ji nan jun	6
@@ -188536,6 +188563,10 @@ sort: by_weight
 奇偶校验位	ji ou jiao yan wei	620
 奇偶排序	ji ou pai xu	232
 奇偶性	ji ou xing	1915
+既怕	ji pa	3333
+鸡扒	ji pa	2222
+鸡扒饭	ji pa fan	1111
+既怕你	ji pa ni	111
 鸡排	ji pai	9999
 记牌	ji pai	1111
 急派	ji pai	380
@@ -195054,12 +195085,10 @@ sort: by_weight
 夹峙	jia zhi	9
 佳纸	jia zhi	6
 # 恝置	jia zhi	0
-茄汁斑鱼块	jia zhi ban yu kuai	1
 贾治邦	jia zhi bang	1635
 家之本在身	jia zhi ben zai shen	23
 价值标准	jia zhi biao zhun	7160
 价值不菲	jia zhi bu fei	8070
-茄汁菜包	jia zhi cai bao	4
 价值超过	jia zhi chao guo	4910
 价值尺度	jia zhi chi du	2970
 价值达	jia zhi da	6030
@@ -195077,7 +195106,6 @@ sort: by_weight
 家至户到	jia zhi hu dao	111
 家至户晓	jia zhi hu xiao	1
 价值基础	jia zhi ji chu	1600
-茄汁鸡肉	jia zhi ji rou	10
 葭沚街道	jia zhi jie dao	22
 价值了	jia zhi le	740
 价值理念	jia zhi li nian	7200
@@ -195085,10 +195113,7 @@ sort: by_weight
 价值连城	jia zhi lian cheng	11615
 夹趾凉鞋	jia zhi liang xie	3333
 价值论	jia zhi lun	7810
-茄汁明虾	jia zhi ming xia	37
 价值目标	jia zhi mu biao	5764
-茄汁牛扒	jia zhi niu ba	3
-茄汁牛肉汤	jia zhi niu rou tang	1
 价值判断	jia zhi pan duan	38730
 价值评估	jia zhi ping gu	10565
 价值千金	jia zhi qian jin	730
@@ -195098,7 +195123,6 @@ sort: by_weight
 假肢师	jia zhi shi	87
 价值十多万	jia zhi shi duo wan	68
 价值实现	jia zhi shi xian	129
-茄汁薯枣	jia zhi shu zao	1
 价值体系	jia zhi ti xi	9940
 加枝添叶	jia zhi tian ye	111
 价值为	jia zhi wei	19145
@@ -195107,11 +195131,7 @@ sort: by_weight
 价值形式	jia zhi xing shi	1050
 价值型思维	jia zhi xing si wei	5
 价值形态	jia zhi xing tai	1580
-茄汁鳕鱼	jia zhi xue yu	1
-茄汁鱼罐头	jia zhi yu guan tou	8
-茄汁鱼卷	jia zhi yu juan	11
 价值在	jia zhi zai	14440
-茄汁猪排	jia zhi zhu pai	8
 价值转移	jia zhi zhuan yi	755
 价值准则	jia zhi zhun ze	1375
 家中	jia zhong	331525
@@ -197400,6 +197420,7 @@ sort: by_weight
 建宁县	jian ning xian	1060
 键钮	jian niu	560
 犍牛	jian niu	295
+煎牛扒	jian niu pa	100
 渐浓	jian nong	5555
 # 建农	jian nong	0
 剑奴	jian nu	4055
@@ -199063,6 +199084,7 @@ sort: by_weight
 建筑密度	jian zhu mi du	8950
 建筑面积	jian zhu mian ji	332255
 建筑模板	jian zhu mu ban	2970
+煎猪扒	jian zhu pa	100
 建筑评价	jian zhu ping jia	775
 建筑奇迹	jian zhu qi ji	111
 建筑企业	jian zhu qi ye	27545
@@ -200111,6 +200133,7 @@ sort: by_weight
 江南大学	jiang nan da xue	10990
 江南大营	jiang nan da ying	730
 江南地区	jiang nan di qu	3830
+江南都市报	jiang nan du shi bao	111
 江南放屈平	jiang nan fang qu ping	1
 江南逢李龟年	jiang nan feng li gui nian	1180
 江南公寓	jiang nan gong yu	5
@@ -210001,10 +210024,10 @@ sort: by_weight
 金沙站	jin sha zhan	11
 金山	jin shan	149020
 进山	jin shan	20185
-尽善	jin shan	2290
 进膳	jin shan	1005
-锦山	jin shan	199
 近山	jin shan	124
+尽善	jin shan	29
+锦山	jin shan	19
 金山办事处	jin shan ban shi chu	11
 金善宝	jin shan bao	11
 金山城	jin shan cheng	8
@@ -216712,7 +216735,7 @@ sort: by_weight
 救护员	jiu hu yuan	1205
 救护站	jiu hu zhan	560
 酒花	jiu hua	99999
-九华	jiu hua	19530
+九华	jiu hua	1953
 酒话	jiu hua	885
 韭花	jiu hua	835
 九画	jiu hua	13
@@ -225070,10 +225093,10 @@ sort: by_weight
 开与关	kai yu guan	820
 开渔节	kai yu jie	184
 开源	kai yuan	75955
-开元	kai yuan	1
-开原	kai yuan	1
-开园	kai yuan	1
-开远	kai yuan	1
+开园	kai yuan	111
+开元	kai yuan	2
+# 开原	kai yuan	0
+# 开远	kai yuan	0
 开元村	kai yuan cun	10
 开源代码	kai yuan dai ma	5582
 开元二十六年	kai yuan er shi liu nian	5
@@ -258863,9 +258886,9 @@ sort: by_weight
 龙溪苑	long xi yuan	1
 龙禧苑二区	long xi yuan er qu	2
 龙虾	long xia	35485
-龙下	long xia	25
-垄下	long xia	8
+# 垄下	long xia	0
 # 垅下	long xia	0
+# 龙下	long xia	0
 龙下村	long xia cun	17
 龙虾人	long xia ren	9
 龙虾肉	long xia rou	350
@@ -266940,7 +266963,7 @@ sort: by_weight
 马湾海峡	ma wan hai xia	3
 马万祺	ma wan qi	975
 马王	ma wang	707
-马旺	ma wang	5
+# 马旺	ma wang	0
 马王场	ma wang chang	33
 马王村	ma wang cun	117
 马王堆	ma wang dui	7245
@@ -267483,6 +267506,8 @@ sort: by_weight
 埋单	mai dan	13885
 卖单	mai dan	1
 麦当劳	mai dang lao	109060
+麦当劳大脆鸡扒麦满分	mai dang lao da cui ji pa mai man fen	100
+麦当劳大脆鸡扒麦满分组合	mai dang lao da cui ji pa mai man fen zu he	100
 麦当劳亚历山大王黑金大桶	mai dang lao ya li shan da wang hei jin da tong	111
 麦当娜	mai dang na	14670
 买到	mai dao	138385
@@ -274076,8 +274101,8 @@ sort: by_weight
 眉扬目展	mei yang mu zhan	1
 没要	mei yao	4670
 煤窑	mei yao	2035
+媚药	mei yao	1665
 美腰	mei yao	755
-媚药	mei yao	665
 没腰	mei yao	220
 梅尧臣	mei yao chen	54
 煤窑村	mei yao cun	5
@@ -287453,23 +287478,30 @@ sort: by_weight
 南冬村	nan dong cun	3
 南东坊镇	nan dong fang zhen	1
 南洞庭芦苇场	nan dong ting lu wei chang	2
-南都	nan dou	100491
 南斗	nan dou	2395
 南斗村	nan dou cun	10
 南豆腐	nan dou fu	560
-南都花园	nan dou hua yuan	8
 难度	nan du	377450
 难读	nan du	2485
+南都	nan du	111
 南杜村	nan du cun	174
 难度大	nan du da	29975
+南都大数据研究院	nan du da shu ju yan jiu yuan	111
+南都电源	nan du dian yuan	111
 难度分	nan du fen	290
 难度高	nan du gao	111
 南渡河	nan du he	145
 难度很大	nan du hen da	14235
+南都花园	nan du hua yuan	8
+南都记者	nan du ji zhe	111
 南渡江	nan du jiang	1655
 南独乐河	nan du le he	5
+南都物业	nan du wu ye	111
 难度系数	nan du xi shu	7530
 南都信佳丽	nan du xin jia li	1
+南都讯	nan du xun	111
+南都娱乐	nan du yu le	100
+南都娱乐周刊	nan du yu le zhou kan	111
 难度指数	nan du zhi shu	1530
 南都周刊	nan du zhou kan	1111
 南端	nan duan	21670
@@ -288007,9 +288039,9 @@ sort: by_weight
 南郊三公里	nan jiao san gong li	24
 男教师	nan jiao shi	3333
 南湫乡	nan jiao xiang	11
-南街	nan jie	36320
 难解	nan jie	16975
-南界	nan jie	2070
+南街	nan jie	3632
+# 南界	nan jie	0
 南街村	nan jie cun	6625
 南界村	nan jie cun	7
 难接近	nan jie jin	175
@@ -295518,7 +295550,8 @@ sort: by_weight
 牛啊	niu a	6080
 纽埃	niu ai	925
 牛埃石	niu ai shi	3
-牛扒	niu ba	10097
+牛吧	niu ba	3333
+扭吧	niu ba	111
 牛八宝胡同	niu ba bao hu tong	1
 纽巴纶	niu ba lun	1
 牛霸鹟	niu ba weng	1
@@ -295904,6 +295937,8 @@ sort: by_weight
 牛牛牛牛牛	niu niu niu niu niu	136
 扭扭歪歪	niu niu wai wai	6
 牛农对泣	niu nong dui qi	1
+牛扒	niu pa	10097
+牛扒饭	niu pa fan	111
 牛排	niu pai	28550
 牛排馆	niu pai guan	1180
 牛排罐头	niu pai guan tou	12
@@ -308160,7 +308195,7 @@ sort: by_weight
 铺得	pu de	2610
 铺的	pu de	1570
 噗的	pu de	770
-普德	pu de	1
+# 普德	pu de	0
 铺得比	pu de bi	10
 普德村	pu de cun	30
 普德尔指示犬	pu de er zhi shi quan	1
@@ -310770,12 +310805,12 @@ sort: by_weight
 奇迹之一	qi ji zhi yi	111
 起家	qi jia	36630
 起价	qi jia	27750
-期价	qi jia	26875
-齐家	qi jia	13055
+期价	qi jia	2687
 弃家	qi jia	1345
 起驾	qi jia	910
 弃甲	qi jia	705
-七甲	qi jia	52
+齐家	qi jia	130
+# 七甲	qi jia	0
 # 奇佳	qi jia	0
 # 戚家	qi jia	0
 # 祁家	qi jia	0
@@ -315956,8 +315991,8 @@ sort: by_weight
 前沙涧	qian sha jian	10
 千山	qian shan	20110
 前山	qian shan	10975
-潜山	qian shan	5090
-钱山	qian shan	108
+# 潜山	qian shan	0
+# 钱山	qian shan	0
 迁善黜恶	qian shan chu e	1
 千山翠	qian shan cui	102
 钱山村	qian shan cun	3
@@ -316471,12 +316506,12 @@ sort: by_weight
 千禧	qian xi	19655
 前戏	qian xi	15865
 浅析	qian xi	14785
-黔西	qian xi	3230
-迁西	qian xi	2615
 牵系	qian xi	2265
 欠息	qian xi	1751
-前溪	qian xi	196
-钱熙	qian xi	2
+黔西	qian xi	323
+# 前溪	qian xi	0
+# 迁西	qian xi	0
+# 钱熙	qian xi	0
 前溪村	qian xi cun	14
 迁徙的鸟	qian xi de niao	1035
 潜溪绯	qian xi fei	1
@@ -319755,10 +319790,21 @@ sort: by_weight
 切纸	qie zhi	3845
 茄汁	qie zhi	2770
 切直	qie zhi	440
+茄汁斑鱼块	qie zhi ban yu kuai	1
+茄汁菜包	qie zhi cai bao	4
 茄汁大虾	qie zhi da xia	100
 切纸刀	qie zhi dao	1720
 茄汁烩鱼片	qie zhi hui yu pian	1
 切纸机	qie zhi ji	4465
+茄汁鸡肉	qie zhi ji rou	10
+茄汁明虾	qie zhi ming xia	37
+茄汁牛扒	qie zhi niu pa	3
+茄汁牛肉汤	qie zhi niu rou tang	1
+茄汁薯枣	qie zhi shu zao	1
+茄汁鳕鱼	qie zhi xue yu	1
+茄汁鱼罐头	qie zhi yu guan tou	8
+茄汁鱼卷	qie zhi yu juan	11
+茄汁猪排	qie zhi zhu pai	8
 切中	qie zhong	6285
 切中时弊	qie zhong shi bi	1045
 切中要害	qie zhong yao hai	3665
@@ -337275,7 +337321,8 @@ sort: by_weight
 入局	ru ju	3515
 如炬	ru ju	1085
 如君	ru jun	2430
-如钧	ru jun	1250
+辱军	ru jun	111
+# 如钧	ru jun	0
 如开茅塞	ru kai mao se	1
 汝看此书时	ru kan ci shu shi	9
 如可	ru ke	10650
@@ -347384,6 +347431,7 @@ sort: by_weight
 上地佳园	shang di jia yuan	5
 上地街道	shang di jie dao	120
 上帝钧天会众灵	shang di jun tian hui zhong ling	1
+上地幔	shang di man	100
 上帝模拟器	shang di mo ni qi	147
 上地南口	shang di nan kou	6
 上地南路	shang di nan lu	21
@@ -347393,12 +347441,14 @@ sort: by_weight
 上地桥西	shang di qiao xi	61
 上地商城	shang di shang cheng	83
 上地铁	shang di tie	151
+上地铁了	shang di tie le	100
 上帝王	shang di wang	3
 上地五街	shang di wu jie	10
 上地西里	shang di xi li	12
 上地雄辅	shang di xiong fu	1
 上第一次	shang di yi ci	3975
 上地医院	shang di yi yuan	69
+上地站	shang di zhan	100
 上帝之手	shang di zhi shou	1905
 商店	shang dian	305260
 上点	shang dian	20410
@@ -348038,8 +348088,8 @@ sort: by_weight
 上好下甚	shang hao xia shen	6
 上郝庄村	shang hao zhuang cun	14
 上颌	shang he	7585
-上合	shang he	3880
-商河	shang he	2620
+上合	shang he	388
+# 商河	shang he	0
 上河坝	shang he ba	10
 上河滨	shang he bin	1
 上合村	shang he cun	30
@@ -349424,7 +349474,7 @@ sort: by_weight
 上修改	shang xiu gai	1
 尚需	shang xu	25460
 尚须	shang xu	5635
-上徐	shang xu	40
+# 上徐	shang xu	0
 上徐村	shang xu cun	7
 上虚下实	shang xu xia shi	32
 尚虚中馈	shang xu zhong kui	1
@@ -349891,11 +349941,11 @@ sort: by_weight
 上证综指	shang zheng zong zhi	10455
 上至	shang zhi	31645
 上肢	shang zhi	23730
-尚志	shang zhi	7015
 上指	shang zhi	4040
 上知	shang zhi	1265
-商职	shang zhi	565
-上智	shang zhi	98
+# 上智	shang zhi	0
+# 商职	shang zhi	0
+# 尚志	shang zhi	0
 上肢长	shang zhi chang	6
 上智村	shang zhi cun	1
 上止点	shang zhi dian	1366
@@ -363540,6 +363590,10 @@ sort: by_weight
 拭目以俟	shi mu yi si	111
 虱目鱼	shi mu yu	610
 事母至孝	shi mu zhi xiao	270
+是那	shi na	3869
+是哪	shi na	3057
+是那儿	shi na er	3869
+是哪儿	shi na er	3057
 是那个	shi na ge	38690
 是哪个	shi na ge	30575
 是那个还	shi na ge hai	72
@@ -387412,7 +387466,7 @@ sort: by_weight
 所走	suo zou	11805
 所组成	suo zu cheng	100
 所做	suo zuo	178040
-所作	suo zuo	164800
+# 所作	suo zuo	0
 所做的事	suo zuo de shi	8370
 所做的一切	suo zuo de yi qie	100
 所作所为	suo zuo suo wei	29235
@@ -414583,8 +414637,8 @@ sort: by_weight
 王各庄	wang ge zhuang	20
 王艮	wang gen	14
 王宫	wang gong	32830
-王公	wang gong	20165
-王巩	wang gong	3
+王公	wang gong	2016
+# 王巩	wang gong	0
 王公村	wang gong cun	1
 王公大人	wang gong da ren	1030
 王公贵族	wang gong gui zu	4675
@@ -414617,6 +414671,7 @@ sort: by_weight
 王冠龙	wang guan long	3
 忘关麦	wang guan mai	173
 王官桥	wang guan qiao	1
+网管瞧瞧	wang guan qiao qiao	111
 网管人员	wang guan ren yuan	3690
 网管软件	wang guan ruan jian	3795
 网管员	wang guan yuan	6030
@@ -423375,6 +423430,7 @@ sort: by_weight
 闻郎江上踏歌声	wen lang jiang shang ta ge sheng	1180
 问了	wen le	100370
 吻了	wen le	24100
+稳了	wen le	6666
 闻了	wen le	4560
 问了个遍	wen le ge bian	80
 问了个究竟	wen le ge jiu jing	120
@@ -456070,7 +456126,7 @@ sort: by_weight
 新成立	xin cheng li	22020
 新城路	xin cheng lu	234
 信诚路口	xin cheng lu kou	6
-新城南都	xin cheng nan dou	12
+新城南都	xin cheng nan du	12
 新城农场	xin cheng nong chang	1
 新城区	xin cheng qu	35090
 新城市	xin cheng shi	1060
@@ -459765,7 +459821,7 @@ sort: by_weight
 心胸狭窄	xin xiong xia zhai	4165
 新秀	xin xiu	52530
 新修	xin xiu	31750
-心秀	xin xiu	505
+# 心秀	xin xiu	0
 新秀杯	xin xiu bei	146
 新秀村	xin xiu cun	25
 新修订	xin xiu ding	2090
@@ -460152,10 +460208,10 @@ sort: by_weight
 新月	xin yue	30985
 新约	xin yue	8105
 欣悦	xin yue	5255
-心悦	xin yue	4345
-欣月	xin yue	1520
-新悦	xin yue	1045
-新岳	xin yue	40
+# 心悦	xin yue	0
+# 新岳	xin yue	0
+# 新悦	xin yue	0
+# 欣月	xin yue	0
 新月贝目	xin yue bei mu	1
 心悦诚服	xin yue cheng fu	8460
 新月村	xin yue cun	11
@@ -471212,6 +471268,7 @@ sort: by_weight
 雅雅	ya ya	3955
 哑哑	ya ya	3610
 鸭鸭	ya ya	2400
+轧轧	ya ya	1235
 丫丫叉叉	ya ya cha cha	6
 牙牙饭	ya ya fan	5
 雅亚科口鱼	ya ya ke kou yu	1
@@ -477422,9 +477479,9 @@ sort: by_weight
 腰缠十万	yao chan shi wan	46
 腰缠万贯	yao chan wan guan	4700
 药厂	yao chang	35200
-窑场	yao chang	2385
 窑厂	yao chang	581
 姚苌	yao chang	11
+# 窑场	yao chang	0
 窑场村	yao chang cun	4
 药场村	yao chang cun	4
 要车	yao che	2510
@@ -489501,6 +489558,7 @@ sort: by_weight
 一上场	yi shang chang	1890
 一上车	yi shang che	3640
 以上的人	yi shang de ren	27120
+以上地区	yi shang di qu	100
 以上都	yi shang dou	10990
 以上干部	yi shang gan bu	20275
 以上工作经验	yi shang gong zuo jing yan	11461
@@ -500284,9 +500342,7 @@ sort: by_weight
 勇而无谋	yong er wu mou	111
 用耳语	yong er yu	60
 用法	yong fa	220830
-永发	yong fa	6735
-永发保险柜	yong fa bao xian gui	28
-永发村	yong fa cun	9
+# 永发	yong fa	0
 用法说明	yong fa shuo ming	660
 用法语	yong fa yu	2015
 用法指南	yong fa zhi nan	155
@@ -500327,9 +500383,9 @@ sort: by_weight
 永丰县工业园区	yong feng xian gong ye yuan qu	1
 永丰站	yong feng zhan	54
 永丰中路	yong feng zhong lu	2
-永福	yong fu	11255
 勇夫	yong fu	2575
-庸夫	yong fu	245
+永福	yong fu	112
+庸夫	yong fu	24
 永福村	yong fu cun	11
 永福大道	yong fu da dao	1
 永福东大街	yong fu dong da jie	1
@@ -552628,6 +552684,8 @@ sort: by_weight
 竺农范	zhu nong fan	5
 煮弩为粮	zhu nu wei liang	10
 猪扒	zhu pa	2705
+猪扒包	zhu pa bao	100
+猪扒饭	zhu pa fan	100
 猪排	zhu pai	9999
 竹排	zhu pai	6430
 主拍	zhu pai	2222
@@ -567295,6 +567353,7 @@ sort: by_weight
 坐商	zuo shang	1735
 左上边	zuo shang bian	12
 座上宾	zuo shang bin	1510
+坐上地铁	zuo shang di tie	100
 左上方	zuo shang fang	8450
 左上箭头	zuo shang jian tou	3333
 左上角	zuo shang jiao	24380
