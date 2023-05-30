@@ -1552,7 +1552,7 @@
 #///
 ---
 name: base
-version: "2023-05-27"
+version: "2023-05-30"
 sort: by_weight
 ...
 # +_+
@@ -4166,8 +4166,12 @@ sort: by_weight
 暗忖	an cun	9995
 俺村	an cun	2215
 安村	an cun	139
-安厝	an cuo	165
+按错	an cuo	5555
+俺错	an cuo	1111
+安厝	an cuo	2
 按错键了	an cuo jian le	18
+按错了	an cuo le	5555
+俺错了	an cuo le	1111
 安打	an da	1520
 谙达	an da	999
 安答	an da	1
@@ -28546,6 +28550,7 @@ sort: by_weight
 别瞎搞	bie xia gao	223
 别瞎买	bie xia mai	135
 别吓人	bie xia ren	105
+别瞎试	bie xia shi	3333
 瘪陷	bie xian	80
 别闲着	bie xian zhe	360
 别想	bie xiang	30690
@@ -96158,8 +96163,8 @@ sort: by_weight
 动态桌面	dong tai zhuo mian	2600
 动态资源分配	dong tai zi yuan fen pei	77
 动弹	dong tan	20090
-东滩	dong tan	2300
-东碳	dong tan	1
+# 东滩	dong tan	0
+# 东碳	dong tan	0
 动弹不得	dong tan bu de	14320
 东滩村	dong tan cun	58
 东谈西说	dong tan xi shuo	1
@@ -97585,7 +97590,7 @@ sort: by_weight
 都没在家	dou mei zai jia	340
 都没怎么	dou mei zen me	74
 斗媚争妍	dou mei zheng yan	1
-斗门	dou men	8615
+斗门	dou men	111
 斗门村	dou men cun	24
 豆焖饭	dou men fan	214
 斗门区	dou men qu	3670
@@ -148172,8 +148177,8 @@ sort: by_weight
 广厦细旃	guang sha xi zhan	1
 广厦之荫	guang sha zhi yin	1
 光栅	guang shan	29370
-光山	guang shan	3460
-广汕	guang shan	2485
+广汕	guang shan	248
+# 光山	guang shan	0
 光栅材料	guang shan cai liao	3225
 光栅尺	guang shan chi	1785
 光山村	guang shan cun	3
@@ -221193,6 +221198,7 @@ sort: by_weight
 卷起沙堆似雪堆	juan qi sha dui shi xue dui	2
 卷起袖子	juan qi xiu zi	1695
 捐钱	juan qian	7835
+卷钱跑路	juan qian pao lu	111
 倦勤	juan qin	845
 卷曲	juan qu	19140
 捐躯	juan qu	3520
@@ -247405,13 +247411,15 @@ sort: by_weight
 莲芳桥南	lian fang qiao nan	2
 联防员	lian fang yuan	245
 链分析	lian fen xi	1665
-联丰	lian feng	5020
-莲峰	lian feng	132
+廉俸	lian feng	111
+# 联丰	lian feng	0
+# 莲峰	lian feng	0
 联丰村	lian feng cun	148
 莲峰村	lian feng cun	3
 莲峰观海	lian feng guan hai	9
 连丰胡同	lian feng hu tong	2
 联丰路	lian feng lu	46
+莲峰庙	lian feng miao	111
 连丰乡	lian feng xiang	5
 连凤小区	lian feng xiao qu	2
 联丰新村	lian feng xin cun	12
@@ -255493,18 +255501,19 @@ sort: by_weight
 流动资产周转率	liu dong zi chan zhou zhuan lv	583
 流动资金	liu dong zi jin	58940
 流动资金量	liu dong zi jin liang	2
-六都	liu dou	559
 六斗	liu dou	32
-六都村	liu dou cun	4
 熘豆芽	liu dou ya	4
 六度	liu du	15630
 流毒	liu du	2850
 留都	liu du	935
 六渡	liu du	41
 刘度	liu du	4
+# 六都	liu du	0
+六都村	liu du cun	4
 六度分离	liu du fen li	190
 留犊淮南	liu du huai nan	1
 六渡桥	liu du qiao	189
+六都寨	liu du zhai	1
 刘渡舟	liu du zhou	2
 留肚子	liu du zi	168
 六段	liu duan	8405
@@ -328932,6 +328941,7 @@ sort: by_weight
 圈钱	quan qian	10970
 权钱	quan qian	1435
 权钱交易	quan qian jiao yi	10180
+圈钱跑路	quan qian pao lu	111
 畎桥村	quan qiao cun	1
 权且	quan qie	4910
 全勤	quan qin	2430
@@ -346321,9 +346331,9 @@ sort: by_weight
 山帽眼宝贝	shan mao yan bao bei	1
 善美	shan mei	15690
 山美	shan mei	442
-擅美	shan mei	115
 山霉	shan mei	48
-汕美	shan mei	6
+# 擅美	shan mei	0
+# 汕美	shan mei	0
 山莓草弯刀凤凰螺	shan mei cao wan dao feng huang luo	1
 山美村	shan mei cun	19
 山煤国际	shan mei guo ji	2
@@ -391941,7 +391951,7 @@ sort: by_weight
 贪鄙	tan bi	715
 潭碧	tan bi	2
 袒臂挥拳	tan bi hui quan	1
-潭边	tan bian	4015
+潭边	tan bian	401
 潭边村	tan bian cun	1
 覃彪喜	tan biao xi	1
 探病	tan bing	4210
@@ -393382,7 +393392,7 @@ sort: by_weight
 唐洪	tang hong	53
 塘红村	tang hong cun	1
 烫后	tang hou	3570
-塘后	tang hou	33
+# 塘后	tang hou	0
 塘后村	tang hou cun	7
 汤湖	tang hu	110
 汤壶	tang hu	85
@@ -415948,8 +415958,9 @@ sort: by_weight
 望门大嚼	wang men da jue	1
 望门投止思张俭	wang men tou zhi si zhang jian	3
 王蒙	wang meng	9645
-王猛	wang meng	4615
-王萌	wang meng	953
+王濛	wang meng	111
+# 王猛	wang meng	0
+# 王萌	wang meng	0
 王濛解说	wang meng jie shuo	1
 王梦兰	wang meng lan	3
 王濛说	wang meng shuo	1
@@ -428084,7 +428095,7 @@ sort: by_weight
 我知道	wo zhi dao	448185
 我知道啊	wo zhi dao a	1435
 我知道的	wo zhi dao de	12545
-我知道拉	wo zhi dao la	21
+我知道啦	wo zhi dao la	21
 我知道了	wo zhi dao le	32050
 我知道你	wo zhi dao ni	34700
 我知道你是谁	wo zhi dao ni shi shei	275
@@ -435278,7 +435289,7 @@ sort: by_weight
 西白辛庄村	xi bai xin zhuang cun	2
 戏班	xi ban	8560
 洗版	xi ban	980
-西坂	xi ban	3
+# 西坂	xi ban	0
 西半壁店村	xi ban bi dian cun	15
 西坂村	xi ban cun	8
 溪坂村	xi ban cun	2
@@ -439277,7 +439288,7 @@ sort: by_weight
 戏眼	xi yan	125
 膝眼	xi yan	24
 西燕	xi yan	15
-西堰	xi yan	3
+# 西堰	xi yan	0
 习焉不察	xi yan bu cha	320
 习焉不觉	xi yan bu jue	111
 吸烟车厢	xi yan che xiang	15
@@ -439631,13 +439642,13 @@ sort: by_weight
 西园	xi yuan	16860
 戏院	xi yuan	14710
 西元	xi yuan	11855
-惜缘	xi yuan	5145
 西院	xi yuan	4515
 戏园	xi yuan	2015
-熙园	xi yuan	1969
 洗冤	xi yuan	1090
-西原	xi yuan	136
-溪源	xi yuan	57
+惜缘	xi yuan	514
+溪源	xi yuan	2
+西原	xi yuan	2
+# 熙园	xi yuan	0
 西园北里	xi yuan bei li	12
 西苑北站	xi yuan bei zhan	3
 西原村	xi yuan cun	24
@@ -441520,10 +441531,10 @@ sort: by_weight
 下生活	xia sheng huo	2325
 下士	xia shi	44460
 侠士	xia shi	8355
+瞎试	xia shi	5555
 下市	xia shi	3980
-瞎试	xia shi	3333
-下世	xia shi	2585
 暇时	xia shi	750
+下世	xia shi	258
 霞石	xia shi	10
 # 硖石	xia shi	0
 下石堡	xia shi bao	1
@@ -454440,9 +454451,11 @@ sort: by_weight
 写本	xie ben	9999
 写本书	xie ben shu	730
 血本无归	xie ben wu gui	9800
+歇逼	xie bi	3333
 歇笔	xie bi	1111
 斜壁	xie bi	111
 携笔从戎	xie bi cong rong	130
+歇逼了	xie bi le	3333
 协比乃尔布呼乡	xie bi nai er bu hu xiang	20
 斜边	xie bian	3735
 写标题	xie biao ti	350
@@ -456702,7 +456715,7 @@ sort: by_weight
 新店	xin dian	26025
 心电	xin dian	11295
 新点	xin dian	4370
-辛店	xin dian	218
+辛店	xin dian	2
 新点波纹蛾	xin dian bo wen e	1
 新店村	xin dian cun	85
 新典范	xin dian fan	128
@@ -456721,6 +456734,7 @@ sort: by_weight
 心电图室	xin dian tu shi	975
 心电图仪	xin dian tu yi	415
 心电图异常	xin dian tu yi chang	49
+辛店文化	xin dian wen hua	2
 心电向量图	xin dian xiang liang tu	3
 新靛夜蛾	xin dian ye e	1
 新店医院	xin dian yi yuan	1
@@ -464764,6 +464778,7 @@ sort: by_weight
 修俊妍	xiu jun yan	385
 休刊	xiu kan	815
 休看白发生	xiu kan bai fa sheng	1
+休刊了	xiu kan le	815
 秀康指环虫	xiu kang zhi huan chong	1
 休克	xiu ke	46785
 休课	xiu ke	115
