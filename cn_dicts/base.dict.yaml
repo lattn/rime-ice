@@ -28,8 +28,9 @@
 #
 #
 # --------------- 注音： ---------------
-# 「nüe 虐」「lüe 略」使用「nve」「lve」的注音。
-# 「句、去、需、与」使用「ju qu xu yu」的注音。
+# 「nüe 虐」「lüe 略」使用 nve lve。
+# 「句、去、需、与」使用 ju qu xu yu。
+# 「嗯 en eng ng」在词组中使用 en。
 # 儿化音使用单独的 er 注音，如《现汉》中的「个儿 ger」→「个儿 ge er」。
 # 「血」增加「xue」和「xie」两种读音，前者字典正音，后者口语常用。
 # 「谁」增加「shui」和「shei」两种读音。
@@ -1552,7 +1553,7 @@
 #///
 ---
 name: base
-version: "2023-05-30"
+version: "2023-05-31"
 sort: by_weight
 ...
 # +_+
@@ -35118,6 +35119,7 @@ sort: by_weight
 不可捉摸	bu ke zhuo mo	4310
 不可阻挡	bu ke zu dang	10020
 不肯	bu ken	230810
+不肯啊	bu ken a	480
 不肯到	bu ken dao	480
 不肯定的	bu ken ding de	520
 不肯付	bu ken fu	160
@@ -69357,7 +69359,7 @@ sort: by_weight
 打错	da cuo	6495
 搭错	da cuo	1580
 大挫	da cuo	800
-大厝	da cuo	72
+# 大厝	da cuo	0
 搭错车	da cuo che	1820
 大厝村	da cuo cun	5
 打错了	da cuo le	6745
@@ -69795,6 +69797,7 @@ sort: by_weight
 打对钩儿	da dui gou er	1233
 大对决	da dui jue	1415
 打对抗	da dui kang	6
+答对了	da dui le	23525
 大队人马	da dui ren ma	5945
 大队伍	da dui wu	760
 大对虾	da dui xia	375
@@ -94788,7 +94791,7 @@ sort: by_weight
 东莞中院	dong guan zhong yuan	87
 东莞庄	dong guan zhuang	63
 东莞庄路	dong guan zhuang lu	64
-东光	dong guang	5930
+东光	dong guang	2
 东光村	dong guang cun	37
 东广村	dong guang cun	2
 东光胡同	dong guang hu tong	2
@@ -132300,7 +132303,7 @@ sort: by_weight
 高统靴	gao tong xue	180
 搞头	gao tou	1925
 镐头	gao tou	1355
-高头	gao tou	1
+高头	gao tou	2
 # 篙头	gao tou	0
 高头村	gao tou cun	4
 高头大马	gao tou da ma	2985
@@ -146193,6 +146196,7 @@ sort: by_weight
 官田	guan tian	2385
 关天茶舍	guan tian cha she	74
 官田村	guan tian cun	64
+管天管地	guan tian guan di	1111
 关天培	guan tian pei	44
 关天人命	guan tian ren ming	1
 观天术	guan tian shu	1
@@ -163234,7 +163238,7 @@ sort: by_weight
 河斜月落	he xie yue luo	1
 和谐钟塔	he xie zhong ta	17
 核心	he xin	500425
-贺信	he xin	12815
+贺信	he xin	1281
 合心	he xin	99
 # 何鑫	he xin	0
 # 和信	he xin	0
@@ -171342,9 +171346,9 @@ sort: by_weight
 湖南株洲	hu nan zhu zhou	4250
 胡闹	hu nao	17910
 胡闹搬家	hu nao ban jia	195
-户内	hu nei	19395
 湖内	hu nei	3885
 壶内	hu nei	1820
+户内	hu nei	193
 湖内村	hu nei cun	12
 忽内忽外	hu nei hu wai	5
 户内箱	hu nei xiang	65
@@ -174080,6 +174084,7 @@ sort: by_weight
 化人似驯鸥	hua ren shi xun ou	2
 华人网	hua ren wang	4055
 华仁药业	hua ren yao ye	1
+华人义山	hua ren yi shan	111
 华人乐队	hua ren yue dui	3140
 华人在线	hua ren zai xian	365
 # 华日	hua ri	0
@@ -253896,9 +253901,11 @@ sort: by_weight
 灵精胶囊	ling jing jiao nang	4
 灵境乡	ling jing xiang	1
 灵柩	ling jiu	7760
+零九	ling jiu	999
 凌久安全增强电子邮件系统	ling jiu an quan zeng qiang dian zi you jian xi tong	87
 灵鹫峰	ling jiu feng	265
 凌久高科	ling jiu gao ke	87
+零九年	ling jiu nian	999
 灵鹫镇	ling jiu zhen	1
 另据	ling ju	35515
 另具	ling ju	1300
@@ -287503,7 +287510,7 @@ sort: by_weight
 男衬衫	nan chen shan	3333
 南陈屯	nan chen tun	148
 南城	nan cheng	31295
-南埕	nan cheng	10
+# 南埕	nan cheng	0
 南埕村	nan cheng cun	4
 难成大器	nan cheng da qi	660
 南城华南溪蟹	nan cheng hua nan xi xie	1
@@ -316411,6 +316418,7 @@ sort: by_weight
 遣送出境	qian song chu jing	700
 前松后紧	qian song hou jin	450
 遣送回国	qian song hui guo	925
+钱松喦	qian song yan	111
 钳螋	qian sou	1
 千叟宴	qian sou yan	995
 钱肃乐	qian su le	2
@@ -346721,11 +346729,11 @@ sort: by_weight
 山舞银蛇	shan wu yin she	950
 山西	shan xi	439850
 陕西	shan xi	428500
-山溪	shan xi	6815
-山系	shan xi	6085
-剡溪	shan xi	360
-鳝溪	shan xi	43
-苫席	shan xi	30
+山系	shan xi	608
+苫席	shan xi	3
+剡溪	shan xi	2
+鳝溪	shan xi	2
+# 山溪	shan xi	0
 山西岙	shan xi ao	1
 山西百信信息技术	shan xi bai xin xin xi ji shu	87
 山西百信信息技术有限公司	shan xi bai xin xin xi ji shu you xian gong si	87
@@ -346961,7 +346969,7 @@ sort: by_weight
 山岩乡	shan yan xiang	7
 山羊	shan yang	41215
 赡养	shan yang	19985
-山阳	shan yang	7730
+山阳	shan yang	773
 山羊冲	shan yang chong	6
 山阳村	shan yang cun	11
 山阳笛声	shan yang di sheng	1
@@ -350752,8 +350760,10 @@ sort: by_weight
 少女终末旅行	shao nv zhong mo lv xing	193
 少女装	shao nv zhuang	860
 少陪	shao pei	655
-邵沛	shao pei	2
-哨片	shao pian	1225
+# 邵沛	shao pei	0
+少骗	shao pian	5555
+稍偏	shao pian	3333
+哨片	shao pian	122
 邵飘萍	shao piao ping	65
 烧瓶	shao ping	6665
 邵平店	shao ping dian	5
@@ -375386,7 +375396,7 @@ sort: by_weight
 双列角头帕	shuang lie jiao tou pa	1
 双列直插封装	shuang lie zhi cha feng zhuang	14
 双列直插式	shuang lie zhi cha shi	48
-双林	shuang lin	229
+双林	shuang lin	2
 双林北支路	shuang lin bei zhi lu	109
 双林村	shuang lin cun	58
 双林姑嫂饼	shuang lin gu sao bing	10
@@ -375590,7 +375600,7 @@ sort: by_weight
 双腔龙	shuang qiang long	1
 双羟萘酸噻嘧啶	shuang qiang nai suan sai mi ding	38
 双腔气囊导尿管	shuang qiang qi nang dao niao guan	1
-双桥	shuang qiao	17120
+双桥	shuang qiao	1712
 双桥北二街口	shuang qiao bei er jie kou	1
 双桥村	shuang qiao cun	261
 双桥东	shuang qiao dong	5
@@ -383558,7 +383568,7 @@ sort: by_weight
 宋武帝	song wu di	19
 宋梧生	song wu sheng	1
 送物资	song wu zi	184
-松溪	song xi	148
+松溪	song xi	2
 # 嵩溪	song xi	0
 宋希斌	song xi bin	184
 松溪村	song xi cun	17
@@ -392405,7 +392415,7 @@ sort: by_weight
 贪恋着	tan lian zhe	420
 痰量	tan liang	3333
 贪凉	tan liang	111
-檀林	tan lin	14
+# 檀林	tan lin	0
 檀林村	tan lin cun	6
 叹流年又成虚度	tan liu nian you cheng xu du	1
 谈拢	tan long	1280
@@ -397532,9 +397542,11 @@ sort: by_weight
 天宝寨	tian bao zhai	120
 填报志愿	tian bao zhi yuan	38730
 填报自愿	tian bao zi yuan	6
-田北	tian bei	231
-田贝	tian bei	176
-田背	tian bei	15
+填呗	tian bei	1111
+添呗	tian bei	1111
+# 田北	tian bei	0
+# 田背	tian bei	0
+# 田贝	tian bei	0
 田北村	tian bei cun	5
 田贝三路	tian bei san lu	21
 田贝四路	tian bei si lu	39
@@ -400014,6 +400026,7 @@ sort: by_weight
 天一广场	tian yi guang chang	2450
 天乙贵人	tian yi gui ren	1730
 添一锅	tian yi guo	19
+添衣加被	tian yi jia bei	3333
 天一家园	tian yi jia yuan	13
 天已经	tian yi jing	15945
 天意君须会	tian yi jun xu hui	1
@@ -413136,9 +413149,10 @@ sort: by_weight
 万历	wan li	31090
 碗里	wan li	29395
 湾里	wan li	3975
+万利	wan li	3333
 腕力	wan li	2850
-婉丽	wan li	1260
 挽力	wan li	180
+# 婉丽	wan li	0
 万里悲秋常作客	wan li bei qiu chang zuo ke	16
 万里不惜死	wan li bu xi si	1
 万里长	wan li chang	1805
@@ -413949,7 +413963,7 @@ sort: by_weight
 湾塘	wan tang	53
 万套	wan tao	43905
 完体将军	wan ti jiang jun	3
-万田	wan tian	28
+# 万田	wan tian	0
 万田村	wan tian cun	3
 万田乡政府	wan tian xiang zheng fu	2
 万条	wan tiao	33435
@@ -426356,6 +426370,8 @@ sort: by_weight
 莴苣南美斑潜蝇	wo ju nan mei ban qian ying	1
 我居然	wo ju ran	22930
 莴苣鳝鱼片	wo ju shan yu pian	13
+我觉	wo jue	9999
+我绝	wo jue	1111
 我绝不	wo jue bu	10770
 我觉得	wo jue de	500340
 我觉得啊	wo jue de a	111
@@ -428849,8 +428865,8 @@ sort: by_weight
 无从知晓	wu cong zhi xiao	3135
 无从着手	wu cong zhuo shou	1040
 无存	wu cun	7265
-吴村	wu cun	67
-梧村	wu cun	66
+# 吴村	wu cun	0
+# 梧村	wu cun	0
 吴村村	wu cun cun	2
 无存货	wu cun huo	135
 物存人亡	wu cun ren wang	1
@@ -443282,8 +443298,8 @@ sort: by_weight
 仙家	xian jia	5720
 线夹	xian jia	3475
 闲家	xian jia	99
-咸家	xian jia	9
-仙夹	xian jia	4
+# 仙夹	xian jia	0
+# 咸家	xian jia	0
 贤家村	xian jia cun	4
 仙家村	xian jia cun	3
 限价订单	xian jia ding dan	5
@@ -468451,7 +468467,7 @@ sort: by_weight
 学会计	xue kuai ji	111
 血亏	xue kui	2795
 学来	xue lai	15960
-雪莱	xue lai	5075
+雪莱	xue lai	111
 雪莱特	xue lai te	107
 雪兰	xue lan	5280
 薛兰	xue lan	3
@@ -489787,12 +489803,12 @@ sort: by_weight
 一山	yi shan	22760
 依山	yi shan	14580
 移山	yi shan	3345
-宜山	yi shan	3290
-沂山	yi shan	2070
 一删	yi shan	1180
-义山	yi shan	131
-峄山	yi shan	86
-奕山	yi shan	7
+峄山	yi shan	2
+沂山	yi shan	2
+# 义山	yi shan	0
+# 奕山	yi shan	0
+# 宜山	yi shan	0
 移山拔海	yi shan ba hai	1
 一扇半掩	yi shan ban yan	85
 依山傍海	yi shan bang hai	3595
@@ -500754,8 +500770,9 @@ sort: by_weight
 勇悍	yong han	1500
 用好	yong hao	66035
 永和	yong he	24040
-雍和	yong he	2495
-永合	yong he	46
+雍和	yong he	249
+咏荷	yong he	111
+# 永合	yong he	0
 永和初	yong he chu	25
 永和村	yong he cun	103
 永和大王	yong he da wang	111
@@ -518647,8 +518664,8 @@ sort: by_weight
 云飞雨寒	yun fei yu han	1
 云飞雨散	yun fei yu san	111
 云粉蝶	yun fen die	2
-云枫	yun feng	6955
 云峰	yun feng	1134
+# 云枫	yun feng	0
 云峰宾馆	yun feng bin guan	2
 云峰村	yun feng cun	56
 云峰街	yun feng jie	37
@@ -544279,9 +544296,9 @@ sort: by_weight
 重碧拈春酒	zhong bi nian chun jiu	3
 终边	zhong bian	255
 中编辑	zhong bian ji	531
-中标	zhong biao	244265
 钟表	zhong biao	57735
-中表	zhong biao	8715
+中标	zhong biao	24426
+中表	zhong biao	871
 钟表厂	zhong biao chang	605
 中标村	zhong biao cun	3
 中标单位	zhong biao dan wei	12695
@@ -551460,7 +551477,7 @@ sort: by_weight
 主持者	zhu chi zhe	3230
 主持正义	zhu chi zheng yi	2715
 蛀虫	zhu chong	6105
-朱冲	zhu chong	7
+# 朱冲	zhu chong	0
 朱冲村	zhu chong cun	2
 逐臭	zhu chou	585
 逐臭附炎	zhu chou fu yan	111
