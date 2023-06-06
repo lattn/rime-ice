@@ -1555,10 +1555,11 @@
 # 「世外桃园」→「世外桃源」
 # 「国产零零漆」→「国产凌凌漆」
 # 「一踏糊涂」→「一塌糊涂」
+# 「胡罗卜」→「胡萝卜」
 #///
 ---
 name: base
-version: "2023-06-03"
+version: "2023-06-06"
 sort: by_weight
 ...
 # +_+
@@ -69430,7 +69431,9 @@ sort: by_weight
 大大咧咧	da da lie lie	12400
 打打闹闹	da da nao nao	4160
 达达尼尔海峡	da da ni er hai xia	650
+打打牌	da da pai	9999
 达达派	da da pai	155
+打打牌啊	da da pai a	9999
 打打跑跑	da da pao pao	6
 打打气	da da qi	660
 鞑靼人	da da ren	1140
@@ -70882,13 +70885,15 @@ sort: by_weight
 大黄庄桥西	da huang zhuang qiao xi	2
 大会	da hui	500350
 打回	da hui	8065
-大慧	da hui	6280
+打会	da hui	5555
+大慧	da hui	62
 大汇仓	da hui cang	64
 大会场	da hui chang	495
 大灰厂	da hui chang	103
 大灰厂社区	da hui chang she qu	2
 大灰厂西站	da hui chang xi zhan	11
 大会党	da hui dang	765
+打会儿	da hui er	5555
 大回环	da hui huan	315
 大灰尖尺蛾	da hui jian chi e	1
 大会决定	da hui jue ding	4165
@@ -148915,6 +148920,8 @@ sort: by_weight
 贵宾席	gui bin xi	1495
 归并	gui bing	10235
 归并排序	gui bing pai xu	11460
+龟波气功	gui bo qi gong	9999
+龟波气功波	gui bo qi gong bo	9999
 贵不贵	gui bu gui	2035
 贵不可言	gui bu ke yan	505
 贵不了	gui bu liao	430
@@ -148979,6 +148986,7 @@ sort: by_weight
 跪倒	gui dao	16535
 归到	gui dao	9455
 跪到	gui dao	2215
+鬼刀	gui dao	1111
 鬼岛	gui dao	70
 鬼道	gui dao	54
 跪祷	gui dao	45
@@ -149699,6 +149707,7 @@ sort: by_weight
 鬼牌	gui pai	9999
 龟派气功	gui pai qi gong	9999
 龟派气功波	gui pai qi gong bo	9999
+龟派气功波儿	gui pai qi gong bo er	9999
 桂哌齐特	gui pai qi te	3
 桂畔路	gui pan lu	7
 桂畔小学	gui pan xiao xue	4
@@ -184916,7 +184925,7 @@ sort: by_weight
 活着	huo zhe	7929
 火折	huo zhe	1015
 或者驳回	huo zhe bo hui	68
-或者场	huo zhe chang	31
+或者唱	huo zhe chang	31
 活着的	huo zhe de	33910
 或哲或谋	huo zhe huo mou	25
 或这或那	huo zhe huo na	160
@@ -204505,6 +204514,7 @@ sort: by_weight
 疖病	jie bing	2
 结冰了	jie bing le	133
 解兵释甲	jie bing shi jia	111
+捷并思	jie bing si	6666
 疖病疫苗	jie bing yi miao	3
 接驳	jie bo	15855
 劫波	jie bo	1005
@@ -352658,9 +352668,9 @@ sort: by_weight
 社威擅势	she wei shan shi	1
 设为首页	she wei shou ye	122140
 蛇尾亚纲	she wei ya gang	1
-设问	she wen	12935
-蛇纹	she wen	1965
-舌吻	she wen	1195
+舌吻	she wen	6195
+设问	she wen	1293
+蛇纹	she wen	196
 蛇纹石	she wen shi	1695
 蛇纹熊	she wen xiong	119
 射我	she wo	1111
@@ -390711,7 +390721,7 @@ sort: by_weight
 太那个了	tai na ge le	1475
 太奶奶	tai nai nai	9999
 太难	tai nan	30410
-台南	tai nan	13300
+台南	tai nan	133
 台南编织虫	tai nan bian zhi chong	1
 太难吃了	tai nan chi le	465
 太难得了	tai nan de le	1250
@@ -420435,13 +420445,14 @@ sort: by_weight
 尾漂眼虫	wei piao yan chong	1
 伪品	wei pin	3290
 委聘	wei pin	660
-卫平	wei ping	10650
 为凭	wei ping	4435
-维平	wei ping	2880
 未平	wei ping	2690
 围屏	wei ping	1180
-卫萍	wei ping	425
-魏平	wei ping	139
+伟平	wei ping	555
+维平	wei ping	288
+# 卫平	wei ping	0
+# 卫萍	wei ping	0
+# 魏平	wei ping	0
 位屏蔽	wei ping bi	50
 围平波纹蛾	wei ping bo wen e	1
 位平面	wei ping mian	390
@@ -444435,6 +444446,7 @@ sort: by_weight
 线筛	xian shai	71
 仙山	xian shan	12450
 线衫	xian shan	1795
+先删	xian shan	1111
 岘山	xian shan	64
 仙山村	xian shan cun	19
 弦山街道	xian shan jie dao	2
@@ -461323,7 +461335,9 @@ sort: by_weight
 行不副言	xing bu fu yan	111
 行不更名	xing bu geng ming	580
 行不苟容	xing bu gou rong	111
+醒不来	xing bu lai	760
 醒不来的梦	xing bu lai de meng	150
+醒不来了	xing bu lai le	760
 醒不了	xing bu liao	760
 行不履危	xing bu lv wei	1
 兴不起	xing bu qi	270
@@ -470733,11 +470747,12 @@ sort: by_weight
 牙病	ya bing	6235
 鸭病毒性肝炎	ya bing du xing gan yan	153
 鸭脖	ya bo	14126
-亚伯	ya bo	6060
-雅博	ya bo	1070
-雅伯	ya bo	970
+亚伯	ya bo	606
+雅博	ya bo	107
+# 雅伯	ya bo	0
 亚伯达	ya bo da	130
 亚伯达爪龙	ya bo da zhao long	1
+鸭脖儿	ya bo er	14126
 亚伯拉罕	ya bo la han	6800
 鸭脖子	ya bo zi	7670
 压不出来	ya bu chu lai	140
@@ -527970,7 +527985,7 @@ sort: by_weight
 障碍物	zhang ai wu	29620
 障碍性	zhang ai xing	2715
 障碍因素	zhang ai yin su	785
-章安	zhang an	34
+# 章安	zhang an	0
 掌案的	zhang an de	30
 张安顺	zhang an shun	169
 张昂	zhang ang	70
@@ -556238,6 +556253,8 @@ sort: by_weight
 转瞬即逝	zhuan shun ji shi	10065
 转瞬间	zhuan shun jian	9055
 转瞬之间	zhuan shun zhi jian	2995
+专说	zhuan shuo	5555
+专硕	zhuan shuo	1111
 专司	zhuan si	6105
 专四	zhuan si	995
 转死沟壑	zhuan si gou he	111
