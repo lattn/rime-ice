@@ -1555,11 +1555,11 @@
 # 「世外桃园」→「世外桃源」
 # 「国产零零漆」→「国产凌凌漆」
 # 「一踏糊涂」→「一塌糊涂」
-# 「胡罗卜」→「胡萝卜」
+# 「罗卜」→「萝卜」
 #///
 ---
 name: base
-version: "2023-06-06"
+version: "2023-06-07"
 sort: by_weight
 ...
 # +_+
@@ -238694,6 +238694,7 @@ sort: by_weight
 兰情蕙性	lan qing hui xing	111
 兰青铁路	lan qing tie lu	125
 篮球	lan qiu	186650
+蓝球	lan qiu	111
 篮球比赛	lan qiu bi sai	8560
 篮球场	lan qiu chang	23675
 篮球场上	lan qiu chang shang	3795
@@ -255119,10 +255120,11 @@ sort: by_weight
 令尊	ling zun	5425
 令尊大人	ling zun da ren	380
 另作	ling zuo	4880
+六啊	liu a	6666
 # 刘艾	liu ai	0
 刘爱杰	liu ai jie	187
-刘安	liu an	13620
 硫胺	liu an	1110
+刘安	liu an	136
 # 留安	liu an	0
 柳岸晨韵	liu an chen yun	134
 留安村	liu an cun	1
@@ -262716,14 +262718,14 @@ sort: by_weight
 骆宾王	luo bin wang	3515
 罗宾逊	luo bin xun	6000
 骆冰	luo bing	5170
-罗兵	luo bing	196
-洛兵	luo bing	15
+# 洛兵	luo bing	0
+# 罗兵	luo bing	0
 罗炳辉	luo bing hui	172
 罗冰生	luo bing sheng	17
 络病学	luo bing xue	17
 骆秉章	luo bing zhang	27
 萝卜	luo bo	494881
-落泊	luo bo	1340
+落泊	luo bo	134
 # 洛玻	luo bo	0
 萝卜板	luo bo ban	12
 萝卜饼	luo bo bing	189
@@ -262736,7 +262738,6 @@ sort: by_weight
 萝卜糕	luo bo gao	2258
 萝卜公关	luo bo gong guan	98
 萝卜红	luo bo hong	229
-罗卜红	luo bo hong	4
 萝卜花	luo bo hua	280
 萝卜饺子	luo bo jiao zi	105
 萝卜坑	luo bo keng	61
@@ -262846,7 +262847,7 @@ sort: by_weight
 裸大麦	luo da mai	9999
 洛大乡	luo da xiang	3
 罗大佑	luo da you	13805
-洛带	luo dai	2250
+# 洛带	luo dai	0
 罗大夫	luo dai fu	111
 洛带古镇	luo dai gu zhen	174
 罗带同心结未成	luo dai tong xin jie wei cheng	4
@@ -263006,7 +263007,7 @@ sort: by_weight
 落个	luo ge	9999
 罗哥	luo ge	111
 落格	luo ge	10
-罗格	luo ge	1
+罗格	luo ge	2
 捋胳膊	luo ge bo	65
 罗格列酮	luo ge lie tong	44
 罗格列酮钠	luo ge lie tong na	2
@@ -263020,7 +263021,7 @@ sort: by_weight
 罗格镇	luo ge zhen	133
 罗各庄	luo ge zhuang	191
 锣鼓	luo gu	21760
-洛古	luo gu	3
+# 洛古	luo gu	0
 洛古波乡	luo gu bo xiang	5
 罗古村	luo gu cun	2
 锣鼓队	luo gu dui	1540
@@ -263124,7 +263125,7 @@ sort: by_weight
 捋虎须	luo hu xu	345
 罗湖中学	luo hu zhong xue	25
 落花	luo hua	31210
-洛花	luo hua	460
+# 洛花	luo hua	0
 落花芳草无寻处	luo hua fang cao wu xun chu	1
 落花风雨更伤春	luo hua feng yu geng shang chun	1
 落花流水	luo hua liu shui	7530
@@ -353801,6 +353802,9 @@ sort: by_weight
 神鬼难测	shen gui nan ce	16
 神棍	shen gun	1111
 伸过	shen guo	7205
+审过	shen guo	3333
+渗过	shen guo	2222
+神国	shen guo	1111
 椹果	shen guo	8
 神郭嘉	shen guo jia	135
 椹果胶球虫	shen guo jiao qiu chong	1
@@ -410256,11 +410260,11 @@ sort: by_weight
 拓跋濬	tuo ba jun	3
 拓跋氏	tuo ba shi	590
 拓跋嗣	tuo ba si	10
-拓跋余	tuo ba yu	1
 拖把头	tuo ba tou	235
 妥坝县	tuo ba xian	35
 拖坝乡	tuo ba xiang	5
 妥坝乡	tuo ba xiang	1
+拓跋余	tuo ba yu	1
 拓跋玉儿	tuo ba yu er	180
 脱白挂绿	tuo bai gua lv	111
 托板	tuo ban	4490
