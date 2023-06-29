@@ -17,11 +17,8 @@
 # - [同义词词林2020.3.26修订版](https://forum.freemdict.com/t/topic/1211)
 ---
 name: ext
-version: "2023-06-27"
+version: "2023-06-29"
 sort: by_weight
-columns:
-  - text
-  - weight
 ...
 # +_+
 啊啊啊啊啊啊	a a a a a a	100
@@ -913,6 +910,7 @@ columns:
 爱意疯长	ai yi feng zhang	100
 艾依依	ai yi yi	100
 爱因斯坦赤道	ai yin si tan chi dao	100
+哎哟不错哦	ai yo bu cuo o	100
 哎哟一声	ai yo yi sheng	100
 爱用不用	ai yong bu yong	100
 爱用者	ai yong zhe	100
@@ -4656,6 +4654,7 @@ columns:
 白吊搭	bai diao da	100
 百迭裙	bai die qun	100
 摆动波	bai dong bo	100
+百度安全验证	bai du an quan yan zheng	100
 百度百家号	bai du bai jia hao	100
 百度百科	bai du bai ke	100
 百度币	bai du bi	100
@@ -6138,7 +6137,7 @@ columns:
 爆裂性	bao lie xing	100
 保龄球热	bao ling qiu re	100
 保龄球赛	bao ling qiu sai	100
-保留地	bao liu de	100
+保留地	bao liu di	100
 报六级	bao liu ji	100
 保留价格	bao liu jia ge	100
 保留了	bao liu le	100
@@ -6248,6 +6247,7 @@ columns:
 报师范	bao shi fan	100
 宝石海星	bao shi hai xing	100
 宝石剑	bao shi jian	100
+宝石蓝的	bao shi lan de	100
 宝石迷阵	bao shi mi zhen	100
 保湿水	bao shi shui	100
 包食宿	bao shi su	100
@@ -8993,6 +8993,7 @@ columns:
 别说话了	bie shuo hua le	100
 别说话吻我	bie shuo hua wen wo	100
 别说了吧	bie shuo le ba	100
+别说了好吗	bie shuo le hao ma	100
 别说起	bie shuo qi	100
 别说其他	bie shuo qi ta	100
 别说傻话了	bie shuo sha hua le	100
@@ -9288,6 +9289,7 @@ columns:
 并发编程实践	bing fa bian cheng shi jian	100
 并发编程实战	bing fa bian cheng shi zhan	100
 并发表	bing fa biao	100
+并发代码	bing fa dai ma	100
 并发动	bing fa dong	100
 并发现	bing fa xian	100
 并发与并行	bing fa yu bing xing	100
@@ -9586,7 +9588,6 @@ columns:
 跛鳖千里	bo bie qian li	100
 啵啵茶	bo bo cha	100
 波波刀	bo bo dao	100
-薄薄地	bo bo de	100
 柏柏尔	bo bo er	100
 波波鸽	bo bo ge	100
 波波视频	bo bo shi pin	100
@@ -9656,6 +9657,8 @@ columns:
 波函数	bo han shu	100
 拨号系统	bo hao xi tong	100
 薄荷可乐	bo he ke le	100
+薄荷绿	bo he lv	100
+薄荷绿的	bo he lv de	100
 薄荷米粽	bo he mi zong	100
 波河平原	bo he ping yuan	100
 波皇子	bo huang zi	100
@@ -10329,7 +10332,10 @@ columns:
 不对的吧	bu dui de ba	100
 不兑换	bu dui huan	100
 不对劲啊	bu dui jin a	100
+不对劲了	bu dui jin le	100
+不对劲了吧	bu dui jin le ba	100
 不对啦	bu dui la	100
+不对了	bu dui le	100
 不对了吧	bu dui le ba	100
 部队里	bu dui li	100
 不对你动手	bu dui ni dong shou	100
@@ -11060,6 +11066,7 @@ columns:
 不讲究啊	bu jiang jiu a	100
 不讲理啊	bu jiang li a	100
 不讲卫生	bu jiang wei sheng	100
+不降息	bu jiang xi	100
 不讲信用	bu jiang xin yong	100
 不讲义气	bu jiang yi qi	100
 不讲政治	bu jiang zheng zhi	100
@@ -13422,6 +13429,7 @@ columns:
 不知火玄间	bu zhi huo xuan jian	100
 不知火玄马	bu zhi huo xuan ma	100
 不知几何	bu zhi ji he	100
+不直接上屏	bu zhi jie shang ping	100
 步掷金刚	bu zhi jin gang	100
 步掷金刚明王	bu zhi jin gang ming wang	100
 不知究理	bu zhi jiu li	100
@@ -14282,6 +14290,8 @@ columns:
 仓海桑田	cang hai sang tian	100
 沧海一声笑	cang hai yi sheng xiao	100
 苍盒子	cang he zi	100
+苍黄色	cang huang se	100
+苍黄色的	cang huang se de	100
 藏茴香果	cang hui xiang guo	100
 仓颉输入	cang jie shu ru	100
 仓颉输入法	cang jie shu ru fa	100
@@ -14411,6 +14421,7 @@ columns:
 操哭我	cao ku wo	100
 操练法	cao lian fa	100
 草蛉虫	cao ling chong	100
+草绿色的	cao lv se de	100
 草满囹圄	cao man ling yu	100
 草帽大船团	cao mao da chuan tuan	100
 草帽海贼团	cao mao hai zei tuan	100
@@ -14492,6 +14503,8 @@ columns:
 曹余章	cao yu zhang	100
 草原带	cao yuan dai	100
 草原巨蜥	cao yuan ju xi	100
+草原绿	cao yuan lv	100
+草原绿的	cao yuan lv de	100
 草原千里	cao yuan qian li	100
 漕运码头	cao yun ma tou	100
 曹贼篡汉	cao zei cuan han	100
@@ -14850,6 +14863,7 @@ columns:
 插入指定	cha ru zhi ding	100
 插入指定的	cha ru zhi ding de	100
 差三分	cha san fen	100
+茶色的	cha se de	100
 茶色素厂	cha se su chang	100
 插上电	cha shang dian	100
 插上了	cha shang le	100
@@ -15916,6 +15930,8 @@ columns:
 陈冠蒲	chen guan pu	100
 陈冠声	chen guan sheng	100
 陈冠宇	chen guan yu	100
+晨光橙	chen guang cheng	100
+晨光橙的	chen guang cheng de	100
 晨光曲	chen guang qu	100
 晨光乍现	chen guang zha xian	100
 尘归尘	chen gui chen	100
@@ -16374,9 +16390,11 @@ columns:
 程河镇	cheng he zhen	100
 呈红褐色	cheng hong he se	100
 橙红年代	cheng hong nian dai	100
+橙红色的	cheng hong se de	100
 瞠乎后矣	cheng hu hou yi	100
 城狐社鼠	cheng hu she shu	100
 成化窑	cheng hua yao	100
+橙黄色的	cheng huang se de	100
 城会玩	cheng hui wan	100
 成婚之日	cheng hun zhi ri	100
 乘火打劫	cheng huo da jie	100
@@ -16492,6 +16510,7 @@ columns:
 诚如所言	cheng ru suo yan	100
 成三破二	cheng san po er	100
 撑伞人	cheng san ren	100
+橙色的	cheng se de	100
 橙色光芒	cheng se guang mang	100
 成色剂	cheng se ji	100
 橙色剂	cheng se ji	100
@@ -16871,6 +16890,8 @@ columns:
 吃喝玩	chi he wan	100
 吃很多苦头	chi hen duo ku tou	100
 赤红甲	chi hong jia	100
+赤红色	chi hong se	100
+赤红色的	chi hong se de	100
 驰宏锌锗	chi hong xin zhe	100
 吃花椒	chi hua jiao	100
 吃槐花	chi huai hua	100
@@ -17015,6 +17036,7 @@ columns:
 吃软饭的	chi ruan fan de	100
 吃三碗	chi san wan	100
 吃三碗儿	chi san wan er	100
+赤色的	chi se de	100
 赤色要塞	chi se yao sai	100
 赤砂之蝎	chi sha zhi xie	100
 池上便当	chi shang bian dang	100
@@ -17711,6 +17733,8 @@ columns:
 储存下来	chu cun xia lai	100
 储存在	chu cun zai	100
 出错了	chu cuo le	100
+出错了吧	chu cuo le ba	100
+出错了吗	chu cuo le ma	100
 出错题	chu cuo ti	100
 出错题了	chu cuo ti le	100
 出大差	chu da chai	100
@@ -17811,6 +17835,7 @@ columns:
 出故障了	chu gu zhang le	100
 出乖弄丑	chu guai nong chou	100
 出鬼入神	chu gui ru shen	100
+出过错	chu guo cuo	100
 楚国的	chu guo de	100
 出国家线	chu guo jia xian	100
 出国梦	chu guo meng	100
@@ -18826,6 +18851,8 @@ columns:
 纯贵妃	chun gui fei	100
 唇寒齿亡	chun han chi wang	100
 春黑刀	chun hei dao	100
+纯黑色	chun hei se	100
+纯黑色的	chun hei se de	100
 春化阶段	chun hua jie duan	100
 春化精	chun hua jing	100
 春化现象	chun hua xian xiang	100
@@ -19376,6 +19403,8 @@ columns:
 丛林地	cong lin di	100
 丛林法则	cong lin fa ze	100
 丛林区	cong lin qu	100
+葱绿色	cong lv se	100
+葱绿色的	cong lv se de	100
 匆忙间	cong mang jian	100
 匆忙离去	cong mang li qu	100
 匆忙之间	cong mang zhi jian	100
@@ -19492,6 +19521,8 @@ columns:
 凑一色	cou yi se	100
 凑这么近	cou zhe me jin	100
 凑字数	cou zi shu	100
+粗笔红	cu bi hong	100
+粗笔红的	cu bi hong de	100
 粗鄙之语	cu bi zhi yu	100
 粗不粗啊	cu bu cu a	100
 粗布条	cu bu tiao	100
@@ -20169,6 +20200,7 @@ columns:
 大孚飞跃	da fu fei yue	100
 大幅更新	da fu geng xin	100
 打富济贫	da fu ji pin	100
+大幅降息	da fu jiang xi	100
 打服了	da fu le	100
 答复了	da fu le	100
 达芙妮	da fu ni	100
@@ -20191,6 +20223,7 @@ columns:
 打个比方啊	da ge bi fang a	100
 打个标签	da ge biao qian	100
 大哥别着急	da ge bie zhao ji	100
+打个补丁	da ge bu ding	100
 打个车就行	da ge che jiu xing	100
 大哥大嫂	da ge da sao	100
 大哥大嫂过年好	da ge da sao guo nian hao	100
@@ -21904,6 +21937,8 @@ columns:
 怠慢心理	dai man xin li	100
 玳瑁壳	dai mao ke	100
 玳瑁梁	dai mao liang	100
+玳瑁色	dai mao se	100
+玳瑁色的	dai mao se de	100
 玳瑁眼镜	dai mao yan jing	100
 戴蒙德	dai meng de	100
 戴梦梦	dai meng meng	100
@@ -22090,6 +22125,8 @@ columns:
 但不喜欢	dan bu xi huan	100
 蛋彩画	dan cai hua	100
 但残缺了	dan can que le	100
+淡草绿	dan cao lv	100
+淡草绿的	dan cao lv de	100
 淡操心	dan cao xin	100
 单层次	dan ceng ci	100
 单层式	dan ceng shi	100
@@ -22117,7 +22154,6 @@ columns:
 担待担待	dan dai dan dai	100
 但代价是什么	dan dai jia shi shen me	100
 淡淡道	dan dan dao	100
-淡淡地	dan dan de	100
 淡淡地看	dan dan de kan	100
 淡淡地看着	dan dan de kan zhe	100
 单单会	dan dan hui	100
@@ -22131,6 +22167,8 @@ columns:
 单刀会	dan dao hui	100
 丹德里恩	dan de li en	100
 丹堤汤玛斯	dan di tang ma si	100
+淡靛蓝色	dan dian lan se	100
+淡靛蓝色的	dan dian lan se de	100
 淡定啊	dan ding a	100
 淡定归淡定	dan ding gui dan ding	100
 但都是	dan dou shi	100
@@ -22197,6 +22235,7 @@ columns:
 氮化合物	dan hua he wu	100
 但话说回来	dan hua shuo hui lai	100
 淡黄的长裙	dan huang de chang qun	100
+淡黄色的	dan huang se de	100
 蛋黄素	dan huang su	100
 单回合	dan hui he	100
 单婚制	dan hun zhi	100
@@ -22221,6 +22260,8 @@ columns:
 但就是	dan jiu shi	100
 但据我	dan ju wo	100
 单靠着	dan kao zhe	100
+蛋壳色	dan ke se	100
+蛋壳色的	dan ke se de	100
 弹壳特攻队	dan ke te gong dui	100
 但可以用	dan ke yi yong	100
 但可以用计	dan ke yi yong ji	100
@@ -22237,6 +22278,7 @@ columns:
 单论这	dan lun zhe	100
 单论这个	dan lun zhe ge	100
 单论这一点	dan lun zhe yi dian	100
+淡绿色的	dan lv se de	100
 胆绿素	dan lv su	100
 胆略过人	dan lve guo ren	100
 丹麦包	dan mai bao	100
@@ -22289,6 +22331,7 @@ columns:
 但若非	dan ruo fei	100
 但若非如此	dan ruo fei ru ci	100
 淡若水	dan ruo shui	100
+丹色的	dan se de	100
 单色照片	dan se zhao pian	100
 单身的	dan shen de	100
 单身的时候	dan shen de shi hou	100
@@ -22476,6 +22519,9 @@ columns:
 胆子肥	dan zi fei	100
 胆子肥了	dan zi fei le	100
 但自己	dan zi ji	100
+淡紫罗兰色	dan zi luo lan se	100
+淡紫罗兰色的	dan zi luo lan se de	100
+淡紫色的	dan zi se de	100
 弹子台	dan zi tai	100
 胆子挺大	dan zi ting da	100
 胆子要放大	dan zi yao fang da	100
@@ -23648,6 +23694,7 @@ columns:
 德国之翼	de guo zhi yi	100
 的好处	de hao chu	100
 的好处是什么	de hao chu shi shen me	100
+的好吗	de hao ma	100
 的核心	de he xin	100
 的很多	de hen duo	100
 得很高兴	de hen gao xing	100
@@ -25273,6 +25320,7 @@ columns:
 电科网安	dian ke wang an	100
 电科院	dian ke yuan	100
 点蜡烛	dian la zhu	100
+靛蓝色的	dian lan se de	100
 电缆塔	dian lan ta	100
 电缆调制解调器	dian lan tiao zhi jie tiao qi	100
 店老板	dian lao ban	100
@@ -25368,6 +25416,7 @@ columns:
 电热水	dian re shui	100
 点人气	dian ren qi	100
 电伞查特	dian san cha te	100
+靛色的	dian se de	100
 电商大战	dian shang da zhan	100
 垫上来	dian shang lai	100
 点上没	dian shang mei	100
@@ -25916,6 +25965,7 @@ columns:
 定下去	ding xia qu	100
 钉下去	ding xia qu	100
 定下型	ding xia xing	100
+定向降息	ding xiang jiang xi	100
 定向井	ding xiang jing	100
 定向能	ding xiang neng	100
 定向培训	ding xiang pei xun	100
@@ -26990,7 +27040,11 @@ columns:
 豆蓉月饼	dou rong yue bing	100
 都如同	dou ru tong	100
 都软了	dou ruan le	100
+豆沙褐	dou sha he	100
+豆沙褐的	dou sha he de	100
 都傻了	dou sha le	100
+豆沙色	dou sha se	100
+豆沙色的	dou sha se de	100
 都上来吧	dou shang lai ba	100
 斗筲穿窬	dou shao chuan yu	100
 斗筲小器	dou shao xiao qi	100
@@ -28366,7 +28420,6 @@ columns:
 躲猫猫	duo mao mao	100
 多冒昧啊	duo mao mei a	100
 多毛性	duo mao xing	100
-多么地	duo me de	100
 多么的	duo me de	100
 多么地坚信不疑	duo me de jian xin bu yi	100
 多么动听	duo me dong ting	100
@@ -28689,6 +28742,7 @@ columns:
 饿虎饥鹰	e hu ji ying	100
 饿虎扑羊	e hu pu yang	100
 饿坏了吧	e huai le ba	100
+鹅黄色的	e huang se de	100
 恶积祸盈	e ji huo ying	100
 额济纳地区	e ji na di qu	100
 额济纳河	e ji na he	100
@@ -32611,7 +32665,7 @@ columns:
 反正无论	fan zheng wu lun	100
 反正无论如何	fan zheng wu lun ru he	100
 范正祥	fan zheng xiang	100
-繁殖地	fan zhi de	100
+繁殖地	fan zhi di	100
 范植谷	fan zhi gu	100
 繁殖关	fan zhi guan	100
 反智论	fan zhi lun	100
@@ -33380,6 +33434,7 @@ columns:
 非常智能	fei chang zhi neng	100
 非常值钱	fei chang zhi qian	100
 非常之人	fei chang zhi ren	100
+非常智障	fei chang zhi zhang	100
 非常重要的任务	fei chang zhong yao de ren wu	100
 非常尊重	fei chang zun zhong	100
 飞车走壁	fei che zou bi	100
@@ -33405,6 +33460,7 @@ columns:
 费茨派垂克	fei ci pai chui ke	100
 非磁性	fei ci xing	100
 翡翠湖	fei cui hu	100
+翡翠绿的	fei cui lv de	100
 翡翠梦境	fei cui meng jing	100
 翡翠念珠	fei cui nian zhu	100
 翡翠气垫	fei cui qi dian	100
@@ -33513,6 +33569,7 @@ columns:
 非核化	fei he hua	100
 非核武器国家	fei he wu qi guo jia	100
 绯红女巫	fei hong nv wu	100
+绯红色的	fei hong se de	100
 飞鸿踏雪泥	fei hong ta xue ni	100
 飞鸿雪爪	fei hong xue zhua	100
 绯红之刃	fei hong zhi ren	100
@@ -33678,6 +33735,7 @@ columns:
 非日常派对	fei ri chang pai dui	100
 飞入梅花都不见	fei ru mei hua dou bu jian	100
 飞入梅花总不见	fei ru mei hua zong bu jian	100
+绯色的	fei se de	100
 绯色修仙录	fei se xiu xian lu	100
 飞砂走石	fei sha zou shi	100
 非上不可	fei shang bu ke	100
@@ -34115,6 +34173,7 @@ columns:
 分三国	fen san guo	100
 分三批	fen san pi	100
 分散于	fen san yu	100
+粉色的	fen se de	100
 分色镜头	fen se jing tou	100
 粉砂石	fen sha shi	100
 粉砂岩	fen sha yan	100
@@ -34233,6 +34292,8 @@ columns:
 分子电流	fen zi dian liu	100
 分子化合物	fen zi hua he wu	100
 分子溶液	fen zi rong ye	100
+粉紫色	fen zi se	100
+粉紫色的	fen zi se de	100
 分子尾	fen zi wei	100
 分子医学	fen zi yi xue	100
 分子钟	fen zi zhong	100
@@ -34510,6 +34571,8 @@ columns:
 风玫瑰图	feng mei gui tu	100
 封门葬	feng men zang	100
 风门子	feng men zi	100
+蜂蜜黄	feng mi huang	100
+蜂蜜黄的	feng mi huang de	100
 蜂蜜酒	feng mi jiu	100
 蜂蜜柠檬苏打	feng mi ning meng su da	100
 风靡云涌	feng mi yun yong	100
@@ -35310,6 +35373,7 @@ columns:
 父女之情	fu nv zhi qing	100
 妇女之友	fu nv zhi you	100
 复拍子	fu pai zi	100
+付赔偿金	fu pei chang jin	100
 傅佩嘉	fu pei jia	100
 浮皮儿	fu pi er	100
 麸皮面包	fu pi mian bao	100
@@ -36303,6 +36367,7 @@ columns:
 干坤大挪移	gan kun da nuo yi	100
 赶来赶去	gan lai gan qu	100
 甘篮菜	gan lan cai	100
+橄榄绿的	gan lan lv de	100
 橄榄球赛	gan lan qiu sai	100
 橄榄山	gan lan shan	100
 橄榄形	gan lan xing	100
@@ -36705,6 +36770,8 @@ columns:
 刚起床就	gang qi chuang jiu	100
 钢琴家郎朗	gang qin jia lang lang	100
 钢琴协奏	gang qin xie zou	100
+钢青色	gang qing se	100
+钢青色的	gang qing se de	100
 钢曲尺	gang qu chi	100
 冈仁波齐	gang ren bo qi	100
 岗仁波齐	gang ren bo qi	100
@@ -38529,6 +38596,7 @@ columns:
 跟谁一起	gen shei yi qi	100
 跟谁有仇	gen shei you chou	100
 跟屎一样	gen shi yi yang	100
+跟随降息	gen sui jiang xi	100
 跟随在	gen sui zai	100
 跟他赌气	gen ta du qi	100
 跟他废话	gen ta fei hua	100
@@ -39894,6 +39962,7 @@ columns:
 古拉加斯	gu la jia si	100
 古兰经里	gu lan jing li	100
 古兰经里面	gu lan jing li mian	100
+钴蓝色的	gu lan se de	100
 古蓝县	gu lan xian	100
 古老的	gu lao de	100
 古老的传说	gu lao de chuan shuo	100
@@ -42219,6 +42288,7 @@ columns:
 海豹科	hai bao ke	100
 海豹球	hai bao qiu	100
 海豹突击队	hai bao tu ji dui	100
+还被罚	hai bei fa	100
 海北藏族自治州	hai bei zang zu zi zhi zhou	100
 还比不上	hai bi bu shang	100
 还比我多	hai bi wo duo	100
@@ -42549,6 +42619,9 @@ columns:
 还来不及哭	hai lai bu ji ku	100
 还来不及呢	hai lai bu ji ne	100
 海兰察	hai lan cha	100
+海蓝色的	hai lan se de	100
+海蓝石	hai lan shi	100
+海蓝石的	hai lan shi de	100
 海蓝时见鲸	hai lan shi jian jing	100
 海澜之家	hai lan zhi jia	100
 海浪滔天	hai lang tao tian	100
@@ -43120,6 +43193,8 @@ columns:
 还严重	hai yan zhong	100
 海洋斗	hai yang dou	100
 海洋季	hai yang ji	100
+海洋蓝	hai yang lan	100
+海洋蓝的	hai yang lan de	100
 海洋瓶	hai yang ping	100
 海洋生态系	hai yang sheng tai xi	100
 海洋温差发电	hai yang wen cha fa dian	100
@@ -44712,6 +44787,8 @@ columns:
 喝不喝酒	he bu he jiu	100
 喝不喝奶茶	he bu he nai cha	100
 合不合适	he bu he shi	100
+喝不喝水	he bu he shui	100
+喝不喝水啊	he bu he shui a	100
 合不拢	he bu long	100
 喝不上	he bu shang	100
 何不食肉糜	he bu shi rou mi	100
@@ -45043,6 +45120,7 @@ columns:
 河洛人	he luo ren	100
 阖闾城	he lv cheng	100
 阖闾城遗址	he lv cheng yi zhi	100
+褐绿色的	he lv se de	100
 河马兽	he ma shou	100
 河马王	he ma wang	100
 赫曼麦尔维尔	he man mai er wei er	100
@@ -45194,6 +45272,7 @@ columns:
 赫塞哥维纳	he sai ge wei na	100
 和散那	he san na	100
 核散射	he san she	100
+褐色的	he se de	100
 合色鞋	he se xie	100
 河沙堆	he sha dui	100
 喝啥奶茶	he sha nai cha	100
@@ -45436,6 +45515,8 @@ columns:
 何阳光	he yang guang	100
 喝药吧	he yao ba	100
 喝药吗	he yao ma	100
+荷叶绿	he ye lv	100
+荷叶绿的	he ye lv de	100
 河野悦子	he ye yue zi	100
 何以报德	he yi bao de	100
 何以成方圆	he yi cheng fang yuan	100
@@ -45673,6 +45754,8 @@ columns:
 黑毛球	hei mao qiu	100
 黑眉蝮蛇	hei mei fu she	100
 黑美人	hei mei ren	100
+黑莓色	hei mei se	100
+黑莓色的	hei mei se de	100
 黑煤玉	hei mei yu	100
 黑莓子	hei mei zi	100
 黑弥撒	hei mi sa	100
@@ -46028,6 +46111,7 @@ columns:
 很恍惚	hen huang hu	100
 狠活儿	hen huo er	100
 很活泼	hen huo po	100
+很鸡巴	hen ji ba	100
 很激动	hen ji dong	100
 很积极啊	hen ji ji a	100
 很吉利的号码哦	hen ji li de hao ma o	100
@@ -46319,6 +46403,7 @@ columns:
 很值得买	hen zhi de mai	100
 很值钱	hen zhi qian	100
 恨之切	hen zhi qie	100
+很智障	hen zhi zhang	100
 很重要的	hen zhong yao de	100
 很重要吗	hen zhong yao ma	100
 很主动	hen zhu dong	100
@@ -47238,6 +47323,9 @@ columns:
 护来护去	hu lai hu qu	100
 虎来运转	hu lai yun zhuan	100
 呼兰河流域	hu lan he liu yu	100
+湖蓝绿	hu lan lv	100
+湖蓝绿的	hu lan lv de	100
+湖蓝色的	hu lan se de	100
 胡蓝之狱	hu lan zhi yu	100
 虎狼之词	hu lang zhi ci	100
 胡老师	hu lao shi	100
@@ -47384,6 +47472,8 @@ columns:
 虎皮鲨	hu pi sha	100
 虎皮松	hu pi song	100
 虎皮鹦鹉	hu pi ying wu	100
+琥珀黄	hu po huang	100
+琥珀黄的	hu po huang de	100
 琥珀糖	hu po tang	100
 琥珀朱绫	hu po zhu ling	100
 胡扑掩	hu pu yan	100
@@ -48186,6 +48276,7 @@ columns:
 花园明朝字体	hua yuan ming chao zi ti	100
 花月痕	hua yue hen	100
 华芸科技	hua yun ke ji	100
+花在了	hua zai le	100
 花泽冰	hua ze bing	100
 华章锦绣	hua zhang jin xiu	100
 花招百出	hua zhao bai chu	100
@@ -48338,7 +48429,6 @@ columns:
 唤潮鲛姬娜美	huan chao jiao ji na mei	100
 换车票	huan che piao	100
 换尺码	huan chi ma	100
-缓冲地	huan chong de	100
 缓冲国	huan chong guo	100
 缓冲式	huan chong shi	100
 缓冲体	huan chong ti	100
@@ -48561,7 +48651,6 @@ columns:
 换五挡	huan wu dang	100
 环戊烯	huan wu xi	100
 欢喜传媒	huan xi chuan mei	100
-欢喜地	huan xi de	100
 欢喜猎人	huan xi lie ren	100
 欢喜欲狂	huan xi yu kuang	100
 换下去	huan xia qu	100
@@ -49059,6 +49148,7 @@ columns:
 会把我们	hui ba wo men	100
 会把我们的	hui ba wo men de	100
 灰白的	hui bai de	100
+灰白色的	hui bai se de	100
 灰白质	hui bai zhi	100
 回办公室	hui ban gong shi	100
 挥棒落空	hui bang luo kong	100
@@ -53555,15 +53645,26 @@ columns:
 将我们	jiang wo men	100
 讲武德	jiang wu de	100
 将无同	jiang wu tong	100
+降息潮	jiang xi chao	100
 江西炒粉	jiang xi chao fen	100
 蒋曦儿	jiang xi er	100
+降息幅度	jiang xi fu du	100
+降息概率	jiang xi gai lv	100
 江西高考	jiang xi gao kao	100
+降息降准	jiang xi jiang zhun	100
+降息空间	jiang xi kong jian	100
 江西腊	jiang xi la	100
+降息两次	jiang xi liang ci	100
 江西龙虎山正一派天师府	jiang xi long hu shan zheng yi pai tian shi fu	100
 江西人	jiang xi ren	100
 江西省考	jiang xi sheng kao	100
+降息通道	jiang xi tong dao	100
 江希文	jiang xi wen	100
+降息信号	jiang xi xin hao	100
+降息一次	jiang xi yi ci	100
+降息预期	jiang xi yu qi	100
 江西中考	jiang xi zhong kao	100
+降息周期	jiang xi zhou qi	100
 姜锡柱	jiang xi zhu	100
 将下面	jiang xia mian	100
 将下面的	jiang xia mian de	100
@@ -53654,8 +53755,11 @@ columns:
 蒋中正	jiang zhong zheng	100
 江渚上	jiang zhu shang	100
 姜竹祥	jiang zhu xiang	100
+降准降息	jiang zhun jiang xi	100
 江孜地区	jiang zi di qu	100
 将自己	jiang zi ji	100
+绛紫色的	jiang zi se de	100
+酱紫色的	jiang zi se de	100
 江子算	jiang zi suan	100
 江孜镇	jiang zi zhen	100
 蒋总统秘录	jiang zong tong mi lu	100
@@ -53951,6 +54055,7 @@ columns:
 皎如日星	jiao ru ri xing	100
 矫若游龙	jiao ruo you long	100
 教三楼	jiao san lou	100
+焦色的	jiao se de	100
 角闪石	jiao shan shi	100
 脚上的伤	jiao shang de shang	100
 叫上去	jiao shang qu	100
@@ -54512,6 +54617,8 @@ columns:
 截面图	jie mian tu	100
 界面新闻	jie mian xin wen	100
 解民心	jie min xin	100
+芥末黄	jie mo huang	100
+芥末黄的	jie mo huang de	100
 芥末味	jie mo wei	100
 芥末味儿	jie mo wei er	100
 节目单上	jie mu dan shang	100
@@ -55083,6 +55190,7 @@ columns:
 进化之刃	jin hua zhi ren	100
 襟怀夷旷	jin huai yi kuang	100
 金黄脆薯格	jin huang cui shu ge	100
+金黄色的	jin huang se de	100
 金黄藻	jin huang zao	100
 金惠美	jin hui mei	100
 金慧琴	jin hui qin	100
@@ -55102,6 +55210,7 @@ columns:
 紧急放假	jin ji fang jia	100
 紧急核酸	jin ji he suan	100
 进几环	jin ji huan	100
+紧急降息	jin ji jiang xi	100
 紧急警报	jin ji jing bao	100
 紧急令	jin ji ling	100
 金鸡纳	jin ji na	100
@@ -56253,8 +56362,12 @@ columns:
 景美区	jing mei qu	100
 景美溪	jing mei xi	100
 惊门凯	jing men kai	100
+静谧蓝	jing mi lan	100
+静谧蓝的	jing mi lan de	100
 静谧之鞋	jing mi zhi xie	100
 镜面呢	jing mian ne	100
+镜面银	jing mian yin	100
+镜面银的	jing mian yin de	100
 警民冲突	jing min chong tu	100
 精敏度	jing min du	100
 静默管理	jing mo guan li	100
@@ -60124,6 +60237,7 @@ columns:
 巨乳研讨会	ju ru yan tao hui	100
 巨乳诱惑	ju ru you huo	100
 举三个例子	ju san ge li zi	100
+橘色的	ju se de	100
 橘色的狐狸	ju se de hu li	100
 橘色狐狸	ju se hu li	100
 居山海	ju shan hai	100
@@ -60696,6 +60810,7 @@ columns:
 咖啡和糖	ka fei he tang	100
 咖啡节	ka fei jie	100
 咖啡猫	ka fei mao	100
+咖啡色的	ka fei se de	100
 咖啡色系	ka fei se xi	100
 咖啡上瘾	ka fei shang yin	100
 咖啡室	ka fei shi	100
@@ -60786,6 +60901,7 @@ columns:
 卡萨丁	ka sa ding	100
 卡萨诺	ka sa nuo	100
 卡萨鹏	ka sa peng	100
+咖色的	ka se de	100
 卡式炉	ka shi lu	100
 卡式录音带	ka shi lu yin dai	100
 喀什米尔	ka shi mi er	100
@@ -62243,6 +62359,7 @@ columns:
 渴不可耐	ke bu ke nai	100
 可不可笑	ke bu ke xiao	100
 可不可笑啊	ke bu ke xiao a	100
+科不科学	ke bu ke xue	100
 可不能大意	ke bu neng da yi	100
 可不能就	ke bu neng jiu	100
 可不能就这么	ke bu neng jiu zhe me	100
@@ -62465,6 +62582,7 @@ columns:
 克莱奥斯特拉兹	ke lai ao si te la zi	100
 克莱柏	ke lai bo	100
 克莱格	ke lai ge	100
+可来了	ke lai le	100
 可来嘞	ke lai lei	100
 克莱伦斯宫	ke lai lun si gong	100
 克莱门斯	ke lai men si	100
@@ -62640,6 +62758,7 @@ columns:
 可能会死	ke neng hui si	100
 可能会先	ke neng hui xian	100
 可能会用到	ke neng hui yong dao	100
+可能降息	ke neng jiang xi	100
 可能就会	ke neng jiu hui	100
 可能就会导致	ke neng jiu hui dao zhi	100
 可能就是	ke neng jiu shi	100
@@ -62848,6 +62967,7 @@ columns:
 可选择丢弃	ke xuan ze diu qi	100
 科学编辑	ke xue bian ji	100
 科学变美	ke xue bian mei	100
+科学不科学	ke xue bu ke xue	100
 科学大道	ke xue da dao	100
 科学的	ke xue de	100
 科学的交流	ke xue de jiao liu	100
@@ -63404,6 +63524,8 @@ columns:
 空勤团	kong qin tuan	100
 控球技术	kong qiu ji shu	100
 孔雀姬	kong que ji	100
+孔雀蓝的	kong que lan de	100
+孔雀绿的	kong que lv de	100
 孔雀女	kong que nv	100
 孔雀王朝	kong que wang chao	100
 孔雀园	kong que yuan	100
@@ -63651,6 +63773,8 @@ columns:
 哭红的眼睛	ku hong de yan jing	100
 哭花了	ku hua le	100
 苦黄雀之作害兮	ku huang que zhi zuo hai xi	100
+枯黄色	ku huang se	100
+枯黄色的	ku huang se de	100
 酷绘乐团	ku hui yue tuan	100
 库贾氏症	ku jia shi zheng	100
 库街区	ku jie qu	100
@@ -64830,6 +64954,7 @@ columns:
 来了没有	lai le mei you	100
 来了你	lai le ni	100
 来了您	lai le nin	100
+来了您啊	lai le nin a	100
 来了一个	lai le yi ge	100
 来了一年	lai le yi nian	100
 来了一年了	lai le yi nian le	100
@@ -65239,6 +65364,7 @@ columns:
 兰州老街	lan zhou lao jie	100
 兰州文理	lan zhou wen li	100
 拦住他们	lan zhu ta men	100
+蓝紫色的	lan zi se de	100
 狼爱上羊	lang ai shang yang	100
 狼伴归途	lang ban gui tu	100
 狼狈地躲开	lang bei de duo kai	100
@@ -65676,6 +65802,7 @@ columns:
 老现象	lao xian xiang	100
 老乡见老乡	lao xiang jian lao xiang	100
 老乡开门	lao xiang kai men	100
+老乡人	lao xiang ren	100
 老小孩	lao xiao hai	100
 老小区	lao xiao qu	100
 老校区	lao xiao qu	100
@@ -65822,6 +65949,8 @@ columns:
 雷电计	lei dian ji	100
 雷电将军	lei dian jiang jun	100
 雷电接口	lei dian jie kou	100
+雷电蓝	lei dian lan	100
+雷电蓝的	lei dian lan de	100
 雷电球	lei dian qiu	100
 雷电狮	lei dian shi	100
 雷电兽	lei dian shou	100
@@ -65953,13 +66082,13 @@ columns:
 雷斯家族	lei si jia zu	100
 累死啦	lei si la	100
 雷斯林	lei si lin	100
-累死人	lei si ren	100
 累死我	lei si wo	100
 雷死我	lei si wo	100
 累死我啦	lei si wo la	100
 雷死我啦	lei si wo la	100
 累死爷了	lei si ye le	100
 累死在	lei si zai	100
+类似这样	lei si zhe yang	100
 雷颂德	lei song de	100
 雷天使	lei tian shi	100
 雷霆办案	lei ting ban an	100
@@ -66013,6 +66142,8 @@ columns:
 棱等登	leng deng deng	100
 冷地里	leng di li	100
 冷冻货	leng dong huo	100
+冷冻蓝	leng dong lan	100
+冷冻蓝的	leng dong lan de	100
 冷读术	leng du shu	100
 冷发射	leng fa she	100
 冷风摇	leng feng yao	100
@@ -66327,6 +66458,8 @@ columns:
 离合诗	li he shi	100
 离合体诗	li he ti shi	100
 李鸿其	li hong qi	100
+鲤红色	li hong se	100
+鲤红色的	li hong se de	100
 李宏烨	li hong ye	100
 李鸿忠	li hong zhong	100
 李后主	li hou zhu	100
@@ -66693,6 +66826,7 @@ columns:
 离散性	li san xing	100
 丽桑卓	li sang zhuo	100
 立扫千言	li sao qian yan	100
+栗色的	li se de	100
 丽莎史坦菲尔德	li sha shi tan fei er de	100
 李善彬	li shan bin	100
 梨山宾馆	li shan bin guan	100
@@ -67490,6 +67624,7 @@ columns:
 连须胡子	lian xu hu zi	100
 连续集	lian xu ji	100
 连续监视	lian xu jian shi	100
+连续降息	lian xu jiang xi	100
 连续介质力学	lian xu jie zhi li xue	100
 连续生产	lian xu sheng chan	100
 连续输入	lian xu shu ru	100
@@ -67700,6 +67835,8 @@ columns:
 两行一列	liang hang yi lie	100
 梁浩贤	liang hao xian	100
 两河文明	liang he wen ming	100
+亮红色	liang hong se	100
+亮红色的	liang hong se de	100
 梁鸿五噫	liang hong wu yi	100
 梁弘志	liang hong zhi	100
 两虎共斗	liang hu gong dou	100
@@ -68038,6 +68175,7 @@ columns:
 廖碧儿	liao bi er	100
 聊表寸心	liao biao cun xin	100
 了不了解	liao bu liao jie	100
+聊不聊天	liao bu liao tian	100
 了不起啊	liao bu qi a	100
 了不起的	liao bu qi de	100
 了不起的盖茨比	liao bu qi de gai ci bi	100
@@ -72785,6 +72923,8 @@ columns:
 骆驼命名法	luo tuo ming ming fa	100
 洛托姆	luo tuo mu	100
 骆驼祥子	luo tuo xiang zi	100
+骆驼棕	luo tuo zong	100
+骆驼棕的	luo tuo zong de	100
 落网了	luo wang le	100
 罗文聪	luo wen cong	100
 罗文裕	luo wen yu	100
@@ -73352,6 +73492,7 @@ columns:
 玛拿西	ma na xi	100
 马南邨	ma nan cun	100
 玛瑙贝	ma nao bei	100
+玛瑙红的	ma nao hong de	100
 玛瑙水母	ma nao shui mu	100
 马瑙斯	ma nao si	100
 马尼拉大学	ma ni la da xue	100
@@ -74114,6 +74255,7 @@ columns:
 买三赠五	mai san zeng wu	100
 买三赠一	mai san zeng yi	100
 买三张	mai san zhang	100
+麦色的	mai se de	100
 买啥不	mai sha bu	100
 买啥礼物	mai sha li wu	100
 买啥药	mai sha yao	100
@@ -74849,6 +74991,7 @@ columns:
 没成功过	mei cheng gong guo	100
 没成团	mei cheng tuan	100
 没承想	mei cheng xiang	100
+没承想啊	mei cheng xiang a	100
 没撑一下	mei cheng yi xia	100
 没翅膀	mei chi bang	100
 没吃的	mei chi de	100
@@ -75157,7 +75300,10 @@ columns:
 没关注	mei guan zhu	100
 玫瑰不管叫啥名	mei gui bu guan jiao sha ming	100
 玫瑰到了花期	mei gui dao le hua qi	100
+玫瑰粉	mei gui fen	100
+玫瑰粉的	mei gui fen de	100
 玫瑰河	mei gui he	100
+玫瑰红的	mei gui hong de	100
 玫瑰花的葬礼	mei gui hua de zang li	100
 玫瑰露	mei gui lu	100
 玫瑰面具	mei gui mian ju	100
@@ -75192,6 +75338,7 @@ columns:
 美国海岸警卫队	mei guo hai an jing wei dui	100
 美国话	mei guo hua	100
 美国华盛顿	mei guo hua sheng dun	100
+美国降息	mei guo jiang xi	100
 美国节点	mei guo jie dian	100
 美国军人	mei guo jun ren	100
 美国联邦储备	mei guo lian bang chu bei	100
@@ -75252,6 +75399,8 @@ columns:
 没喝粥	mei he zhou	100
 没很大	mei hen da	100
 没恨过	mei hen guo	100
+梅红色	mei hong se	100
+梅红色的	mei hong se de	100
 没后跟	mei hou gen	100
 梅花八	mei hua ba	100
 梅花餐	mei hua can	100
@@ -75473,6 +75622,8 @@ columns:
 美丽与智慧	mei li yu zhi hui	100
 美丽与智慧并存	mei li yu zhi hui bing cun	100
 美丽与智慧并重	mei li yu zhi hui bing zhong	100
+美联储降息	mei lian chu jiang xi	100
+美联储降息预期	mei lian chu jiang xi yu qi	100
 美廉美	mei lian mei	100
 没脸面	mei lian mian	100
 没脸去	mei lian qu	100
@@ -76260,6 +76411,8 @@ columns:
 没有诚意	mei you cheng yi	100
 没有充电器	mei you chong dian qi	100
 没有冲突	mei you chong tu	100
+没有出错	mei you chu cuo	100
+没有出过错	mei you chu guo cuo	100
 没有出手	mei you chu shou	100
 没有出息	mei you chu xi	100
 没有穿	mei you chuan	100
@@ -76739,6 +76892,7 @@ columns:
 没摘口罩	mei zhai kou zhao	100
 每战必胜	mei zhan bi sheng	100
 没沾过血	mei zhan guo xue	100
+没长鸡巴	mei zhang ji ba	100
 没涨价	mei zhang jia	100
 没长毛	mei zhang mao	100
 没张没致	mei zhang mei zhi	100
@@ -77278,6 +77432,8 @@ columns:
 弥撒经书	mi sa jing shu	100
 弥撒曲	mi sa qu	100
 弥赛丽亚	mi sai li ya	100
+米色的	mi se de	100
+蜜色的	mi se de	100
 弥山遍野	mi shan bian ye	100
 迷上你	mi shang ni	100
 迷上他	mi shang ta	100
@@ -78539,6 +78695,7 @@ columns:
 魔龙枪	mo long qiang	100
 摩鲁蛾	mo lu e	100
 摩洛伦	mo luo lun	100
+墨绿色的	mo lv se de	100
 魔旅之塔	mo lv zhi ta	100
 莫曼斯克	mo man si ke	100
 摸没了	mo mei le	100
@@ -78546,7 +78703,7 @@ columns:
 摩门教会	mo men jiao hui	100
 摩门经	mo men jing	100
 磨灭不掉	mo mie bu diao	100
-莫名地	mo ming de	100
+莫名的	mo ming de	100
 末名奖品	mo ming jiang pin	100
 莫名可爱	mo ming ke ai	100
 莫名其妙地感到	mo ming qi miao de gan dao	100
@@ -78648,6 +78805,7 @@ columns:
 莫三鼻给	mo san bi gei	100
 莫三比克	mo san bi ke	100
 莫三妹	mo san mei	100
+墨色的	mo se de	100
 磨砂灯泡	mo sha deng pao	100
 魔煞星	mo sha xing	100
 魔闪光	mo shan guang	100
@@ -78958,6 +79116,8 @@ columns:
 募集资金	mu ji zi jin	100
 慕剑璃	mu jian li	100
 幕间休息	mu jian xiu xi	100
+木槿紫	mu jin zi	100
+木槿紫的	mu jin zi de	100
 暮久酱	mu jiu jiang	100
 姆克儿	mu ke er	100
 穆克吉	mu ke ji	100
@@ -82300,6 +82460,7 @@ columns:
 尼克卡特	ni ke ka te	100
 你可拉倒	ni ke la dao	100
 你可拉倒吧	ni ke la dao ba	100
+你可来了	ni ke lai le	100
 尼克劳斯	ni ke lao si	100
 尼克洛	ni ke luo	100
 你可千万	ni ke qian wan	100
@@ -82398,6 +82559,7 @@ columns:
 你乱讲	ni luan jiang	100
 尼罗河上的惨案	ni luo he shang de can an	100
 泥驴仔	ni lv zai	100
+你妈啊	ni ma a	100
 你妈逼	ni ma bi	100
 你妈逼啊	ni ma bi a	100
 你妈逼的	ni ma bi de	100
@@ -82968,6 +83130,8 @@ columns:
 你同意吗	ni tong yi ma	100
 你头上	ni tou shang	100
 你徒弟	ni tu di	100
+泥土黄	ni tu huang	100
+泥土黄的	ni tu huang de	100
 泥土面	ni tu mian	100
 泥土墙	ni tu qiang	100
 你退啊	ni tui a	100
@@ -83983,6 +84147,7 @@ columns:
 您克制	nin ke zhi	100
 您快到	nin kuai dao	100
 您来啦	nin lai la	100
+您来了啊	nin lai le a	100
 您来嘞	nin lai lei	100
 您慢用	nin man yong	100
 您忙着呢	nin mang zhe ne	100
@@ -84048,7 +84213,10 @@ columns:
 柠檬红茶	ning meng hong cha	100
 柠檬红茶味	ning meng hong cha wei	100
 柠檬红茶味饮料	ning meng hong cha wei yin liao	100
+柠檬黄的	ning meng huang de	100
 柠檬精	ning meng jing	100
+柠檬绿	ning meng lv	100
+柠檬绿的	ning meng lv de	100
 柠檬片	ning meng pian	100
 柠檬水	ning meng shui	100
 宁姆格福	ning mu ge fu	100
@@ -84255,6 +84423,8 @@ columns:
 弄得我	nong de wo	100
 农地重划	nong di chong hua	100
 农电工	nong dian gong	100
+浓靛蓝色	nong dian lan se	100
+浓靛蓝色的	nong dian lan se de	100
 农电站	nong dian zhan	100
 弄懂弄通	nong dong nong tong	100
 浓而不烈	nong er bu lie	100
@@ -84458,6 +84628,8 @@ columns:
 暖不过来	nuan bu guo lai	100
 暖巢管家	nuan chao guan jia	100
 暖冬节	nuan dong jie	100
+暖黄色	nuan huang se	100
+暖黄色的	nuan huang se de	100
 暖暖的	nuan nuan de	100
 暖暖的很贴心	nuan nuan de hen tie xin	100
 暖暖的小时光	nuan nuan de xiao shi guang	100
@@ -84712,6 +84884,8 @@ columns:
 偶而为之	ou er wei zhi	100
 偶尔一两句	ou er yi liang ju	100
 欧风东渐	ou feng dong jian	100
+藕荷色	ou he se	100
+藕荷色的	ou he se de	100
 欧胡岛	ou hu dao	100
 欧化倾向	ou hua qing xiang	100
 欧化趋势	ou hua qu shi	100
@@ -86408,6 +86582,7 @@ columns:
 苹果客服	ping guo ke fu	100
 苹果脸	ping guo lian	100
 苹果螺	ping guo luo	100
+苹果绿的	ping guo lv de	100
 苹果迷	ping guo mi	100
 苹果苹方	ping guo ping fang	100
 苹果苹方字体	ping guo ping fang zi ti	100
@@ -86865,12 +87040,14 @@ columns:
 扑手榴弹	pu shou liu dan	100
 仆虽罢驽	pu sui ba nu	100
 葡萄干儿	pu tao gan er	100
+葡萄酒红的	pu tao jiu hong de	100
 葡萄皮儿	pu tao pi er	100
 葡萄汽水	pu tao qi shui	100
 葡萄牙文	pu tao ya wen	100
 葡萄柚汁	pu tao you zhi	100
 葡萄芋圆	pu tao yu yuan	100
 葡萄紫	pu tao zi	100
+葡萄紫的	pu tao zi de	100
 普特雷斯	pu te lei si	100
 菩提道场	pu ti dao chang	100
 菩提偈	pu ti ji	100
@@ -87986,10 +88163,12 @@ columns:
 沏了茶	qi le cha	100
 起了个	qi le ge	100
 起了疙瘩	qi le ge da	100
+起了个疙瘩	qi le ge ge da	100
 奇了怪了	qi le guai le	100
 奇乐酷	qi le ku	100
 起了没有	qi le mei you	100
 起了名	qi le ming	100
+起了一个疙瘩	qi le yi ge ge da	100
 起了疑心	qi le yi xin	100
 气冷式反应堆	qi leng shi fan ying dui	100
 奇里安	qi li an	100
@@ -90293,8 +90472,10 @@ columns:
 前合后偃	qian he hou yan	100
 前合后仰	qian he hou yang	100
 钱和人脉	qian he ren mai	100
+浅褐色的	qian he se de	100
 千壑沙地	qian he sha di	100
 千赫兹	qian he zi	100
+浅红色的	qian hong se de	100
 前后的经过	qian hou de jing guo	100
 前后呼应	qian hou hu ying	100
 前后任	qian hou ren	100
@@ -90305,9 +90486,11 @@ columns:
 千花竞秀	qian hua jing xiu	100
 千唤万唤	qian huan wan huan	100
 千欢万喜	qian huan wan xi	100
+浅黄色的	qian huang se de	100
 迁回来	qian hui lai	100
 迁回去	qian hui qu	100
 铅灰色	qian hui se	100
+浅灰色的	qian hui se de	100
 前婚后嫁	qian hun hou jia	100
 铅活字印刷机	qian huo zi yin shua ji	100
 前几个月	qian ji ge yue	100
@@ -90347,6 +90530,8 @@ columns:
 牵进去	qian jin qu	100
 迁进去	qian jin qu	100
 前进三	qian jin san	100
+浅金色	qian jin se	100
+浅金色的	qian jin se de	100
 千金市骨	qian jin shi gu	100
 千金台	qian jin tai	100
 千金藤	qian jin teng	100
@@ -90385,6 +90570,9 @@ columns:
 前来试试	qian lai shi shi	100
 前来讨要	qian lai tao yao	100
 前来祝寿	qian lai zhu shou	100
+浅蓝绿	qian lan lv	100
+浅蓝绿的	qian lan lv de	100
+浅蓝色的	qian lan se de	100
 签劳动合同	qian lao dong he tong	100
 签劳务合同	qian lao wu he tong	100
 千里奔袭	qian li ben xi	100
@@ -90495,6 +90683,8 @@ columns:
 浅浅微笑	qian qian wei xiao	100
 浅浅笑	qian qian xiao	100
 前倾后入	qian qing hou ru	100
+浅青色	qian qing se	100
+浅青色的	qian qing se de	100
 前情摘要	qian qing zhai yao	100
 千秋大计	qian qiu da ji	100
 千秋迭梦	qian qiu die meng	100
@@ -90703,6 +90893,8 @@ columns:
 牵引出	qian yin chu	100
 牵引电动机	qian yin dian dong ji	100
 牵引发电机	qian yin fa dian ji	100
+浅银色	qian yin se	100
+浅银色的	qian yin se de	100
 潜影蛇手	qian ying she shou	100
 千英宇	qian ying yu	100
 钱泳辰	qian yong chen	100
@@ -90757,9 +90949,13 @@ columns:
 签字费	qian zi fei	100
 铅字合金	qian zi he jin	100
 千字节	qian zi jie	100
+浅紫罗兰色	qian zi luo lan se	100
+浅紫罗兰色的	qian zi luo lan se de	100
 铅字盘	qian zi pan	100
 签字权	qian zi quan	100
+浅紫色的	qian zi se de	100
 欠资邮票	qian zi you piao	100
+浅棕色的	qian zong se de	100
 千足虫	qian zu chong	100
 千足金	qian zu jin	100
 抢暗杠	qiang an gang	100
@@ -90987,6 +91183,7 @@ columns:
 桥本龙太郎	qiao ben long tai lang	100
 侨博会	qiao bo hui	100
 敲不动	qiao bu dong	100
+瞧不瞧	qiao bu qiao	100
 乔布斯传	qiao bu si zhuan	100
 瞧不准	qiao bu zhun	100
 俏才郎	qiao cai lang	100
@@ -91202,6 +91399,8 @@ columns:
 切中了要害	qie zhong le yao hai	100
 切中时病	qie zhong shi bing	100
 窃钟掩耳	qie zhong yan er	100
+茄子紫	qie zi zi	100
+茄子紫的	qie zi zi de	100
 亲爱哒	qin ai da	100
 亲爱的宝贝	qin ai de bao bei	100
 亲爱的宝贝儿	qin ai de bao bei er	100
@@ -92406,6 +92605,8 @@ columns:
 虬曲挺秀	qiu qu ting xiu	100
 求全之毁	qiu quan zhi hui	100
 秋日蝉	qiu ri chan	100
+秋日橙	qiu ri cheng	100
+秋日橙的	qiu ri cheng de	100
 秋日祭	qiu ri ji	100
 秋日私语	qiu ri si yu	100
 秋扇见捐	qiu shan jian juan	100
@@ -92447,6 +92648,8 @@ columns:
 秋雪湖	qiu xue hu	100
 求学无坦途	qiu xue wu tan tu	100
 邱姚瑶	qiu yao yao	100
+秋叶红	qiu ye hong	100
+秋叶红的	qiu ye hong de	100
 秋叶为何而落	qiu ye wei he er luo	100
 秋叶原	qiu ye yuan	100
 求一个心安	qiu yi ge xin an	100
@@ -93146,6 +93349,7 @@ columns:
 全面包围	quan mian bao wei	100
 全面测评	quan mian ce ping	100
 全面的	quan mian de	100
+全面降息	quan mian jiang xi	100
 全面解封了	quan mian jie feng le	100
 全面进入	quan mian jin ru	100
 全面禁止核试验条约	quan mian jin zhi he shi yan tiao yue	100
@@ -93181,6 +93385,7 @@ columns:
 全盘反对	quan pan fan dui	100
 全篇文章	quan pian wen zhang	100
 全拼打字	quan pin da zi	100
+全频带	quan pin dai	100
 全频带阻塞	quan pin dai zu se	100
 全频带阻塞干扰	quan pin dai zu se gan rao	100
 全拼方案	quan pin fang an	100
@@ -93205,6 +93410,7 @@ columns:
 全球高温	quan qiu gao wen	100
 全球工单系统	quan qiu gong dan xi tong	100
 全球华语科幻星云奖最佳长篇小说金奖	quan qiu hua yu ke huan xing yun jiang zui jia chang pian xiao shuo jin jiang	100
+全球降息潮	quan qiu jiang xi chao	100
 全球宽频互联网	quan qiu kuan pin hu lian wang	100
 全球领先	quan qiu ling xian	100
 全球暖化	quan qiu nuan hua	100
@@ -93571,6 +93777,8 @@ columns:
 群马县	qun ma xian	100
 群签到	qun qian dao	100
 群情愤慨	qun qing fen kai	100
+群青色	qun qing se	100
+群青色的	qun qing se de	100
 群情汹涌	qun qing xiong yong	100
 群山曼延	qun shan man yan	100
 群山巍巍	qun shan wei wei	100
@@ -93875,6 +94083,8 @@ columns:
 热出病来	re chu bing lai	100
 热刺刺	re ci ci	100
 热带龙	re dai long	100
+热带绿	re dai lv	100
+热带绿的	re dai lv de	100
 热带气候	re dai qi hou	100
 热带性	re dai xing	100
 热得发烫	re de fa tang	100
@@ -95055,7 +95265,15 @@ columns:
 肉羹面	rou geng mian	100
 肉灌饼	rou guan bing	100
 柔和的	rou he de	100
+柔和粉	rou he fen	100
+柔和粉的	rou he fen de	100
+柔和黄	rou he huang	100
+柔和黄的	rou he huang de	100
 揉合了	rou he le	100
+柔和绿	rou he lv	100
+柔和绿的	rou he lv de	100
+柔和紫	rou he zi	100
+柔和紫的	rou he zi de	100
 肉监狱	rou jian yu	100
 揉了揉	rou le rou	100
 肉里钱	rou li qian	100
@@ -98851,6 +99069,8 @@ columns:
 森林工业	sen lin gong ye	100
 森林经理	sen lin jing li	100
 森林狼	sen lin lang	100
+森林绿	sen lin lv	100
+森林绿的	sen lin lv de	100
 森林培育	sen lin pei yu	100
 森林区	sen lin qu	100
 森林生态系	sen lin sheng tai xi	100
@@ -99152,6 +99372,8 @@ columns:
 杀他全家	sha ta quan jia	100
 沙塔斯城	sha ta si cheng	100
 沙滩树	sha tan shu	100
+砂糖粉	sha tang fen	100
+砂糖粉的	sha tang fen de	100
 沙特阿拉伯人	sha te a la bo ren	100
 沙特鲁	sha te lu	100
 莎缇拉	sha ti la	100
@@ -99359,7 +99581,11 @@ columns:
 善和园	shan he yuan	100
 山河镇	shan he zhen	100
 善后借款	shan hou jie kuan	100
+珊瑚橙	shan hu cheng	100
+珊瑚橙的	shan hu cheng de	100
 珊瑚蝶	shan hu die	100
+珊瑚粉	shan hu fen	100
+珊瑚粉的	shan hu fen de	100
 珊瑚宫心海	shan hu gong xin hai	100
 珊瑚滩	shan hu tan	100
 珊瑚潭	shan hu tan	100
@@ -101147,6 +101373,7 @@ columns:
 审核通过了	shen he tong guo le	100
 神鹤万心	shen he wan xin	100
 深河乡	shen he xiang	100
+深红色的	shen hong se de	100
 身后萧条	shen hou xiao tiao	100
 身后有尾巴	shen hou you wei ba	100
 身后长了眼	shen hou zhang le yan	100
@@ -101160,6 +101387,7 @@ columns:
 身怀绝艺	shen huai jue yi	100
 伸回来	shen hui lai	100
 伸回去	shen hui qu	100
+深灰色的	shen hui se de	100
 申彗星	shen hui xing	100
 申慧星	shen hui xing	100
 沈惠珍	shen hui zhen	100
@@ -101199,6 +101427,8 @@ columns:
 渗进来	shen jin lai	100
 伸进了	shen jin le	100
 渗进去	shen jin qu	100
+深金色	shen jin se	100
+深金色的	shen jin se de	100
 身经百战的	shen jing bai zhan de	100
 神经病啊	shen jing bing a	100
 神经病吧	shen jing bing ba	100
@@ -101232,9 +101462,12 @@ columns:
 深空失忆	shen kong shi yi	100
 深空之眼	shen kong zhi yan	100
 伸来伸去	shen lai shen qu	100
+深蓝色的	shen lan se de	100
 深蓝雨	shen lan yu	100
 深蓝乐团	shen lan yue tuan	100
 深蓝之吻	shen lan zhi wen	100
+深蓝紫	shen lan zi	100
+深蓝紫的	shen lan zi de	100
 神劳形瘁	shen lao xing cui	100
 神乐游戏	shen le you xi	100
 神里绫人	shen li ling ren	100
@@ -101253,6 +101486,7 @@ columns:
 渗漏到	shen lou dao	100
 神罗天征	shen luo tian zheng	100
 渗滤壶	shen lv hu	100
+深绿色的	shen lv se de	100
 神马都是浮去	shen ma dou shi fu qu	100
 神马都是浮云	shen ma dou shi fu yun	100
 神马玩意	shen ma wan yi	100
@@ -101576,6 +101810,8 @@ columns:
 神秘美丽	shen mi mei li	100
 神秘商店	shen mi shang dian	100
 神秘失控人声乐团	shen mi shi kong ren sheng yue tuan	100
+神秘紫	shen mi zi	100
+神秘紫的	shen mi zi de	100
 沈湎酒色	shen mian jiu se	100
 神妙明灯	shen miao ming deng	100
 神妙莫测	shen miao mo ce	100
@@ -101875,6 +102111,8 @@ columns:
 神一样	shen yi yang	100
 审音表	shen yin biao	100
 呻吟起来	shen yin qi lai	100
+深银色	shen yin se	100
+深银色的	shen yin se de	100
 神鹰堡	shen ying bao	100
 神樱大祓	shen ying da fu	100
 沈颖婷	shen ying ting	100
@@ -101971,8 +102209,11 @@ columns:
 身姿婀娜	shen zi e nuo	100
 沈子皓	shen zi hao	100
 审自己人	shen zi ji ren	100
+深紫罗兰色	shen zi luo lan se	100
+深紫罗兰色的	shen zi luo lan se de	100
 身姿如松	shen zi ru song	100
 沈姿润	shen zi run	100
+深紫色的	shen zi se de	100
 身子虚	shen zi xu	100
 深紫乐队	shen zi yue dui	100
 神足通	shen zu tong	100
@@ -102656,6 +102897,8 @@ columns:
 失败人士	shi bai ren shi	100
 失败信息	shi bai xin xi	100
 失败主义者	shi bai zhu yi zhe	100
+石板灰	shi ban hui	100
+石板灰的	shi ban hui de	100
 试办阶段	shi ban jie duan	100
 石板路有雾	shi ban lu you wu	100
 石版术	shi ban shu	100
@@ -104937,6 +105180,8 @@ columns:
 识盈虚之有数	shi ying xu zhi you shu	100
 石英钟表	shi ying zhong biao	100
 时应注意	shi ying zhu yi	100
+石英紫	shi ying zi	100
+石英紫的	shi ying zi de	100
 使用不同的	shi yong bu tong de	100
 使用到	shi yong dao	100
 使用法则	shi yong fa ze	100
@@ -105260,8 +105505,12 @@ columns:
 时装展示会	shi zhuang zhan shi hui	100
 时装周	shi zhuang zhou	100
 狮子搏兔	shi zi bo tu	100
+柿子橙	shi zi cheng	100
+柿子橙的	shi zi cheng de	100
 是资瓷的	shi zi ci de	100
 食子蜂	shi zi feng	100
+柿子红	shi zi hong	100
+柿子红的	shi zi hong de	100
 十字花	shi zi hua	100
 十字架形	shi zi jia xing	100
 十字军东征	shi zi jun dong zheng	100
@@ -106785,6 +107034,7 @@ columns:
 水晶蝶	shui jing die	100
 水晶剑	shui jing jian	100
 水晶节	shui jing jie	100
+水晶蓝的	shui jing lan de	100
 水精帘	shui jing lian	100
 水精鳞	shui jing lin	100
 水晶婆婆	shui jing po po	100
@@ -106808,6 +107058,8 @@ columns:
 水蜡树	shui la shu	100
 睡来睡去	shui lai shui qu	100
 睡懒觉了	shui lan jiao le	100
+水蓝色	shui lan se	100
+水蓝色的	shui lan se de	100
 水牢术	shui lao shu	100
 水老鸦	shui lao ya	100
 水牢之术	shui lao zhi shu	100
@@ -106849,6 +107101,7 @@ columns:
 水轮发动机	shui lun fa dong ji	100
 水落归槽	shui luo gui cao	100
 水绿色	shui lv se	100
+水绿色的	shui lv se de	100
 水满为患	shui man wei huan	100
 睡美容觉	shui mei rong jiao	100
 水门案	shui men an	100
@@ -107225,6 +107478,8 @@ columns:
 说得也对	shuo de ye dui	100
 说的也是啊	shuo de ye shi a	100
 说得也有道理	shuo de ye you dao li	100
+说得一口流利	shuo de yi kou liu li	100
+说得一口流利中文	shuo de yi kou liu li zhong wen	100
 说得有鼻子有眼	shuo de you bi zi you yan	100
 说得有鼻子有眼的	shuo de you bi zi you yan de	100
 说得有鼻子有眼儿	shuo de you bi zi you yan er	100
@@ -110511,6 +110766,8 @@ columns:
 松柏长青茶	song bai chang qing cha	100
 松柏后凋	song bai hou diao	100
 松柏节操	song bai jie cao	100
+松柏绿	song bai lv	100
+松柏绿的	song bai lv de	100
 松柏园	song bai yuan	100
 松柏之坚	song bai zhi jian	100
 松柏之茂	song bai zhi mao	100
@@ -111107,6 +111364,10 @@ columns:
 酸菜汤	suan cai tang	100
 酸菜血肠	suan cai xie chang	100
 酸菜猪血汤	suan cai zhu xue tang	100
+酸橙绿	suan cheng lv	100
+酸橙绿的	suan cheng lv de	100
+酸橙色	suan cheng se	100
+酸橙色的	suan cheng se de	100
 酸处理	suan chu li	100
 算出去	suan chu qu	100
 算的话	suan de hua	100
@@ -112372,6 +112633,9 @@ columns:
 太鸡巴搞笑了吧	tai ji ba gao xiao le ba	100
 太鸡巴狗了	tai ji ba gou le	100
 太鸡巴坑	tai ji ba keng	100
+太鸡巴坑爹	tai ji ba keng die	100
+太鸡巴坑爹了	tai ji ba keng die le	100
+太鸡巴坑爹了吧	tai ji ba keng die le ba	100
 太鸡巴坑了	tai ji ba keng le	100
 太鸡巴坑了吧	tai ji ba keng le ba	100
 太鸡巴难用了	tai ji ba nan yong le	100
@@ -112500,6 +112764,7 @@ columns:
 泰卢固之乡党	tai lu gu zhi xiang dang	100
 太鲁莽	tai lu mang	100
 太鲁莽了	tai lu mang le	100
+苔绿色的	tai lu se de	100
 太乱啦	tai luan la	100
 泰洛西	tai luo xi	100
 太麻烦啦	tai ma fan la	100
@@ -113493,6 +113758,7 @@ columns:
 陶汉林	tao han lin	100
 淘好货	tao hao huo	100
 桃核雕	tao he diao	100
+桃红色的	tao hong se de	100
 桃花尖	tao hua jian	100
 桃花剑神	tao hua jian shen	100
 桃花驹	tao hua ju	100
@@ -113574,6 +113840,7 @@ columns:
 淘气爷孙	tao qi ye sun	100
 陶然自得	tao ran zi de	100
 桃色案件	tao se an jian	100
+桃色的	tao se de	100
 套上来	tao shang lai	100
 逃上来	tao shang lai	100
 套上去	tao shang qu	100
@@ -113698,8 +113965,10 @@ columns:
 特别确定	te bie que ding	100
 特别任务连	te bie ren wu lian	100
 特别荣誉	te bie rong yu	100
+特别傻逼	te bie sha bi	100
 特别松弛	te bie song chi	100
 特别忐忑	te bie tan te	100
+特别烫	te bie tang	100
 特别特别	te bie te bie	100
 特别特别好	te bie te bie hao	100
 特别特别适合	te bie te bie shi he	100
@@ -113721,6 +113990,7 @@ columns:
 特别值得	te bie zhi de	100
 特别值得买	te bie zhi de mai	100
 特别值钱	te bie zhi qian	100
+特别智障	te bie zhi zhang	100
 特别助理	te bie zhu li	100
 特别主演	te bie zhu yan	100
 特别专	te bie zhuan	100
@@ -113901,6 +114171,8 @@ columns:
 腾空而去	teng kong er qu	100
 藤林圣子	teng lin sheng zi	100
 誊录所	teng lu suo	100
+藤萝紫	teng luo zi	100
+藤萝紫的	teng luo zi de	100
 滕瑞雨	teng rui yu	100
 腾瑞雨	teng rui yu	100
 滕斯贝格	teng si bei ge	100
@@ -114307,6 +114579,8 @@ columns:
 天朝大屌丝屌大朝天	tian chao da diao si diao da chao tian	100
 天秤偶	tian cheng ou	100
 天秤盘	tian cheng pan	100
+甜橙色	tian cheng se	100
+甜橙色的	tian cheng se de	100
 天城一彩	tian cheng yi cai	100
 天魑皇	tian chi huang	100
 天池水	tian chi shui	100
@@ -114523,6 +114797,7 @@ columns:
 填来填去	tian lai tian qu	100
 添来添去	tian lai tian qu	100
 舔来舔去	tian lai tian qu	100
+天蓝色的	tian lan se de	100
 天狼狩猎者	tian lang shou lie zhe	100
 天狼征服者	tian lang zheng fu zhe	100
 田老师	tian lao shi	100
@@ -114955,6 +115230,8 @@ columns:
 天缘凑巧	tian yuan cou qiao	100
 天圆地平	tian yuan di ping	100
 田园交响曲	tian yuan jiao xiang qu	100
+田园绿	tian yuan lv	100
+田园绿的	tian yuan lv de	100
 田园女权	tian yuan nv quan	100
 天元骑英	tian yuan qi ying	100
 天缘巧合	tian yuan qiao he	100
@@ -115334,6 +115611,8 @@ columns:
 贴心服务	tie xin fu wu	100
 铁新里	tie xin li	100
 铁心轮	tie xin lun	100
+铁锈红	tie xiu hong	100
+铁锈红的	tie xiu hong de	100
 铁血传奇	tie xue chuan qi	100
 铁血传世	tie xue chuan shi	100
 铁血大明	tie xue da ming	100
@@ -115488,6 +115767,7 @@ columns:
 挺好奇的	ting hao qi de	100
 挺好听的	ting hao ting de	100
 挺好笑啊	ting hao xiao a	100
+挺好笑的	ting hao xiao de	100
 挺好用的	ting hao yong de	100
 挺合适	ting he shi	100
 挺合适的	ting he shi de	100
@@ -115612,6 +115892,7 @@ columns:
 听你说	ting ni shuo	100
 听你这么	ting ni zhe me	100
 听您的	ting nin de	100
+挺努力	ting nu li	100
 挺配的	ting pei de	100
 挺佩服	ting pei fu	100
 听凭驱使	ting ping qu shi	100
@@ -116434,6 +116715,7 @@ columns:
 透明果实	tou ming guo shi	100
 透明幻觉	tou ming huan jue	100
 透明人间	tou ming ren jian	100
+透明色的	tou ming se de	100
 头脑发热之人	tou nao fa re zhi ren	100
 头脑好	tou nao hao	100
 头脑简单四肢发达	tou nao jian dan si zhi fa da	100
@@ -116652,6 +116934,7 @@ columns:
 徒呼负负	tu hu fu fu	100
 屠户家的小娘子	tu hu jia de xiao niang zi	100
 图画纸	tu hua zhi	100
+土黄色的	tu huang se de	100
 吐回去	tu hui qu	100
 土茴香	tu hui xiang	100
 涂惠元	tu hui yuan	100
@@ -117300,6 +117583,7 @@ columns:
 托瑞丝	tuo rui si	100
 托腮板	tuo sai ban	100
 拖三拉四	tuo san la si	100
+驼色的	tuo se de	100
 妥善地安置	tuo shan de an zhi	100
 拖上来	tuo shang lai	100
 拖上去	tuo shang qu	100
@@ -117613,7 +117897,7 @@ columns:
 歪头看	wai tou kan	100
 外头冷	wai tou leng	100
 外推法	wai tui fa	100
-歪歪地	wai wai de	100
+歪歪的	wai wai de	100
 歪歪精	wai wai jing	100
 外委会	wai wei hui	100
 外文课	wai wen ke	100
@@ -119455,6 +119739,7 @@ columns:
 未来的自己	wei lai de zi ji	100
 潍莱高铁	wei lai gao tie	100
 未来机甲	wei lai ji jia	100
+未来降息	wei lai jiang xi	100
 未来九年	wei lai jiu nian	100
 未来科技	wei lai ke ji	100
 未来两年	wei lai liang nian	100
@@ -119476,6 +119761,7 @@ columns:
 蔚蓝档案	wei lan dang an	100
 蔚蓝的	wei lan de	100
 蔚蓝海岸	wei lan hai an	100
+蔚蓝色的	wei lan se de	100
 维兰特罗	wei lan te luo	100
 唯老师	wei lao shi	100
 为了艾泽拉斯	wei le ai ze la si	100
@@ -119927,7 +120213,6 @@ columns:
 微微颤动	wei wei chan dong	100
 微微颤抖	wei wei chan dou	100
 巍巍荡荡	wei wei dang dang	100
-微微地	wei wei de	100
 微微的发烫	wei wei de fa tang	100
 卫薇儿	wei wei er	100
 唯唯否否	wei wei fou fou	100
@@ -119966,6 +120251,8 @@ columns:
 威武镖	wei wu biao	100
 唯吾独尊	wei wu du zun	100
 唯物技术主义	wei wu ji shu zhu yi	100
+微雾蓝	wei wu lan	100
+微雾蓝的	wei wu lan de	100
 为无为	wei wu wei	100
 味无味	wei wu wei	100
 伪无翼	wei wu yi	100
@@ -122532,6 +122819,7 @@ columns:
 我亲爱的爸爸	wo qin ai de ba ba	100
 我亲爱的宝贝	wo qin ai de bao bei	100
 我亲爱的宝贝儿	wo qin ai de bao bei er	100
+我亲爹	wo qin die	100
 我亲妈	wo qin ma	100
 我亲娘	wo qin niang	100
 我寝室	wo qin shi	100
@@ -126324,6 +126612,7 @@ columns:
 五三一一年	wu san yi yi nian	100
 五色缤纷	wu se bin fen	100
 无色城	wu se cheng	100
+乌色的	wu se de	100
 乌瑟尔	wu se er	100
 乌瑟尔光明使者	wu se er guang ming shi zhe	100
 五色饭	wu se fan	100
@@ -128312,7 +128601,6 @@ columns:
 洗洗啊	xi xi a	100
 洗洗鼻子	xi xi bi zi	100
 洗洗脖子	xi xi bo zi	100
-细细地	xi xi de	100
 细细地流	xi xi de liu	100
 洗洗干净	xi xi gan jing	100
 洗洗胳膊	xi xi ge bo	100
@@ -129187,6 +129475,7 @@ columns:
 先喝酒	xian he jiu	100
 先喝水	xian he shui	100
 衔恨蒙枉	xian hen meng wang	100
+鲜红色的	xian hong se de	100
 先后倒置	xian hou dao zhi	100
 仙后座	xian hou zuo	100
 咸乎乎	xian hu hu	100
@@ -129306,6 +129595,7 @@ columns:
 陷落美好	xian luo mei hao	100
 暹罗人	xian luo ren	100
 暹罗语	xian luo yu	100
+鲜绿色的	xian lv se de	100
 嫌麻烦	xian ma fan	100
 现买现卖	xian mai xian mai	100
 纤毛动力蛋白	xian mao dong li dan bai	100
@@ -129597,8 +129887,12 @@ columns:
 鲜血沼泽墓穴	xian xue zhao ze mu xue	100
 险崖老林	xian ya lao lin	100
 闲言长语	xian yan chang yu	100
+鲜艳橙	xian yan cheng	100
+鲜艳橙的	xian yan cheng de	100
 显眼的位置	xian yan de wei zhi	100
 鲜艳的小花	xian yan de xiao hua	100
+鲜艳黄	xian yan huang	100
+鲜艳黄的	xian yan huang de	100
 闲言乱语	xian yan luan yu	100
 闲言闲事	xian yan xian shi	100
 鲜艳艳	xian yan yan	100
@@ -130261,6 +130555,8 @@ columns:
 降魔篇	xiang mo pian	100
 项目管理工作	xiang mu guan li gong zuo	100
 项目区	xiang mu qu	100
+橡木色	xiang mu se	100
+橡木色的	xiang mu se de	100
 橡木叶	xiang mu ye	100
 像那个时候	xiang na ge shi hou	100
 想那么	xiang na me	100
@@ -131904,6 +132200,7 @@ columns:
 写的是什么	xie de shi shen me	100
 写得挺好	xie de ting hao	100
 写得完	xie de wan	100
+写得一首好诗	xie de yi shou hao shi	100
 写的这个	xie de zhe ge	100
 写的字	xie de zi	100
 邪典电影	xie dian dian ying	100
@@ -132009,6 +132306,8 @@ columns:
 谢郡主	xie jun zhu	100
 谢克尔	xie ke er	100
 写科幻	xie ke huan	100
+蟹壳青	xie ke qing	100
+蟹壳青的	xie ke qing de	100
 谢啦哈	xie la ha	100
 谢啦谢啦	xie la xie la	100
 谢了啊	xie le a	100
@@ -132021,6 +132320,7 @@ columns:
 邪了门了呀	xie le men le ya	100
 写了首诗	xie le shou shi	100
 写了一点	xie le yi dian	100
+写了一点点	xie le yi dian dian	100
 写了一点东西	xie le yi dian dong xi	100
 写了一点儿	xie le yi dian er	100
 写了一个	xie le yi ge	100
@@ -132530,6 +132830,8 @@ columns:
 新疆游	xin jiang you	100
 新疆政务	xin jiang zheng wu	100
 新江中	xin jiang zhong	100
+新教会	xin jiao hui	100
+新教会啊	xin jiao hui a	100
 新剿灭	xin jiao mie	100
 新教派	xin jiao pai	100
 信教者	xin jiao zhe	100
@@ -133360,6 +133662,7 @@ columns:
 杏花滩	xing hua tan	100
 杏花乌龙	xing hua wu long	100
 姓黄的	xing huang de	100
+杏黄色的	xing huang se de	100
 星徽精密	xing hui jing mi	100
 兴会淋漓	xing hui lin li	100
 星际穿越	xing ji chuan yue	100
@@ -133504,6 +133807,7 @@ columns:
 形容一下	xing rong yi xia	100
 形如槁木	xing ru gao mu	100
 形色仓皇	xing se cang huang	100
+杏色的	xing se de	100
 行善不欲人知	xing shan bu yu ren zhi	100
 行善记	xing shan ji	100
 邢姗姗	xing shan shan	100
@@ -133664,6 +133968,8 @@ columns:
 幸运小姐	xing yun xiao jie	100
 星云旋风	xing yun xuan feng	100
 兴云致雨	xing yun zhi yu	100
+星云紫	xing yun zi	100
+星云紫的	xing yun zi de	100
 兴云作雾	xing yun zuo wu	100
 兴云作雨	xing yun zuo yu	100
 行则将至	xing ze jiang zhi	100
@@ -134493,6 +134799,7 @@ columns:
 喧嚷声	xuan rang sheng	100
 喧嚷一时	xuan rang yi shi	100
 喧扰已久	xuan rao yi jiu	100
+玄色的	xuan se de	100
 炫砂糖橘	xuan sha tang ju	100
 选上来	xuan shang lai	100
 悬赏令	xuan shang ling	100
@@ -134626,6 +134933,7 @@ columns:
 雪白的皮肤	xue bai de pi fu	100
 雪白而晶莹	xue bai er jing ying	100
 雪白晶莹	xue bai jing ying	100
+雪白色的	xue bai se de	100
 血必净	xue bi jing	100
 雪碧麦乐酷	xue bi mai le ku	100
 雪博会	xue bo hui	100
@@ -134863,6 +135171,8 @@ columns:
 血色十字军链甲	xue se shi zi jun lian jia	100
 血色素沉积症	xue se su chen ji zheng	100
 学啥专业	xue sha zhuan ye	100
+雪山白	xue shan bai	100
+雪山白的	xue shan bai de	100
 雪山飞狐	xue shan fei hu	100
 雪山剑法	xue shan jian fa	100
 雪山山脉	xue shan shan mai	100
@@ -135194,6 +135504,8 @@ columns:
 循循然善诱人	xun xun ran shan you ren	100
 循循诱人	xun xun you ren	100
 驯养繁殖	xun yang fan zhi	100
+薰衣草紫	xun yi cao zi	100
+薰衣草紫的	xun yi cao zi de	100
 巡弋飞弹	xun yi fei dan	100
 巡弋悍将	xun yi han jiang	100
 薰莸不同器	xun you bu tong qi	100
@@ -136053,6 +136365,8 @@ columns:
 演武传心	yan wu chuan xin	100
 烟雾弹	yan wu dan	100
 演五个月戏	yan wu ge yue xi	100
+烟雾灰	yan wu hui	100
+烟雾灰的	yan wu hui de	100
 烟雾剂	yan wu ji	100
 烟雾镜	yan wu jing	100
 延误救治	yan wu jiu zhi	100
@@ -136170,6 +136484,7 @@ columns:
 烟纸店	yan zhi dian	100
 颜值高	yan zhi gao	100
 研制过程	yan zhi guo cheng	100
+胭脂红的	yan zhi hong de	100
 胭脂虎	yan zhi hu	100
 胭脂花粉	yan zhi hua fen	100
 胭脂窃	yan zhi qie	100
@@ -136296,6 +136611,8 @@ columns:
 阳光橙	yang guang cheng	100
 阳光的	yang guang de	100
 阳光房	yang guang fang	100
+阳光黄	yang guang huang	100
+阳光黄的	yang guang huang de	100
 杨光金	yang guang jin	100
 阳光卡号	yang guang ka hao	100
 阳光开朗	yang guang kai lang	100
@@ -136312,6 +136629,7 @@ columns:
 殃国祸家	yang guo huo jia	100
 阳过了	yang guo le	100
 养孩子	yang hai zi	100
+央行降息	yang hang jiang xi	100
 羊毫笔	yang hao bi	100
 养好了	yang hao le	100
 阳好了	yang hao le	100
@@ -136323,6 +136641,7 @@ columns:
 羊盒子	yang he zi	100
 杨恒瑞	yang heng rui	100
 杨鸿年	yang hong nian	100
+洋红色的	yang hong se de	100
 杨宏志	yang hong zhi	100
 养狐场	yang hu chang	100
 养虎伤身	yang hu shang shen	100
@@ -137128,6 +137447,8 @@ columns:
 钥匙环	yao shi huan	100
 药师经	yao shi jing	100
 要时刻	yao shi ke	100
+曜石蓝	yao shi lan	100
+曜石蓝的	yao shi lan de	100
 要是没有的话	yao shi mei you de hua	100
 要是能重来	yao shi neng chong lai	100
 要是你不提	yao shi ni bu ti	100
@@ -137742,6 +138063,8 @@ columns:
 也可以修改	ye ke yi xiu gai	100
 叶可蓁	ye ke zhen	100
 也克制	ye ke zhi	100
+夜空蓝	ye kong lan	100
+夜空蓝的	ye kong lan de	100
 夜空中最闪亮的星	ye kong zhong zui shan liang de xing	100
 叶口蝠科	ye kou fu ke	100
 夜骷颅	ye ku lu	100
@@ -142694,6 +143017,7 @@ columns:
 意外的结果	yi wai de jie guo	100
 意外风波	yi wai feng bo	100
 意外见到	yi wai jian dao	100
+意外降息	yi wai jiang xi	100
 意外空间	yi wai kong jian	100
 意外律	yi wai lv	100
 意外身亡	yi wai shen wang	100
@@ -144295,6 +144619,7 @@ columns:
 银色北伐	yin se bei fa	100
 银色北伐军	yin se bei fa jun	100
 银色冲浪手	yin se chong lang shou	100
+银色的	yin se de	100
 银色的子弹	yin se de zi dan	100
 银色灰尘	yin se hui chen	100
 银色子弹	yin se zi dan	100
@@ -144692,6 +145017,8 @@ columns:
 萤光粉	ying guang fen	100
 硬广告	ying guang gao	100
 荧光护盾	ying guang hu dun	100
+荧光黄	ying guang huang	100
+荧光黄的	ying guang huang de	100
 萤光镜	ying guang jing	100
 萤光绿	ying guang lv	100
 萤光幕	ying guang mu	100
@@ -145266,6 +145593,7 @@ columns:
 用什么发电	yong shen me fa dian	100
 用什么聊	yong shen me liao	100
 用什么聊的	yong shen me liao de	100
+用什么软件	yong shen me ruan jian	100
 用什么替代	yong shen me ti dai	100
 永生不朽	yong sheng bu xiu	100
 涌升流	yong sheng liu	100
@@ -145417,6 +145745,8 @@ columns:
 有案底	you an di	100
 又安静下来	you an jing xia lai	100
 有安排没	you an pai mei	100
+幽暗紫	you an zi	100
+幽暗紫的	you an zi de	100
 游澳洲	you ao zhou	100
 有把握吗	you ba wo ma	100
 有百弊而无一利	you bai bi er wu yi li	100
@@ -147990,6 +148320,7 @@ columns:
 玉米杯	yu mi bei	100
 玉米赤霉烯酮	yu mi chi mei xi tong	100
 玉米糕	yu mi gao	100
+玉米黄的	yu mi huang de	100
 玉米价格	yu mi jia ge	100
 玉米姐	yu mi jie	100
 欲迷人眼	yu mi ren yan	100
@@ -149072,6 +149403,8 @@ columns:
 月宫嫦娥	yue gong chang e	100
 月宫娘娘	yue gong niang niang	100
 岳姑娘	yue gu niang	100
+月光白	yue guang bai	100
+月光白的	yue guang bai de	100
 月光宝盒	yue guang bao he	100
 月光博客	yue guang bo ke	100
 月光不明	yue guang bu ming	100
@@ -149930,6 +150263,7 @@ columns:
 再见萤火虫	zai jian ying huo chong	100
 再见再见	zai jian zai jian	100
 再见之时	zai jian zhi shi	100
+再降息	zai jiang xi	100
 再讲一遍啊	zai jiang yi bian a	100
 在角落	zai jiao luo	100
 再教育营	zai jiao yu ying	100
@@ -151449,6 +151783,7 @@ columns:
 乍寒乍热	zha han zha re	100
 炸黑了	zha hei le	100
 炸花生	zha hua sheng	100
+炸鸡叔	zha ji shu	100
 炸鸡腿	zha ji tui	100
 扎吉托娃	zha ji tuo wa	100
 诈奸不及	zha jian bu ji	100
@@ -151677,6 +152012,8 @@ columns:
 斩空极波	zhan kong ji bo	100
 战况危急	zhan kuang wei ji	100
 展览局	zhan lan ju	100
+湛蓝色	zhan lan se	100
+湛蓝色的	zhan lan se de	100
 湛蓝行动	zhan lan xing dong	100
 战了八百回合	zhan le ba bai hui he	100
 占了便宜	zhan le bian yi	100
@@ -151915,7 +152252,11 @@ columns:
 张德豪	zhang de hao	100
 长得好看	zhang de hao kan	100
 长得很	zhang de hen	100
+涨得很多	zhang de hen duo	100
+涨得很快	zhang de hen kuai	100
+涨得很慢	zhang de hen man	100
 长得很胖	zhang de hen pang	100
+涨得很少	zhang de hen shao	100
 长得很瘦	zhang de hen shou	100
 长得很像	zhang de hen xiang	100
 长得结实	zhang de jie shi	100
@@ -153732,6 +154073,7 @@ columns:
 哲人石	zhe ren shi	100
 这三年	zhe san nian	100
 这三年来	zhe san nian lai	100
+赭色的	zhe se de	100
 这傻逼	zhe sha bi	100
 这沙滚滚	zhe sha gun gun	100
 这啥意思	zhe sha yi si	100
@@ -154890,8 +155232,11 @@ columns:
 震中区	zhen zhong qu	100
 枕中书	zhen zhong shu	100
 珍重再见	zhen zhong zai jian	100
+珍珠白的	zhen zhu bai de	100
 珍珠店	zhen zhu dian	100
 珍珠果酱乐队	zhen zhu guo jiang yue dui	100
+珍珠灰	zhen zhu hui	100
+珍珠灰的	zhen zhu hui de	100
 珍珠姐姐	zhen zhu jie jie	100
 真主至大	zhen zhu zhi da	100
 真壮观	zhen zhuang guan	100
@@ -154900,6 +155245,8 @@ columns:
 斟酌决定权	zhen zhuo jue ding quan	100
 斟酌一下	zhen zhuo yi xia	100
 斟酌斟酌	zhen zhuo zhen zhuo	100
+榛子色	zhen zi se	100
+榛子色的	zhen zi se de	100
 榛子酥	zhen zi su	100
 甄子维	zhen zi wei	100
 振作起	zhen zuo qi	100
@@ -155050,6 +155397,7 @@ columns:
 整个带走	zheng ge dai zou	100
 整个地球	zheng ge di qiu	100
 整个儿带走	zheng ge er dai zou	100
+整个复制一份	zheng ge fu zhi yi fen	100
 整个故事	zheng ge gu shi	100
 整个含住	zheng ge han zhu	100
 整个京城	zheng ge jing cheng	100
@@ -155646,6 +155994,7 @@ columns:
 指不胜屈	zhi bu sheng qu	100
 止步于此啦	zhi bu yu ci la	100
 止步于此了	zhi bu yu ci le	100
+治不治病	zhi bu zhi bing	100
 支不支持	zhi bu zhi chi	100
 支部支持	zhi bu zhi chi	100
 值不值得买	zhi bu zhi de mai	100
@@ -155769,6 +156118,7 @@ columns:
 知道啦	zhi dao la	100
 知道啦知道啦	zhi dao la zhi dao la	100
 知道了啊	zhi dao le a	100
+知道了好吗	zhi dao le hao ma	100
 知道了老婆	zhi dao le lao po	100
 知道了么	zhi dao le me	100
 知道了哦	zhi dao le o	100
@@ -155825,6 +156175,7 @@ columns:
 值得商榷	zhi de shang que	100
 指的是什么	zhi de shi shen me	100
 值得送	zhi de song	100
+值得一看的	zhi de yi kan de	100
 值得拥有	zhi de yong you	100
 质的有效提升	zhi de you xiao ti sheng	100
 制敌机先	zhi di ji xian	100
@@ -159981,6 +160332,7 @@ columns:
 吱溜溜	zi liu liu	100
 吱溜吱溜	zi liu zi liu	100
 紫龙虾	zi long xia	100
+紫罗兰色的	zi luo lan se de	100
 紫罗兰上校	zi luo lan shang xiao	100
 紫罗兰战刃	zi luo lan zhan ren	100
 自律的人	zi lv de ren	100
@@ -160079,6 +160431,7 @@ columns:
 自认会	zi ren hui	100
 自如租房	zi ru zu fang	100
 滋润乳	zi run ru	100
+紫色的	zi se de	100
 紫色光芒	zi se guang mang	100
 紫色石蕊	zi se shi rui	100
 紫色套装	zi se tao zhuang	100
@@ -160439,6 +160792,7 @@ columns:
 总热量摄入	zong re liang she ru	100
 总热值	zong re zhi	100
 总容积	zong rong ji	100
+棕色的	zong se de	100
 棕色棉	zong se mian	100
 棕色种	zong se zhong	100
 纵神经索	zong shen jing suo	100
