@@ -563,7 +563,7 @@
 # 「挺而走险」→「铤而走险」
 # 「油麦」→「莜麦」「油麦菜」→「莜麦菜」
 # 「鱼鼓」→「渔鼓」「鱼鼓道情」→「渔鼓道情」
-# 「找茬、找茬儿」→「找碴、找碴儿」
+# 「找茬、找茬儿」→「找碴、找碴儿」，仅降权，前者用得较多。
 # 「钉是钉，铆是铆」→「丁是丁，卯是卯」
 # 「暗渡陈仓」→「暗度陈仓」
 # 「万事具备」→「万事俱备」
@@ -1591,6 +1591,8 @@
 # 「海参威」→「海参崴」
 # 「枉费心计」→「枉费心机」
 # 「斯堪地那维亚」→「斯堪的纳维亚」
+# 「加迪斯」→「加的斯」
+# 「直捷了当、直接了当」→「直截了当」
 #///
 ---
 name: base
@@ -31184,7 +31186,6 @@ sort: by_weight
 不辨仙源何处寻	bu bian xian yuan he chu xun	5
 不变形	bu bian xing	12410
 不变性	bu bian xing	1930
-不便宜	bu bian yi	4
 不便者	bu bian zhe	850
 不辨真假	bu bian zhen jia	780
 不辨真伪	bu bian zhen wei	710
@@ -35092,7 +35093,7 @@ sort: by_weight
 不骗你	bu pian ni	2180
 不骗钱	bu pian qian	35
 不偏食	bu pian shi	1970
-不便宜	bu pian yi	4
+不便宜	bu pian yi	9999
 补票	bu piao	4920
 布票	bu piao	1935
 不飘	bu piao	1330
@@ -68673,7 +68674,6 @@ sort: by_weight
 大家开始	da jia kai shi	7225
 大家可以	da jia ke yi	92
 大家来找	da jia lai zhao	745
-大家来找碴	da jia lai zhao cha	1300
 打架了	da jia le	3095
 大家乐	da jia le	36
 大家乐超市	da jia le chao shi	1
@@ -509067,9 +509067,10 @@ sort: by_weight
 赵灿	zhao can	42
 赵苍璧	zhao cang bi	6
 赵岑	zhao cen	15
-赵曾	zhao ceng	42
 找碴	zhao cha	7445
-找碴儿	zhao cha er	9999
+找茬	zhao cha	1
+找碴儿	zhao cha er	7445
+找茬儿	zhao cha er	1
 爪蟾	zhao chan	125
 爪蟾抗菌肽	zhao chan kang jun tai	25
 爪蟾肽	zhao chan tai	5
