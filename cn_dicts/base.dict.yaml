@@ -356,7 +356,7 @@
 # 「像片」→「相片」
 # 「销差cha」→「chai」
 # 「销纳」→「消纳」
-# 「小题大作」→「小题大做」
+# 「小题大作、大题小作」→「小题大做、大题小做」
 # 「省悟」→「醒悟」
 # 「眩目」→「炫目」
 # 「要著zhe」→「zhu」
@@ -1644,11 +1644,45 @@
 # 「名声大震、声名大震、声威大震」→「名声大振、声名大振、声威大振」
 # 「嗐声叹气」→「咳声叹气」
 # 「哥斯大黎加」→「哥斯达黎加」
-# 「按纳、按耐、按奈」→「按捺」
+# 「按纳、按耐、按奈、安耐」→「按捺」
+# 「百里溪、百里傒、百里玺」→「百里奚」
+# 「圣地牙哥、圣蒂亚戈」→「圣地亚哥」（推荐译名是「圣迭戈」）
+# 「圣迭哥」→「圣迭戈」
+# 「维它命」→「维他命」
+# 「排它性」→「排他性」
+# 「顾左右而言它」→「顾左右而言他」
+# 「重趼」→「重茧」
+# 「盛宴难再」→「盛筵难再」
+# 「砥节厉行、砥节励行」→「砥节砺行」
+# 「爱口识羞」→「碍口识羞」
+# 「调合」→「调和」
+# 「貌合形离」→「貌合行离」
+# 「调三斡四、条三窝四、挑三窝四」→「调三窝四」（《现汉》推荐）
+# 「天翻地复、地复天翻、翻天复地、番天覆地」→「天翻地覆、地覆天翻、翻天覆地」
+# 「大才小用」→「大材小用」
+# 「坦胸」→「袒胸」
+# 「大块朵颐」→「大快朵颐」
+# 「姆指」→「拇指」
+# 「融炉、溶炉」→「熔炉」
+# 「补帖」→「补贴」
+# 「大路椎轮」→「大辂椎轮」
+# 「插腰、扠腰」→「叉腰」
+# 「天复地载」→「天覆地载」
+# 「俐落」→「利落」
+# 「开天劈地」→「开天辟地」
+# 「弗里得里希」→「弗里德里希」
+# 「德胜头回」→「得胜头回」
+# 「恶茶白赖」→「恶叉白赖」
+# 「才大难用」→「材大难用」
+# 「才书学浅」→「才疏学浅」
+# 「材疏志大」→「才疏志大」
+# 「饿罗斯、俄罗丝」→「俄罗斯」
+# 「漫藏诲盗、谩藏诲盗」→「慢藏诲盗」
+# 「砥名砺节」→「砥名励节」
 #///
 ---
 name: base
-version: "2023-07-30"
+version: "2023-07-31"
 sort: by_weight
 ...
 # +_+
@@ -10806,7 +10840,6 @@ sort: by_weight
 白里透红	bai li tou hong	6265
 百丽网	bai li wang	1
 百里奚	bai li xi	11
-百里溪	bai li xi	1
 百里奚举于市	bai li xi ju yu shi	1
 百里奚爵禄不入于心	bai li xi jue lu bu ru yu xin	1
 百里香	bai li xiang	4791
@@ -69182,7 +69215,6 @@ sort: by_weight
 大口畸形	da kou ji xing	1
 大口径	da kou jing	16305
 大口框	da kou kuang	1111
-大口马苏大麻哈鱼	da kou ma su da ma ha yu	1
 大口矛尾鳕	da kou mao wei xue	1
 大口逆钩鲹	da kou ni gou shen	1
 大口钦满族镇	da kou qin man zu zhen	1
@@ -69620,7 +69652,6 @@ sort: by_weight
 大鳞贝氏石首鱼	da lin bei shi shi shou yu	1
 大鳞巢旅	da lin chao lv	1
 大鳞刺单角鲀鱼	da lin ci dan jiao tun yu	1
-大鳞大麻哈鱼	da lin da ma ha yu	17
 达林顿电路	da lin dun dian lu	35
 大鳞副平牙鰕虎鱼	da lin fu ping ya xia hu yu	1
 大鳞副双边鱼	da lin fu shuang bian yu	1
@@ -69784,7 +69815,6 @@ sort: by_weight
 达鲁伊	da lu yi	130
 大陆游	da lu you	75
 大菉镇	da lu zhen	1
-大路椎轮	da lu zhui lun	1
 大乱	da luan	19255
 打乱	da luan	18835
 打乱了	da luan le	11210
@@ -69837,6 +69867,7 @@ sort: by_weight
 打麻烦	da ma fan	6
 大麻苷	da ma gan	1
 大马哈鱼	da ma ha yu	1835
+大麻哈鱼	da ma ha yu	1835
 打马虎眼	da ma hu yan	860
 大麻花	da ma hua	1673
 大麻花蚤	da ma hua zao	1
@@ -73290,7 +73321,6 @@ sort: by_weight
 带答不理	dai da bu li	4
 带大家	dai da jia	3720
 代大匠斫	dai da jiang zhuo	18
-戴大力	dai da li	166
 戴大帽子	dai da mao zi	5
 带打印	dai da yin	715
 待打印	dai da yin	101
@@ -82290,7 +82320,6 @@ sort: by_weight
 低阶	di jie	4710
 的姐	di jie	4055
 递解	di jie	720
-砥节厉行	di jie li xing	111
 地杰人灵	di jie ren ling	20
 砥节守公	di jie shou gong	1
 低芥酸	di jie suan	155
@@ -82644,10 +82673,9 @@ sort: by_weight
 狄利克来函数	di li ke lai han shu	5
 地理科学	di li ke xue	9225
 迪丽冷巴	di li leng ba	115
-砥厉廉隅	di li lian yu	1
+砥砺廉隅	di li lian yu	1
 低粒鳞侧石鳖	di li lin ce shi bie	1
 低利率	di li lv	5860
-砥厉名号	di li ming hao	1
 砥砺名号	di li ming hao	1
 砥砺名行	di li ming xing	2
 砥砺清节	di li qing jie	1
@@ -82942,7 +82970,6 @@ sort: by_weight
 地名	di ming	124210
 地鸣	di ming	9999
 抵命	di ming	985
-砥名励节	di ming li jie	1
 地名学	di ming xue	500
 地膜	di mo	14665
 笛膜	di mo	1120
@@ -100898,6 +100925,7 @@ sort: by_weight
 鄂伦春自治旗	e lun chun zi zhi qi	730
 鄂伦春族	e lun chun zu	1830
 俄罗斯	e luo si	500262
+厄洛斯	e luo si	100
 俄罗斯菜	e luo si cai	190
 俄罗斯当代女诗人诗选	e luo si dang dai nv shi ren shi xuan	1
 俄罗斯队	e luo si dui	3705
@@ -107563,7 +107591,6 @@ sort: by_weight
 畈田	fan tian	260
 翻天蹙地	fan tian cu di	1
 翻天覆地	fan tian fu di	22160
-番天覆地	fan tian fu di	1
 范天雷	fan tian lei	145
 梵天王	fan tian wang	630
 犯天下之大不韪	fan tian xia zhi da bu wei	1
@@ -159260,6 +159287,7 @@ sort: by_weight
 狠操	hen cao	222
 狠肏	hen cao	111
 很差	hen cha	75465
+很馋	hen chan	3333
 很长	hen chang	175220
 很常见	hen chang jian	11640
 很长久	hen chang jiu	710
@@ -175166,7 +175194,8 @@ sort: by_weight
 回邪入正	hui xie ru zheng	1
 回信	hui xin	43860
 灰心	hui xin	20930
-会心	hui xin	14745
+会信	hui xin	5555
+会心	hui xin	4745
 慧心	hui xin	3815
 回心	hui xin	9
 # 蕙心	hui xin	0
@@ -255976,6 +256005,7 @@ sort: by_weight
 马哈蒂尔	ma ha di er	930
 马哈切夫	ma ha qie fu	200
 马哈鱼	ma ha yu	450
+麻哈鱼	ma ha yu	450
 马海毛	ma hai mao	1675
 马汉	ma han	3660
 马杭	ma hang	15
@@ -256912,8 +256942,6 @@ sort: by_weight
 马谡	ma su	5780
 马苏	ma su	3625
 马肃	ma su	4
-麻苏大麻哈鱼	ma su da ma ha yu	1
-马苏大麻哈鱼河	ma su da ma ha yu he	1
 马苏德	ma su de	151
 马苏骨𬶐	ma su gu zhao	1
 马苏金枪鱼	ma su jin qiang yu	29
@@ -258423,8 +258451,6 @@ sort: by_weight
 瞒不住了	man bu zhu le	505
 漫才	man cai	9999
 满仓	man cang	10860
-谩藏诲盗	man cang hui dao	25
-漫藏诲盗	man cang hui dao	5
 蔓草	man cao	3605
 蔓草难除	man cao nan chu	9999
 慢查询	man cha xun	2231
@@ -259810,7 +259836,6 @@ sort: by_weight
 矛和盾	mao he dun	475
 猫和老鼠	mao he lao shu	7685
 貌合神离	mao he shen li	2870
-貌合形离	mao he xing li	1
 毛诃子	mao he zi	1
 毛鸿宾	mao hong bin	2
 毛烘烘	mao hong hong	9999
@@ -261441,7 +261466,6 @@ sort: by_weight
 玫瑰凉糍粑	mei gui liang ci ba	3
 玫瑰鹿角珊瑚	mei gui lu jiao shan hu	1
 玫瑰露酒	mei gui lu jiu	518
-玫瑰马苏大麻哈鱼	mei gui ma su da ma ha yu	1
 玫瑰魅力	mei gui mei li	68
 玫瑰门	mei gui men	9
 玫瑰梦	mei gui meng	230
@@ -274160,7 +274184,6 @@ sort: by_weight
 木制	mu zhi	51760
 墓志	mu zhi	8730
 母质	mu zhi	1
-姆指笔螺	mu zhi bi luo	1
 拇指笔螺	mu zhi bi luo	1
 木质部	mu zhi bu	2745
 拇指朝上	mu zhi chao shang	3333
@@ -327433,10 +327456,10 @@ sort: by_weight
 三号线	san hao xian	5070
 三好学生	san hao xue sheng	25000
 三号种子	san hao zhong zi	139
-三和	san he	22185
-三合	san he	21375
-三河	san he	21000
 三盒	san he	2045
+三和	san he	221
+三合	san he	213
+三河	san he	21
 三河坝乡	san he ba xiang	4
 三合板	san he ban	2695
 三合彩	san he cai	8
@@ -342459,7 +342482,6 @@ sort: by_weight
 圣达	sheng da	3045
 圣大保罗	sheng da bao luo	1150
 盛大的	sheng da de	41105
-圣达菲	sheng da fei	5430
 盛达花园	sheng da hua yuan	4
 生大黄	sheng da huang	63
 盛大密宝	sheng da mi bao	120
@@ -342576,7 +342598,6 @@ sort: by_weight
 生地排骨汤	sheng di pai gu tang	2
 省地税局	sheng di shui ju	4085
 圣地亚哥	sheng di ya ge	12775
-圣蒂亚戈岛加拉帕戈斯象龟	sheng di ya ge dao jia la pa ge si xiang gui	1
 省电	sheng dian	47525
 盛典	sheng dian	29045
 圣殿	sheng dian	25955
@@ -344406,7 +344427,6 @@ sort: by_weight
 盛颜	sheng yan	70
 生烟纷漠漠	sheng yan fen mo mo	1
 盛宴款待	sheng yan kuan dai	235
-盛宴难再	sheng yan nan zai	1
 声严色厉	sheng yan se li	1
 生养	sheng yang	7055
 声扬	sheng yang	99
@@ -376144,7 +376164,6 @@ sort: by_weight
 台湾绿猫蛛	tai wan lv mao zhu	1
 台湾旅游	tai wan lv you	2230
 台湾马加䲠	tai wan ma jia chun	1
-台湾马苏大麻哈鱼	tai wan ma su da ma ha yu	1
 台湾盲鳗	tai wan mang man	1
 台湾毛扁蝽	tai wan mao bian chun	1
 太完美	tai wan mei	2880
@@ -385194,7 +385213,6 @@ sort: by_weight
 调好了吗	tiao hao le ma	1111
 调好闹钟	tiao hao nao zhong	179
 调和	tiao he	68390
-调合	tiao he	6225
 跳河	tiao he	2770
 条河	tiao he	1
 调和鼎鼐	tiao he ding nai	116
@@ -385502,8 +385520,6 @@ sort: by_weight
 跳伞降落	tiao san jiang luo	120
 跳伞塔	tiao san ta	1215
 跳伞塔街道	tiao san ta jie dao	83
-调三斡四	tiao san wo si	9999
-条三窝四	tiao san wo si	5
 挑三嫌四	tiao san xian si	1
 跳伞员	tiao san yuan	175
 跳伞运动	tiao san yun dong	270
@@ -385899,6 +385915,8 @@ sort: by_weight
 调治	tiao zhi	4890
 条支	tiao zhi	1045
 调制标准	tiao zhi biao zhun	60
+调制法	tiao zhi fa	1000
+调治法	tiao zhi fa	1
 调制剂	tiao zhi ji	205
 调制解调	tiao zhi jie tiao	2890
 调制解调器	tiao zhi jie tiao qi	66920
@@ -452968,7 +452986,6 @@ sort: by_weight
 压力容器	ya li rong qi	43880
 亚利桑那	ya li sang na	3935
 亚利桑那鞭尾蜥	ya li sang na bian wei xi	1
-亚利桑那大麻哈鱼	ya li sang na da ma ha yu	1
 亚利桑那沙漠金蝎	ya li sang na sha mo jin xie	1
 亚利桑那州	ya li sang na zhou	3920
 亚莉森·海塔尔	ya li sen hai ta er	111
