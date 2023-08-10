@@ -1697,10 +1697,13 @@
 # 「浓装艳抹」→「浓妆艳抹」
 # 「深恶痛嫉」→「深恶痛疾」，「疾」用得更多，没收录，但《现汉》「嫉恶如仇」推荐的是「疾恶如仇」。
 # 「澳地利」→「奥地利」
+# 「联成一片」→「连成一片」
+# 「去的了」→「去得了」
+# 「火葬厂」→「火葬场」
 #///
 ---
 name: base
-version: "2023-08-07"
+version: "2023-08-10"
 sort: by_weight
 ...
 # +_+
@@ -8418,6 +8421,7 @@ sort: by_weight
 拔凉拔凉	ba liang ba liang	1111
 八两半斤	ba liang ban jin	1
 把两个	ba liang ge	12830
+罢了	ba liao	195035
 八列	ba lie	88
 巴列卡诺	ba lie ka nuo	136
 巴列斯	ba lie si	21
@@ -22623,12 +22627,12 @@ sort: by_weight
 彼得·菲利浦斯	bi de fei li pu si	1
 彼得格勒	bi de ge le	1030
 比得过	bi de guo	1045
-彼得凯丹	bi de kai dan	1
-彼德拉克	bi de la ke	10
-彼得林奇	bi de lin qi	9
-彼得洛夫	bi de luo fu	230
-彼得梅尔	bi de mei er	1
-彼得帕克	bi de pa ke	186
+彼得·凯丹	bi de kai dan	1
+彼德·拉克	bi de la ke	10
+彼得·林奇	bi de lin qi	9
+彼得·洛夫	bi de luo fu	230
+彼得·梅尔	bi de mei er	1
+彼得·帕克	bi de pa ke	186
 比得起	bi de qi	85
 比得上	bi de shang	7335
 彼德西餐	bi de xi can	7
@@ -23729,6 +23733,7 @@ sort: by_weight
 吡哌酸	bi pai suan	4
 比胖	bi pang	365
 鼻旁窦	bi pang dou	9999
+必跑	bi pao	1111
 比配	bi pei	11
 避碰规则	bi peng gui ze	260
 比拼	bi pin	100
@@ -37284,6 +37289,7 @@ sort: by_weight
 不洗	bu xi	7115
 不吸	bu xi	6400
 不细	bu xi	1111
+补硒	bu xi	333
 不息	bu xi	111
 # 埠西	bu xi	0
 不喜爱	bu xi ai	735
@@ -39015,6 +39021,8 @@ sort: by_weight
 擦拭纸	ca shi zhi	1425
 擦手纸	ca shou zhi	930
 擦完	ca wan	1111
+擦网	ca wang	3333
+擦网了	ca wang le	3333
 擦洗	ca xi	34950
 擦洗干净	ca xi gan jing	1970
 擦线过	ca xian guo	171
@@ -42469,6 +42477,8 @@ sort: by_weight
 草酸钙	cao suan gai	3700
 草酸钙结石	cao suan gai jie shi	52
 草酸盐	cao suan yan	1165
+操碎	cao sui	1025
+操碎了	cao sui le	1025
 操碎了心	cao sui le xin	1025
 草索	cao suo	135
 操他妈	cao ta ma	200
@@ -42749,6 +42759,7 @@ sort: by_weight
 操作时	cao zuo shi	34400
 操作室	cao zuo shi	2560
 操作失误	cao zuo shi wu	8035
+操作实务	cao zuo shi wu	2
 操作使用	cao zuo shi yong	7165
 操作手册	cao zuo shou ce	12460
 操作手法	cao zuo shou fa	5310
@@ -44818,10 +44829,14 @@ sort: by_weight
 拆装费	chai zhuang fei	67
 拆字	chai zi	2970
 柴宗训	chai zong xun	1
+拆走	chai zou	3333
+拆走了	chai zou le	3333
 缠绑	chan bang	9999
-产宝	chan bao	5
+缠抱	chan bao	3333
+产宝	chan bao	1115
 缠绷带	chan beng dai	3333
 觇标	chan biao	1060
+铲冰	chan bing	3333
 颤病	chan bing	2
 铲草除根	chan cao chu gen	111
 产茶	chan cha	6910
@@ -48191,9 +48206,12 @@ sort: by_weight
 超低温状态	chao di wen zhuang tai	5
 超低压	chao di ya	745
 超低音	chao di yin	4030
+潮店	chao dian	222
+超颠	chao dian	111
 炒掉	chao diao	3980
 超跌	chao die	9045
 超跌股	chao die gu	93
+超顶	chao ding	3333
 朝顶	chao ding	210
 朝东	chao dong	10770
 朝东北	chao dong bei	380
@@ -48209,6 +48227,8 @@ sort: by_weight
 炒豆胡同	chao dou hu tong	16
 炒豆子	chao dou zi	144
 超度	chao du	12985
+超堵	chao du	3333
+超毒	chao du	1111
 超度术	chao du shu	1
 超度众生	chao du zhong sheng	14
 超短	chao duan	8955
@@ -48550,7 +48570,9 @@ sort: by_weight
 潮浪	chao lang	430
 吵了	chao le	16745
 抄了	chao le	7615
+超了	chao le	5555
 炒了	chao le	3333
+潮了	chao le	1111
 # 潮乐	chao le	0
 潮乐村	chao le cun	3
 超类	chao lei	10846
@@ -58345,8 +58367,9 @@ sort: by_weight
 出栏率	chu lan lv	1125
 除狼得虎	chu lang de hu	1
 出老千	chu lao qian	565
-除了	chu le	501063
 出了	chu le	500399
+除了	chu le	50106
+处了	chu le	1111
 出了点事	chu le dian shi	1545
 出了个办法	chu le ge ban fa	14
 出了个点子	chu le ge dian zi	75
@@ -61641,6 +61664,7 @@ sort: by_weight
 垂暮	chui mu	1365
 垂暮之年	chui mu zhi nian	990
 锤娜丽莎	chui na li sha	143
+吹呢	chui ne	5555
 锤你	chui ni	8888
 垂念	chui nian	260
 吹牛	chui niu	31680
@@ -73418,6 +73442,7 @@ sort: by_weight
 黛蛾	dai e	170
 戴尔	dai er	137035
 带儿	dai er	3555
+袋儿	dai er	1111
 戴尔电脑	dai er dian nao	3935
 戴尔公司	dai er gong si	12255
 戴耳环	dai er huan	1380
@@ -105500,6 +105525,7 @@ sort: by_weight
 发条鸟	fa tiao niao	163
 发帖	fa tie	501440
 法帖	fa tie	5010
+发帖了	fa tie le	5014
 发帖人	fa tie ren	17235
 发帖时	fa tie shi	10070
 发帖数	fa tie shu	162185
@@ -175956,13 +175982,12 @@ sort: by_weight
 混联	hun lian	410
 混炼胶	hun lian jiao	820
 婚恋交友	hun lian jiao you	2575
-魂灵	hun ling	5955
 婚龄	hun ling	3245
+魂灵	hun ling	595
 混乱	hun luan	282410
-昏乱	hun luan	2660
+昏乱	hun luan	266
 混乱不堪	hun luan bu kan	4540
 混乱的	hun luan de	545
-混乱地	hun luan de	68
 混乱九头龙	hun luan jiu tou long	1
 混乱九头蛇	hun luan jiu tou she	1
 混乱局面	hun luan ju mian	6585
@@ -178403,7 +178428,6 @@ sort: by_weight
 或暂时	huo zan shi	6540
 火葬	huo zang	9515
 火葬场	huo zang chang	5560
-火葬厂	huo zang chang	435
 或早	huo zao	4305
 火躁	huo zao	45
 或早或迟	huo zao huo chi	225
@@ -222194,7 +222218,8 @@ sort: by_weight
 可以报考	ke yi bao kao	170
 可以包括	ke yi bao kuo	8230
 可以保险	ke yi bao xian	45
-可以被	ke yi bei	73
+可以被	ke yi bei	730
+可以背	ke yi bei	1
 刻意避开	ke yi bi kai	222
 可以避开	ke yi bi kai	111
 可以避免	ke yi bi mian	41760
@@ -238099,8 +238124,6 @@ sort: by_weight
 连城县	lian cheng xian	1940
 连成线	lian cheng xian	815
 连成一片	lian cheng yi pian	7415
-联成一片	lian cheng yi pian	595
-联成一体	lian cheng yi ti	1050
 涟城镇	lian cheng zhen	181
 连城镇	lian cheng zhen	168
 联城镇	lian cheng zhen	155
@@ -256876,27 +256899,28 @@ sort: by_weight
 马少华	ma shao hua	77
 马烧麦	ma shao mai	117
 马绍荣	ma shao rong	5
-马舍	ma she	20
+马舍	ma she	2000
 骂谁	ma shei	2430
 马神庙	ma shen miao	36
 马神庙街	ma shen miao jie	4
 骂声	ma sheng	12105
 麻绳	ma sheng	8885
-麻生	ma sheng	5520
 麻省	ma sheng	2680
+麻生	ma sheng	5
 马胜利	ma sheng li	61
 麻省理工	ma sheng li gong	3800
 麻省理工学院	ma sheng li gong xue yuan	12965
 麻生太郎	ma sheng tai lang	11560
 麻生希	ma sheng xi	6666
 马氏	ma shi	7400
-麻石	ma shi	2515
+嘛事	ma shi	5555
 马市	ma shi	2180
-马石	ma shi	1660
-马仕	ma shi	1145
-麻食	ma shi	687
-码实	ma shi	12
-马狮	ma shi	4
+麻石	ma shi	251
+麻食	ma shi	68
+# 码实	ma shi	0
+# 马仕	ma shi	0
+# 马狮	ma shi	0
+# 马石	ma shi	0
 骂是爱	ma shi ai	1030
 马士兵	ma shi bing	734
 马师曾	ma shi ceng	120
@@ -256926,8 +256950,8 @@ sort: by_weight
 马首乡	ma shou xiang	2
 马守真	ma shou zhen	2
 马术	ma shu	17050
-码数	ma shu	3730
 麻薯	ma shu	779
+码数	ma shu	373
 麻薯饼	ma shu bing	560
 马术服	ma shu fu	158
 马树华	ma shu hua	11
@@ -256937,9 +256961,9 @@ sort: by_weight
 骂谁	ma shui	2430
 马水车龙	ma shui che long	1
 妈说	ma shuo	111
-马嘶	ma si	4170
 骂死	ma si	3140
-码四	ma si	10
+马嘶	ma si	417
+# 码四	ma si	0
 马思边草拳毛动	ma si bian cao quan mao dong	3
 马思超	ma si chao	200
 马思聪	ma si cong	118
@@ -313487,7 +313511,7 @@ sort: by_weight
 取得了	qu de le	500288
 取得联系	qu de lian xi	88155
 取得两片石	qu de liang pian shi	5
-去的了	qu de liao	67
+去得了	qu de liao	6700
 去的路	qu de lu	3940
 取得律师资格	qu de lv shi zi ge	4210
 取得赔偿	qu de pei chang	2295
@@ -321759,6 +321783,8 @@ sort: by_weight
 日本群岛	ri ben qun dao	250
 日本人	ri ben ren	142810
 日本人的	ri ben ren de	22800
+日本人偶	ri ben ren ou	3333
+日本人形	ri ben ren xing	3333
 日本榕萤叶甲	ri ben rong ying ye jia	1
 日本入常	ri ben ru chang	305
 日本软蚧蚜小蜂	ri ben ruan jie ya xiao feng	1
@@ -351870,7 +351896,9 @@ sort: by_weight
 事物本质	shi wu ben zhi	2460
 十五边形	shi wu bian xing	1
 食物残渣	shi wu can zha	5100
-实务操作	shi wu cao zuo	6865
+失误操作	shi wu cao zuo	4444
+事务操作	shi wu cao zuo	111
+实务操作	shi wu cao zuo	68
 十五层	shi wu ceng	1290
 实物产品	shi wu chan pin	2890
 事无常师	shi wu chang shi	5
@@ -386710,6 +386738,7 @@ sort: by_weight
 铁柱	tie zhu	8170
 贴住	tie zhu	4035
 铁铸	tie zhu	4000
+铁猪	tie zhu	233
 贴砖	tie zhuan	1715
 帖子	tie zi	502879
 帖子不错	tie zi bu cuo	292
@@ -409236,7 +409265,6 @@ sort: by_weight
 卧槽马	wo cao ma	2120
 我操你妈	wo cao ni ma	333
 我肏你妈	wo cao ni ma	222
-我草你妈	wo cao ni ma	111
 卧槽泥马	wo cao ni ma	1
 我操你妈了个逼	wo cao ni ma le ge bi	22
 我肏你妈了个逼	wo cao ni ma le ge bi	11
@@ -481111,7 +481139,7 @@ sort: by_weight
 用刀切	yong dao qie	820
 用的	yong de	500414
 用得	yong de	43150
-永德	yong de	5285
+永德	yong de	2
 用得比	yong de bi	1285
 用得到	yong de dao	1435
 用的到	yong de dao	135
@@ -504754,7 +504782,8 @@ sort: by_weight
 贼星	zei xing	20
 贼眼	zei yan	1485
 贼义者谓之残	zei yi zhe wei zhi can	1
-贼营	zei ying	4
+贼营	zei ying	4000
+贼硬	zei ying	2222
 贼赃	zei zang	9999
 贼子	zei zi	4000
 贼走关门	zei zou guan men	9999
@@ -541940,7 +541969,7 @@ sort: by_weight
 走啦	zou la	1000
 走来	zou lai	86850
 走来走去	zou lai zou qu	18525
-邹蓝	zou lan	3
+# 邹蓝	zou lan	0
 走廊	zou lang	109695
 走廊里	zou lang li	14560
 走廊上	zou lang shang	12905
@@ -541952,7 +541981,9 @@ sort: by_weight
 走了个来回	zou le ge lai hui	105
 走了吗	zou le ma	4405
 走了哦	zou le o	470
-走累	zou lei	3210
+走嘞	zou lei	5555
+走累	zou lei	210
+走累了	zou lei le	3210
 邹立武	zou li wu	1
 走量	zou liang	1111
 邹林颖	zou lin ying	1
@@ -541967,8 +541998,8 @@ sort: by_weight
 邹鲁	zou lu	2585
 走路小心	zou lu xiao xin	520
 走路姿势	zou lu zi shi	147
-走马	zou ma	13595
 走吗	zou ma	9605
+走马	zou ma	359
 走马川行奉送出师西征	zou ma chuan xing feng song chu shi xi zheng	1
 走马川行奉送封大夫出师西征	zou ma chuan xing feng song feng dai fu chu shi xi zheng	2
 走马灯	zou ma deng	6485
@@ -545632,6 +545663,7 @@ sort: by_weight
 做了下	zuo le xia	75
 做了一些	zuo le yi xie	12500
 左肋	zuo lei	3625
+做嘞	zuo lei	1111
 坐冷板凳	zuo leng ban deng	1380
 左冷禅	zuo leng chan	3570
 坐立	zuo li	4220
