@@ -14,6 +14,8 @@
 
 [常见问题](https://github.com/iDvel/rime-ice/issues/133)
 
+[更新日志](./others/CHANGELOG.md)
+
 <br>
 
 ## 基本套路
@@ -29,6 +31,8 @@
     -   [以词定字](https://github.com/BlindingDark/rime-lua-select-character)
     -   [长词优先](https://github.com/tumuyan/rime-melt/blob/master/lua/melt.lua)
     -   [Unicode](https://github.com/shewer/librime-lua-script/blob/main/lua/component/unicode.lua)
+    -   [数字、人民币大写](https://wb98.gitee.io/)
+    -   常见错音错字提示
     -   所有标点符号直接上屏，/ 模式改为 v 模式，/ 直接上屏
     -   增加了许多拼音纠错
 - 简体字表、词库
@@ -65,17 +69,21 @@
 
 ## 使用说明
 
+⚠️ 单独使用词库注意事项：`rime_ice.dict.yaml` 下面包含了大写字母，这和配置有些许绑定，可以直接删除，详细说明：[#356](https://github.com/iDvel/rime-ice/issues/356)
+
 建议备份原先配置，清空配置目录。
+
+配置目录为小狼毫的 `%APPDATA%\Rime`，鼠须管的 `~/Library/Rime`，可通过右键菜单栏图标打开。
 
 ### 手动安装
 
-将仓库所有文件复制粘贴进去就好了。
+将仓库所有文件复制粘贴到配置目录，重新部署。
 
 更新词库，手动覆盖 `cn_dicts` `en_dcits` `opencc` 三个文件夹。
 
 ### 东风破 [plum](https://github.com/rime/plum)
 
-所有配方（`others/recipes/*.recipe.yaml`）只是简单地更新覆盖文件，适合更新词库时使用。后四个配方只是更新词库文件，并不更新 `rime_ice.dict.yaml` 和 `melt_eng.dict.yaml`，因为用户可能会挂载其他词库。如果更新后部署时报错，可能是增、删、改了文件，需要检查上面两个文件和词库的对应关系。
+所有配方（`others/recipes/*.recipe.yaml`）只是简单地更新覆盖文件，适合更新词库时使用。后四个配方只是更新词库文件，并不更新 `rime_ice.dict.yaml` 和 `melt_eng.dict.yaml`，因为用户可能会挂载其他词库。如果更新后部署时报错，可能是增、删、改了文件名，需要检查上面两个文件和词库的对应关系。
 
 安装或更新：全部文件
 
@@ -107,9 +115,15 @@ bash rime-install iDvel/rime-ice:others/recipes/en_dicts
 bash rime-install iDvel/rime-ice:others/recipes/opencc
 ```
 
-### Arch Linux
+### 仓输入法 [Hamster](https://github.com/imfuxiao/Hamster)
 
-#### 安装
+参考 [如何导入"雾淞拼音输入方案"](https://github.com/imfuxiao/Hamster/wiki/%E5%A6%82%E4%BD%95%E5%AF%BC%E5%85%A5%22%E9%9B%BE%E6%B7%9E%E6%8B%BC%E9%9F%B3%E8%BE%93%E5%85%A5%E6%96%B9%E6%A1%88%22)
+
+### 自动部署脚本
+
+[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy) 一个自动部署脚本，集成了雾凇拼音，帮助无痛快速安装、部署 Rime 输入法（中州韵、小狼毫，鼠须管）以及部署配置。
+
+### Arch Linux
 
 使用 AUR helper 安装 [rime-ice-git](https://aur.archlinux.org/packages/rime-ice-git) 包即可。
 
@@ -122,9 +136,7 @@ paru -S rime-ice-git
 # yay -S rime-ice-git
 ```
 
-#### 配置
-
-推荐使用[补丁](https://github.com/rime/home/wiki/Configuration#補靪])的方式启用。
+推荐使用[补丁](https://github.com/rime/home/wiki/Configuration#補靪)的方式启用。
 
 参考下面的配置示例，修改对应输入法框架用户目录（见下）中的 `default.custom.yaml` 文件
 
@@ -132,7 +144,6 @@ paru -S rime-ice-git
 - Fcitx5 为 `$HOME/.local/share/fcitx5/rime/`
 
 <details>
-
 <summary>default.custom.yaml</summary>
 
 ```yaml
@@ -157,11 +168,17 @@ patch:
 
 感谢 [@Huandeep](https://github.com/Huandeep) 整理的多个词库。
 
+感谢 [@Mirtle](https://github.com/mirtlecn) 完善的多个功能。
+
 感谢所有贡献者。
 
 搜狗转 Rime：[lewangdev/scel2txt](https://github.com/lewangdev/scel2txt)
 
-大量参考[校对网](http://www.jiaodui.com/bbs/)。
+大量参考：
+
+- [校对标准论坛](http://www.jiaodui.com/bbs/)
+- [汉典](https://www.zdic.net/)
+- [成语典](https://dict.idioms.moe.edu.tw/)
 
 Thanks to JetBrains for the OSS development license.
 
