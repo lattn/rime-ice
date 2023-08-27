@@ -108,7 +108,6 @@
 #* 「磁漆」→「瓷漆」，《现汉》精神分裂没有统一使用「瓷」。
 #* 「镆铘」→「莫邪」，除了《现汉》基本都在使用「莫邪」。
 #* 「即视感、即时感」→「既视感」
-#* 「透漏」→「透露lu/lou」，《现汉》都收录了。
 #* 「委琐」→「猥琐」，「委琐」在搜索引擎里基本全是误用的。
 #* 「映象」→「映像」，《现汉》只收录《映象》，全国科学技术名词审定委员会推荐「映像」。
 #* 「订做」→「定做」，反正《现汉》没收录前者。
@@ -1717,10 +1716,22 @@
 # 「羊癫疯」→「羊癫风」
 # 「新家坡、心家泊」→「新加坡」
 # 「竭嘶底里、竭斯底里」→「歇斯底里」
+# 「罗德西亚」→「罗得西亚」
+# 「荒诞不羁」→「荒诞不稽」
+# 「洛矶山、洛基山、落矶山」→「落基山」
+# 「落阱下石」→「落井下石」
+# 「重岩叠障」→「重岩叠嶂」
+# 「深藏不漏」→「深藏不露」
+# 「蛊惑仔、蛊惑狼」→「古惑仔、古惑狼」
+# 「垃圾筒」→「垃圾桶」
+# 「亚力山大」→「亚历山大」
+# 「叫化子、叫化鸡」→「叫花子、叫花鸡」
+# 「知书识理、识理知书」→「知书识礼、识礼知书」
+# 「搏彩」→「博彩」
 #///
 ---
 name: base
-version: "2023-08-21"
+version: "2023-08-27"
 sort: by_weight
 ...
 # +_+
@@ -6199,6 +6210,7 @@ sort: by_weight
 按照字母	an zhao zi mu	790
 按着	an zhe	32925
 按这	an zhe	5555
+暗着	an zhe	3333
 按这个	an zhe ge	7585
 安哲拉	an zhe la	180
 按这里	an zhe li	2785
@@ -13694,9 +13706,8 @@ sort: by_weight
 半露半藏	ban lou ban cang	1
 半搂半搀	ban lou ban chan	2
 半露半裸	ban lou ban luo	1
-半露柱	ban lou zhu	1
 半路	ban lu	23675
-半露	ban lu	111
+半露	ban lu	1111
 # 班录	ban lu	0
 半露半藏	ban lu ban cang	1
 半露半裸	ban lu ban luo	1
@@ -13707,6 +13718,7 @@ sort: by_weight
 半路凉亭	ban lu liang ting	1
 半路杀出个程咬金	ban lu sha chu ge cheng yao jin	300
 半路上	ban lu shang	8205
+半露柱	ban lu zhu	1
 班轮	ban lun	1111
 半裸	ban luo	7620
 半裸半露	ban luo ban lou	2
@@ -16611,12 +16623,7 @@ sort: by_weight
 宝龙地产	bao long di chan	2
 宝隆公寓小区	bao long gong yu xiao qu	7
 苞笼万象	bao long wan xiang	1
-暴露	bao lou	9999
 宝楼	bao lou	20
-暴露出	bao lou chu	38985
-暴露狂	bao lou kuang	1050
-暴露了	bao lou le	25935
-暴露目标	bao lou mu biao	1075
 宝楼台	bao lou tai	25
 暴露	bao lu	139575
 # 宝璐	bao lu	0
@@ -29821,7 +29828,6 @@ sort: by_weight
 博采群议	bo cai qun yi	1
 博彩税	bo cai shui	485
 菠菜丸子汤	bo cai wan zi tang	17
-搏彩王	bo cai wang	116
 菠菜卧果	bo cai wo guo	1
 菠菜香油汤	bo cai xiang you tang	1
 博彩业	bo cai ye	4905
@@ -34585,16 +34591,9 @@ sort: by_weight
 布隆斯格罗夫龙属	bu long si ge luo fu long shu	1
 不漏	bu lou	19725
 补漏	bu lou	10200
-不露辞色	bu lou ci se	1
 补漏订讹	bu lou ding e	1
 不漏风	bu lou feng	113
-不露锋芒	bu lou feng mang	290
-不露痕迹	bu lou hen ji	4380
-不露斤斧	bu lou jin fu	1
 不露面	bu lou mian	1495
-不露神色	bu lou shen se	5
-不露声色	bu lou sheng se	5295
-不露形色	bu lou xing se	3
 不露	bu lu	13620
 补录	bu lu	10220
 不撸	bu lu	9999
@@ -34619,7 +34618,6 @@ sort: by_weight
 布鲁克西亚变色蜥蜴	bu lu ke xi ya bian se xi yi	1
 布鲁拉美利奴羊	bu lu la mei li nu yang	1
 步鲁霉素	bu lu mei su	1
-不露面	bu lu mian	1495
 布鲁姆龙兽属	bu lu mu long shou shu	1
 布鲁诺	bu lu nuo	10260
 布鲁诺汝拉猎犬	bu lu nuo ru la lie quan	1
@@ -36547,7 +36545,6 @@ sort: by_weight
 不太吝啬	bu tai lin se	5
 不太灵	bu tai ling	440
 不太笼统	bu tai long tong	20
-不太露骨	bu tai lou gu	15
 不太露骨	bu tai lu gu	15
 不太乱	bu tai luan	25
 不太落后	bu tai luo hou	20
@@ -37806,6 +37803,8 @@ sort: by_weight
 不要被	bu yao bei	25620
 不要逼脸	bu yao bi lian	9999
 不摇碧莲	bu yao bi lian	1111
+不要不	bu yao bu	5555
+不要补	bu yao bu	10
 不要不懂装懂	bu yao bu dong zhuang dong	395
 不要吃	bu yao chi	12865
 不要错过	bu yao cuo guo	20275
@@ -39823,8 +39822,8 @@ sort: by_weight
 彩酷卡	cai ku ka	1
 彩酷网	cai ku wang	3
 才夸八斗	cai kua ba dou	1
-财会	cai kuai	65465
-才快	cai kuai	770
+才快	cai kuai	7700
+财会	cai kuai	654
 财会部门	cai kuai bu men	2270
 财会科	cai kuai ke	21
 财会人员	cai kuai ren yuan	14380
@@ -41635,7 +41634,7 @@ sort: by_weight
 仓多真央	cang duo zhen yang	6666
 苍额吸蜜鸟	cang e xi mi niao	1
 苍耳	cang er	999
-藏而不露	cang er bu lou	3820
+藏而不露	cang er bu lu	3820
 苍耳虫	cang er chong	3
 苍耳囊虫	cang er nang chong	1
 苍耳子	cang er zi	78
@@ -47245,7 +47244,7 @@ sort: by_weight
 昌叔	chang shu	1
 常熟东南开发区	chang shu dong nan kai fa qu	5
 常数合并	chang shu he bing	29
-常熟叫化鸡	chang shu jiao hua ji	51
+常熟叫花鸡	chang shu jiao hua ji	51
 长舒了一口气	chang shu le yi kou qi	2125
 常熟路	chang shu lu	285
 常熟市	chang shu shi	25050
@@ -51116,8 +51115,8 @@ sort: by_weight
 沉香化气丸	chen xiang hua qi wan	3
 沉香化滞丸	chen xiang hua zhi wan	2
 陈祥龙	chen xiang long	123
-陈香露白露	chen xiang lou bai lu	1
-陈香露白露片	chen xiang lou bai lu pian	1
+陈香露白露	chen xiang lu bai lu	1
+陈香露白露片	chen xiang lu bai lu pian	1
 沉香木	chen xiang mu	815
 陈向平	chen xiang ping	137
 沉香曲	chen xiang qu	1
@@ -54965,7 +54964,6 @@ sort: by_weight
 尺神经	chi shen jing	57
 尺神经麻痹	chi shen jing ma bi	2
 尺神经损伤	chi shen jing sun shang	10
-赤身露体	chi shen lou ti	61
 赤身露体	chi shen lu ti	61
 赤身裸体	chi shen luo ti	8400
 吃什么	chi shen me	37175
@@ -56675,7 +56673,6 @@ sort: by_weight
 重檐	chong yan	8025
 虫眼	chong yan	1955
 冲淹	chong yan	110
-重岩叠障	chong yan die zhang	1
 重阳	chong yang	23145
 崇洋	chong yang	3200
 充氧	chong yang	2265
@@ -56848,6 +56845,7 @@ sort: by_weight
 丑八怪	chou ba guai	4420
 抽拔幽陋	chou ba you lou	1
 筹办	chou ban	30360
+丑爆	chou bao	4444
 酬报	chou bao	1190
 筹备	chou bei	133275
 筹备处	chou bei chu	3240
@@ -57965,7 +57963,6 @@ sort: by_weight
 出谷日尚早	chu gu ri shang zao	1
 出故障	chu gu zhang	7380
 出乖丢丑	chu guai diu chou	1
-出乖露丑	chu guai lou chou	335
 出乖露丑	chu guai lu chou	335
 出关	chu guan	11945
 储罐	chu guan	1683
@@ -58538,8 +58535,6 @@ sort: by_weight
 楚留香	chu liu xiang	27300
 出笼	chu long	11710
 出笼之鸟	chu long zhi niao	1
-初露锋芒	chu lou feng mang	2580
-初露头角	chu lou tou jiao	1360
 出漏子	chu lou zi	235
 出路	chu lu	111795
 出炉	chu lu	50920
@@ -86058,6 +86053,7 @@ sort: by_weight
 第一弦	di yi xian	155
 第一现场	di yi xian chang	5385
 第一项	di yi xiang	39895
+第一乡	di yi xiang	1
 第一箱油	di yi xiang you	551
 第一项中	di yi xiang zhong	75
 第一小颚	di yi xiao e	3
@@ -102579,6 +102575,7 @@ sort: by_weight
 二垒手	er lei shou	50
 二类相召也	er lei xiang zhao ye	1
 二磊子	er lei zi	12
+二愣	er leng	985
 二愣子	er leng zi	985
 而立	er li	39930
 二里	er li	10170
@@ -118626,12 +118623,12 @@ sort: by_weight
 富豪之家	fu hao zhi jia	435
 符号执行	fu hao zhi xing	82
 符号组	fu hao zu	250
-符合	fu he	500760
-复合	fu he	314590
-负荷	fu he	157725
-复核	fu he	94575
-附和	fu he	23125
-福和	fu he	4650
+符合	fu he	50076
+复合	fu he	3145
+负荷	fu he	1577
+附和	fu he	1312
+复核	fu he	945
+# 福和	fu he	0
 复合氨基酸	fu he an ji suan	1593
 复合板	fu he ban	11310
 复合标志	fu he biao zhi	37
@@ -119561,7 +119558,7 @@ sort: by_weight
 福隆园	fu long yuan	11
 伏龙芝	fu long zhi	31
 缚龙紫纱	fu long zi sha	1
-副露	fu lou	123
+服喽	fu lou	1234
 福楼拜	fu lou bai	156
 附录	fu lu	110505
 俘虏	fu lu	51965
@@ -122975,6 +122972,7 @@ sort: by_weight
 概率小	gai lv xiao	112
 概略	gai lve	4945
 该骂	gai ma	1365
+改吗	gai ma	1111
 该买	gai mai	1111
 该卖	gai mai	1
 盖满	gai man	2110
@@ -127309,6 +127307,7 @@ sort: by_weight
 高门大屋	gao men da wu	5
 高门大宅	gao men da zhai	3
 高门巨族	gao men ju zu	1
+搞懵	gao meng	3333
 高梦旦	gao meng dan	14
 高锰钢	gao meng gang	865
 高锰酸钾	gao meng suan jia	14025
@@ -127588,7 +127587,8 @@ sort: by_weight
 高三学子	gao san xue zi	104
 高嗓门	gao sang men	150
 高僧	gao seng	42165
-搞啥	gao sha	765
+搞啥	gao sha	7650
+搞傻	gao sha	3333
 高厦	gao sha	9
 # 高沙	gao sha	0
 高沙桥	gao sha qiao	2
@@ -137856,13 +137856,14 @@ sort: by_weight
 古楼	gu lou	4675
 孤陋	gu lou	835
 固陋	gu lou	485
-锢露	gu lou	1
+锢露	gu lou	2
 鼓楼北街	gu lou bei jie	23
 古楼村	gu lou cun	25
 鼓楼东大街	gu lou dong da jie	164
 鼓楼东街	gu lou dong jie	21
 鼓楼法院	gu lou fa yuan	437
 孤陋寡闻	gu lou gua wen	7360
+锢露锅	gu lou guo	100
 鼓楼花园小区	gu lou hua yuan xiao qu	2
 鼓楼酒店	gu lou jiu dian	275
 古楼娜灰蝶	gu lou na hui die	1
@@ -140454,6 +140455,8 @@ sort: by_weight
 关键任务	guan jian ren wu	3090
 关键设备	guan jian she bei	15295
 关键是	guan jian shi	176580
+关键时	guan jian shi	3
+关键事	guan jian shi	2
 关键时候	guan jian shi hou	6405
 关键事件法	guan jian shi jian fa	260
 关键时刻	guan jian shi ke	54030
@@ -140591,9 +140594,9 @@ sort: by_weight
 管窥蠡测	guan kui li ce	200
 管窥之见	guan kui zhi jian	20
 管窥之说	guan kui zhi shuo	1
-观澜	guan lan	8805
 灌篮	guan lan	7830
-观览	guan lan	3305
+观览	guan lan	330
+# 观澜	guan lan	0
 观澜第二中学	guan lan di er zhong xue	3
 灌篮高手	guan lan gao shou	7470
 观澜湖	guan lan hu	3725
@@ -156313,7 +156316,8 @@ sort: by_weight
 合理解释	he li jie shi	4505
 合理开发	he li kai fa	21060
 合理控制	he li kong zhi	167
-诃梨勒	he li le	8
+合理了	he li le	5555
+诃梨勒	he li le	2
 合理利己主义	he li li ji zhu yi	85
 合理利润	he li li run	4345
 合理利用	he li li yong	52410
@@ -195218,11 +195222,10 @@ sort: by_weight
 焦化分厂	jiao hua fen chang	6
 角化过度	jiao hua guo du	35
 教画画	jiao hua hua	169
-叫化鸡	jiao hua ji	3362
 叫花鸡	jiao hua ji	1625
 角化棘皮瘤	jiao hua ji pi liu	6
 角花篮虫	jiao hua lan chong	1
-叫化童鸡	jiao hua tong ji	248
+叫花童鸡	jiao hua tong ji	248
 狡猾透顶	jiao hua tou ding	25
 教化学	jiao hua xue	200
 叫花子	jiao hua zi	4335
@@ -198709,7 +198712,7 @@ sort: by_weight
 街溜子	jie liu zi	106
 接龙	jie long	17500
 接龙桥	jie long qiao	39
-揭露出	jie lou chu	2295
+接喽	jie lou	5555
 揭露	jie lu	82685
 戒撸	jie lu	6666
 节录	jie lu	6625
@@ -199405,6 +199408,7 @@ sort: by_weight
 结束坐标	jie shu zuo biao	374
 结霜	jie shuang	3065
 节水	jie shui	134435
+接水	jie shui	9999
 节税	jie shui	8940
 接谁	jie shui	230
 节水办	jie shui ban	63
@@ -216027,9 +216031,9 @@ sort: by_weight
 凯尔沃克	kai er wo ke	189
 开尔新材	kai er xin cai	2
 开发	kai fa	501339
-开发板	kai fa ban	9953
-开发办	kai fa ban	7160
 开发版	kai fa ban	1659
+开发板	kai fa ban	99
+开发办	kai fa ban	7
 开发包	kai fa bao	5330
 开发部	kai fa bu	23590
 开发测试	kai fa ce shi	2753
@@ -221042,7 +221046,6 @@ sort: by_weight
 刻镂	ke lou	915
 刻漏	ke lou	435
 客楼	ke lou	4
-柯露骨千手螺	ke lou gu qian shou luo	1
 刻录	ke lu	112485
 渴鹿奔泉	ke lu ben quan	1
 克虏伯	ke lu bo	5575
@@ -242005,6 +242008,7 @@ sort: by_weight
 寥若星晨	liao ruo xing chen	3
 了若指掌	liao ruo zhi zhang	2050
 聊骚	liao sao	9999
+聊啥	liao sha	5555
 寮山	liao shan	2
 疗伤	liao shang	23245
 聊上	liao shang	4865
@@ -246896,8 +246900,6 @@ sort: by_weight
 柳龙庭	liu long ting	154
 六楼	liu lou	31650
 刘楼	liu lou	30
-流露出	liu lou chu	58135
-流露出来	liu lou chu lai	3645
 刘楼村	liu lou cun	61
 流露	liu lu	43200
 六路	liu lu	13275
@@ -249812,7 +249814,6 @@ sort: by_weight
 隆嘴翠𫁡	long zui cui li	1
 垄作	long zuo	695
 露白	lou bai	3125
-露白月微明	lou bai yue wei ming	1
 楼板	lou ban	22165
 漏报	lou bao	13325
 搂抱	lou bao	7395
@@ -249828,6 +249829,7 @@ sort: by_weight
 漏播	lou bo	1
 耧播	lou bo	1
 露不出	lou bu chu	145
+漏不出	lou bu chu	14
 露不出来	lou bu chu lai	25
 漏不出来	lou bu chu lai	20
 漏不了	lou bu liao	50
@@ -249873,9 +249875,11 @@ sort: by_weight
 漏打卡	lou da ka	73
 楼道	lou dao	27445
 楼道里	lou dao li	9425
+楼的	lou de	9999
 露得	lou de	5555
 露的	lou de	4444
-漏的	lou de	3333
+漏得	lou de	3333
+漏的	lou de	2222
 露得比	lou de bi	15
 漏得比	lou de bi	5
 娄底	lou di	18560
@@ -249889,12 +249893,11 @@ sort: by_weight
 漏电	lou dian	38695
 露点	lou dian	26165
 漏点	lou dian	3690
-楼店	lou dian	50
+# 楼店	lou dian	0
 漏电保护	lou dian bao hu	109
 露点图	lou dian tu	795
 露点图片	lou dian tu pian	855
 露点写真	lou dian xie zhen	375
-露点仪	lou dian yi	1300
 漏掉	lou diao	17105
 楼顶	lou ding	42745
 露顶	lou ding	190
@@ -249928,16 +249931,15 @@ sort: by_weight
 漏防冻液	lou fang dong ye	345
 楼房化	lou fang hua	290
 漏风	lou feng	4675
-楼风	lou feng	1335
+楼凤	lou feng	1335
 漏缝	lou feng	690
 露风	lou feng	525
-楼冯	lou feng	2
-露锋芒	lou feng mang	810
+# 楼冯	lou feng	0
 娄葑镇	lou feng zhen	45
 露富	lou fu	1715
 楼盖	lou gai	3230
-楼岗	lou gang	47
-楼冈	lou gang	3
+# 楼冈	lou gang	0
+# 楼岗	lou gang	0
 楼高	lou gao	1111
 楼高不见章台路	lou gao bu jian zhang tai lu	18
 楼高莫近危栏倚	lou gao mo jin wei lan yi	1
@@ -249946,7 +249948,6 @@ sort: by_weight
 楼阁玲珑五云起	lou ge ling long wu yun qi	3
 楼阁台	lou ge tai	6
 楼阁台榭	lou ge tai xie	3
-露骨	lou gu	12445
 蝼蛄	lou gu	9
 蝼蛄疖	lou gu jie	1
 漏谷穴	lou gu xue	1
@@ -250029,7 +250030,7 @@ sort: by_weight
 楼茂记	lou mao ji	20
 楼门	lou men	7660
 露面	lou mian	38370
-楼面	lou mian	15420
+楼面	lou mian	1542
 楼面地价	lou mian di jia	3085
 露苗	lou miao	111
 露奶	lou nai	355
@@ -250103,6 +250104,7 @@ sort: by_weight
 楼梯扶手	lou ti fu shou	4235
 楼梯间	lou ti jian	11905
 楼梯口	lou ti kou	12925
+露体癖	lou ti pi	725
 楼梯上	lou ti shang	10930
 漏填	lou tian	1160
 楼田	lou tian	24
@@ -250201,7 +250203,7 @@ sort: by_weight
 楼中心	lou zhong xin	165
 楼主	lou zhu	500773
 搂住	lou zhu	31770
-露拙	lou zhuo	1
+露拙	lou zhuo	1111
 篓子	lou zi	3720
 漏字	lou zi	1685
 娄子	lou zi	1545
@@ -250243,6 +250245,7 @@ sort: by_weight
 路霸	lu ba	1140
 陆霸	lu ba	1
 卤白菜	lu bai cai	1
+露白月微明	lu bai yue wei ming	1
 鲁班	lu ban	15510
 鲁班尺	lu ban chi	9999
 鲁班馆	lu ban guan	6
@@ -250342,7 +250345,6 @@ sort: by_weight
 潞城营	lu cheng ying	1
 潞城营四村	lu cheng ying si cun	1
 路程远	lu cheng yuan	1090
-露齿	lu chi	3765
 路痴	lu chi	2245
 露齿而笑	lu chi er xiao	280
 露齿笑	lu chi xiao	115
@@ -250354,12 +250356,7 @@ sort: by_weight
 露出	lu chu	249410
 露出来	lu chu lai	8575
 露出了	lu chu le	67500
-露出马脚	lu chu ma jiao	3335
-露出破绽	lu chu po zhan	2350
 露出去	lu chu qu	170
-露出水面	lu chu shui mian	5610
-露出笑容	lu chu xiao rong	5365
-露出原形	lu chu yuan xing	330
 撸串	lu chuan	9999
 陆川	lu chuan	6815
 撸串儿	lu chuan er	9999
@@ -250401,7 +250398,6 @@ sort: by_weight
 录的	lu de	31195
 路德	lu de	25906
 录得	lu de	7855
-露得比	lu de bi	15
 鲁德岛石龙子	lu de dao shi long zi	1
 路德会	lu de hui	365
 路德金	lu de jin	199
@@ -250441,14 +250437,10 @@ sort: by_weight
 鲁迪乌斯	lu di wu si	172
 陆地巡洋舰	lu di xun yang jian	10139
 芦笛岩	lu di yan	4300
-露地栽培	lu di zai pei	2310
 撸点	lu dian	6666
 露点	lu dian	2616
 # 鲁甸	lu dian	0
-露点图	lu dian tu	795
-露点图片	lu dian tu pian	855
 鲁甸县	lu dian xian	1110
-露点写真	lu dian xie zhen	375
 露点仪	lu dian yi	1300
 卢店镇	lu dian zhen	155
 炉鼎	lu ding	6666
@@ -250554,7 +250546,6 @@ sort: by_weight
 卢格	lu ge	1
 鲁戈回日	lu ge hui ri	1
 鲁戈挥日	lu ge hui ri	1
-露个脸儿	lu ge lian er	40
 录个像	lu ge xiang	205
 芦各庄	lu ge zhuang	4
 鲁各庄	lu ge zhuang	4
@@ -250614,7 +250605,6 @@ sort: by_weight
 卢锅巴	lu guo ba	198
 鲁国公	lu guo gong	142
 芦蝈蝈	lu guo guo	18
-露过面	lu guo mian	945
 陆海	lu hai	6585
 卤海带结	lu hai dai jie	1
 陆海空	lu hai kong	2340
@@ -250756,10 +250746,9 @@ sort: by_weight
 陆家嘴地铁站	lu jia zui di tie zhan	50
 陆家嘴花园	lu jia zui hua yuan	22
 陆家嘴路	lu jia zui lu	8
-露肩	lu jian	9999
 路肩	lu jian	5365
 路检	lu jian	1111
-鲁健	lu jian	1
+# 鲁健	lu jian	0
 路见不平	lu jian bu ping	5090
 路见不平拔刀相助	lu jian bu ping ba dao xiang zhu	131
 卢见曾	lu jian ceng	4
@@ -250989,7 +250978,6 @@ sort: by_weight
 鹿马村	lu ma cun	7
 鹿马登乡	lu ma deng xiang	10
 陆马蜂	lu ma feng	2
-露马脚	lu ma jiao	885
 路漫漫	lu man man	4580
 路漫漫其修远兮	lu man man qi xiu yuan xi	6730
 路漫漫兮	lu man man xi	575
@@ -251118,10 +251106,9 @@ sort: by_weight
 芦坪乡	lu ping xiang	12
 卢浦大桥	lu pu da qiao	154
 撸起	lu qi	17655
-露脐	lu qi	1440
 陆栖	lu qi	910
-卢琦	lu qi	17
-陆圻	lu qi	4
+# 卢琦	lu qi	0
+# 陆圻	lu qi	0
 陆栖动物	lu qi dong wu	5
 路绮欧	lu qi ou	65
 虏骑闻之应胆慑	lu qi wen zhi ying dan she	6
@@ -251147,7 +251134,6 @@ sort: by_weight
 路桥区	lu qiao qu	9165
 路桥乡	lu qiao xiang	3
 卢巧音	lu qiao yin	19
-露怯	lu qie	1485
 卢勤	lu qin	2800
 陆禽	lu qin	106
 路禽	lu qin	24
@@ -251227,7 +251213,6 @@ sort: by_weight
 鹿肉片	lu rou pian	68
 鹿肉汤	lu rou tang	93
 录入	lu ru	500322
-露乳	lu ru	3075
 录入难	lu ru nan	293
 录入人	lu ru ren	710
 录入日期	lu ru ri qi	2785
@@ -251241,7 +251226,6 @@ sort: by_weight
 卢萨卡	lu sa ka	840
 卢塞恩	lu sai en	2840
 卢赛尔	lu sai er	142
-露三点	lu san dian	935
 卢瑟福	lu se fu	2230
 卢瑟福原子模型	lu se fu yuan zi mo xing	35
 鲁瑟兰	lu se lan	4
@@ -251364,7 +251348,6 @@ sort: by_weight
 鹿首安神颗粒	lu shou an shen ke li	3
 卢寿荣	lu shou rong	344
 路数	lu shu	8595
-露曙光	lu shu guang	160
 卢淑仪	lu shu yi	1275
 漉菽以为汁	lu shu yi wei zhi	1180
 露水	lu shui	18200
@@ -251457,7 +251440,6 @@ sort: by_weight
 鹿特丹	lu te dan	10870
 鹿特丹公约	lu te dan gong yue	133
 炉体	lu ti	3875
-露体	lu ti	725
 鹿蹄草	lu ti cao	31
 露天	lu tian	65890
 # 炉田	lu tian	0
@@ -251493,16 +251475,15 @@ sort: by_weight
 卢同	lu tong	15
 卢童娟	lu tong juan	187
 颅痛宁颗粒	lu tong ning ke li	12
-露头	lu tou	6445
-炉头	lu tou	5975
-路头	lu tou	2165
-芦头	lu tou	40
-露头角	lu tou jiao	820
+鹿头	lu tou	3333
+路透	lu tou	2222
+炉头	lu tou	4
+路头	lu tou	3
+芦头	lu tou	2
 路透社	lu tou she	16120
 鹿头乡	lu tou xiang	10
 路途	lu tu	52765
 路途遥远	lu tu yao yuan	5720
-露臀	lu tun	865
 卢屯乡	lu tun xiang	11
 鹿豚亚科	lu tun ya ke	1
 炉瓦	lu wa	9999
@@ -251598,11 +251579,9 @@ sort: by_weight
 炉下	lu xia	29
 录下来	lu xia lai	6405
 路线	lu xian	421315
-露馅	lu xian	5185
-泸县	lu xian	5075
+# 泸县	lu xian	0
 鹿衔草	lu xian cao	442
 路线斗争	lu xian dou zheng	1180
-露馅儿	lu xian er	325
 泸县二中	lu xian er zhong	167
 路线方针政策	lu xian fang zhen zheng ce	9600
 陆仙人	lu xian ren	182
@@ -251650,7 +251629,7 @@ sort: by_weight
 麓星路	lu xing lu	1
 颅形拟绵蟹	lu xing ni mian xie	1
 陆行中学	lu xing zhong xue	5
-露胸	lu xiong	2360
+卢兄	lu xiong	236
 陆秀夫	lu xiu fu	44
 陆修静	lu xiu jing	5
 掳袖揎拳	lu xiu xuan quan	1
@@ -251705,7 +251684,6 @@ sort: by_weight
 鲁阳镇	lu yang zhen	2
 卢阳镇	lu yang zhen	1
 路遥	lu yao	10955
-露腰	lu yao	1111
 炉窑	lu yao	504
 # 陆耀	lu yao	0
 陆耀遹	lu yao yu	1
@@ -251757,7 +251735,6 @@ sort: by_weight
 路依维利	lu yi wei li	1
 鹿译文	lu yi wen	187
 撸一下	lu yi xia	12110
-露一下	lu yi xia	720
 录一下	lu yi xia	32
 鹿邑县	lu yi xian	1570
 鹿邑县人民检察院	lu yi xian ren min jian cha yuan	5
@@ -251765,8 +251742,7 @@ sort: by_weight
 鲁伊兹	lu yi zi	370
 录音	lu yin	320235
 路引	lu yin	1111
-露阴	lu yin	1085
-鲁银	lu yin	53
+# 鲁银	lu yin	0
 录音按钮	lu yin an niu	3333
 录音笔	lu yin bi	11635
 录音笔事件	lu yin bi shi jian	1
@@ -251786,7 +251762,6 @@ sort: by_weight
 录音麦克风	lu yin mai ke feng	3333
 录音门	lu yin men	15
 录音棚	lu yin peng	10200
-露阴癖	lu yin pi	1270
 录音片	lu yin pian	25
 录音器	lu yin qi	1055
 录音室	lu yin shi	12300
@@ -251796,7 +251771,6 @@ sort: by_weight
 露龈笑	lu yin xiao	1
 录音遗嘱	lu yin yi zhu	196
 录音员	lu yin yuan	180
-露阴症	lu yin zheng	4
 录音制品	lu yin zhi pin	3884
 录音制作者权	lu yin zhi zuo zhe quan	773
 露营	lu ying	35495
@@ -252976,9 +252950,7 @@ sort: by_weight
 罗德里格斯	luo de li ge si	4095
 罗德利哥与加布里耶菈	luo de li ge yu jia bu li ye la	1
 罗德曼	luo de man	2790
-罗德西亚	luo de xi ya	190
 罗得西亚背脊犬	luo de xi ya bei ji quan	2
-罗德西亚背犬	luo de xi ya bei quan	1
 罗得西亚脊背犬	luo de xi ya ji bei quan	75
 落得像	luo de xiang	135
 落地	luo di	138395
@@ -253309,6 +253281,8 @@ sort: by_weight
 逻辑清晰	luo ji qing xi	140
 逻辑驱动器	luo ji qu dong qi	3400
 逻辑缺陷	luo ji que xian	134
+落基山	luo ji shan	1025
+螺髻山	luo ji shan	2
 落基山马鹿	luo ji shan ma lu	1
 落基山脉	luo ji shan mai	1025
 逻辑上	luo ji shang	15275
@@ -253499,11 +253473,6 @@ sort: by_weight
 罗龙	luo long	89
 洛隆县	luo long xian	275
 罗龙镇	luo long zhen	176
-裸露	luo lou	54665
-裸露出	luo lou chu	1815
-裸露身体	luo lou shen ti	2955
-裸露异毛蚓	luo lou yi mao yin	1
-裸露着	luo lou zhe	2980
 裸露	luo lu	54665
 裸露出	luo lu chu	1815
 络路径	luo lu jing	3
@@ -254495,6 +254464,8 @@ sort: by_weight
 吕端	lv duan	22
 吕端大事不糊涂	lv duan da shi bu hu tu	27
 履端于始	lv duan yu shi	7
+驴儿	lv er	2222
+驴耳	lv er	1111
 驴耳鲍螺	lv er bao luo	1
 律法	lv fa	15080
 旅法	lv fa	2165
@@ -258859,7 +258830,6 @@ sort: by_weight
 慢慢来吧	man man lai ba	1800
 慢慢来嘛	man man lai ma	390
 慢慢露出	man man lou chu	280
-慢慢露出	man man lu chu	280
 慢慢前进	man man qian jin	505
 蔓蔓日茂	man man ri mao	1
 满满实实	man man shi shi	12
@@ -290109,7 +290079,6 @@ sort: by_weight
 炮筒子	pao tong zi	225
 抛投	pao tou	1635
 泡透	pao tou	770
-抛头露面	pao tou lou mian	6350
 抛头颅	pao tou lu	2870
 抛头露面	pao tou lu mian	6350
 刨土	pao tu	670
@@ -292079,8 +292048,8 @@ sort: by_weight
 皮海洲	pi hai zhou	350
 脾寒	pi han	16
 脾寒草	pi han cao	1
-批号	pi hao	53030
 癖好	pi hao	8600
+批号	pi hao	5303
 披褐怀金	pi he huai jin	1
 匹河怒族乡	pi he nu zu xiang	15
 脾合胃	pi he wei	2
@@ -315055,7 +315024,6 @@ sort: by_weight
 拳不离手	quan bu li shou	660
 劝不了	quan bu liao	505
 全部露出说	quan bu lou chu shuo	6
-全部露出说	quan bu lu chu shuo	6
 全部履行法	quan bu lv xing fa	30
 全部买下	quan bu mai xia	560
 全部免费	quan bu mian fei	14900
@@ -338775,20 +338743,21 @@ sort: by_weight
 赊账免言	she zhang mian yan	1
 蛇沼鬼城	she zhao gui cheng	115
 奢者狼藉俭者安	she zhe lang ji jian zhe an	2
+涉政	she zheng	5555
 摄政	she zheng	4845
-涉政	she zheng	3333
 舍证从脉	she zheng cong mai	2
 摄政权	she zheng quan	1
 摄政时期	she zheng shi qi	75
 摄政王	she zheng wang	5810
 摄政者	she zheng zhe	150
 设置	she zhi	501477
-摄制	she zhi	30605
-社址	she zhi	5380
+摄制	she zhi	306
+社址	she zhi	138
 设置别名	she zhi bie ming	996
 设置不了	she zhi bu liao	67
 设置参数	she zhi can shu	6635
 设置成	she zhi cheng	38230
+摄制成	she zhi cheng	1
 设置窗口	she zhi chuang kou	9835
 设置大小	she zhi da xiao	755
 设置得	she zhi de	1180
@@ -342015,7 +341984,6 @@ sort: by_weight
 深圳龙岗	shen zhen long gang	3415
 深圳露齿螺	shen zhen lou chi luo	1
 深圳路	shen zhen lu	509
-深圳露齿螺	shen zhen lu chi luo	1
 深圳罗湖	shen zhen luo hu	6365
 深圳迈瑞	shen zhen mai rui	1
 深圳能源	shen zhen neng yuan	1
@@ -342219,6 +342187,8 @@ sort: by_weight
 圣安德	sheng an de	565
 省安装公司	sheng an zhuang gong si	16
 圣奥古斯丁	sheng ao gu si ding	44
+生吧	sheng ba	5555
+升吧	sheng ba	3333
 圣芭芭拉	sheng ba ba la	16
 圣芭蒂	sheng ba di	2
 圣巴泰勒米	sheng ba tai le mi	3333
@@ -343500,10 +343470,10 @@ sort: by_weight
 盛龙路	sheng long lu	7
 圣龙魔袍	sheng long mo pao	6
 升隆乡	sheng long xiang	1
-圣露西亚岛	sheng lou xi ya dao	30
 生路	sheng lu	17855
 圣卢拟鹂	sheng lu ni li	1
 圣卢西亚	sheng lu xi ya	1570
+圣露西亚岛	sheng lu xi ya dao	30
 圣卢西亚黑雀	sheng lu xi ya hei que	1
 圣卢西亚黑雀属	sheng lu xi ya hei que shu	1
 圣卢西亚巨稻鼠	sheng lu xi ya ju dao shu	1
@@ -343728,9 +343698,9 @@ sort: by_weight
 圣诺兰	sheng nuo lan	6
 圣诺园	sheng nuo yuan	128
 圣女	sheng nv	19800
+剩女	sheng nv	6195
 生女	sheng nv	5890
 甥女	sheng nv	1110
-剩女	sheng nv	195
 圣女的军旗	sheng nv de jun qi	1
 圣女果	sheng nv guo	3226
 圣女战旗	sheng nv zhan qi	118
@@ -375374,7 +375344,6 @@ sort: by_weight
 抬龙头	tai long tou	113
 太龙药业	tai long yao ye	142
 胎漏	tai lou	11
-太露骨了	tai lou gu le	345
 太鲁阁	tai lu ge	1265
 太露骨了	tai lu gu le	345
 泰卢固语	tai lu gu yu	45
@@ -377426,7 +377395,6 @@ sort: by_weight
 檀林村	tan lin cun	6
 叹流年又成虚度	tan liu nian you cheng xu du	1
 谈拢	tan long	1280
-袒露出	tan lou chu	375
 探路	tan lu	14870
 袒露	tan lu	7485
 坦露	tan lu	2965
@@ -377955,10 +377923,6 @@ sort: by_weight
 袒胸露臂	tan xiong lou bi	400
 袒胸露腹	tan xiong lou fu	210
 袒胸露乳	tan xiong lou ru	435
-袒胸露背	tan xiong lu bei	730
-袒胸露臂	tan xiong lu bi	400
-袒胸露腹	tan xiong lu fu	210
-袒胸露乳	tan xiong lu ru	435
 袒胸裸臂	tan xiong luo bi	1
 倓虚	tan xu	8
 探玄珠	tan xuan zhu	1
@@ -390935,13 +390899,13 @@ sort: by_weight
 头领	tou ling	16460
 偷溜	tou liu	5555
 投流	tou liu	111
-透露	tou lou	9999
-偷漏	tou lou	2010
-透露出	tou lou chu	29200
-透露风声	tou lou feng sheng	60
+透漏	tou lou	9999
+偷漏	tou lou	201
+透漏出	tou lou chu	29200
+透漏风声	tou lou feng sheng	60
 偷漏税	tou lou shui	4065
-透露消息	tou lou xiao xi	770
-透露着	tou lou zhe	9250
+透漏消息	tou lou xiao xi	770
+透漏着	tou lou zhe	9250
 透露	tou lu	500261
 头颅	tou lu	42940
 偷录	tou lu	1775
@@ -392448,12 +392412,11 @@ sort: by_weight
 屠龙之伎	tu long zhi ji	1
 屠龙之计	tu long zhi ji	1
 土楼	tu lou	13705
-吐露出	tu lou chu	1370
 吐露	tu lu	14780
 屠戮	tu lu	13085
 土路	tu lu	12660
 秃噜	tu lu	3333
-图录	tu lu	1
+图录	tu lu	2
 吐露出	tu lu chu	1370
 吐鲁茨龙	tu lu ci long	1
 吐鲁番	tu lu fan	30825
@@ -394061,6 +394024,8 @@ sort: by_weight
 退票	tui piao	40160
 退票费	tui piao fei	7375
 退聘	tui pin	1111
+推平	tui ping	1000
+推平了	tui ping le	100
 退坡	tui po	20
 推普	tui pu	165
 推起	tui qi	2285
@@ -403407,7 +403372,7 @@ sort: by_weight
 未解决	wei jie jue	12010
 为解决	wei jie jue	78
 为借口	wei jie kou	14085
-未揭露	wei jie lou	20
+未揭露	wei jie lu	20
 惟解漫天作雪飞	wei jie man tian zuo xue fei	9
 未解释	wei jie shi	170
 胃结石	wei jie shi	71
@@ -403988,8 +403953,8 @@ sort: by_weight
 桅楼	wei lou	1
 # 魏楼	wei lou	0
 魏楼村	wei lou cun	14
-微露	wei lu	4695
 围炉	wei lu	2885
+微露	wei lu	469
 围炉火锅	wei lu huo guo	8
 威鲁鳞窗螺	wei lu lin chuang luo	1
 未录取	wei lu qu	171
@@ -423766,7 +423731,7 @@ sort: by_weight
 下腹痛	xia fu tong	2355
 下附突	xia fu tu	1
 下服务器	xia fu wu qi	680
-瞎该	xia gai	6825
+瞎改	xia gai	6825
 下疳	xia gan	3535
 虾干	xia gan	990
 瞎干	xia gan	185
@@ -424955,7 +424920,6 @@ sort: by_weight
 狭小	xia xiao	52620
 狭小菲策吸虫	xia xiao fei ce xi chong	1
 狭小露齿螺	xia xiao lou chi luo	1
-狭小露齿螺	xia xiao lu chi luo	1
 狭小片菊花珊瑚	xia xiao pian ju hua shan hu	1
 下笑世上士	xia xiao shi shang shi	1
 下小雪	xia xiao xue	785
@@ -426735,11 +426699,6 @@ sort: by_weight
 显龙乡	xian long xiang	3
 见龙在田	xian long zai tian	1645
 现楼	xian lou	1790
-显露出	xian lou chu	19515
-显露出来	xian lou chu lai	9630
-仙露明珠	xian lou ming zhu	75
-显露头角	xian lou tou jiao	400
-显露着	xian lou zhe	840
 显露	xian lu	44010
 线路	xian lu	5003
 先露	xian lu	2700
@@ -426759,6 +426718,7 @@ sort: by_weight
 线路工	xian lu gong	440
 线路故障	xian lu gu zhang	2935
 线路名	xian lu ming	47
+仙露明珠	xian lu ming zhu	75
 线路设备	xian lu she bei	595
 线路输出	xian lu shu chu	1000
 线路损耗	xian lu sun hao	825
@@ -427161,7 +427121,6 @@ sort: by_weight
 仙山村	xian shan cun	19
 弦山街道	xian shan jie dao	2
 仙山楼阁	xian shan lou ge	240
-显山露水	xian shan lou shui	3465
 显山露水	xian shan lu shui	3465
 仙山琼阁	xian shan qiong ge	730
 线上	xian shang	158925
@@ -428645,6 +428604,7 @@ sort: by_weight
 想不想	xiang bu xiang	13070
 像不像	xiang bu xiang	5320
 香不香	xiang bu xiang	415
+响不响	xiang bu xiang	2
 想不想去	xiang bu xiang qu	12
 想不想我	xiang bu xiang wo	290
 降不住	xiang bu zhu	90
@@ -434932,7 +434892,6 @@ sort: by_weight
 削球	xiao qiu	2720
 晓秋	xiao qiu	1
 小球露齿螺	xiao qiu lou chi luo	1
-小球露齿螺	xiao qiu lu chi luo	1
 小丘山	xiao qiu shan	1
 削球手	xiao qiu shou	460
 小秋收	xiao qiu shou	60
@@ -437837,9 +437796,9 @@ sort: by_weight
 蟹柳沙拉	xie liu sha la	8
 谢六逸	xie liu yi	3
 蟹龙属	xie long shu	1
-泄露	xie lou	148835
-泄漏	xie lou	103220
-谢楼	xie lou	2
+泄露	xie lou	14883
+泄漏	xie lou	10322
+谢喽	xie lou	2222
 泄露国家机密	xie lou guo jia ji mi	3740
 泄露国家机密罪	xie lou guo jia ji mi zui	210
 泄露机密	xie lou ji mi	890
@@ -442115,7 +442074,6 @@ sort: by_weight
 新闻里	xin wen li	9999
 新闻里的	xin wen li de	9999
 新闻联播	xin wen lian bo	21850
-昕雯联播	xin wen lian bo	145
 新文路步行街	xin wen lu bu xing jie	3
 新闻吗	xin wen ma	1010
 新闻媒介	xin wen mei jie	11490
@@ -453125,7 +453083,6 @@ sort: by_weight
 亚利桑那州	ya li sang na zhou	3920
 亚莉森·海塔尔	ya li sen hai ta er	111
 亚历山大	ya li shan da	32455
-亚力山大	ya li shan da	2865
 亚历山大大帝	ya li shan da da di	58
 亚历山大宫	ya li shan da gong	115
 亚历山大女皇鸟翼凤蝶	ya li shan da nv huang niao yi feng die	1
@@ -464553,7 +464510,6 @@ sort: by_weight
 移不了	yi bu liao	30
 一不留神	yi bu liu shen	10405
 一部露出说	yi bu lou chu shuo	1
-一部露出说	yi bu lu chu shuo	1
 亦不难	yi bu nan	64
 已不能	yi bu neng	22750
 亦不能	yi bu neng	21790
@@ -475597,7 +475553,6 @@ sort: by_weight
 音板	yin ban	1925
 银板	yin ban	270
 银斑露胸天牛	yin ban lou xiong tian niu	1
-银斑露胸天牛	yin ban lu xiong tian niu	1
 印斑歧须𬶏	yin ban qi xu wei	1
 银邦股份	yin bang gu fen	117
 引爆	yin bao	37925
@@ -476010,7 +475965,6 @@ sort: by_weight
 印度露齿鲨	yin du lou chi sha	1
 银都路	yin du lu	104
 印度卢比	yin du lu bi	530
-印度露齿鲨	yin du lu chi sha	1
 印度陆龟	yin du lu gui	7
 印度裸颊鰕虎鱼	yin du luo jia xia hu yu	1
 印度盲胡鲶	yin du mang hu nian	1
@@ -476843,6 +476797,7 @@ sort: by_weight
 饮料销售	yin liao xiao shou	850
 饮料业	yin liao ye	2695
 饮料有限公司	yin liao you xian gong si	4975
+银鳞	yin lin	2
 银鳞碧珠	yin lin bi zhu	1
 隐鳞藏彩	yin lin cang cai	1
 隐鳞戢翼	yin lin ji yi	1
@@ -476871,11 +476826,11 @@ sort: by_weight
 银龙杯	yin long bei	106
 银龙花园	yin long hua yuan	183
 银楼	yin lou	2990
-饮露餐风	yin lou can feng	10
 因陋就简	yin lou jiu jian	2325
 因陋守旧	yin lou shou jiu	1
 引路	yin lu	20405
 银鹭	yin lu	1820
+饮露餐风	yin lu can feng	10
 饮鹿池桥	yin lu chi qiao	9
 引路人	yin lu ren	4560
 银鹿乡	yin lu xiang	1
@@ -476960,7 +476915,6 @@ sort: by_weight
 印模石膏	yin mo shi gao	1
 印模托盘	yin mo tuo pan	10
 阴谋	yin mou	472552
-阴谋败露	yin mou bai lou	685
 阴谋败露	yin mou bai lu	685
 阴谋得逞	yin mou de cheng	1700
 阴谋颠覆政府罪	yin mou dian fu zheng fu zui	104
@@ -497415,8 +497369,6 @@ sort: by_weight
 越亮越危险	yue liang yue wei xian	140
 月亮之上	yue liang zhi shang	6105
 越聊越开心	yue liao yue kai xin	155
-越聊越露	yue liao yue lou	155
-越聊越露骨	yue liao yue lou gu	90
 越聊越露骨	yue liao yue lu gu	90
 越聊越起劲	yue liao yue qi jin	65
 越聊越投机	yue liao yue tou ji	300
@@ -497431,7 +497383,6 @@ sort: by_weight
 跃龙路	yue long lu	4
 跃龙南路	yue long nan lu	2
 跃龙属	yue long shu	1
-月露风云	yue lou feng yun	70
 越露越多	yue lou yue duo	85
 岳麓	yue lu	6150
 约鲁巴	yue lu ba	410
@@ -506836,8 +506787,6 @@ sort: by_weight
 斩六将	zhan liu jiang	715
 占流通股	zhan liu tong gu	915
 站笼	zhan long	466
-展露出	zhan lou chu	2430
-展露出来	zhan lou chu lai	655
 展露	zhan lu	20980
 绽露	zhan lu	9999
 粘鲈	zhan lu	1
@@ -520406,15 +520355,14 @@ sort: by_weight
 纸篓	zhi lou	3875
 只露	zhi lou	2420
 痔漏	zhi lou	475
-支楼	zhi lou	1
+# 支楼	zhi lou	0
 只露出	zhi lou chu	5720
 纸漏斗	zhi lou dou	99
 之路	zhi lu	298910
-支路	zhi lu	18390
 指路	zhi lu	13885
+支路	zhi lu	8390
 直路	zhi lu	4050
 直录	zhi lu	3105
-只露	zhi lu	2420
 直露	zhi lu	111
 指路碑	zhi lu bei	10
 只露出	zhi lu chu	5720
@@ -521559,7 +521507,6 @@ sort: by_weight
 止赎权	zhi shu quan	73
 指数时间	zhi shu shi jian	275
 知书识礼	zhi shu shi li	1105
-知书识理	zhi shu shi li	80
 知书通礼	zhi shu tong li	2
 枳术丸	zhi shu wan	5
 指树为姓	zhi shu wei xing	1
@@ -526135,7 +526082,6 @@ sort: by_weight
 中华突眼木蜂	zhong hua tu yan mu feng	1
 中华网	zhong hua wang	23855
 中华伪露齿螺	zhong hua wei lou chi luo	1
-中华伪露齿螺	zhong hua wei lu chi luo	1
 中华卫士	zhong hua wei shi	87
 中华卫士防火墙	zhong hua wei shi fang huo qiang	87
 中华卫士网络	zhong hua wei shi wang luo	87
@@ -531559,19 +531505,19 @@ sort: by_weight
 竹口村	zhu kou cun	2
 主库	zhu ku	405
 主跨	zhu kua	1645
-注会	zhu kuai	8525
 竹筷	zhu kuai	3685
-铸块	zhu kuai	3480
+注会	zhu kuai	1852
+铸块	zhu kuai	348
 竹筐	zhu kuang	2475
 助困	zhu kun	4445
-朱坤	zhu kun	53
+# 朱坤	zhu kun	0
 朱昆田	zhu kun tian	1
 朱拉隆功	zhu la long gong	163
 煮烂	zhu lan	6730
 竹篮	zhu lan	6030
 猪栏	zhu lan	2620
 珠兰	zhu lan	999
-竹榄	zhu lan	4
+# 竹榄	zhu lan	0
 猪栏坂	zhu lan ban	11
 珠兰大方	zhu lan da fang	13
 竹篮打水	zhu lan da shui	900
@@ -543846,6 +543792,8 @@ sort: by_weight
 最黑	zui hei	6795
 最狠	zui hen	7425
 最恨	zui hen	3405
+最狠的	zui hen de	3333
+最恨的	zui hen de	2222
 最红	zui hong	11375
 醉虹楼	zui hong lou	1
 最后	zui hou	502266
