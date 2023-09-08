@@ -1736,10 +1736,14 @@
 # 「伶牙利齿、灵牙利齿、伶牙利爪」→「伶牙俐齿、伶牙俐爪」
 # 「噌地一下、噌地一声」→「噌的一下、噌的一声」
 # 「桃花园」→「桃花源」
+# 「塔克拉马干」→「塔克拉玛干」
+# 「德鲁依」→「德鲁伊」
+# 「阿帕契」→「阿帕奇」
+# 「爆击」→「暴击」
 #///
 ---
 name: base
-version: "2023-09-04"
+version: "2023-09-08"
 sort: by_weight
 ...
 # +_+
@@ -9737,6 +9741,7 @@ sort: by_weight
 百病丛生	bai bing cong sheng	700
 百病皆生于气	bai bing jie sheng yu qi	9
 白冰淇淋	bai bing qi lin	194
+白波	bai bo	111
 白波九道流雪山	bai bo jiu dao liu xue shan	2
 摆布	bai bu	20210
 百步	bai bu	18470
@@ -12199,7 +12204,6 @@ sort: by_weight
 白雪难和	bai xue nan he	1
 白雪却嫌春色晚	bai xue que xian chun se wan	19
 白雪塔	bai xue ta	4
-败血症	bai xue zheng	12095
 白鲟	bai xun	1111
 白牙	bai ya	5775
 白鸦	bai ya	111
@@ -26128,7 +26132,6 @@ sort: by_weight
 便鞋	bian xie	2360
 边写边	bian xie bian	605
 边写边读	bian xie bian du	12
-便血病	bian xie bing	1
 编写程序	bian xie cheng xu	6740
 编写出	bian xie chu	5805
 便携存储	bian xie cun chu	210
@@ -26214,7 +26217,6 @@ sort: by_weight
 边学边练	bian xue bian lian	700
 边学边用	bian xue bian yong	495
 边学边做	bian xue bian zuo	665
-便血病	bian xue bing	1
 边学习	bian xue xi	6910
 遍寻	bian xun	4385
 变压	bian ya	7920
@@ -27448,6 +27450,7 @@ sort: by_weight
 别对	bie dui	8450
 别多管闲事	bie duo guan xian shi	170
 别尔嘉耶夫	bie er jia ye fu	14
+别发	bie fa	5555
 别发呆	bie fa dai	184
 别发火	bie fa huo	330
 别发了	bie fa le	150
@@ -31968,7 +31971,8 @@ sort: by_weight
 布地奈德气雾剂	bu di nai de qi wu ji	2
 不低头	bu di tou	1790
 不低于	bu di yu	162270
-布点	bu dian	15110
+不点	bu dian	9999
+布点	bu dian	5110
 布店	bu dian	1900
 布垫	bu dian	1825
 不点灯	bu dian deng	1790
@@ -55862,7 +55866,7 @@ sort: by_weight
 冲凉先	chong liang xian	3508
 重临	chong lin	1305
 重楼	chong lou	9999
-冲蒌	chong lou	19
+# 冲蒌	chong lou	0
 重楼点翠	chong lou dian cui	1
 重楼飞阁	chong lou fei ge	1
 重录	chong lu	905
@@ -61634,8 +61638,6 @@ sort: by_weight
 吹箫间笙簧	chui xiao jian sheng huang	3
 吹箫人去玉楼空	chui xiao ren qu yu lou kong	2
 垂心	chui xin	125
-椎心泣血	chui xin qi xie	290
-椎心泣血	chui xin qi xue	290
 捶胸	chui xiong	1310
 捶胸大哭	chui xiong da ku	140
 捶胸顿脚	chui xiong dun jiao	5
@@ -66575,8 +66577,6 @@ sort: by_weight
 大便不通	da bian bu tong	960
 大辩不言	da bian bu yan	10
 搭便车	da bian che	6255
-大便出血	da bian chu xie	470
-大便出血	da bian chu xue	470
 大变动	da bian dong	2940
 大蝙蝠	da bian fu	915
 大变革	da bian ge	5865
@@ -66592,7 +66592,6 @@ sort: by_weight
 大便秘结	da bian mi jie	4160
 答辩期	da bian qi	540
 答辩前	da bian qian	68
-大便潜血	da bian qian xue	48
 答辩人	da bian ren	3340
 大辩若讷	da bian ruo ne	360
 大变身	da bian shen	1900
@@ -68789,9 +68788,9 @@ sort: by_weight
 大叫	da jiao	104755
 大脚	da jiao	23105
 打搅	da jiao	12440
-大角	da jiao	5970
 打胶	da jiao	3333
 大轿	da jiao	2060
+大角	da jiao	597
 大蕉	da jiao	2
 # 大觉	da jiao	0
 # 打醮	da jiao	0
@@ -71528,7 +71527,6 @@ sort: by_weight
 # 达奚	da xi	0
 # 达西	da xi	0
 大细胞	da xi bao	540
-大细胞性贫血	da xi bao xing pin xue	2
 大西北	da xi bei	7865
 大溪村	da xi cun	66
 大西村	da xi cun	13
@@ -77619,6 +77617,7 @@ sort: by_weight
 导读	dao du	51745
 道顿堀	dao dun ku	1
 到多少	dao duo shao	73
+道恩	dao en	1111
 道恩·强森	dao en qiang sen	111
 刀儿	dao er	9999
 道儿	dao er	6520
@@ -107575,6 +107574,7 @@ sort: by_weight
 范徐丽泰	fan xu li tai	525
 反序列化	fan xu lie hua	12149
 返虚入浑	fan xu ru hun	1
+反选	fan xuan	5555
 反旋	fan xuan	355
 反宣品	fan xuan pin	102
 返学	fan xue	1111
@@ -111221,7 +111221,8 @@ sort: by_weight
 费加罗	fei jia luo	1820
 费加罗报	fei jia luo bao	1215
 飞溅	fei jian	22790
-飞剑	fei jian	1111
+飞剑	fei jian	3333
+飞键	fei jian	1111
 飞溅的水	fei jian de shui	505
 非建立	fei jian li	50
 非键盘	fei jian pan	95
@@ -120887,14 +120888,14 @@ sort: by_weight
 赋闲在家	fu xian zai jia	2160
 副县长	fu xian zhang	37260
 服先镇	fu xian zhen	7
-福祥	fu xiang	6525
 浮想	fu xiang	3805
 负向	fu xiang	2690
 副项	fu xiang	2222
 浮箱	fu xiang	2111
 福相	fu xiang	1410
-副相	fu xiang	1080
 附项	fu xiang	735
+副相	fu xiang	108
+# 福祥	fu xiang	0
 负相关	fu xiang guan	5360
 福祥胡同	fu xiang hu tong	17
 氟橡胶	fu xiang jiao	3350
@@ -120903,9 +120904,10 @@ sort: by_weight
 福祥路	fu xiang lu	3
 富祥药业	fu xiang yao ye	105
 副乡长	fu xiang zhang	5320
-附小	fu xiao	25190
 拂晓	fu xiao	10475
-复校	fu xiao	1295
+附小	fu xiao	2519
+服孝	fu xiao	555
+复校	fu xiao	129
 附小操场	fu xiao cao chang	4
 付晓芳	fu xiao fang	2
 孵小鸡	fu xiao ji	755
@@ -124722,11 +124724,7 @@ sort: by_weight
 感遇忘身	gan yu wang shen	1
 干预下	gan yu xia	2595
 赣榆县	gan yu xian	4890
-肝淤血	gan yu xie	2
-肝郁血虚证	gan yu xie xu zheng	1
 肝俞穴	gan yu xue	8
-肝淤血	gan yu xue	2
-肝郁血虚证	gan yu xue xu zheng	1
 干预政策	gan yu zheng ce	365
 敢于直面	gan yu zhi mian	123
 甘愿	gan yuan	28255
@@ -124972,7 +124970,7 @@ sort: by_weight
 刚才是	gang cai shi	6055
 钢材市场	gang cai shi chang	14285
 刚才死机了	gang cai si ji le	10
-钢材网	gang cai wang	251
+刚才往	gang cai wang	251
 刚才我	gang cai wo	151
 刚才有事	gang cai you shi	276
 刚才在	gang cai zai	14325
@@ -125329,7 +125327,6 @@ sort: by_weight
 肛门	gang men	62415
 钢门	gang men	1530
 肛门闭锁	gang men bi suo	74
-肛门出血	gang men chu xue	50
 肛门袋	gang men dai	12
 肛门管	gang men guan	10
 肛门镜	gang men jing	36
@@ -125731,7 +125728,6 @@ sort: by_weight
 高安市	gao an shi	3585
 高安屯	gao an tun	230
 高安县	gao an xian	14
-高氨血症	gao an xue zheng	8
 高昂	gao ang	67250
 高昂着	gao ang zhe	555
 高傲	gao ao	35280
@@ -125773,7 +125769,6 @@ sort: by_weight
 高背椅	gao bei yi	420
 稿本	gao ben	3985
 藁本	gao ben	635
-高苯丙氨酸血症	gao ben bing an suan xue zheng	5
 高本缨鲆	gao ben ying ping	1
 高鼻	gao bi	3405
 高比例的	gao bi li de	2365
@@ -125933,7 +125928,6 @@ sort: by_weight
 高淳县	gao chun xian	4085
 告辞	gao ci	32490
 高次方程	gao ci fang cheng	335
-高催乳素血症	gao cui ru su xue zheng	1
 高村	gao cun	739
 高村村	gao cun cun	13
 高村村委会	gao cun cun wei hui	23
@@ -126227,8 +126221,6 @@ sort: by_weight
 高负载	gao fu zai	2738
 高钙	gao gai	999
 # 高盖	gao gai	0
-高钙血症	gao gai xie zheng	1270
-高钙血症	gao gai xue zheng	1270
 高干	gao gan	5430
 糕干	gao gan	1
 高杆灯	gao gan deng	1550
@@ -126236,7 +126228,6 @@ sort: by_weight
 高秆粉	gao gan fen	1
 高感光	gao gan guang	1655
 高感光度	gao gan guang du	6675
-高甘油三酯血症	gao gan you san zhi xue zheng	37
 高秆珍珠茅	gao gan zhen zhu mao	1
 高干子弟	gao gan zi di	2715
 高干子女	gao gan zi nv	765
@@ -126402,7 +126393,6 @@ sort: by_weight
 # 高虎	gao hu	0
 高湖村	gao hu cun	20
 高呼口号	gao hu kou hao	705
-高胡萝卜素血症	gao hu luo bo su xue zheng	12
 搞糊涂	gao hu tu	2210
 高呼万岁	gao hu wan sui	590
 高华	gao hua	5245
@@ -126586,8 +126576,6 @@ sort: by_weight
 高甲戏	gao jia xi	9999
 高家巷	gao jia xiang	1
 高家小区	gao jia xiao qu	10
-高钾血症	gao jia xie zheng	955
-高钾血症	gao jia xue zheng	955
 高家堰	gao jia yan	47
 高价药	gao jia yao	1120
 高家营	gao jia ying	8
@@ -126953,7 +126941,6 @@ sort: by_weight
 搞毛	gao mao	9999
 高帽	gao mao	3290
 高帽子	gao mao zi	2230
-高镁血症	gao mei xue zheng	5
 高门	gao men	2770
 高门大屋	gao men da wu	5
 高门大宅	gao men da zhai	3
@@ -126974,7 +126961,6 @@ sort: by_weight
 高密度脂蛋白	gao mi du zhi dan bai	155
 高密度脂蛋白胆固醇	gao mi du zhi dan bai dan gu chun	122
 高密蜜枣	gao mi mi zao	8
-高泌乳素血症	gao mi ru su xue zheng	17
 高密市	gao mi shi	4025
 高密市朝阳街道办事处	gao mi shi chao yang jie dao ban shi chu	1
 高密县	gao mi xian	335
@@ -127019,8 +127005,6 @@ sort: by_weight
 槁木死灰	gao mu si hui	280
 高呐	gao na	111
 # 高娜	gao na	0
-高钠血症	gao na xie zheng	265
-高钠血症	gao na xue zheng	265
 高难	gao nan	4195
 # 高南	gao nan	0
 高难动作	gao nan dong zuo	1030
@@ -127040,11 +127024,9 @@ sort: by_weight
 告你	gao ni	3333
 搞你	gao ni	1111
 高尼奥	gao ni ao	8
-高黏稠血症	gao nian chou xue zheng	1
 高黏度	gao nian du	4830
 高年级	gao nian ji	23645
 高年级生	gao nian ji sheng	210
-高尿酸血症	gao niao suan xue zheng	301
 # 高宁	gao ning	0
 高柠檬酸	gao ning meng suan	1
 高浓度	gao nong du	24435
@@ -127501,7 +127483,6 @@ sort: by_weight
 高炭钢	gao tan gang	13
 高谈剧论	gao tan ju lun	1
 高谈阔论	gao tan kuo lun	10300
-高碳酸血症	gao tan suan xue zheng	22
 高谈危论	gao tan wei lun	1
 高弹性	gao tan xing	6195
 高谈虚辞	gao tan xu ci	1
@@ -127550,10 +127531,6 @@ sort: by_weight
 高铁乘务	gao tie cheng wu	157
 高铁哥	gao tie ge	1
 高铁上	gao tie shang	156
-高铁血红蛋白	gao tie xie hong dan bai	1265
-高铁血红蛋白血症	gao tie xie hong dan bai xue zheng	34
-高铁血红蛋白	gao tie xue hong dan bai	1265
-高铁血红蛋白血症	gao tie xue hong dan bai xue zheng	34
 高挺	gao ting	5555
 高庭	gao ting	1111
 # 高亭	gao ting	0
@@ -127769,19 +127746,6 @@ sort: by_weight
 告谢	gao xie	1700
 膏蟹	gao xie	1560
 # 高燮	gao xie	0
-高血糖	gao xie tang	9960
-高血压	gao xie ya	182565
-高血压病	gao xie ya bing	13700
-高血压的	gao xie ya de	15880
-高血压防治	gao xie ya fang zhi	172
-高血压患者	gao xie ya huan zhe	2733
-高血压速降丸	gao xie ya su jiang wan	1
-高血压危象	gao xie ya wei xiang	30
-高血压性脑病	gao xie ya xing nao bing	1
-高血压性心脏病	gao xie ya xing xin zang bing	66
-高血压药	gao xie ya yao	1600
-高血脂	gao xie zhi	18890
-高血脂症	gao xie zhi zheng	3330
 高薪	gao xin	78855
 高新	gao xin	8763
 # 高辛	gao xin	0
@@ -127870,19 +127834,6 @@ sort: by_weight
 膏血	gao xue	9999
 高学历	gao xue li	32600
 高雪轮	gao xue lun	3
-高血糖	gao xue tang	9960
-高血压	gao xue ya	182565
-高血压病	gao xue ya bing	13700
-高血压的	gao xue ya de	15880
-高血压防治	gao xue ya fang zhi	172
-高血压患者	gao xue ya huan zhe	2733
-高血压速降丸	gao xue ya su jiang wan	1
-高血压危象	gao xue ya wei xiang	30
-高血压性脑病	gao xue ya xing nao bing	1
-高血压性心脏病	gao xue ya xing xin zang bing	66
-高血压药	gao xue ya yao	1600
-高血脂	gao xue zhi	18890
-高血脂症	gao xue zhi zheng	3330
 高压	gao ya	221835
 高雅	gao ya	117795
 # 高崖	gao ya	0
@@ -127977,8 +127928,6 @@ sort: by_weight
 搞一遍	gao yi bian	75
 高义伯胡同	gao yi bo hu tong	2
 高义薄云	gao yi bo yun	130
-高胰岛素血症	gao yi dao su xie zheng	83
-高胰岛素血症	gao yi dao su xue zheng	83
 高一点	gao yi dian	10285
 搞一点	gao yi dian	1850
 告一段落	gao yi duan luo	25575
@@ -128073,8 +128022,6 @@ sort: by_weight
 高原气候	gao yuan qi hou	3320
 高原适应不全症	gao yuan shi ying bu quan zheng	3
 高院推广	gao yuan tui guang	68
-高原性高血压	gao yuan xing gao xie ya	6
-高原性高血压	gao yuan xing gao xue ya	6
 高原性心脏病	gao yuan xing xin zang bing	33
 高圆圆	gao yuan yuan	8835
 高约	gao yue	26455
@@ -128154,7 +128101,6 @@ sort: by_weight
 搞之不定	gao zhi bu ding	8333
 告知承办人	gao zhi cheng ban ren	68
 高志丹	gao zhi dan	197
-高脂蛋白血症	gao zhi dan bai xue zheng	14
 高职单招	gao zhi dan zhao	199
 高支队	gao zhi dui	667
 高枝儿	gao zhi er	160
@@ -128180,10 +128126,6 @@ sort: by_weight
 高职生	gao zhi sheng	2505
 告知我	gao zhi wo	7
 告知下	gao zhi xia	93
-高脂血	gao zhi xie	22
-高脂血症	gao zhi xie zheng	11780
-高脂血	gao zhi xue	22
-高脂血症	gao zhi xue zheng	11780
 告知义务	gao zhi yi wu	2716
 告知义务范围	gao zhi yi wu fan wei	8
 告知一下	gao zhi yi xia	60
@@ -131655,7 +131597,6 @@ sort: by_weight
 更虚	geng xu	3333
 庚戌	geng xu	100
 赓续	geng xu	2
-赓续红色血脉	geng xu hong se xue mai	149
 更需要	geng xu yao	72220
 更炫	geng xuan	1370
 更严	geng yan	20315
@@ -134434,8 +134375,6 @@ sort: by_weight
 供血	gong xie	12920
 工鞋	gong xie	1111
 弓鞋	gong xie	380
-供血不足	gong xie bu zu	8400
-供血者	gong xie zhe	1045
 工薪	gong xin	18055
 攻心	gong xin	8510
 公信	gong xin	5335
@@ -134507,13 +134446,10 @@ sort: by_weight
 工靴	gong xue	3333
 功血	gong xue	2255
 共学	gong xue	1390
-供血不足	gong xue bu zu	8400
-宫血宁胶囊	gong xue ning jiao nang	6
 龚学平	gong xue ping	1185
 工学士	gong xue shi	87
 龚雪松	gong xue song	10
 工学院	gong xue yuan	27955
-供血者	gong xue zhe	1045
 功勋	gong xun	162110
 功勋值	gong xun zhi	17715
 功勋卓著	gong xun zhuo zhu	2195
@@ -136074,8 +136010,6 @@ sort: by_weight
 购销员	gou xiao yuan	1065
 购销站	gou xiao zhan	540
 狗血	gou xie	1755
-狗血淋头	gou xie lin tou	2485
-狗血喷头	gou xie pen tou	2030
 钩心斗角	gou xin dou jiao	767
 狗心狼肺	gou xin lang fei	1
 构型	gou xing	7990
@@ -136094,8 +136028,6 @@ sort: by_weight
 钩玄猎秘	gou xuan lie mi	1
 狗血	gou xue	1755
 够学	gou xue	1165
-狗血淋头	gou xue lin tou	2485
-狗血喷头	gou xue pen tou	2030
 狗眼	gou yan	2020
 沟沿	gou yan	1045
 苟延	gou yan	700
@@ -137031,8 +136963,6 @@ sort: by_weight
 汩汩滔滔	gu gu tao tao	12
 股骨头	gu gu tou	1395
 股骨头骨折	gu gu tou gu zhe	62
-股骨头缺血性坏死	gu gu tou que xie xing huai si	71
-股骨头缺血性坏死	gu gu tou que xue xing huai si	71
 股骨头无菌性坏死	gu gu tou wu jun xing huai si	116
 股骨头置换术	gu gu tou zhi huan shu	16
 股骨转子下骨折	gu gu zhuan zi xia gu zhe	1
@@ -137607,7 +137537,6 @@ sort: by_weight
 姑墨	gu mo	2
 汩没	gu mo	1
 骨膜剥离器	gu mo bo li qi	29
-鼓膜充血	gu mo chong xue	17
 鼓膜穿孔	gu mo chuan kong	296
 骨膜反应	gu mo fan ying	2
 鼓膜修补术	gu mo xiu bu shu	7
@@ -138366,7 +138295,6 @@ sort: by_weight
 顾小五	gu xiao wu	126
 顾晓园	gu xiao yuan	139
 古校长	gu xiao zhang	157
-骨血管瘤	gu xie guan liu	1
 孤心狼	gu xin lang	133
 古新路	gu xin lu	17
 孤星	gu xing	13715
@@ -138400,7 +138328,6 @@ sort: by_weight
 孤悬客寄	gu xuan ke ji	1
 骨血	gu xue	2465
 骨学	gu xue	135
-骨血管瘤	gu xue guan liu	1
 故学数有终	gu xue shu you zhong	1
 古学乡	gu xue xiang	6
 孤学坠绪	gu xue zhui xu	1
@@ -141934,7 +141861,6 @@ sort: by_weight
 广东中山市坦洲镇	guang dong zhong shan shi tan zhou zhen	2
 广东中山市小榄镇	guang dong zhong shan shi xiao lan zhen	16
 广东珠江律师事务所	guang dong zhu jiang lv shi shi wu suo	15
-广东住血线虫	guang dong zhu xue xian chong	1
 广东粽子	guang dong zong zi	215
 光斗	guang dou	1170
 广度	guang du	28340
@@ -143122,8 +143048,6 @@ sort: by_weight
 光致变色	guang zhi bian se	955
 光致发光	guang zhi fa guang	480
 光之国度	guang zhi guo du	26
-光致溶血	guang zhi rong xie	1
-光致溶血	guang zhi rong xue	1
 光之王	guang zhi wang	170
 光之翼刃	guang zhi yi ren	105
 广众	guang zhong	815
@@ -143311,8 +143235,6 @@ sort: by_weight
 鬼笔	gui bi	270
 鬼笔毒素	gui bi du su	30
 规避法律	gui bi fa lv	3030
-鬼笔溶血	gui bi rong xie	1
-鬼笔溶血	gui bi rong xue	1
 鬼笔素	gui bi su	1
 诡辩	gui bian	5860
 诡变多端	gui bian duo duan	1
@@ -144704,8 +144626,6 @@ sort: by_weight
 贵族身份	gui zu shen fen	850
 贵族式	gui zu shi	1810
 贵族统治	gui zu tong zhi	595
-贵族血统	gui zu xie tong	1070
-贵族血统	gui zu xue tong	1070
 贵族学校	gui zu xue xiao	3165
 贵族之家	gui zu zhi jia	490
 归罪	gui zui	1625
@@ -146852,7 +146772,6 @@ sort: by_weight
 过敏性皮疹	guo min xing pi zhen	71
 过敏性哮喘	guo min xing xiao chuan	3635
 过敏性休克	guo min xing xiu ke	921
-过敏性血管炎	guo min xing xue guan yan	7
 过敏性紫癜	guo min xing zi dian	178
 国民学校	guo min xue xiao	830
 国民议会	guo min yi hui	6345
@@ -148303,7 +148222,6 @@ sort: by_weight
 哈利·波特系列电影	ha li bo te xi lie dian ying	111
 哈利·波特与阿兹卡班的囚徒	ha li bo te yu a zi ka ban de qiu tu	111
 哈利·波特与凤凰社	ha li bo te yu feng huang she	111
-哈利·波特与混血王子	ha li bo te yu hun xue wang zi	111
 哈利·波特与火焰杯	ha li bo te yu huo yan bei	111
 哈利·波特与密室	ha li bo te yu mi shi	111
 哈利·波特与魔法石	ha li bo te yu mo fa shi	111
@@ -149542,7 +149460,6 @@ sort: by_weight
 海绵动物	hai mian dong wu	231
 海绵动物门	hai mian dong wu men	18
 海绵窦	hai mian dou	43
-海绵窦血栓性静脉炎	hai mian dou xue shuan xing jing mai yan	5
 海绵糕	hai mian gao	1
 海绵骨针	hai mian gu zhen	2
 海绵精干蟹	hai mian jing gan xie	1
@@ -149554,8 +149471,6 @@ sort: by_weight
 海绵制品	hai mian zhi pin	110
 海绵状	hai mian zhuang	3230
 海绵状淋巴管瘤	hai mian zhuang lin ba guan liu	1
-海绵状血管瘤	hai mian zhuang xie guan liu	81
-海绵状血管瘤	hai mian zhuang xue guan liu	81
 海绵组织	hai mian zu zhi	12
 害民	hai min	2075
 害命	hai ming	1635
@@ -151842,7 +151757,6 @@ sort: by_weight
 含铁	han tie	10795
 焊铁	han tie	615
 含铁量	han tie liang	3655
-含铁血黄素	han tie xue huang su	2
 含铁质	han tie zhi	425
 喊停	han ting	2940
 寒亭	han ting	1350
@@ -151954,7 +151868,6 @@ sort: by_weight
 汗血	han xie	111
 # 含血	han xie	0
 韩邪单于	han xie chan yu	1
-含血喷人	han xie pen ren	500
 寒心	han xin	10440
 韩信	han xin	2312
 含锌	han xin	1285
@@ -151998,13 +151911,10 @@ sort: by_weight
 韩雪	han xue	12070
 汗血	han xue	111
 # 含血	han xue	0
-汗血宝马	han xue bao ma	1630
 寒雪冰风	han xue bing feng	1
 汉学家	han xue jia	6235
 汉学界	han xue jie	715
-汗血马	han xue ma	1145
 寒雪梅中尽	han xue mei zhong jin	11
-含血喷人	han xue pen ren	500
 寒鸦	han ya	3655
 含牙戴发	han ya dai fa	1
 含牙带角	han ya dai jiao	2
@@ -157302,8 +157212,6 @@ sort: by_weight
 何宣林	he xuan lin	125
 贺雪峰	he xue feng	165
 核学会	he xue hui	54
-和血胶囊	he xue jiao nang	1
-和血明目片	he xue ming mu pian	3
 和学习	he xue xi	66
 和讯	he xun	211
 # 何逊	he xun	0
@@ -160327,7 +160235,6 @@ sort: by_weight
 红白事	hong bai shi	490
 红白喜事	hong bai xi shi	3255
 红白相间	hong bai xiang jian	3385
-红白血病	hong bai xue bing	4
 红斑	hong ban	23120
 红斑痤疮	hong ban cuo chuang	80
 红斑干酪菌	hong ban gan lao jun	1
@@ -161547,7 +161454,6 @@ sort: by_weight
 红色素	hong se su	1905
 红色头发	hong se tou fa	3333
 红色物	hong se wu	60
-红色血栓	hong se xue shuan	3
 红色摇滚	hong se yao gun	30
 红色药水	hong se yao shui	25
 红色政权	hong se zheng quan	2725
@@ -162031,7 +161937,6 @@ sort: by_weight
 红鞋儿	hong xie er	17
 红胁鱥	hong xie gui	1
 红胁蓝尾鸲	hong xie lan wei qu	18
-红血丝	hong xie si	34490
 红胁吸蜜鹦鹉	hong xie xi mi ying wu	1
 红楔异盲蝽	hong xie yi mang chun	1
 红鞋子	hong xie zi	745
@@ -162113,10 +162018,7 @@ sort: by_weight
 红学家	hong xue jia	3200
 红学界	hong xue jie	825
 鸿学金信	hong xue jin xin	183
-红血蓝眼鸽	hong xue lan yan ge	56
 宏学路	hong xue lu	2
-红血球	hong xue qiu	5085
-红血丝	hong xue si	34490
 鸿勋	hong xun	990
 弘讯科技	hong xun ke ji	106
 红呀	hong ya	1111
@@ -168945,7 +168847,6 @@ sort: by_weight
 画作	hua zuo	24860
 滑座	hua zuo	415
 化作春泥更护花	hua zuo chun ni geng hu hua	1310
-化作啼鹃带血归	hua zuo ti juan dai xue gui	1
 化作相思泪	hua zuo xiang si lei	10
 化作用	hua zuo yong	218
 画作者	hua zuo zhe	275
@@ -169304,7 +169205,6 @@ sort: by_weight
 坏心眼儿	huai xin yan er	9999
 怀姓	huai xing	95
 怀刑自爱	huai xing zi ai	1
-坏血病	huai xue bing	2945
 坏牙	huai ya	810
 槐芽细而丰	huai ya xi er feng	2
 淮阳	huai yang	6565
@@ -169391,7 +169291,6 @@ sort: by_weight
 欢爱不相忘	huan ai bu xiang wang	1
 换吧	huan ba	1180
 环靶	huan ba	215
-患白血病	huan bai xue bing	3020
 换班	huan ban	4750
 换版	huan ban	2705
 缓办	huan ban	555
@@ -170746,7 +170645,6 @@ sort: by_weight
 黄斑蟾蜍	huang ban chan chu	1
 黄斑长跗萤叶甲	huang ban chang fu ying ye jia	1
 黄斑长距旋小蜂	huang ban chang ju xuan xiao feng	1
-黄斑出血	huang ban chu xue	26
 黄斑大粉蝶	huang ban da fen die	1
 黄斑大弄蝶	huang ban da nong die	1
 黄斑德萤叶甲	huang ban de ying ye jia	1
@@ -172388,7 +172286,6 @@ sort: by_weight
 黄体酮胶囊	huang ti tong jiao nang	7
 黄体酮胶丸	huang ti tong jiao wan	1
 黄体酮注射液	huang ti tong zhu she ye	10
-黄体血肿	huang ti xue zhong	1
 黄体叶鰕虎鱼	huang ti ye xia hu yu	1
 黄天	huang tian	6605
 皇天	huang tian	5040
@@ -174016,7 +173913,6 @@ sort: by_weight
 挥砍	hui kan	1045
 回看桃李都无色	hui kan tao li dou wu se	1
 回看天际下中流	hui kan tian ji xia zhong liu	1
-回看血泪相和流	hui kan xue lei xiang he liu	1
 # 惠康	hui kang	0
 惠康园	hui kang yuan	155
 会考	hui kao	32050
@@ -174900,7 +174796,6 @@ sort: by_weight
 诙谐地	hui xie de	915
 灰胁抖尾地雀	hui xie dou wei di que	1
 诙谐歌曲	hui xie ge qu	20
-回血红包	hui xie hong bao	109
 诙谐曲	hui xie qu	335
 烩蟹肉	hui xie rou	19
 回邪入正	hui xie ru zheng	1
@@ -174982,7 +174877,6 @@ sort: by_weight
 回旋质谱仪	hui xuan zhi pu yi	5
 回血	hui xue	9999
 会穴	hui xue	300
-回血红包	hui xue hong bao	109
 回雪流风	hui xue liu feng	1
 回雪飘飖转蓬舞	hui xue piao yao zhuan peng wu	3
 回雪飘摇转蓬舞	hui xue piao yao zhuan peng wu	1
@@ -175543,13 +175437,11 @@ sort: by_weight
 混合物	hun he wu	36105
 混合系统	hun he xi tong	765
 混合纤维	hun he xian wei	300
-混合血清	hun he xie qing	70
 混合型	hun he xing	26630
 混合性	hun he xing	15410
 混合性结缔组织病	hun he xing jie di zu zhi bing	8
 混合性皮肤	hun he xing pi fu	9
 混合选择	hun he xuan ze	75
-混合血栓	hun he xue shuan	4
 混合液	hun he ye	7320
 混合遗传	hun he yi chuan	50
 混合应用	hun he ying yong	604
@@ -175876,10 +175768,7 @@ sort: by_weight
 混淆视听	hun xiao shi ting	4415
 混血	hun xie	11065
 婚鞋	hun xie	1111
-混血儿	hun xie er	8605
-混血美女	hun xie mei nv	2125
 浑邪王	hun xie wang	5
-混血种	hun xie zhong	805
 荤腥	hun xing	3035
 混行	hun xing	2222
 昏星	hun xing	1
@@ -175888,9 +175777,6 @@ sort: by_weight
 混悬剂	hun xuan ji	30
 混悬液	hun xuan ye	161
 混血	hun xue	11065
-混血儿	hun xue er	8605
-混血美女	hun xue mei nv	2125
-混血种	hun xue zhong	805
 婚讯	hun xun	111
 昏鸦	hun ya	2970
 婚宴	hun yan	36620
@@ -175959,6 +175845,7 @@ sort: by_weight
 荤油米糕	hun you mi gao	1
 魂游戏	hun you xi	163
 婚育	hun yu	27710
+混浴	hun yu	6666
 浑欲不胜簪	hun yu bu sheng zan	7
 婚育观	hun yu guan	340
 浑圆	hun yuan	16090
@@ -177755,26 +177642,8 @@ sort: by_weight
 霍小玉	huo xiao yu	1720
 或校长	huo xiao zhang	85
 活血	huo xie	35865
-活血风湿膏	huo xie feng shi gao	3
-活血化瘀	huo xie hua yu	967
 或斜或侧	huo xie huo ce	1
 或泻或吐	huo xie huo tu	1
-活血胶囊	huo xie jiao nang	4
-活血解毒	huo xie jie du	11
-活血解毒丸	huo xie jie du wan	1
-活血祛淤	huo xie qu yu	1735
-活血祛瘀	huo xie qu yu	59
-活血调经	huo xie tiao jing	52
-活血通经	huo xie tong jing	51
-活血通脉片	huo xie tong mai pian	1
-活血消炎丸	huo xie xiao yan wan	1
-活血药酒	huo xie yao jiu	4
-活血应痛丸	huo xie ying tong wan	1
-活血止痛膏	huo xie zhi tong gao	9
-活血止痛胶囊	huo xie zhi tong jiao nang	12
-活血止痛片	huo xie zhi tong pian	3
-活血止痛散	huo xie zhi tong san	1
-活血壮筋丸	huo xie zhuang jin wan	2
 祸心	huo xin	690
 或信或否	huo xin huo fou	1
 或新或旧	huo xin huo jiu	165
@@ -177843,25 +177712,7 @@ sort: by_weight
 火旋风	huo xuan feng	2530
 或悬或沉	huo xuan huo chen	2
 活血	huo xue	35865
-活血风湿膏	huo xue feng shi gao	3
-活血化瘀	huo xue hua yu	967
 活学活用	huo xue huo yong	5980
-活血胶囊	huo xue jiao nang	4
-活血解毒	huo xue jie du	11
-活血解毒丸	huo xue jie du wan	1
-活血祛淤	huo xue qu yu	1735
-活血祛瘀	huo xue qu yu	59
-活血调经	huo xue tiao jing	52
-活血通经	huo xue tong jing	51
-活血通脉片	huo xue tong mai pian	1
-活血消炎丸	huo xue xiao yan wan	1
-活血药酒	huo xue yao jiu	4
-活血应痛丸	huo xue ying tong wan	1
-活血止痛膏	huo xue zhi tong gao	9
-活血止痛胶囊	huo xue zhi tong jiao nang	12
-活血止痛片	huo xue zhi tong pian	3
-活血止痛散	huo xue zhi tong san	1
-活血壮筋丸	huo xue zhuang jin wan	2
 或熏或腌	huo xun huo yan	1
 或熏或炸	huo xun huo zha	1
 或雅或俗	huo ya huo su	75
@@ -179644,14 +179495,10 @@ sort: by_weight
 继发性肺动脉高压	ji fa xing fei dong mai gao ya	2
 继发性肺结核	ji fa xing fei jie he	55
 继发性感染	ji fa xing gan ran	64
-继发性高血压	ji fa xing gao xie ya	74
-继发性高血压	ji fa xing gao xue ya	74
 继发性免疫缺陷	ji fa xing mian yi que xian	3
-继发性贫血	ji fa xing pin xue	22
 继发性青光眼	ji fa xing qing guang yan	54
 继发性糖尿病	ji fa xing tang niao bing	9
 继发性痛经	ji fa xing tong jing	45
-继发性血小板增多症	ji fa xing xue xiao ban zeng duo zheng	1
 激发学生	ji fa xue sheng	59390
 积法则	ji fa ze	5
 吉法酯	ji fa zhi	6
@@ -183943,7 +183790,6 @@ sort: by_weight
 机械论	ji xie lun	1930
 机械论者	ji xie lun zhe	65
 机械密封	ji xie mi feng	6745
-鸡血面	ji xie mian	9
 机械能	ji xie neng	7050
 机械能守恒定律	ji xie neng shou heng ding lv	825
 机械配件	ji xie pei jian	5135
@@ -183955,14 +183801,11 @@ sort: by_weight
 机械神	ji xie shen	119
 机械式	ji xie shi	17690
 机械师	ji xie shi	5160
-鸡血石	ji xie shi	4155
 机械士	ji xie shi	65
 机械手	ji xie shou	7350
 机械手臂	ji xie shou bi	3333
 机械寿命	ji xie shou ming	1195
 机械锁	ji xie suo	1435
-鸡血汤	ji xie tang	79
-鸡血藤	ji xie teng	3020
 机械厅	ji xie ting	570
 机械图	ji xie tu	765
 机械腿	ji xie tui	3333
@@ -184043,7 +183886,6 @@ sort: by_weight
 # 蓟姓	ji xing	0
 # 计姓	ji xing	0
 # 集星	ji xing	0
-急性白血病	ji xing bai xue bing	1293
 急性鼻窦炎	ji xing bi dou yan	49
 急性闭角型青光眼	ji xing bi jiao xing qing guang yan	35
 急性鼻炎	ji xing bi yan	116
@@ -184056,15 +183898,10 @@ sort: by_weight
 畸形草种蝇	ji xing cao zhong ying	1
 记性差	ji xing cha	400
 急性肠梗阻	ji xing chang geng zu	71
-急性出血性肠炎	ji xing chu xue xing chang yan	5
-急性出血性坏死性肠炎	ji xing chu xue xing huai si xing chang yan	1
-急性出血性结膜炎	ji xing chu xue xing jie mo yan	272
-急性出血性胰腺炎	ji xing chu xue xing yi xian yan	3
 急性传染病	ji xing chuan ran bing	1075
 即兴创作	ji xing chuang zuo	1920
 集星村	ji xing cun	1
 急性胆管炎	ji xing dan guan yan	13
-急性单核细胞性白血病	ji xing dan he xi bao xing bai xue bing	5
 急性胆囊炎	ji xing dan nang yan	153
 急性毒性	ji xing du xing	2580
 急性毒性作用	ji xing du xing zuo yong	48
@@ -184108,19 +183945,13 @@ sort: by_weight
 急性卡他性中耳炎	ji xing ka ta xing zhong er yan	3
 急性阑尾炎	ji xing lan wei yan	586
 急性泪囊炎	ji xing lei nang yan	2
-急性粒细胞白血病	ji xing li xi bao bai xue bing	54
-急性粒细胞性白血病	ji xing li xi bao xing bai xue bing	13
 畸形恋	ji xing lian	9
 急性淋巴结炎	ji xing lin ba jie yan	5
-急性淋巴细胞白血病	ji xing lin ba xi bao bai xue bing	1044
-急性淋巴细胞性白血病	ji xing lin ba xi bao xing bai xue bing	165
 急性卵巢炎	ji xing luan chao yan	1
 计行虑义	ji xing lv yi	1
 急性糜烂性胃炎	ji xing mi lan xing wei yan	5
 急性弥漫性腹膜炎	ji xing mi man xing fu mo yan	31
 记姓名	ji xing ming	195
-急性脑血管病	ji xing nao xie guan bing	93
-急性脑血管病	ji xing nao xue guan bing	93
 及性能	ji xing neng	8875
 急性排斥反应	ji xing pai chi fan ying	34
 急性膀胱炎	ji xing pang guang yan	33
@@ -184173,7 +184004,6 @@ sort: by_weight
 极性一致	ji xing yi zhi	1180
 急性阴道炎	ji xing yin dao yan	9
 急性应激反应	ji xing ying ji fan ying	66
-急性早幼粒细胞白血病	ji xing zao you li xi bao bai xue bing	266
 急性支气管炎	ji xing zhi qi guan yan	192
 即兴之作	ji xing zhi zuo	615
 急性中毒	ji xing zhong du	5795
@@ -184287,11 +184117,7 @@ sort: by_weight
 积雪草	ji xue cao	1095
 积雪场	ji xue chang	25
 积雪浮云端	ji xue fu yun duan	6
-鸡血面	ji xue mian	9
 吉雪萍	ji xue ping	585
-鸡血石	ji xue shi	4155
-鸡血汤	ji xue tang	79
-鸡血藤	ji xue teng	3020
 季学武	ji xue wu	12
 集训	ji xun	30075
 集训队	ji xun dui	3865
@@ -184324,7 +184150,6 @@ sort: by_weight
 积压物资	ji ya wu zi	2505
 挤压下	ji ya xia	1485
 鸡鸭巷	ji ya xiang	2
-鸡鸭血汤	ji ya xue tang	226
 羁押于	ji ya yu	425
 鸡鸭鱼肉	ji ya yu rou	3005
 挤压着	ji ya zhe	1480
@@ -188304,7 +188129,6 @@ sort: by_weight
 家族史	jia zu shi	9900
 家族式	jia zu shi	8070
 家族性地中海热	jia zu xing di zhong hai re	3
-家族性高胆固醇血症	jia zu xing gao dan gu chun xue zheng	9
 家族性结肠息肉	jia zu xing jie chang xi rou	8
 家族制度	jia zu zhi du	1235
 家族中	jia zu zhong	10010
@@ -190406,7 +190230,6 @@ sort: by_weight
 肩披	jian pi	860
 尖劈	jian pi	235
 间皮	jian pi	13
-健脾补血	jian pi bu xue	24
 健脾糕片	jian pi gao pian	1
 健脾化湿	jian pi hua shi	103
 健脾开胃	jian pi kai wei	1710
@@ -191338,7 +191161,6 @@ sort: by_weight
 简写	jian xie	13755
 见血	jian xie	7695
 奸邪	jian xie	3425
-见血封喉	jian xie feng hou	1850
 间歇喷泉	jian xie pen quan	225
 间歇期	jian xie qi	2515
 间歇泉	jian xie quan	1155
@@ -191442,7 +191264,6 @@ sort: by_weight
 拣选	jian xuan	9675
 见血	jian xue	7695
 湔雪	jian xue	180
-见血封喉	jian xue feng hou	1850
 简讯	jian xun	21920
 建勋	jian xun	4560
 减压	jian ya	40065
@@ -191589,8 +191410,6 @@ sort: by_weight
 建议内容	jian yi nei rong	970
 简易镊	jian yi nie	1
 建议您	jian yi nin	99685
-简易凝血活酶生成试验	jian yi ning xie huo mei sheng cheng shi yan	2
-简易凝血活酶生成试验	jian yi ning xue huo mei sheng cheng shi yan	2
 建议评审	jian yi ping shen	87
 简易评审	jian yi ping shen	75
 检疫期	jian yi qi	197
@@ -192314,8 +192133,6 @@ sort: by_weight
 降低体温	jiang di ti wen	1110
 降低温度	jiang di wen du	1540
 降低消耗	jiang di xiao hao	3815
-降低血压	jiang di xie ya	8220
-降低血压	jiang di xue ya	8220
 降低要求	jiang di yao qiu	1540
 将抵制	jiang di zhi	220
 降低质量	jiang di zhi liang	1270
@@ -193569,7 +193386,6 @@ sort: by_weight
 讲习班	jiang xi ban	3050
 浆细胞	jiang xi bao	3955
 姜喜宝	jiang xi bao	1
-浆细胞白血病	jiang xi bao bai xue bing	1
 浆细胞瘤	jiang xi bao liu	2
 浆细胞性乳腺炎	jiang xi bao xing ru xian yan	11
 江西北路	jiang xi bei lu	20
@@ -193684,9 +193500,6 @@ sort: by_weight
 江小鱼	jiang xiao yu	79
 降小雨	jiang xiao yu	20
 将邪神剑	jiang xie shen jian	1
-降血糖	jiang xie tang	7605
-降血压	jiang xie ya	11670
-降血压药	jiang xie ya yao	680
 将心	jiang xin	12270
 匠心	jiang xin	6965
 降薪	jiang xin	3250
@@ -193737,11 +193550,7 @@ sort: by_weight
 降雪量	jiang xue liang	1280
 姜雪宁	jiang xue ning	102
 江雪琴	jiang xue qin	64
-降血糖	jiang xue tang	7605
 讲学习	jiang xue xi	6650
-降血压	jiang xue ya	11670
-降血压药	jiang xue ya yao	680
-降血脂	jiang xue zhi	12700
 # 姜勋	jiang xun	0
 # 江恂	jiang xun	0
 降压	jiang ya	38745
@@ -194259,7 +194068,6 @@ sort: by_weight
 交叉耐受	jiao cha nai shou	1
 交叉耦合	jiao cha ou he	41
 交叉盘	jiao cha pan	1720
-交叉配血试验	jiao cha pei xue shi yan	2
 交叉旗	jiao cha qi	3333
 交叉赛	jiao cha sai	295
 交叉射击	jiao cha she ji	130
@@ -195349,8 +195157,6 @@ sort: by_weight
 嚼墨喷纸	jiao mo pen zhi	1
 角膜葡萄肿	jiao mo pu tao zhong	2
 角膜水肿	jiao mo shui zhong	58
-角膜新生血管	jiao mo xin sheng xue guan	12
-角膜血管翳	jiao mo xue guan yi	5
 角膜炎	jiao mo yan	7515
 角膜翳	jiao mo yi	1
 角膜异物	jiao mo yi wu	10
@@ -197141,7 +196947,6 @@ sort: by_weight
 解除陷阱	jie chu xian jing	28
 解除限制	jie chu xian zhi	770
 接触性	jie chu xing	4220
-接触性出血	jie chu xing chu xue	65
 接触性唇炎	jie chu xing chun yan	2
 接触性皮炎	jie chu xing pi yan	5170
 接触性荨麻疹	jie chu xing xun ma zhen	3
@@ -197985,7 +197790,6 @@ sort: by_weight
 结节性甲状腺肿	jie jie xing jia zhuang xian zhong	51
 结节性梅毒疹	jie jie xing mei du zhen	1
 结节性脑硬化	jie jie xing nao ying hua	3
-结节性血管炎	jie jie xing xue guan yan	2
 结节性痒疹	jie jie xing yang zhen	9
 结节性硬化症	jie jie xing ying hua zheng	44
 结节影	jie jie ying	7
@@ -198446,7 +198250,6 @@ sort: by_weight
 芥末薄片肉	jie mo bao pian rou	1
 芥末滨珊瑚	jie mo bin shan hu	1
 结膜病	jie mo bing	8
-结膜充血	jie mo chong xue	232
 芥末墩儿	jie mo dun er	192
 芥末粉	jie mo fen	520
 结膜干燥症	jie mo gan zao zheng	9
@@ -202446,7 +202249,6 @@ sort: by_weight
 进入位点	jin ru wei dian	1
 进入我	jin ru wo	1461
 进入系统	jin ru xi tong	17095
-进入血液	jin ru xue ye	5560
 进入游戏	jin ru you xi	32120
 进入运行	jin ru yun xing	685
 进入站	jin ru zhan	20
@@ -204594,8 +204396,6 @@ sort: by_weight
 竟不是	jing bu shi	805
 颈部损伤	jing bu sun shang	119
 静不下来	jing bu xia lai	1825
-颈部血管瘤	jing bu xie guan liu	2
-颈部血管瘤	jing bu xue guan liu	2
 颈部运动	jing bu yun dong	465
 竟不知	jing bu zhi	5280
 经不住	jing bu zhu	10875
@@ -206219,12 +206019,6 @@ sort: by_weight
 静脉输液	jing mai shu ye	2765
 静脉输液针	jing mai shu ye zhen	29
 静脉推注	jing mai tui zhu	128
-静脉血	jing mai xie	4505
-静脉血栓	jing mai xie shuan	4835
-静脉血栓形成	jing mai xie shuan xing cheng	56
-静脉血	jing mai xue	4505
-静脉血栓	jing mai xue shuan	4835
-静脉血栓形成	jing mai xue shuan xing cheng	56
 静脉压	jing mai ya	1930
 静脉炎	jing mai yan	4440
 竞买者	jing mai zhe	3560
@@ -207444,7 +207238,6 @@ sort: by_weight
 警械	jing xie	4979
 井斜	jing xie	330
 敬谢不敏	jing xie bu min	790
-精血亏虚	jing xie kui xu	280
 经协商	jing xie shang	9690
 精心	jing xin	303340
 静心	jing xin	25170
@@ -207553,7 +207346,6 @@ sort: by_weight
 精血	jing xue	7790
 经穴	jing xue	3945
 经学家	jing xue jia	1525
-精血亏虚	jing xue kui xu	280
 景学义	jing xue yi	3
 警讯	jing xun	4440
 经训练的	jing xun lian de	690
@@ -211085,7 +210877,6 @@ sort: by_weight
 局部变量	ju bu bian liang	56599
 拒不参加	ju bu can jia	12500
 拒不承认	ju bu cheng ren	2285
-局部充血	ju bu chong xue	850
 居不重茵	ju bu chong yin	1
 举不出	ju bu chu	810
 拒不出庭	ju bu chu ting	145
@@ -212621,7 +212412,6 @@ sort: by_weight
 据有关人士透露	ju you guan ren shi tou lu	1620
 具有国际先进水平	ju you guo ji xian jin shui ping	9210
 巨幼红细胞	ju you hong xi bao	1095
-巨幼红细胞性贫血	ju you hong xi bao xing pin xue	7
 拒诱惑	ju you huo	75
 具有活力	ju you huo li	2095
 具有基础	ju you ji chu	1340
@@ -212633,7 +212423,6 @@ sort: by_weight
 聚友网	ju you wang	101
 聚友网络	ju you wang luo	29
 巨幼细胞	ju you xi bao	670
-巨幼细胞贫血	ju you xi bao pin xie	360
 具有一定	ju you yi ding	70
 具有指导	ju you zhi dao	723
 居于	ju yu	54660
@@ -214551,7 +214340,6 @@ sort: by_weight
 军械	jun xie	7320
 军鞋	jun xie	985
 军械库	jun xie ku	1160
-菌血症	jun xie zheng	1650
 军心	jun xin	11455
 君心	jun xin	4565
 军心涣散	jun xin huan san	790
@@ -214570,7 +214358,6 @@ sort: by_weight
 均需要	jun xu yao	5490
 军宣队	jun xuan dui	460
 军靴	jun xue	1695
-菌血症	jun xue zheng	1650
 军训	jun xun	53875
 军训部	jun xun bu	635
 军训汇演	jun xun hui yan	180
@@ -215401,9 +215188,7 @@ sort: by_weight
 卡西亚	ka xi ya	865
 卡乡	ka xiang	1
 咯血	ka xie	9385
-咯血病	ka xie bing	2
 咯血	ka xue	9385
-咯血病	ka xue bing	2
 卡亚卡	ka ya ka	1
 卡亚克	ka ya ke	4
 卡宴	ka yan	2710
@@ -216444,7 +216229,6 @@ sort: by_weight
 开始后	kai shi hou	41970
 开市后	kai shi hou	1060
 开始化	kai shi hua	105
-开视化为血	kai shi hua wei xue	1
 开始活动	kai shi huo dong	2325
 开始记	kai shi ji	650
 开市价	kai shi jia	1025
@@ -217857,7 +217641,6 @@ sort: by_weight
 抗辐射	kang fu she	5640
 康复设备	kang fu she bei	1310
 抗辐射的	kang fu she de	1055
-抗蝮蛇毒血清	kang fu she du xue qing	50
 抗辐射效应	kang fu she xiao ying	10
 抗腐蚀	kang fu shi	8005
 抗腐蚀性	kang fu shi xing	2370
@@ -217914,12 +217697,6 @@ sort: by_weight
 康化桥	kang hua qiao	35
 康华医院	kang hua yi yuan	105
 抗滑桩	kang hua zhuang	870
-抗坏血酸	kang huai xue suan	5600
-抗坏血酸钙	kang huai xue suan gai	73
-抗坏血酸磷酸酯镁	kang huai xue suan lin suan zhi mei	2
-抗坏血酸钠	kang huai xue suan na	233
-抗坏血酸氧化酶	kang huai xue suan yang hua mei	1
-抗坏血酸棕榈酸酯	kang huai xue suan zong lv suan zhi	56
 扛回	kang hui	1111
 康辉	kang hui	2
 抗婚	kang hun	545
@@ -217981,7 +217758,6 @@ sort: by_weight
 抗菌肽	kang jun tai	765
 抗菌消炎胶囊	kang jun xiao yan jiao nang	5
 抗菌消炎片	kang jun xiao yan pian	3
-抗菌血清	kang jun xue qing	5
 抗菌药	kang jun yao	5420
 抗菌药物	kang jun yao wu	1858
 抗菌作用	kang jun zuo yong	5340
@@ -218006,7 +217782,6 @@ sort: by_weight
 炕炕馍	kang kang mo	40
 康克尔柯尔克孜族乡	kang ke er ke er ke zi zu xiang	2
 康克清	kang ke qing	1110
-抗狂犬病血清	kang kuang quan bing xue qing	41
 抗拉力	kang la li	1230
 抗拉强度	kang la qiang du	9340
 康莱特注射液	kang lai te zhu she ye	19
@@ -218109,14 +217884,6 @@ sort: by_weight
 康宁街东口	kang ning jie dong kou	5
 康宁路	kang ning lu	124
 康宁乡	kang ning xiang	14
-抗凝血	kang ning xie	3060
-抗凝血剂	kang ning xie ji	440
-抗凝血酶	kang ning xie mei	555
-抗凝血酶缺乏	kang ning xie mei que fa	2
-抗凝血	kang ning xue	3060
-抗凝血剂	kang ning xue ji	440
-抗凝血酶	kang ning xue mei	555
-抗凝血酶缺乏	kang ning xue mei que fa	2
 康宁医院	kang ning yi yuan	576
 康宁镇	kang ning zhen	5
 抗扭	kang niu	1605
@@ -218125,7 +217892,6 @@ sort: by_weight
 抗疟药	kang nve yao	1800
 康帕内拉	kang pa nei la	18
 抗疲劳	kang pi lao	11460
-抗贫血药	kang pin xue yao	1
 康平	kang ping	2
 # 康坪	kang ping	0
 康平街	kang ping jie	36
@@ -218185,7 +217951,6 @@ sort: by_weight
 抗上	kang shang	2
 炕梢	kang shao	130
 康绍镛	kang shao yong	1
-抗蛇毒血清	kang she du xue qing	254
 抗神经炎	kang shen jing yan	50
 抗生	kang sheng	111
 康生	kang sheng	2
@@ -218234,7 +217999,6 @@ sort: by_weight
 康泰克	kang tai ke	3290
 康泰纳仕	kang tai na shi	166
 康泰医学	kang tai yi xue	138
-抗炭疽血清	kang tan ju xue qing	1
 抗体	kang ti	101060
 抗体滴度	kang ti di du	40
 抗体多样性	kang ti duo yang xing	1
@@ -218261,7 +218025,6 @@ sort: by_weight
 抗微生物剂	kang wei sheng wu ji	150
 康沃尔	kang wo er	990
 康沃尔帝王猫	kang wo er di wang mao	1
-抗五步蛇毒血清	kang wu bu she du xue qing	14
 康熙	kang xi	125595
 炕席	kang xi	475
 # 康西	kang xi	0
@@ -218278,10 +218041,6 @@ sort: by_weight
 扛下去	kang xia qu	190
 康县	kang xian	2255
 抗纤溶酶	kang xian rong mei	50
-抗血清	kang xie qing	1450
-抗血栓	kang xie shuan	2070
-抗血小板	kang xie xiao ban	2895
-抗血友病因子	kang xie you bing yin zi	10
 康新花园	kang xin hua yuan	2
 康馨家园	kang xin jia yuan	7
 康欣胶囊	kang xin jiao nang	1
@@ -218296,12 +218055,6 @@ sort: by_weight
 抗雄激素	kang xiong ji su	33
 抗胸腺细胞球蛋白	kang xiong xian xi bao qiu dan bai	8
 康雄乡	kang xiong xiang	1
-抗血清	kang xue qing	1450
-抗血栓	kang xue shuan	2070
-抗血小板	kang xue xiao ban	2895
-抗血小板药	kang xue xiao ban yao	14
-抗血友病球蛋白	kang xue you bing qiu dan bai	5
-抗血友病因子	kang xue you bing yin zi	10
 抗压	kang ya	12595
 抗压背锅	kang ya bei guo	113
 抗压路	kang ya lu	151
@@ -218313,7 +218066,6 @@ sort: by_weight
 抗言	kang yan	160
 抗颜	kang yan	60
 抗颜高议	kang yan gao yi	1
-抗眼镜蛇毒血清	kang yan jing she du xue qing	28
 抗言谈在昔	kang yan tan zai xi	2
 抗颜为师	kang yan wei shi	1
 抗炎药	kang yan yao	1865
@@ -218348,7 +218100,6 @@ sort: by_weight
 抗议着	kang yi zhe	745
 抗疫志愿者	kang yi zhi yuan zhe	188
 亢音高唱	kang yin gao chang	1
-抗银环蛇毒血清	kang yin huan she du xue qing	16
 抗英	kang ying	4055
 康永当家	kang yong dang jia	560
 糠油	kang you	1450
@@ -220412,7 +220163,7 @@ sort: by_weight
 苛岚县	ke lan xian	4
 克朗	ke lang	9215
 壳郎猪	ke lang zhu	9999
-可老	ke lao	1111
+氪老	ke lao	1111
 克劳	ke lao	111
 # 科劳	ke lao	0
 克劳德	ke lao de	4150
@@ -221023,7 +220774,6 @@ sort: by_weight
 可容纳	ke rong na	48430
 可容忍	ke rong ren	1330
 可溶性	ke rong xing	21420
-可溶性止血纱布	ke rong xing zhi xue sha bu	7
 可溶于	ke rong yu	1975
 可入	ke ru	3333
 刻入	ke ru	1111
@@ -224046,10 +223796,8 @@ sort: by_weight
 口腔生物学	kou qiang sheng wu xue	14
 口腔手术灯	kou qiang shou shu deng	1
 口腔卫生	kou qiang wei sheng	6570
-口腔血管瘤	kou qiang xie guan liu	1
 口腔修复学	kou qiang xiu fu xue	21
 口腔学	kou qiang xue	18
-口腔血管瘤	kou qiang xue guan liu	1
 口腔炎	kou qiang yan	2270
 口腔炎喷雾剂	kou qiang yan pen wu ji	1
 口腔医学	kou qiang yi xue	13985
@@ -224181,7 +223929,6 @@ sort: by_weight
 口小学	kou xiao xue	99
 叩谢	kou xie	2720
 口信	kou xin	5495
-扣心泣血	kou xin qi xue	111
 抠心挖胆	kou xin wa dan	1
 抠心挖肚	kou xin wa du	1
 口形	kou xing	6680
@@ -228032,7 +227779,6 @@ sort: by_weight
 腊子口乡	la zi kou xiang	8
 辣子面	la zi mian	417
 辣子牛肉	la zi niu rou	7
-辣子蒜羊血	la zi suan yang xue	25
 拉孜县	la zi xian	600
 拉孜乡	la zi xiang	1
 辣子鱼块	la zi yu kuai	6
@@ -229552,7 +229298,6 @@ sort: by_weight
 蓝晓科技	lan xiao ke ji	140
 兰晓龙	lan xiao long	186
 篮协	lan xie	3735
-蓝血人	lan xie ren	925
 兰心	lan xin	9999
 蓝心	lan xin	111
 # 兰新	lan xin	0
@@ -229578,7 +229323,6 @@ sort: by_weight
 蓝须夜蜂虎	lan xu ye feng hu	2
 蓝血	lan xue	222
 蓝雪	lan xue	111
-蓝血人	lan xue ren	925
 兰熏桂馥	lan xun gui fu	1
 兰薰桂馥	lan xun gui fu	1
 蓝牙	lan ya	157840
@@ -230179,7 +229923,6 @@ sort: by_weight
 酪氨酸	lao an suan	7825
 酪氨酸激酶	lao an suan ji mei	1265
 酪氨酸酶	lao an suan mei	57
-酪氨酸血症	lao an suan xue zheng	7
 老媪	lao ao	395
 老爸	lao ba	98250
 老八	lao ba	3333
@@ -231160,8 +230903,6 @@ sort: by_weight
 老年性癫痫	lao nian xing dian xian	2
 老年性黄斑变性	lao nian xing huang ban bian xing	91
 老年性精神病	lao nian xing jing shen bing	5
-老年性血管瘤	lao nian xing xie guan liu	1
-老年性血管瘤	lao nian xing xue guan liu	1
 老年性紫癜	lao nian xing zi dian	1
 老年医学	lao nian yi xue	2780
 老年医院	lao nian yi yuan	350
@@ -233210,7 +232951,6 @@ sort: by_weight
 # 冷情	leng qing	0
 冷清清	leng qing qing	870
 冷球蛋白	leng qiu dan bai	170
-冷球蛋白血症	leng qiu dan bai xue zheng	4
 冷泉	leng quan	436
 冷泉亭上旧曾游	leng quan ting shang jiu ceng you	1
 冷泉镇	leng quan zhen	13
@@ -233305,7 +233045,6 @@ sort: by_weight
 冷下来	leng xia lai	1335
 棱线	leng xian	2660
 冷线	leng xian	1
-冷纤维蛋白原血症	leng xian wei dan bai yuan xue zheng	1
 冷香飞上诗句	leng xiang fei shang shi ju	1
 冷香丸	leng xiang wan	142
 冷笑	leng xiao	100680
@@ -233314,16 +233053,12 @@ sort: by_weight
 冷笑着	leng xiao zhe	8765
 愣小子	leng xiao zi	290
 冷血	leng xie	18770
-冷血的	leng xie de	2780
-冷血动物	leng xie dong wu	3260
 冷醒	leng xing	1111
 冷姓	leng xing	15
 冷醒了	leng xing le	1111
 冷星云	leng xing yun	5
 冷休克	leng xiu ke	8
 冷血	leng xue	18770
-冷血的	leng xue de	2780
-冷血动物	leng xue dong wu	3260
 冷眼	leng yan	16895
 冷艳	leng yan	14710
 冷言	leng yan	1685
@@ -236834,11 +236569,8 @@ sort: by_weight
 李学林	li xue lin	174
 理学楼	li xue lou	166
 李雪梅	li xue mei	1695
-利血平	li xue ping	75
-利血平片	li xue ping pian	3
 李学庆	li xue qing	16
 立雪求道	li xue qiu dao	1
-利血生	li xue sheng	1
 理学士	li xue shi	1365
 理学硕士	li xue shuo shi	2540
 李雪松	li xue song	282
@@ -237100,7 +236832,6 @@ sort: by_weight
 利与弊	li yu bi	3690
 立于不败	li yu bu bai	1055
 立于不败之地	li yu bu bai zhi di	30265
-鲤鱼补血汤	li yu bu xue tang	4
 鳢鱼肠	li yu chang	1
 鲤鱼池	li yu chi	206
 李豫川	li yu chuan	31
@@ -238674,8 +238405,6 @@ sort: by_weight
 链球菌	lian qiu jun	17410
 链球菌病	lian qiu jun bing	625
 链球菌感染	lian qiu jun gan ran	78
-链球菌溶血素	lian qiu jun rong xie su	200
-链球菌溶血素	lian qiu jun rong xue su	200
 链球菌性肺炎	lian qiu jun xing fei yan	1
 恋曲	lian qu	7995
 练拳	lian quan	6400
@@ -239367,7 +239096,6 @@ sort: by_weight
 镰状	lian zhuang	685
 联庄	lian zhuang	39
 链装配	lian zhuang pei	60
-镰状细胞贫血	lian zhuang xi bao pin xue	8
 连追	lian zhui	9999
 连缀	lian zhui	365
 镰准舌唇鱼	lian zhun she chun yu	1
@@ -239399,7 +239127,6 @@ sort: by_weight
 廉子文	lian zi wen	562
 帘子线	lian zi xian	380
 莲子心	lian zi xin	95
-莲子血糯饭	lian zi xue nuo fan	1
 莲子已成荷叶老	lian zi yi cheng he ye lao	2
 莲子银耳梨	lian zi yin er li	5
 莲子营	lian zi ying	26
@@ -240889,7 +240616,6 @@ sort: by_weight
 两小无嫌猜	liang xiao wu xian cai	23
 凉鞋	liang xie	20915
 两胁拘急	liang xie ju ji	1
-量血压	liang xie ya	2015
 良心	liang xin	79255
 两心	liang xin	4130
 良心不安	liang xin bu an	1300
@@ -240917,8 +240643,6 @@ sort: by_weight
 良性发展	liang xing fa zhan	119
 量刑辅助	liang xing fu zhu	12
 良性肝肿瘤	liang xing gan zhong liu	1
-良性高血压	liang xing gao xie ya	1
-良性高血压	liang xing gao xue ya	1
 两性关系	liang xing guan xi	9780
 量刑规范化	liang xing gui fan hua	81
 两性花	liang xing hua	555
@@ -240955,8 +240679,6 @@ sort: by_weight
 两袖青蛇	liang xiu qing she	184
 梁序昭	liang xu zhao	1
 凉血	liang xue	1111
-量血压	liang xue ya	2015
-凉血止血	liang xue zhi xue	127
 两眼	liang yan	76780
 亮眼	liang yan	8475
 良言	liang yan	3595
@@ -242206,7 +241928,6 @@ sort: by_weight
 淋巴上皮癌	lin ba shang pi ai	2
 淋巴水肿	lin ba shui zhong	67
 淋巴细胞	lin ba xi bao	29080
-淋巴细胞白血病	lin ba xi bao bai xue bing	227
 淋巴细胞计数	lin ba xi bao ji shu	12
 淋巴细胞减少症	lin ba xi bao jian shao zheng	3
 淋巴系统	lin ba xi tong	3500
@@ -244332,7 +244053,6 @@ sort: by_weight
 令人痛心	ling ren tong xin	2430
 令人羡慕	ling ren xian mu	13445
 令人想起	ling ren xiang qi	2810
-令人血脉贲张	ling ren xie mai ben zhang	1111
 令人心动	ling ren xin dong	5800
 令人信服	ling ren xin fu	14145
 令人心寒	ling ren xin han	1695
@@ -244340,7 +244060,6 @@ sort: by_weight
 令人欣慰	ling ren xin wei	6370
 令人心醉	ling ren xin zui	3160
 令人兴奋	ling ren xing fen	5645
-令人血脉贲张	ling ren xue mai ben zhang	1111
 令人厌倦	ling ren yan juan	670
 令人厌恶	ling ren yan wu	1760
 令人厌恶的	ling ren yan wu de	2510
@@ -245193,8 +244912,6 @@ sort: by_weight
 六臂三头	liu bi san tou	1
 流鼻涕	liu bi ti	6980
 柳比西奇	liu bi xi qi	13
-流鼻血	liu bi xie	8355
-流鼻血	liu bi xue	8355
 流变	liu bian	12675
 柳编	liu bian	2585
 溜边	liu bian	605
@@ -245354,8 +245071,6 @@ sort: by_weight
 流出版	liu chu ban	70
 六出冰花	liu chu bing hua	4
 六畜不安	liu chu bu an	15
-流出的血	liu chu de xie	1845
-流出的血	liu chu de xue	1845
 流出地	liu chu di	3640
 六出纷飞	liu chu fen fei	1
 流出来	liu chu lai	10575
@@ -246313,7 +246028,6 @@ sort: by_weight
 留了个心	liu le ge xin	95
 留了个心眼	liu le ge xin yan	595
 流了泪	liu le lei	1155
-流了血	liu le xie	915
 刘乐瑶	liu le yao	185
 遛了一圈	liu le yi quan	10850
 溜了一圈	liu le yi quan	111
@@ -247444,14 +247158,8 @@ sort: by_weight
 留些	liu xie	4205
 流泄	liu xie	1745
 刘协	liu xie	46
-流血冲突	liu xie chong tu	2185
 熘蟹黄	liu xie huang	14
-流血流汗	liu xie liu han	1305
 熘蟹肉	liu xie rou	10
-流血事件	liu xie shi jian	2770
-流血涂野草	liu xie tu ye cao	1
-流血牺牲	liu xie xi sheng	3255
-流血星期日	liu xie xing qi ri	40
 留心	liu xin	45410
 留信	liu xin	515
 刘欣	liu xin	1
@@ -247523,11 +247231,6 @@ sort: by_weight
 流行文化	liu xing wen hua	9390
 流行性	liu xing xing	9705
 流行性斑疹伤寒	liu xing xing ban zhen shang han	4
-流行性出血热	liu xing xing chu xie re	2505
-流行性出血热疫苗	liu xing xing chu xie re yi miao	10
-流行性出血热	liu xing xing chu xue re	2505
-流行性出血热疫苗	liu xing xing chu xue re yi miao	10
-流行性出血性结膜炎	liu xing xing chu xue xing jie mo yan	12
 流行性腹泻	liu xing xing fu xie	70
 流行性感冒	liu xing xing gan mao	9375
 流行性感冒裂解疫苗	liu xing xing gan mao lie jie yi miao	4
@@ -247570,14 +247273,12 @@ sort: by_weight
 留学	liu xue	279185
 流血	liu xue	65545
 刘雪庵	liu xue an	33
-流血冲突	liu xue chong tu	2185
 留学法国	liu xue fa guo	2540
 留学服务	liu xue fu wu	8490
 留学回国	liu xue hui guo	10955
 留学回来	liu xue hui lai	570
 留学基金	liu xue ji jin	5390
 留学考试	liu xue kao shi	730
-流血流汗	liu xue liu han	1305
 留学美国	liu xue mei guo	5420
 留学签证	liu xue qian zheng	6020
 留学人员	liu xue ren yuan	62810
@@ -247587,12 +247288,8 @@ sort: by_weight
 留学生公寓	liu xue sheng gong yu	146
 留学生活	liu xue sheng huo	2555
 留学生机票	liu xue sheng ji piao	930
-流血事件	liu xue shi jian	2770
-流血涂野草	liu xue tu ye cao	1
 留学网	liu xue wang	4950
-流血牺牲	liu xue xi sheng	3255
 刘学新	liu xue xin	176
-流血星期日	liu xue xing qi ri	40
 刘学洵	liu xue xun	2
 留学移民	liu xue yi min	3650
 留学英国	liu xue ying guo	3560
@@ -249070,7 +248767,6 @@ sort: by_weight
 龙小乐	long xiao le	6
 龙小云	long xiao yun	196
 龙血	long xie	111
-龙血树	long xie shu	1800
 龙芯	long xin	21985
 龙心	long xin	9999
 隆鑫	long xin	9957
@@ -249128,11 +248824,6 @@ sort: by_weight
 龙穴	long xue	3130
 龙血	long xue	111
 龙穴村	long xue cun	6
-龙血竭	long xue jie	5
-龙血竭胶囊	long xue jie jiao nang	5
-龙血竭片	long xue jie pian	2
-龙血树	long xue shu	1800
-龙血武姬	long xue wu ji	165
 龙浔	long xun	8
 龙浔镇	long xun zhen	194
 聋哑	long ya	13325
@@ -249314,9 +249005,7 @@ sort: by_weight
 龙之挑战	long zhi tiao zhan	146
 龙之吻	long zhi wen	740
 龙之峡谷	long zhi xia gu	120
-龙之血	long zhi xue	150
 龙之召唤	long zhi zhao huan	23
-龙脂猪血	long zhi zhu xue	120
 龙之子	long zhi zi	146
 隆重	long zhong	116895
 笼中	long zhong	6415
@@ -250638,8 +250327,6 @@ sort: by_weight
 颅脑损伤	lu nao sun shang	5102
 颅内	lu nei	15230
 炉内	lu nei	8415
-颅内出血	lu nei chu xie	3850
-颅内出血	lu nei chu xue	3850
 颅内动静脉畸形	lu nei dong jing mai ji xing	13
 颅内动脉瘤	lu nei dong mai liu	92
 颅内高压	lu nei gao ya	74
@@ -254215,8 +253902,6 @@ sort: by_weight
 屡建奇功	lv jian qi gong	1870
 驴叫	lv jiao	970
 屡教不改	lv jiao bu gai	2902
-驴胶补血冲剂	lv jiao bu xue chong ji	2
-驴胶补血颗粒	lv jiao bu xue ke li	19
 旅交会	lv jiao hui	2710
 绿娇隐约眉轻扫	lv jiao yin yue mei qing sao	1
 屡戒不悛	lv jie bu quan	1
@@ -254666,6 +254351,7 @@ sort: by_weight
 吕王	lv wang	15
 律纬路	lv wei lu	2
 绿尾小卷蛾	lv wei xiao juan e	1
+律文	lv wen	1111
 绿蚊儿	lv wen er	1
 吕屋	lv wu	2
 吕武操莽	lv wu cao mang	1
@@ -255347,8 +255033,8 @@ sort: by_weight
 麻袋女	ma dai nv	2
 麻袋片儿	ma dai pian er	9999
 妈蛋	ma dan	2222
-马丹	ma dan	1425
 码单	ma dan	1395
+# 马丹	ma dan	0
 马当路	ma dang lu	83
 麻当乡	ma dang xiang	19
 骂道	ma dao	40710
@@ -257274,6 +256960,7 @@ sort: by_weight
 麦迪逊	mai di xun	6290
 卖点	mai dian	107505
 买点	mai dian	29600
+埋点	mai dian	1111
 埋点儿土	mai dian er tu	1111
 买电脑	mai dian nao	7375
 买电器	mai dian qi	141
@@ -257647,8 +257334,6 @@ sort: by_weight
 脉络膜	mai luo mo	2975
 脉络膜黑色素瘤	mai luo mo hei se su liu	2
 脉络膜脱离	mai luo mo tuo li	9
-脉络膜血管瘤	mai luo mo xie guan liu	1
-脉络膜血管瘤	mai luo mo xue guan liu	1
 脉络膜炎	mai luo mo yan	1
 脉络宁	mai luo ning	34
 脉络宁注射液	mai luo ning zhu she ye	45
@@ -257930,8 +257615,6 @@ sort: by_weight
 麦炫酷	mai xuan ku	110
 卖血	mai xue	8110
 脉穴	mai xue	665
-脉血康胶囊	mai xue kang jiao nang	1
-埋血空生碧草愁	mai xue kong sheng bi cao chou	1
 麦芽	mai ya	19045
 脉压	mai ya	3530
 麦芽茶	mai ya cha	208
@@ -258488,8 +258171,6 @@ sort: by_weight
 满腔怒火	man qiang nu huo	1495
 满腔热忱	man qiang re chen	1870
 满腔热情	man qiang re qing	12165
-满腔热血	man qiang re xie	2990
-满腔热血	man qiang re xue	2990
 满腔热枕	man qiang re zhen	8
 满腔义愤	man qiang yi fen	10
 曼切堪猫	man qie kan mao	2
@@ -258535,7 +258216,6 @@ sort: by_weight
 满身疲惫	man shen pi bei	155
 满身伤痕	man shen shang hen	1235
 满身是汗	man shen shi han	650
-满身是血	man shen shi xue	1610
 瞒神吓鬼	man shen xia gui	1
 蔓生	man sheng	2180
 曼声	man sheng	114
@@ -258689,7 +258369,6 @@ sort: by_weight
 慢行	man xing	5340
 蛮行	man xing	50
 满姓	man xing	25
-慢性白血病	man xing bai xue bing	125
 慢性鼻窦炎	man xing bi dou yan	122
 慢性闭角型青光眼	man xing bi jiao xing qing guang yan	12
 慢性鼻炎	man xing bi yan	2065
@@ -258729,7 +258408,6 @@ sort: by_weight
 慢性酒精中毒	man xing jiu jing zhong du	97
 慢性阑尾炎	man xing lan wei yan	57
 慢性泪囊炎	man xing lei nang yan	26
-慢性淋巴细胞白血病	man xing lin ba xi bao bai xue bing	30
 慢性淋巴细胞性甲状腺炎	man xing lin ba xi bao xing jia zhuang xian yan	13
 慢性脑膜炎	man xing nao mo yan	1
 慢性排斥反应	man xing pai chi fan ying	14
@@ -258768,10 +258446,7 @@ sort: by_weight
 慢性牙周炎	man xing ya zhou yan	24
 慢性咽炎	man xing yan yan	3210
 慢性胰腺炎	man xing yi xian yan	121
-慢性硬膜下血肿	man xing ying mo xia xue zhong	12
 慢性游走性红斑	man xing you zou xing hong ban	1
-慢性再生障碍性贫血	man xing zai sheng zhang ai xing pin xie	82
-慢性再生障碍性贫血	man xing zai sheng zhang ai xing pin xue	82
 慢性直肠炎	man xing zhi chang yan	1
 慢性中毒	man xing zhong du	4135
 慢性中耳炎	man xing zhong er yan	65
@@ -258781,7 +258456,6 @@ sort: by_weight
 满袖春风	man xiu chun feng	1
 曼秀雷敦薄荷膏	man xiu lei dun bo he gao	1
 满血	man xue	2790
-满血版	man xue ban	136
 蔓延	man yan	118440
 满眼	man yan	28670
 漫延	man yan	4890
@@ -258885,8 +258559,6 @@ sort: by_weight
 慢煮	man zhu	1490
 曼珠沙华	man zhu sha hua	1005
 蔓珠莎华	man zhu sha hua	107
-蔓状血管瘤	man zhuang xie guan liu	1
-蔓状血管瘤	man zhuang xue guan liu	1
 蛮准	man zhun	700
 满桌	man zhuo	5030
 蛮子	man zi	4360
@@ -260037,14 +259709,6 @@ sort: by_weight
 毛细孔	mao xi kong	5865
 毛细淋巴管	mao xi lin ba guan	1
 毛细线虫病	mao xi xian chong bing	158
-毛细血管	mao xi xie guan	34795
-毛细血管扩张	mao xi xie guan kuo zhang	271
-毛细血管扩张症	mao xi xie guan kuo zhang zheng	6
-毛细血管瘤	mao xi xie guan liu	14
-毛细血管	mao xi xue guan	34795
-毛细血管扩张	mao xi xue guan kuo zhang	271
-毛细血管扩张症	mao xi xue guan kuo zhang zheng	6
-毛细血管瘤	mao xi xue guan liu	14
 毛细支气管炎	mao xi zhi qi guan yan	44
 毛虾	mao xia	530
 茂霞村	mao xia cun	3
@@ -260093,7 +259757,6 @@ sort: by_weight
 毛小球	mao xiao qiu	173
 毛小子	mao xiao zi	340
 毛蟹	mao xie	4343
-毛血旺	mao xie wang	2205
 毛薪甲	mao xin jia	1
 毛薪甲科	mao xin jia ke	1
 毛姓	mao xing	240
@@ -260125,8 +259788,6 @@ sort: by_weight
 毛须胡麻天牛	mao xu hu ma tian niu	1
 毛选	mao xuan	1615
 冒雪	mao xue	1530
-毛血洒平芜	mao xue sa ping wu	1
-毛血旺	mao xue wang	2205
 猫亚科	mao ya ke	44
 毛丫头	mao ya tou	545
 猫眼	mao yan	15355
@@ -263675,9 +263336,9 @@ sort: by_weight
 没有书	mei you shu	330
 没有数过	mei you shu guo	60
 没有书面凭证	mei you shu mian ping zheng	29
-没油水	mei you shui	443560
 没有睡	mei you shui	58000
-没有水	mei you shui	4046
+没有水	mei you shui	5046
+没油水	mei you shui	443
 没有水喝	mei you shui he	1180
 没有说	mei you shuo	34610
 没有说的	mei you shuo de	730
@@ -264267,8 +263928,6 @@ sort: by_weight
 门径俯清溪	men jing fu qing xi	1
 门静脉	men jing mai	8280
 门静脉高压	men jing mai gao ya	63
-门静脉血栓形成	men jing mai xie shuan xing cheng	3
-门静脉血栓形成	men jing mai xue shuan xing cheng	3
 闷酒	men jiu	1515
 门臼	men jiu	130
 闷倦	men juan	60
@@ -266068,8 +265727,6 @@ sort: by_weight
 蜜三刀	mi san dao	1585
 弥散功能	mi san gong neng	35
 蜜三果	mi san guo	1
-弥散性血管内凝血	mi san xing xue guan nei ning xie	94
-弥散性血管内凝血	mi san xing xue guan nei ning xue	94
 弥散着	mi san zhe	1465
 米色	mi se	19745
 蜜色	mi se	925
@@ -267156,8 +266813,6 @@ sort: by_weight
 面无表情	mian wu biao qing	27500
 面无惭色	mian wu can se	6
 面无人色	mian wu ren se	2250
-面无血色	mian wu xie se	1435
-面无血色	mian wu xue se	1435
 免息	mian xi	6340
 免洗	mian xi	3950
 面西	mian xi	1235
@@ -267358,13 +267013,10 @@ sort: by_weight
 免疫系统	mian yi xi tong	37315
 免疫效果	mian yi xiao guo	233
 免疫性	mian yi xing	5175
-免疫性血小板减少性紫癜	mian yi xing xie xiao ban jian shao xing zi dian	11
-免疫性血小板减少性紫癜	mian yi xing xue xiao ban jian shao xing zi dian	11
 免疫选择	mian yi xuan ze	5
 免疫学	mian yi xue	20560
 免疫学的	mian yi xue de	815
 免疫学检验	mian yi xue jian yan	2
-免疫血清	mian yi xue qing	1040
 免疫遗传学	mian yi yi chuan xue	2
 免疫一级魔法	mian yi yi ji mo fa	1
 免疫抑制	mian yi yi zhi	4270
@@ -267911,7 +267563,6 @@ sort: by_weight
 灭门	mie men	7530
 灭门案	mie men an	1095
 灭门绝户	mie men jue hu	5
-灭门血案	mie men xue an	300
 灭门之祸	mie men zhi huo	545
 蠛蠓	mie meng	80
 咩咩	mie mie	4665
@@ -271641,7 +271292,6 @@ sort: by_weight
 摸哨	mo shao	120
 末梢神经	mo shao shen jing	1920
 末梢性抑制	mo shao xing yi zhi	1
-末梢血	mo shao xue	88
 魔神	mo shen	9999
 魔神棒	mo shen bang	1
 没身不忘	mo shen bu wang	1
@@ -274546,7 +274196,6 @@ sort: by_weight
 那勒寺镇	na le si zhen	4
 拿了也白拿	na le ye bai na	30
 拿了一个	na le yi ge	700
-拿了一血	na le yi xue	1111
 拿了张纸	na le zhang zhi	224
 哪类	na lei	11020
 那类	na lei	8135
@@ -275285,7 +274934,6 @@ sort: by_weight
 那一箱	na yi xiang	66
 哪一些	na yi xie	2120
 拿一些	na yi xie	1
-拿一血	na yi xue	1111
 那一夜	na yi ye	19265
 那一月	na yi yue	2560
 哪一站	na yi zhan	695
@@ -276992,7 +276640,6 @@ sort: by_weight
 南梁村	nan liang cun	8
 南梁坡	nan liang po	42
 难两全	nan liang quan	680
-难凉热血	nan liang re xue	180
 难料	nan liao	4840
 南寮	nan liao	57
 难了解	nan liao jie	500
@@ -277690,6 +277337,7 @@ sort: by_weight
 南溪山	nan xi shan	56
 男洗手间	nan xi shou jian	3333
 南溪县	nan xi xian	1495
+男吸血鬼	nan xi xie gui	3333
 男吸血鬼	nan xi xue gui	3333
 南西庄	nan xi zhuang	7
 南下	nan xia	59650
@@ -278090,7 +277738,6 @@ sort: by_weight
 南枝村	nan zhi cun	3
 南智邱	nan zhi qiu	154
 南枝向暖北枝寒	nan zhi xiang nuan bei zhi han	2
-难治性贫血	nan zhi xing pin xue	7
 男职员	nan zhi yuan	3333
 南中	nan zhong	7830
 南中国	nan zhong guo	1195
@@ -278245,10 +277892,7 @@ sort: by_weight
 闹成	nao cheng	2305
 蛲虫	nao chong	38
 蛲虫病	nao chong bing	21
-脑充血	nao chong xue	715
 闹出	nao chu	16420
-脑出血	nao chu xue	12395
-脑出血后遗症	nao chu xue hou yi zheng	68
 脑垂体	nao chui ti	6360
 脑卒中	nao cu zhong	10405
 脑挫伤	nao cuo shang	256
@@ -278300,7 +277944,6 @@ sort: by_weight
 脑啡肽原	nao fei tai yuan	10
 脑复康	nao fu kang	8
 脑干	nao gan	7455
-脑干出血	nao gan chu xue	480
 脑干梗塞	nao gan geng se	38
 脑苷肌肽	nao gan ji tai	4
 脑干脑炎	nao gan nao yan	37
@@ -278409,7 +278052,6 @@ sort: by_weight
 闹猛	nao meng	950
 脑鸣	nao ming	24
 脑膜	nao mo	5370
-脑膜白血病	nao mo bai xue bing	2
 脑膜剥离器	nao mo bo li qi	1
 脑膜刺激征	nao mo ci ji zheng	27
 脑膜钩	nao mo gou	1
@@ -278431,7 +278073,6 @@ sort: by_weight
 挠挠痒痒	nao nao yang yang	70
 闹呢	nao ne	9999
 脑内	nao nei	12865
-脑内血肿	nao nei xue zhong	66
 挠你	nao ni	1180
 脑脓肿	nao nong zhong	59
 恼怒	nao nu	26090
@@ -278444,14 +278085,11 @@ sort: by_weight
 脑器质性精神病	nao qi zhi xing jing shen bing	6
 脑桥	nao qiao	27
 闹桥	nao qiao	2
-脑桥出血	nao qiao chu xue	2
 脑轻松	nao qing song	8
 闹情绪	nao qing xu	2755
 挠曲	nao qu	1485
 闹去	nao qu	700
 挠曲枉直	nao qu wang zhi	1
-脑缺血	nao que xie	4215
-脑缺血	nao que xue	4215
 闹嚷嚷	nao rang rang	9999
 闹热	nao re	1435
 恼人	nao ren	12565
@@ -278472,10 +278110,7 @@ sort: by_weight
 闹市	nao shi	22930
 脑室	nao shi	7350
 闹市不知春色处	nao shi bu zhi chun se chu	1
-脑室出血	nao shi chu xue	43
 闹市口	nao shi kou	560
-脑室内出血	nao shi nei chu xie	10
-脑室内出血	nao shi nei chu xue	10
 闹市区	nao shi qu	9855
 脑室炎	nao shi yan	1
 闹事者	nao shi zhe	970
@@ -278509,17 +278144,6 @@ sort: by_weight
 脑吸引器	nao xi yin qi	1
 脑下垂体	nao xia chui ti	2590
 闹笑话	nao xiao hua	2440
-脑血管	nao xie guan	25900
-脑血管病	nao xie guan bing	12375
-脑血管畸形	nao xie guan ji xing	183
-脑血管瘤	nao xie guan liu	61
-脑血管破裂	nao xie guan po lie	228
-脑血管意外	nao xie guan yi wai	400
-脑血管造影	nao xie guan zao ying	97
-脑血栓	nao xie shuan	10835
-脑血栓后遗症	nao xie shuan hou yi zheng	148
-脑血栓片	nao xie shuan pian	5
-脑血栓形成	nao xie shuan xing cheng	68
 闹心	nao xin	5405
 脑心安胶囊	nao xin an jiao nang	4
 闹新房	nao xin fang	970
@@ -278537,17 +278161,6 @@ sort: by_weight
 恼羞	nao xiu	420
 恼羞成怒	nao xiu cheng nu	14795
 闹玄虚	nao xuan xu	10
-脑血管	nao xue guan	25900
-脑血管病	nao xue guan bing	12375
-脑血管畸形	nao xue guan ji xing	183
-脑血管瘤	nao xue guan liu	61
-脑血管破裂	nao xue guan po lie	228
-脑血管意外	nao xue guan yi wai	400
-脑血管造影	nao xue guan zao ying	97
-脑血栓	nao xue shuan	10835
-脑血栓后遗症	nao xue shuan hou yi zheng	148
-脑血栓片	nao xue shuan pian	5
-脑血栓形成	nao xue shuan xing cheng	68
 脑循环	nao xun huan	56
 脑压板	nao ya ban	12
 脑炎	nao yan	8750
@@ -278561,9 +278174,6 @@ sort: by_weight
 挠一挠	nao yi nao	1180
 闹意气	nao yi qi	9999
 挠一下	nao yi xia	1180
-脑溢血	nao yi xue	7965
-脑淤血	nao yu xie	85
-脑淤血	nao yu xue	85
 闹元宵	nao yuan xiao	1690
 闹灾	nao zai	90
 闹灾荒	nao zai huang	150
@@ -278749,8 +278359,6 @@ sort: by_weight
 内城	nei cheng	10335
 内出	nei chu	11270
 内处理	nei chu li	5340
-内出血	nei chu xie	3375
-内出血	nei chu xue	3375
 内穿	nei chuan	2222
 内传	nei chuan	111
 内春村	nei chun cun	2
@@ -279176,6 +278784,7 @@ sort: by_weight
 内难	nei nan	1
 内囊	nei nang	46
 内脑	nei nao	11
+内内	nei nei	3333
 内能	nei neng	16735
 内啮合	nei nie he	750
 内排序	nei pai xu	1203
@@ -279708,6 +279317,10 @@ sort: by_weight
 能飞翔	neng fei xiang	475
 能分别	neng fen bie	2000
 能否	neng fou	500286
+能付	neng fu	5555
+能富	neng fu	2222
+能服	neng fu	111
+能付吗	neng fu ma	5555
 能服于人	neng fu yu ren	1180
 能复制	neng fu zhi	185
 能改	neng gai	17935
@@ -281936,6 +281549,8 @@ sort: by_weight
 你又笑	ni you xiao	110
 你有些	ni you xie	152
 你有心	ni you xin	1540
+你又要	ni you yao	3333
+你有药	ni you yao	111
 你又在	ni you zai	93
 你又怎么了	ni you zen me le	435
 你有照片吗	ni you zhao pian ma	20
@@ -282847,7 +282462,6 @@ sort: by_weight
 黏著油	nian zhu you	1
 捻转补泻	nian zhuan bu xie	5
 捻转儿	nian zhuan er	10
-捻转血矛线虫	nian zhuan xue mao xian chong	16
 黏着	nian zhuo	9999
 年资	nian zi	6830
 碾子	nian zi	3065
@@ -283162,10 +282776,8 @@ sort: by_weight
 鸟窝	niao wo	3915
 鸟污苔侵文字残	niao wu tai qin wen zi can	1
 尿血	niao xie	3595
-尿血病	niao xie bing	2
 尿性	niao xing	1111
 尿血	niao xue	3595
-尿血病	niao xue bing	2
 尿样	niao yang	2660
 尿液	niao ye	39795
 尿液分析	niao ye fen xi	82
@@ -283816,17 +283428,6 @@ sort: by_weight
 狞笑	ning xiao	10050
 佞笑	ning xiao	10
 凝血	ning xie	17225
-凝血活酶	ning xie huo mei	8
-凝血机制	ning xie ji zhi	82
-凝血酶	ning xie mei	2425
-凝血酶时间	ning xie mei shi jian	3
-凝血酶原	ning xie mei yuan	3485
-凝血酶原复合物	ning xie mei yuan fu he wu	41
-凝血酶原时间	ning xie mei yuan shi jian	15
-宁血汤	ning xie tang	1
-凝血烷	ning xie wan	5
-凝血因子	ning xie yin zi	3930
-凝血障碍	ning xie zhang ai	59
 宁心安神	ning xin an shen	1415
 宁心安神胶囊	ning xin an shen jiao nang	2
 宁心宝胶囊	ning xin bao jiao nang	5
@@ -283837,17 +283438,6 @@ sort: by_weight
 宁兴小区	ning xing xiao qu	2
 宁许负秦曲	ning xu fu qin qu	1
 凝血	ning xue	17225
-凝血活酶	ning xue huo mei	8
-凝血机制	ning xue ji zhi	82
-凝血酶	ning xue mei	2425
-凝血酶时间	ning xue mei shi jian	3
-凝血酶原	ning xue mei yuan	3485
-凝血酶原复合物	ning xue mei yuan fu he wu	41
-凝血酶原时间	ning xue mei yuan shi jian	15
-宁血汤	ning xue tang	1
-凝血烷	ning xue wan	5
-凝血因子	ning xue yin zi	3930
-凝血障碍	ning xue zhang ai	59
 宁阳	ning yang	3095
 宁阳大酒店	ning yang da jiu dian	16
 宁阳路	ning yang lu	7
@@ -284767,7 +284357,6 @@ sort: by_weight
 弄丢了	nong diu le	3333
 弄懂	nong dong	15860
 浓度	nong du	229445
-脓毒败血症	nong du bai xue zheng	30
 浓度测定	nong du ce ding	755
 浓度计	nong du ji	1710
 农都市场	nong du shi chang	66
@@ -285212,12 +284801,10 @@ sort: by_weight
 农轩路	nong xuan lu	6
 农学	nong xue	24120
 脓血	nong xue	6965
-脓血便	nong xue bian	74
 农学会	nong xue hui	4140
 农学家	nong xue jia	850
 农学系	nong xue xi	1220
 农学院	nong xue yuan	13505
-脓血症	nong xue zheng	11
 浓烟	nong yan	19440
 浓艳	nong yan	6515
 农谚	nong yan	1300
@@ -285454,8 +285041,6 @@ sort: by_weight
 努比亚	nu bi ya	1040
 奴比亚奶山羊	nu bi ya nai shan yang	1
 努比亚夜鹰	nu bi ya ye ying	1
-努边龙血树	nu bian long xie shu	1
-努边龙血树	nu bian long xue shu	1
 怒不可遏	nu bu ke e	8410
 奴布拉鼠兔	nu bu la shu tu	1
 奴才	nu cai	29355
@@ -286430,6 +286015,7 @@ sort: by_weight
 女巫小屋	nv wu xiao wu	1
 女巫族	nv wu zu	13
 女洗手间	nv xi shou jian	3333
+女吸血鬼	nv xi xie gui	3333
 女吸血鬼	nv xi xue gui	3333
 女侠	nv xia	14060
 女侠节	nv xia jie	182
@@ -287036,10 +286622,6 @@ sort: by_weight
 欧协杯	ou xie bei	136
 呕心	ou xin	2170
 呕心抽肠	ou xin chou chang	1
-呕心沥血	ou xin li xie	12425
-呕心沥血之作	ou xin li xie zhi zuo	660
-呕心沥血	ou xin li xue	12425
-呕心沥血之作	ou xin li xue zhi zuo	660
 欧姓	ou xing	60
 区姓	ou xing	6
 鸥形目	ou xing mu	38
@@ -287924,7 +287506,6 @@ sort: by_weight
 排卵	pai luan	45400
 排卵后	pai luan hou	4170
 排卵期	pai luan qi	13295
-排卵期出血	pai luan qi chu xue	15
 排卵日	pai luan ri	4480
 排卵药	pai luan yao	141
 派罗欣	pai luo xin	1780
@@ -288267,6 +287848,8 @@ sort: by_weight
 排异	pai yi	4660
 排椅	pai yi	99
 拍一发三	pai yi fa san	186
+派一个	pai yi ge	3333
+拍一个	pai yi ge	2222
 排一个	pai yi ge	12
 拍一件	pai yi jian	64
 拍一拍	pai yi pai	1485
@@ -289166,8 +288749,6 @@ sort: by_weight
 旁系	pang xi	1260
 旁系亲属	pang xi qin shu	945
 旁蹊曲径	pang xi qu jing	3
-旁系血亲	pang xi xie qin	8195
-旁系血亲	pang xi xue qin	8195
 庞象青	pang xiang qing	187
 胖小子	pang xiao zi	2860
 螃蟹	pang xie	54830
@@ -290497,8 +290078,6 @@ sort: by_weight
 赔罪	pei zui	5575
 陪坐	pei zuo	9999
 喷鼻	pen bi	111
-喷鼻血	pen bi xie	2030
-喷鼻血	pen bi xue	2030
 喷鼻子	pen bi zi	1111
 喷薄	pen bo	2765
 喷薄而出	pen bo er chu	4210
@@ -291307,8 +290886,6 @@ sort: by_weight
 批捕	pi bu	7570
 批不了	pi bu liao	60
 劈不了	pi bu liao	10
-脾不统血	pi bu tong xie	2
-脾不统血	pi bu tong xue	2
 皮擦	pi ca	10
 皮擦乡	pi ca xiang	3
 辟才胡同	pi cai hu tong	56
@@ -291458,10 +291035,8 @@ sort: by_weight
 皮肤表面	pi fu biao mian	15210
 皮肤病	pi fu bing	52230
 皮肤病学	pi fu bing xue	1165
-皮肤病血毒丸	pi fu bing xue du wan	10
 匹夫不可夺志	pi fu bu ke duo zhi	855
 匹夫不可夺志也	pi fu bu ke duo zhi ye	35
-皮肤出血点	pi fu chu xue dian	11
 皮肤粗糙	pi fu cu cao	6170
 蚍蜉戴盆	pi fu dai pen	1
 皮肤发炎	pi fu fa yan	1385
@@ -291537,7 +291112,6 @@ sort: by_weight
 批改	pi gai	22595
 批改作业	pi gai zuo ye	5730
 披肝沥胆	pi gan li dan	985
-披肝沥血	pi gan li xue	9999
 披肝糜胃	pi gan mi wei	1
 皮革	pi ge	143060
 皮革厂	pi ge chang	1995
@@ -291945,8 +291519,6 @@ sort: by_weight
 批评指正	pi ping zhi zheng	9295
 脾破裂	pi po lie	360
 劈破面皮	pi po mian pi	1
-皮破血流	pi po xie liu	420
-皮破血流	pi po xue liu	420
 脾气	pi qi	136230
 痞气	pi qi	1111
 脾气暴	pi qi bao	270
@@ -292102,8 +291674,6 @@ sort: by_weight
 皮下	pi xia	25065
 劈下	pi xia	5660
 批下	pi xia	2085
-皮下出血	pi xia chu xue	3199
-皮下出血点	pi xia chu xue dian	13
 皮下结节	pi xia jie jie	10
 批下来	pi xia lai	2080
 劈下来	pi xia lai	1730
@@ -292111,7 +291681,6 @@ sort: by_weight
 皮下囊肿	pi xia nang zhong	5
 劈下去	pi xia qu	3560
 批下去	pi xia qu	560
-皮下血肿	pi xia xue zhong	115
 皮下脂肪	pi xia zhi fang	9290
 皮下注射	pi xia zhu she	6795
 皮下组织	pi xia zu zhi	7340
@@ -293433,8 +293002,8 @@ sort: by_weight
 贫民学校	pin min xue xiao	35
 贫民院	pin min yuan	1
 拼命	pin ming	159210
-品名	pin ming	1328
-# 品茗	pin ming	0
+品茗	pin ming	2222
+品名	pin ming	132
 拼命吃	pin ming chi	515
 拼命打	pin ming da	885
 拼命的	pin ming de	31625
@@ -293612,7 +293181,6 @@ sort: by_weight
 拼写错误	pin xie cuo wu	4390
 拼写法	pin xie fa	540
 拼写检查	pin xie jian cha	3290
-贫血症	pin xie zheng	2255
 品行	pin xing	30365
 品性	pin xing	18050
 品行不端	pin xing bu duan	1370
@@ -293628,12 +293196,7 @@ sort: by_weight
 聘选	pin xuan	185
 贫血	pin xue	78165
 品学	pin xue	1680
-贫血病	pin xue bing	835
 品学兼优	pin xue jian you	18690
-贫血性心脏病	pin xue xing xin zang bing	12
-贫血者	pin xue zhe	1370
-贫血症	pin xue zheng	2255
-贫血痣	pin xue zhi	1
 贫液	pin ye	305
 贫夜蛾	pin ye e	1
 拼一	pin yi	1720
@@ -297192,9 +296755,6 @@ sort: by_weight
 岂不善哉	qi bu shan zai	339
 其不善者恶之	qi bu shan zhe e zhi	2
 其不善者而改之	qi bu shan zhe er gai zhi	64
-气不摄血证	qi bu she xie zheng	1
-气不摄血	qi bu she xue	3
-气不摄血证	qi bu she xue zheng	1
 岂不是	qi bu shi	51145
 七步诗	qi bu shi	1
 起步晚	qi bu wan	5150
@@ -297645,8 +297205,6 @@ sort: by_weight
 期待后续	qi dai hou xu	159
 脐带剪	qi dai jian	9
 期待权	qi dai quan	1060
-脐带血	qi dai xie	3655
-脐带血	qi dai xue	3655
 期待已久	qi dai yi jiu	15390
 期待着	qi dai zhe	66770
 期待值	qi dai zhi	2170
@@ -298568,8 +298126,6 @@ sort: by_weight
 骑进	qi jin	530
 齐金蝉	qi jin chan	165
 起劲儿	qi jin er	600
-泣尽继以血	qi jin ji yi xie	1
-泣尽继以血	qi jin ji yi xue	1
 其近亲属	qi jin qin shu	5190
 迄今为止	qi jin wei zhi	78445
 迄今已	qi jin yi	7480
@@ -299418,8 +298974,6 @@ sort: by_weight
 七巧板	qi qiao ban	3875
 乞巧节	qi qiao jie	1340
 七窍玲珑	qi qiao ling long	375
-七窍流血	qi qiao liu xie	1545
-七窍流血	qi qiao liu xue	1545
 七窍冒火	qi qiao mao huo	1
 七窍冒烟	qi qiao mao yan	165
 七窍生烟	qi qiao sheng yan	3020
@@ -299947,7 +299501,6 @@ sort: by_weight
 凄酸	qi suan	375
 起算日	qi suan ri	740
 七岁	qi sui	30180
-气随血脱	qi sui xue tuo	1
 七损八益	qi sun ba yi	35
 其所	qi suo	162900
 七所	qi suo	3020
@@ -300229,8 +299782,6 @@ sort: by_weight
 奇味干锅	qi wei gan guo	6
 齐维格	qi wei ge	115
 奇味酱	qi wei jiang	13
-七味解毒活血膏	qi wei jie du huo xie gao	1
-七味解毒活血膏	qi wei jie du huo xue gao	1
 七纬路	qi wei lu	19
 鳍尾梦角𩽾𩾌	qi wei meng jiao an kang	1
 七味螃蟹甲丸	qi wei pang xie jia wan	7
@@ -300478,24 +300029,13 @@ sort: by_weight
 泣血	qi xie	8455
 脐血	qi xie	3325
 棋协	qi xie	1475
-泣血迸空回白头	qi xie beng kong hui bai tou	2
 器械厂	qi xie chang	2580
-泣血椎心	qi xie chui xin	5
-气血固本口服液	qi xie gu ben kou fu ye	2
 弃邪归正	qi xie gui zheng	130
-气血津液	qi xie jin ye	53
-气血康胶囊	qi xie kang jiao nang	2
 缉鞋口	qi xie kou	1
-气血两燔	qi xie liang fan	3
-气血两虚证	qi xie liang xu zheng	4
 绮榭飘飖紫庭客	qi xie piao yao zi ting ke	1
 器械钳	qi xie qian	3
-气血失调	qi xie shi tiao	28
-气血双补口服液	qi xie shuang bu kou fu ye	1
-气血双补丸	qi xie shuang bu wan	9
 器械体操	qi xie ti cao	15
 弃械投降	qi xie tou xiang	455
-气血运行	qi xie yun xing	406
 齐心	qi xin	11410
 起薪	qi xin	9999
 其心	qi xin	3236
@@ -300601,19 +300141,8 @@ sort: by_weight
 气穴	qi xue	2075
 弃学	qi xue	2050
 气学	qi xue	630
-泣血迸空回白头	qi xue beng kong hui bai tou	2
-泣血椎心	qi xue chui xin	5
-气血固本口服液	qi xue gu ben kou fu ye	2
-气血津液	qi xue jin ye	53
-气血康胶囊	qi xue kang jiao nang	2
-气血两燔	qi xue liang fan	3
-气血两虚证	qi xue liang xu zheng	4
 祈雪灵祝	qi xue ling zhu	187
 齐学启	qi xue qi	11
-气血失调	qi xue shi tiao	28
-气血双补口服液	qi xue shuang bu kou fu ye	1
-气血双补丸	qi xue shuang bu wan	9
-气血运行	qi xue yun xing	406
 奇勋	qi xun	9999
 旗汛口	qi xun kou	58
 七旬老	qi xun lao	193
@@ -301292,14 +300821,10 @@ sort: by_weight
 旗帜鲜明	qi zhi xian ming	15535
 七制香附丸	qi zhi xiang fu wan	1
 七只小羊	qi zhi xiao yang	182
-气滞血淤	qi zhi xie yu	3775
 器质性	qi zhi xing	9999
 器质性精神病	qi zhi xing jing shen bing	2
 器质性精神障碍	qi zhi xing jing shen zhang ai	51
 启智学校	qi zhi xue xiao	245
-气滞血淤	qi zhi xue yu	3775
-气滞血瘀	qi zhi xue yu	247
-气滞血瘀证	qi zhi xue yu zheng	7
 齐之以礼	qi zhi yi li	530
 弃智遗身	qi zhi yi shen	1
 齐之以武	qi zhi yi wu	130
@@ -302067,7 +301592,6 @@ sort: by_weight
 千方百计	qian fang bai ji	88980
 前方道路	qian fang dao lu	192
 前房积脓	qian fang ji nong	1
-前房积血	qian fang ji xue	19
 前房角	qian fang jiao	14
 前方桥低	qian fang qiao di	1
 前方施工	qian fang shi gong	3333
@@ -303060,7 +302584,6 @@ sort: by_weight
 千年田换八百主	qian nian tian huan ba bai zhu	1
 千年万载	qian nian wan zai	280
 千年未拟还	qian nian wei ni hai	2
-千年血战	qian nian xue zhan	149
 千年一律	qian nian yi lv	4
 千年一清圣人在	qian nian yi qing sheng ren zai	1
 千年义犬	qian nian yi quan	1
@@ -304768,7 +304291,6 @@ sort: by_weight
 羟钴胺素	qiang gu an su	15
 强骨胶囊	qiang gu jiao nang	3
 墙骨龙	qiang gu long	1
-强骨生血口服液	qiang gu sheng xue kou fu ye	3
 枪管	qiang guan	9020
 羌管	qiang guan	845
 羌管吹杨柳	qiang guan chui yang liu	1
@@ -305359,6 +304881,7 @@ sort: by_weight
 锖色	qiang se	1
 羟色胺	qiang se an	4500
 羟色氨酸	qiang se an suan	210
+强森	qiang sen	1111
 枪杀	qiang sha	13655
 枪杀案	qiang sha an	540
 强沙尘暴	qiang sha chen bao	735
@@ -310243,7 +309766,6 @@ sort: by_weight
 清热开窍	qing re kai qiao	1
 清热利湿	qing re li shi	3830
 清热凉茶	qing re liang cha	4
-清热凉血	qing re liang xue	172
 清热灵颗粒	qing re ling ke li	3
 清热明目茶	qing re ming mu cha	2
 清热祛湿	qing re qu shi	140
@@ -311215,8 +310737,6 @@ sort: by_weight
 轻宣润燥	qing xuan run zao	1
 清宣统	qing xuan tong	1660
 请选择	qing xuan ze	252405
-清血八味	qing xue ba wei	17
-清血八味胶囊	qing xue ba wei jiao nang	4
 清雪车	qing xue che	136
 轻巡洋舰	qing xun yang jian	960
 清雅	qing ya	23525
@@ -311385,7 +310905,6 @@ sort: by_weight
 轻盈的	qing ying de	14690
 青蝇点璧	qing ying dian bi	1
 青蝇点玉	qing ying dian yu	1
-清营凉血	qing ying liang xue	1
 青缨鲆	qing ying ping	1
 清营汤	qing ying tang	10
 清营透疹	qing ying tou zhen	1
@@ -312424,7 +311943,6 @@ sort: by_weight
 球囊斑	qiu nang ban	1
 球囊扩张导管	qiu nang kuo zhang dao guan	11
 丘脑	qiu nao	4745
-丘脑出血	qiu nao chu xue	14
 丘脑下部	qiu nao xia bu	1200
 求你	qiu ni	34455
 求你了	qiu ni le	5000
@@ -315710,7 +315228,6 @@ sort: by_weight
 全市性	quan shi xing	4010
 权势煊赫	quan shi xuan he	2
 诠释学	quan shi xue	2890
-全是血	quan shi xue	1590
 全是雪	quan shi xue	300
 全市学	quan shi xue	215
 全视野	quan shi ye	194
@@ -315980,7 +315497,6 @@ sort: by_weight
 全蝎	quan xie	606
 权蟹	quan xie	1
 全斜沟前嵴蚌	quan xie gou qian ji bang	1
-全血黏度	quan xie nian du	1
 全新	quan xin	500423
 全心	quan xin	23410
 全信	quan xin	3200
@@ -316013,7 +315529,6 @@ sort: by_weight
 全血	quan xue	8590
 劝学	quan xue	4115
 劝学记	quan xue ji	147
-全血黏度	quan xue nian du	1
 劝学篇	quan xue pian	1000
 全学期	quan xue qi	540
 犬牙	quan ya	1990
@@ -316622,8 +316137,6 @@ sort: by_weight
 缺塘	que tang	4
 缺塘社区	que tang she qu	2
 缺铁	que tie	6505
-缺铁性贫血	que tie xing pin xie	11460
-缺铁性贫血	que tie xing pin xue	11460
 炔烃	que ting	1
 缺头少尾	que tou shao wei	2
 瘸腿	que tui	3195
@@ -316666,16 +316179,6 @@ sort: by_weight
 雀小脏全	que xiao zang quan	1
 缺血	que xie	20495
 却写	que xie	4255
-缺血性	que xie xing	12870
-缺血性肠病	que xie xing chang bing	3
-缺血性肠炎	que xie xing chang yan	3
-缺血性坏死	que xie xing huai si	83
-缺血性肌挛缩	que xie xing ji luan suo	1
-缺血性挛缩	que xie xing luan suo	8
-缺血性视盘病变	que xie xing shi pan bing bian	1
-缺血性视神经病变	que xie xing shi shen jing bing bian	8
-缺血性心肌病	que xie xing xin ji bing	26
-缺血再灌注	que xie zai guan zhu	1415
 确信	que xin	51000
 缺锌	que xin	6805
 确信度	que xin du	375
@@ -316690,16 +316193,6 @@ sort: by_weight
 缺须盆唇鱼	que xu pen chun yu	1
 雀喧鸠聚	que xuan jiu ju	1
 缺血	que xue	20495
-缺血性	que xue xing	12870
-缺血性肠病	que xue xing chang bing	3
-缺血性肠炎	que xue xing chang yan	3
-缺血性坏死	que xue xing huai si	83
-缺血性肌挛缩	que xue xing ji luan suo	1
-缺血性挛缩	que xue xing luan suo	8
-缺血性视盘病变	que xue xing shi pan bing bian	1
-缺血性视神经病变	que xue xing shi shen jing bing bian	8
-缺血性心肌病	que xue xing xin ji bing	26
-缺血再灌注	que xue zai guan zhu	1415
 缺牙	que ya	1660
 缺氧	que yang	51705
 缺氧的	que yang de	5725
@@ -317199,7 +316692,7 @@ sort: by_weight
 染绿	ran lv	1400
 髯毛鰕虎	ran mao xia hu	1
 髯毛鰕虎鱼	ran mao xia hu yu	1
-燃煤	ran mei	31330
+燃煤	ran mei	3133
 燃眉	ran mei	800
 燃煤电厂	ran mei dian chang	4775
 燃煤锅炉	ran mei guo lu	5770
@@ -318134,8 +317627,6 @@ sort: by_weight
 热情洋溢	re qing yang yi	25015
 热情周到	re qing zhou dao	12735
 热区	re qu	5140
-热缺血时间	re que xie shi jian	8
-热缺血时间	re que xue shi jian	8
 热热	re re	8965
 热热火火	re re huo huo	35
 热热闹闹	re re nao nao	12615
@@ -318255,10 +317746,6 @@ sort: by_weight
 热效率	re xiao lv	12375
 热效应	re xiao ying	4840
 热血	re xie	63575
-热血动物	re xie dong wu	275
-热血沸腾	re xie fei teng	20900
-热血男儿	re xie nan er	2605
-热血青年	re xie qing nian	6660
 热邪阻肺	re xie zu fei	1
 热心	re xin	226950
 热心参加	re xin can jia	455
@@ -318279,13 +317766,6 @@ sort: by_weight
 热血	re xue	63575
 热学	re xue	4444
 热靴	re xue	11
-热血病	re xue bing	176
-热血动物	re xue dong wu	275
-热血沸腾	re xue fei teng	20900
-热血航线	re xue hang xian	165
-热血警探	re xue jing tan	110
-热血男儿	re xue nan er	2605
-热血青年	re xue qing nian	6660
 热循环	re xun huan	1520
 热压	re ya	9550
 热呀	re ya	740
@@ -318849,7 +318329,6 @@ sort: by_weight
 人工调整	ren gong tiao zheng	480
 人工心肺设备	ren gong xin fei she bei	5
 人工选择	ren gong xuan ze	1075
-人工血管	ren gong xue guan	125
 人工牙	ren gong ya	25
 人工养殖笋壳鱼技术	ren gong yang zhi sun ke yu ji shu	1
 人工阴道	ren gong yin dao	7
@@ -319690,8 +319169,6 @@ sort: by_weight
 任你宰割	ren ni zai ge	62
 稔年	ren nian	35
 任您	ren nin	11210
-人凝血酶原复合物	ren ning xie mei yuan fu he wu	5
-人凝血酶原复合物	ren ning xue mei yuan fu he wu	5
 人偶	ren ou	12060
 人怕出名猪怕壮	ren pa chu ming zhu pa zhuang	1020
 人攀明月不可得	ren pan ming yue bu ke de	5
@@ -320545,10 +320022,6 @@ sort: by_weight
 任晓静	ren xiao jing	338
 仁孝行于家	ren xiao xing yu jia	1
 人写	ren xie	11550
-人血白蛋白	ren xie bai dan bai	980
-人血白蛋白注射液	ren xie bai dan bai zhu she ye	5
-人血丙种球蛋白	ren xie bing zhong qiu dan bai	2
-人血清白蛋白	ren xie qing bai dan bai	37
 人心	ren xin	154770
 忍心	ren xin	30980
 仁心	ren xin	3970
@@ -320623,11 +320096,7 @@ sort: by_weight
 人血	ren xue	6100
 仁学	ren xue	3655
 任雪	ren xue	1210
-人血白蛋白	ren xue bai dan bai	980
-人血白蛋白注射液	ren xue bai dan bai zhu she ye	5
-人血丙种球蛋白	ren xue bing zhong qiu dan bai	2
 任雪峰	ren xue feng	385
-人血清白蛋白	ren xue qing bai dan bai	37
 人学始知道	ren xue shi zhi dao	2
 人眼	ren yan	25810
 人烟	ren yan	12890
@@ -320840,7 +320309,6 @@ sort: by_weight
 人造纤维	ren zao xian wei	6345
 人造行星	ren zao xing xing	9999
 人造雪	ren zao xue	156
-人造血管	ren zao xue guan	119
 人造月球卫星	ren zao yue qiu wei xing	125
 人造云母	ren zao yun mu	90
 人造子宫	ren zao zi gong	199
@@ -321398,7 +320866,6 @@ sort: by_weight
 日本须鲂𫚒	ri ben xu fang fu	1
 日本须鳂	ri ben xu wei	1
 日本选手	ri ben xuan shou	2745
-日本血吸虫	ri ben xue xi chong	13
 日本蟳	ri ben xun	8
 日本崖地蛛	ri ben ya di zhu	1
 日本岩瓷蟹	ri ben yan ci xie	1
@@ -321513,7 +320980,6 @@ sort: by_weight
 日贷	ri dai	1
 日带目	ri dai mu	1
 日啖荔枝三百颗	ri dan li zhi san bai ke	101
-日岛血蜱	ri dao xue pi	1
 日德兰	ri de lan	1180
 日德兰半岛	ri de lan ban dao	360
 日德兰海战	ri de lan hai zhan	160
@@ -321806,7 +321272,6 @@ sort: by_weight
 日射	ri she	695
 日射病	ri she bing	380
 日射脊板珊瑚	ri she ji ban shan hu	1
-日射血珠将滴地	ri she xue zhu jiang di di	1
 日神	ri shen	1705
 日甚一日	ri shen yi ri	1215
 日慎一日	ri shen yi ri	111
@@ -322496,10 +321961,6 @@ sort: by_weight
 绒线衣	rong xian yi	1110
 荣校	rong xiao	70
 溶血	rong xie	12235
-溶血素	rong xie su	5
-溶血性	rong xie xing	9995
-溶血性黄疸	rong xie xing huang dan	33
-溶血性贫血	rong xie xing pin xue	271
 荣欣	rong xin	1390
 容新	rong xin	8
 融信达	rong xin da	4
@@ -322519,12 +321980,7 @@ sort: by_weight
 容许有	rong xu you	795
 溶血	rong xue	12235
 融雪	rong xue	3320
-茸血补脑液	rong xue bu nao ye	1
 融雪剂	rong xue ji	1240
-溶血素	rong xue su	5
-溶血性	rong xue xing	9995
-溶血性黄疸	rong xue xing huang dan	33
-溶血性贫血	rong xue xing pin xue	271
 容颜	rong yan	55090
 熔岩	rong yan	15615
 容颜如玉	rong yan ru yu	177
@@ -323682,7 +323138,6 @@ sort: by_weight
 如芒刺背	ru mang ci bei	21
 如芒在背	ru mang zai bei	440
 如猫的	ru mao de	110
-茹毛饮血	ru mao yin xue	1940
 入梅	ru mei	740
 入寐	ru mei	450
 入梅了	ru mei le	1185
@@ -325539,8 +324994,6 @@ sort: by_weight
 萨格勒布	sa ge le bu	1880
 萨格隆	sa ge long	1
 萨格斯	sa ge si	139
-洒狗血	sa gou xie	260
-洒狗血	sa gou xue	260
 仨瓜俩枣	sa gua lia zao	9999
 萨哈夫	sa ha fu	160
 撒哈拉	sa ha la	10410
@@ -325721,8 +325174,6 @@ sort: by_weight
 飒然	sa ran	1405
 萨让乡	sa rang xiang	9
 萨热十三味鹏鸟丸	sa re shi san wei peng niao wan	2
-洒热血	sa re xie	3185
-洒热血	sa re xue	3185
 撒入	sa ru	5555
 飒如松起籁	sa ru song qi lai	1
 飒飒	sa sa	5865
@@ -326636,8 +326087,6 @@ sort: by_weight
 三带前齿蝴蝶鱼	san dai qian chi hu die yu	1
 三代同堂	san dai tong tang	1735
 三带椭龟甲	san dai tuo gui jia	1
-三代以内直系血亲	san dai yi nei zhi xi xie qin	45
-三代以内直系血亲	san dai yi nei zhi xi xue qin	45
 三代之得天下也以仁	san dai zhi de tian xia ye yi ren	1
 散弹	san dan	8964
 散诞	san dan	1
@@ -327871,8 +327320,6 @@ sort: by_weight
 三妻四妾	san qi si qie	2525
 三七通舒胶囊	san qi tong shu jiao nang	4
 三期贤佞	san qi xian ning	1
-三七血伤宁胶囊	san qi xue shang ning jiao nang	1
-三七养血胶囊	san qi yang xue jiao nang	1
 三七药酒	san qi yao jiu	2
 三七蒸鸡	san qi zheng ji	3
 三七总皂苷	san qi zong zao gan	9
@@ -328568,8 +328015,6 @@ sort: by_weight
 三问一答	san wen yi da	515
 三文一品汤包	san wen yi pin tang bao	1
 三文鱼	san wen yu	21433
-三文鱼贫血症	san wen yu pin xie zheng	3
-三文鱼贫血症	san wen yu pin xue zheng	3
 三文鱼寿司卷	san wen yu shou si juan	2
 三文治	san wen zhi	2720
 散文作家	san wen zuo jia	1210
@@ -330710,8 +330155,6 @@ sort: by_weight
 杀人案	sha ren an	12015
 杀人案件	sha ren an jian	2425
 杀人不过头点地	sha ren bu guo tou dian di	295
-杀人不见血	sha ren bu jian xie	1430
-杀人不见血	sha ren bu jian xue	1430
 杀人不用刀	sha ren bu yong dao	280
 杀人不眨眼	sha ren bu zha yan	3980
 杀人偿命	sha ren chang ming	1330
@@ -330979,7 +330422,6 @@ sort: by_weight
 杀小怪	sha xiao guai	65
 傻笑着	sha xiao zhe	2805
 傻小子	sha xiao zi	7210
-歃血为盟	sha xie wei meng	1790
 砂心	sha xin	250
 杀心	sha xin	21
 厦新	sha xin	10
@@ -330994,8 +330436,6 @@ sort: by_weight
 沙宣	sha xuan	111
 歃血	sha xue	1835
 沙雪	sha xue	20
-歃血盟誓	sha xue meng shi	1180
-歃血为盟	sha xue wei meng	1790
 沙哑	sha ya	20320
 啥呀	sha ya	5460
 傻呀	sha ya	1460
@@ -334886,8 +334326,6 @@ sort: by_weight
 伤湿止痛膏	shang shi zhi tong gao	83
 商事仲裁	shang shi zhong cai	1350
 上矢状窦	shang shi zhuang dou	10
-上矢状窦血栓形成	shang shi zhuang dou xie shuan xing cheng	1
-上矢状窦血栓形成	shang shi zhuang dou xue shuan xing cheng	1
 上手	shang shou	55965
 上首	shang shou	7940
 上寿	shang shou	1830
@@ -335337,7 +334775,6 @@ sort: by_weight
 商校	shang xiao	3750
 上小河	shang xiao he	1
 上消化道	shang xiao hua dao	5020
-上消化道出血	shang xiao hua dao chu xue	161
 上消化道造影	shang xiao hua dao zao ying	10
 上校鸡块	shang xiao ji kuai	209
 尚筱菊	shang xiao ju	137
@@ -336999,7 +336436,6 @@ sort: by_weight
 涉毒	she du	3420
 涉赌	she du	1510
 涉渡	she du	540
-蛇毒血凝酶	she du xue ning mei	1
 蛇毒中毒	she du zhong du	5
 舍短取长	she duan qu chang	110
 舌端月旦	she duan yue dan	1
@@ -338143,7 +337579,6 @@ sort: by_weight
 蛇形填数	she xing tian shu	155
 舌形新刺缘吸虫	she xing xin ci yuan xi chong	1
 社学	she xue	1305
-射血分数	she xue fen shu	23
 设宴	she yan	7880
 歙砚	she yan	2575
 舌炎	she yan	66
@@ -339979,6 +339414,8 @@ sort: by_weight
 神农圆胸隐翅虫	shen nong yuan xiong yin chi chong	1
 肾脓肿	shen nong zhong	6
 深农猪配套系	shen nong zhu pei tao xi	9
+神怒	shen nu	5555
+甚怒	shen nu	1111
 神怒鬼怨	shen nu gui yuan	1
 神怒民痛	shen nu min tong	1
 神怒人弃	shen nu ren qi	1
@@ -340310,7 +339747,6 @@ sort: by_weight
 沈容	shen rong	2
 参茸白凤丸	shen rong bai feng wan	7
 参茸鞭丸	shen rong bian wan	1
-参茸补血酒	shen rong bu xue jiu	1
 参茸茶	shen rong cha	5
 参茸大补膏	shen rong da bu gao	17
 参茸阿胶	shen rong e jiao	3
@@ -340943,7 +340379,6 @@ sort: by_weight
 沈小婷	shen xiao ting	108
 肾小盏	shen xiao zhan	1
 申谢	shen xie	165
-肾血管瘤	shen xie guan liu	2
 身心	shen xin	196135
 深信	shen xin	46365
 深心	shen xin	4700
@@ -340981,15 +340416,12 @@ sort: by_weight
 沈兴北路	shen xing bei lu	7
 神行电迈蹑慌惚	shen xing dian mai nie huang hu	1
 肾形豆形虫	shen xing dou xing chong	1
-肾性高血压	shen xing gao xie ya	67
-肾性高血压	shen xing gao xue ya	67
 肾性骨病	shen xing gu bing	14
 肾性骨营养不良	shen xing gu ying yang bu liang	3
 神行诀	shen xing jue	3
 沈兴路	shen xing lu	1
 沈兴南路	shen xing nan lu	9
 肾性尿崩症	shen xing niao beng zheng	1
-肾性贫血	shen xing pin xue	50
 慎刑司	shen xing si	184
 身行万里半天下	shen xing wan li ban tian xia	1
 神行靴	shen xing xue	7
@@ -341009,11 +340441,7 @@ sort: by_weight
 # 深雪	shen xue	0
 # 申雪	shen xue	0
 神学博士	shen xue bo shi	240
-肾血管瘤	shen xue guan liu	2
-肾血管性高血压	shen xue guan xing gao xie ya	5
-肾血管性高血压	shen xue guan xing gao xue ya	5
 神学家	shen xue jia	4720
-肾血流量	shen xue liu liang	10
 神学生	shen xue sheng	200
 神学院	shen xue yuan	4465
 审讯	shen xun	26405
@@ -341337,8 +340765,6 @@ sort: by_weight
 深圳经济特区	shen zhen jing ji te qu	143
 深圳经济特区房地产登记条例	shen zhen jing ji te qu fang di chan deng ji tiao li	95
 深圳经济特区房地产转让条例	shen zhen jing ji te qu fang di chan zhuan rang tiao li	120
-深圳经济特区公民无偿献血及血液管理条例	shen zhen jing ji te qu gong min wu chang xian xie ji xue ye guan li tiao li	17
-深圳经济特区公民无偿献血及血液管理条例	shen zhen jing ji te qu gong min wu chang xian xue ji xue ye guan li tiao li	17
 深圳经济特区国有独资有限公司条例	shen zhen jing ji te qu guo you du zi you xian gong si tiao li	2
 深圳经济特区河道管理条例	shen zhen jing ji te qu he dao guan li tiao li	5
 深圳经济特区企业工资管理暂行规定	shen zhen jing ji te qu qi ye gong zi guan li zan xing gui ding	6
@@ -343843,9 +343269,7 @@ sort: by_weight
 声学模型	sheng xue mo xing	300
 圣雪绒	sheng xue rong	12
 声学所	sheng xue suo	590
-升血小板胶囊	sheng xue xiao ban jiao nang	1
 升学压力	sheng xue ya li	2325
-省血站	sheng xue zhan	9
 升学指导	sheng xue zhi dao	144
 声讯	sheng xun	15085
 圣训	sheng xun	6385
@@ -345427,7 +344851,6 @@ sort: by_weight
 史蒂文斯	shi di wen si	2040
 史帝文斯	shi di wen si	1
 施蒂歇尔杯形珊瑚	shi di xie er bei xing shan hu	1
-十滴血	shi di xue	174
 是第一	shi di yi	149
 是第一次	shi di yi ci	33840
 是第一个	shi di yi ge	101
@@ -347015,6 +346438,8 @@ sort: by_weight
 食饥息劳	shi ji xi lao	2
 石矶西畔问渔船	shi ji xi pan wen yu chuan	1
 实际系统	shi ji xi tong	800
+十几项	shi ji xiang	2222
+十几箱	shi ji xiang	1111
 时济乡	shi ji xiang	1
 世纪乡风	shi ji xiang feng	1
 市技校	shi ji xiao	20
@@ -348602,7 +348027,6 @@ sort: by_weight
 石龙过江	shi long guo jiang	4
 石龙路	shi long lu	204
 石龙门单爪螯蜂	shi long men dan zhao ao feng	1
-石龙清血颗粒	shi long qing xue ke li	2
 石龙区	shi long qu	720
 石龙芮	shi long rui	10
 石龙子	shi long zi	310
@@ -349951,7 +349375,6 @@ sort: by_weight
 时闪时灭	shi shan shi mie	4
 视膳问安	shi shan wen an	1
 石山下	shi shan xia	23
-尸山血海	shi shan xue hai	285
 时尚	shi shang	500532
 史上	shi shang	167125
 世上	shi shang	131170
@@ -351096,7 +350519,6 @@ sort: by_weight
 视网膜上	shi wang mo shang	1925
 视网膜脱离	shi wang mo tuo li	256
 视网膜萎缩	shi wang mo wei suo	8
-视网膜血管炎	shi wang mo xue guan yan	16
 视网膜炎	shi wang mo yan	1165
 视网膜照度	shi wang mo zhao du	1
 视网膜震荡	shi wang mo zhen dang	37
@@ -351627,9 +351049,7 @@ sort: by_weight
 食蟹	shi xie	1150
 士燮	shi xie	3
 # 失谐	shi xie	0
-嗜血成性	shi xie cheng xing	720
 食蟹豆齿蛇鳗	shi xie dou chi she man	1
-嗜血分枝杆菌	shi xie fen zhi gan jun	2
 食蟹海豹属	shi xie hai bao shu	1
 湿鞋了	shi xie le	123
 食蟹獴	shi xie meng	4
@@ -351770,12 +351190,8 @@ sort: by_weight
 视学	shi xue	3950
 实学	shi xue	2970
 石穴	shi xue	1485
-柿血斑小叶蝉	shi xue ban xiao ye chan	1
-嗜血成性	shi xue cheng xing	720
 失学儿童	shi xue er tong	9675
-嗜血分枝杆菌	shi xue fen zhi gan jun	2
 史学概论	shi xue gai lun	900
-失血过多	shi xue guo duo	6225
 史学会	shi xue hui	3050
 史学家	shi xue jia	14625
 史学界	shi xue jie	6310
@@ -351783,8 +351199,6 @@ sort: by_weight
 石学念	shi xue nian	122
 使学生	shi xue sheng	193040
 史学史	shi xue shi	4565
-失血性贫血	shi xue xing pin xue	66
-失血性休克	shi xue xing xiu ke	3342
 失学者	shi xue zhe	160
 实训	shi xun	9999
 时讯	shi xun	8365
@@ -356976,12 +356390,6 @@ sort: by_weight
 舒筋定痛片	shu jin ding tong pian	4
 舒筋活络	shu jin huo luo	2565
 舒筋活络酒	shu jin huo luo jiu	6
-舒筋活血	shu jin huo xie	3650
-舒筋活血片	shu jin huo xie pian	7
-舒筋活血丸	shu jin huo xie wan	2
-舒筋活血	shu jin huo xue	3650
-舒筋活血片	shu jin huo xue pian	7
-舒筋活血丸	shu jin huo xue wan	2
 舒筋胶囊	shu jin jiao nang	2
 输进去	shu jin qu	235
 舒筋通络	shu jin tong luo	38
@@ -358439,7 +357847,6 @@ sort: by_weight
 疏懈	shu xie	75
 书写板	shu xie ban	935
 书写笔	shu xie bi	670
-输血反应	shu xie fan ying	810
 书写方向	shu xie fang xiang	212
 书写符号	shu xie fu hao	285
 书写技巧	shu xie ji qiao	385
@@ -358531,13 +357938,10 @@ sort: by_weight
 鼠穴	shu xue	180
 数学博士	shu xue bo shi	675
 数学成绩	shu xue cheng ji	8035
-输血法	shu xue fa	130
-输血反应	shu xue fan ying	810
 数学方法	shu xue fang fa	6380
 数学分析	shu xue fen xi	7830
 数学符号	shu xue fu hao	1975
 数学公式	shu xue gong shi	10073
-输血管	shu xue guan	275
 数学规律	shu xue gui lv	207
 数学归纳	shu xue gui na	167
 数学归纳法	shu xue gui na fa	1770
@@ -358565,8 +357969,6 @@ sort: by_weight
 数学理论	shu xue li lun	2600
 数学满分	shu xue man fen	164
 数学模型	shu xue mo xing	20170
-舒血宁注射液	shu xue ning zhu she ye	14
-输血器	shu xue qi	24
 数学期望	shu xue qi wang	1024
 数学软件	shu xue ruan jian	139
 数学上	shu xue shang	4310
@@ -358579,8 +357981,6 @@ sort: by_weight
 数学题	shu xue ti	8160
 数学题目	shu xue ti mu	209
 数学天才	shu xue tian cai	192
-疏血通	shu xue tong	12
-疏血通注射液	shu xue tong zhu she ye	12
 数学推理	shu xue tui li	451
 数学问题	shu xue wen ti	10420
 数学物理	shu xue wu li	4145
@@ -359157,6 +358557,9 @@ sort: by_weight
 刷毛	shua mao	6915
 刷毛植种蝇	shua mao zhi zhong ying	1
 耍闹	shua nao	160
+耍你	shua ni	3333
+耍你呢	shua ni ne	3333
+耍你呢啊	shua ni ne a	3333
 耍弄	shua nong	3000
 耍弄手腕	shua nong shou wan	5
 耍派头	shua pai tou	55
@@ -359181,6 +358584,7 @@ sort: by_weight
 刷乳胶漆	shua ru jiao qi	810
 刷上	shua shang	8710
 耍蛇者	shua she zhe	30
+刷手	shua shou	1111
 耍手段	shua shou duan	1045
 耍手腕	shua shou wan	315
 耍手艺	shua shou yi	50
@@ -359242,6 +358646,8 @@ sort: by_weight
 刷油漆	shua you qi	2540
 耍杂技	shua za ji	128
 刷赞	shua zan	1111
+刷掌	shua zhang	3333
+刷张	shua zhang	1111
 刷着	shua zhe	1310
 刷着呢	shua zhe ne	5
 刷真题	shua zhen ti	186
@@ -359832,8 +359238,6 @@ sort: by_weight
 双合园	shuang he yuan	175
 双横臂式	shuang heng bi shi	835
 双红会	shuang hong hui	131
-双红活血胶囊	shuang hong huo xie jiao nang	11
-双红活血胶囊	shuang hong huo xue jiao nang	11
 双红居委会	shuang hong ju wei hui	1
 双虹桥	shuang hong qiao	6
 双后腰	shuang hou yao	680
@@ -360448,7 +359852,6 @@ sort: by_weight
 双台	shuang tai	159
 双态拟裸腹蚤	shuang tai ni luo fu zao	1
 双胎妊娠	shuang tai ren shen	53
-双胎输血综合征	shuang tai shu xue zong he zheng	45
 双台子	shuang tai zi	655
 双台子区	shuang tai zi qu	905
 双叹号	shuang tan hao	3333
@@ -364331,10 +363734,6 @@ sort: by_weight
 死而无悔	si er wu hui	285
 死而无悔者	si er wu hui zhe	2
 死而无怨	si er wu yuan	620
-丝儿血	si er xie	4444
-丝儿血反杀	si er xie fan sha	4
-丝儿血	si er xue	4444
-丝儿血反杀	si er xue fan sha	4
 似二蛭虫属	si er zhi chong shu	1
 司法	si fa	233880
 私法	si fa	18270
@@ -366286,7 +365685,6 @@ sort: by_weight
 四体百骸	si ti bai hai	3
 四体不勤	si ti bu qin	910
 四体不勤五谷不分	si ti bu qin wu gu bu fen	23
-四蹄皆血流	si ti jie xue liu	1
 似提姆龙	si ti mu long	1
 四天	si tian	49155
 撕天裂地	si tian lie di	4
@@ -366692,7 +366090,6 @@ sort: by_weight
 四小时	si xiao shi	10940
 四消丸	si xiao wan	7
 丝血	si xie	4444
-丝血反杀	si xie fan sha	4
 私谐欢好	si xie huan hao	1
 似蝎尾锚首虫	si xie wei mao shou chong	1
 私信	si xin	21890
@@ -366755,7 +366152,6 @@ sort: by_weight
 死穴	si xue	7425
 丝血	si xue	4444
 私学	si xue	2355
-丝血反杀	si xue fan sha	4
 死讯	si xun	6750
 四旬	si xun	1215
 死循环	si xun huan	19036
@@ -366942,7 +366338,6 @@ sort: by_weight
 驷玉虬以桀鹥兮	si yu qiu yi jie yi xi	3
 死欲速朽	si yu su xiu	1
 思欲委符节	si yu wei fu jie	1
-丝萸养血益肾颗粒	si yu yang xue yi shen ke li	1
 似雨幽离	si yu you li	113
 寺院	si yuan	87580
 思源	si yuan	20865
@@ -367994,8 +367389,6 @@ sort: by_weight
 松姓	song xing	30
 送行李	song xing li	106
 淞兴路	song xing lu	9
-送行勿泣血	song xing wu qi xie	1
-送行勿泣血	song xing wu qi xue	1
 送修	song xiu	13650
 宋旭	song xu	2
 蜙蝑	song xu	1
@@ -369976,7 +369369,6 @@ sort: by_weight
 酸性土	suan xing tu	420
 酸性氧化物	suan xing yang hua wu	495
 算学	suan xue	3965
-酸血症	suan xue zheng	900
 酸腌菜炒藕	suan yan cai chao ou	3
 酸液	suan ye	4365
 算一个	suan yi ge	3
@@ -370997,8 +370389,8 @@ sort: by_weight
 孙文涛	sun wen tao	20
 孙文学说	sun wen xue shuo	305
 孙吴	sun wu	4520
+孙武	sun wu	111
 # 孙屋	sun wu	0
-# 孙武	sun wu	0
 孙武湖	sun wu hu	115
 孙悟空	sun wu kong	61670
 孙悟空三打白骨精	sun wu kong san da bai gu jing	605
@@ -375755,7 +375147,6 @@ sort: by_weight
 太悬殊了	tai xuan shu le	395
 太学	tai xue	6835
 太学生	tai xue sheng	1420
-太血腥了	tai xue xing le	295
 太逊	tai xun	265
 太逊了	tai xun le	455
 太逊了吧	tai xun le ba	455
@@ -376600,7 +375991,6 @@ sort: by_weight
 弹力袜	tan li wa	575
 弹力纤维	tan li xian wei	3240
 谈理想	tan li xiang	2150
-痰里有血	tan li you xue	139
 弹力织物	tan li zhi wu	665
 贪恋	tan lian	10420
 谈恋爱	tan lian ai	64020
@@ -377160,8 +376550,6 @@ sort: by_weight
 坦洋工夫茶	tan yang gong fu cha	44
 潭阳路	tan yang lu	1
 滩羊皮	tan yang pi	105
-碳氧血红蛋白	tan yang xie hong dan bai	61
-碳氧血红蛋白	tan yang xue hong dan bai	61
 炭窑	tan yao	780
 谭尧	tan yao	9
 炭窑渠	tan yao qu	2
@@ -377584,8 +376972,6 @@ sort: by_weight
 糖化酶制剂	tang hua mei zhi ji	5
 棠花吐蕊	tang hua tu rui	3
 糖化物	tang hua wu	20
-糖化血红蛋白	tang hua xie hong dan bai	237
-糖化血红蛋白	tang hua xue hong dan bai	237
 烫画纸	tang hua zhi	2110
 唐槐秋	tang huai qiu	1
 唐淮源	tang huai yuan	19
@@ -378503,7 +377889,6 @@ sort: by_weight
 桃红柳绿	tao hong liu lv	1765
 桃红楼子	tao hong lou zi	1
 桃红坡镇	tao hong po zhen	11
-桃红清血丸	tao hong qing xue wan	3
 桃红色	tao hong se	5165
 桃红四物汤	tao hong si wu tang	13
 桃红西番头	tao hong xi fan tou	1
@@ -378590,8 +377975,6 @@ sort: by_weight
 讨还	tao huan	2345
 套换	tao huan	585
 套环拟叶夜蛾	tao huan ni ye ye e	1
-讨还血债	tao huan xie zhai	375
-讨还血债	tao huan xue zhai	375
 逃荒	tao huang	3095
 桃黄颈天牛	tao huang jing tian niu	1
 逃回	tao hui	12345
@@ -378823,6 +378206,8 @@ sort: by_weight
 逃跑主义	tao pao zhu yi	555
 叨陪末座	tao pei mo zuo	25
 桃棚村	tao peng cun	3
+套皮	tao pi	3333
+桃皮	tao pi	1111
 桃皮绒	tao pi rong	2080
 桃片糕	tao pian gao	62
 讨便宜	tao pian yi	555
@@ -379436,8 +378821,6 @@ sort: by_weight
 特尔施特根	te er shi te gen	194
 特尔纹胸𬶐	te er wen xiong zhao	1
 特发性	te fa xing	5190
-特发性血小板减少性紫癜	te fa xing xie xiao ban jian shao xing zi dian	38
-特发性血小板减少性紫癜	te fa xing xue xiao ban jian shao xing zi dian	38
 特发性震颤	te fa xing zhen chan	31
 特烦恼	te fan nao	104
 特防	te fang	111
@@ -380950,6 +380333,7 @@ sort: by_weight
 涕泣	ti qi	2510
 踢起	ti qi	1765
 啼泣	ti qi	385
+缇骑	ti qi	111
 提起反诉	ti qi fan su	2495
 提起公诉	ti qi gong su	17020
 提起过	ti qi guo	6650
@@ -381206,8 +380590,6 @@ sort: by_weight
 体味到	ti wei dao	6500
 提味儿	ti wei er	9999
 体位法	ti wei fa	4715
-体位性低血压	ti wei xing di xie ya	98
-体位性低血压	ti wei xing di xue ya	98
 提问	ti wen	367195
 体温	ti wen	93540
 体温表	ti wen biao	2030
@@ -384675,10 +384057,7 @@ sort: by_weight
 跳进水里	tiao jin shui li	945
 跳井	tiao jing	1860
 调经	tiao jing	278
-调经补血丸	tiao jing bu xue wan	5
 调经促孕丸	tiao jing cu yun wan	4
-调经活血片	tiao jing huo xie pian	1
-调经活血片	tiao jing huo xue pian	1
 挑精拣肥	tiao jing jian fei	1
 调经祛斑胶囊	tiao jing qu ban jiao nang	3
 调经益灵片	tiao jing yi ling pian	1
@@ -385924,8 +385303,6 @@ sort: by_weight
 铁象岩	tie xiang yan	1180
 铁屑	tie xie	3445
 铁鞋	tie xie	1315
-铁血男儿	tie xie nan er	625
-铁血青年	tie xie qing nian	10
 贴心	tie xin	67520
 铁心	tie xin	9945
 铁芯	tie xin	8100
@@ -385945,17 +385322,6 @@ sort: by_weight
 铁锈味	tie xiu wei	178
 铁须之墓	tie xu zhi mu	1
 铁血	tie xue	36425
-铁血保镖	tie xue bao biao	125
-铁血丹心	tie xue dan xin	1775
-铁血娇娃	tie xue jiao wa	190
-铁血军事	tie xue jun shi	16980
-铁血论坛	tie xue lun tan	8140
-铁血男儿	tie xue nan er	625
-铁血青年	tie xue qing nian	10
-铁血宰相	tie xue zai xiang	525
-铁血战士	tie xue zhan shi	1550
-铁血政策	tie xue zheng ce	380
-铁血主义	tie xue zhu yi	20
 贴样板	tie yang ban	65
 铁氧体	tie yang ti	7835
 铁腰带	tie yao dai	6
@@ -386128,6 +385494,7 @@ sort: by_weight
 亭川	ting chuan	2
 停船暂借问	ting chuan zan jie wen	6
 听窗	ting chuang	445
+听床	ting chuang	111
 挺纯净的	ting chun jing de	980
 听此寒虫号	ting ci han chong hao	1
 听从	ting cong	54190
@@ -388289,8 +387656,6 @@ sort: by_weight
 通窍鼻炎片	tong qiao bi yan pian	3
 潼桥村	tong qiao cun	1
 通窍耳聋丸	tong qiao er long wan	2
-通窍活血汤	tong qiao huo xie tang	1
-通窍活血汤	tong qiao huo xue tang	1
 通窍救心油	tong qiao jiu xin you	1
 通窍益心丸	tong qiao yi xin wan	1
 痛切	tong qie	2565
@@ -390250,7 +389615,6 @@ sort: by_weight
 头皮损伤	tou pi sun shang	21
 透皮贴剂	tou pi tie ji	14
 头皮屑	tou pi xie	7205
-头皮血肿	tou pi xue zhong	365
 头皮痒	tou pi yang	195
 投票	tou piao	500349
 投票表决	tou piao biao jue	10700
@@ -390281,7 +389645,6 @@ sort: by_weight
 投屏	tou ping	1111
 透平	tou ping	1
 头破	tou po	955
-头破血流	tou po xue liu	11675
 透气	tou qi	60500
 头七	tou qi	1725
 投契	tou qi	1111
@@ -392296,8 +391659,6 @@ sort: by_weight
 吐血	tu xie	30855
 涂写	tu xie	5360
 吐泻	tu xie	2255
-吐血病	tu xie bing	2
-吐血推荐	tu xie tui jian	3190
 吐心吐胆	tu xin tu dan	1
 图形	tu xing	401970
 土星	tu xing	30475
@@ -392380,8 +391741,6 @@ sort: by_weight
 吐絮	tu xu	1415
 土畜产品	tu xu chan pin	900
 吐血	tu xue	30855
-吐血病	tu xue bing	2
-吐血推荐	tu xue tui jian	3190
 涂鸦	tu ya	47615
 涂鸦板	tu ya ban	1580
 涂鸦喷绘	tu ya pen hui	1
@@ -394439,9 +393798,7 @@ sort: by_weight
 脱氧腺苷	tuo yang xian gan	50
 脱氧腺苷三磷酸	tuo yang xian gan san lin suan	40
 脱氧腺苷酸	tuo yang xian gan suan	15
-脱氧血红蛋白	tuo yang xie hong dan bai	5
 脱氧胸苷酸	tuo yang xiong gan suan	25
-脱氧血红蛋白	tuo yang xue hong dan bai	5
 驼腰子镇	tuo yao zi zhen	1
 唾液	tuo ye	30080
 拖曳	tuo ye	16395
@@ -394652,6 +394009,8 @@ sort: by_weight
 瓦岗军	wa gang jun	1095
 瓦岗乡	wa gang xiang	183
 瓦岗寨	wa gang zhai	980
+挖个	wa ge	5555
+蛙哥	wa ge	111
 瓦格吉尔羊	wa ge ji er yang	200
 挖个坑	wa ge keng	1111
 挖个坑儿	wa ge keng er	1111
@@ -395041,9 +394400,7 @@ sort: by_weight
 外出旅游	wai chu lv you	18540
 外出务工	wai chu wu gong	29105
 外出务工人员法律援助指南	wai chu wu gong ren yuan fa lv yuan zhu zhi nan	4
-外出血	wai chu xie	425
 外出学	wai chu xue	460
-外出血	wai chu xue	425
 外穿	wai chuan	2595
 外传	wai chuan	1180
 外串	wai chuan	140
@@ -396364,6 +395721,7 @@ sort: by_weight
 玩儿转	wan er zhuan	23115
 玩法	wan fa	66890
 晚发	wan fa	2475
+万法	wan fa	1111
 万法归一	wan fa gui yi	730
 玩法舞文	wan fa wu wen	1
 玩法徇私	wan fa xun si	1
@@ -396831,8 +396189,6 @@ sort: by_weight
 万力达	wan li da	20
 万利达大厦	wan li da da sha	65
 万里电池	wan li dian chi	12500
-万里方看汗流血	wan li fang kan han liu xie	1
-万里方看汗流血	wan li fang kan han liu xue	1
 万里风樯看贾船	wan li feng qiang kan jia chuan	1
 晚礼服	wan li fu	12360
 万里赴戎机	wan li fu rong ji	11
@@ -401414,8 +400770,6 @@ sort: by_weight
 未出生	wei chu sheng	3333
 未出省	wei chu sheng	111
 未出售	wei chu shou	1500
-胃出血	wei chu xie	4960
-胃出血	wei chu xue	4960
 惟楚有才	wei chu you cai	32
 唯川纯	wei chuan chun	8
 胃穿孔	wei chuan kong	1495
@@ -402828,7 +402182,6 @@ sort: by_weight
 伪狂犬病病毒	wei kuang quan bing bing du	118
 未窥全豹	wei kui quan bao	4
 胃溃疡	wei kui yang	17475
-胃溃疡出血	wei kui yang chu xue	14
 围困	wei kun	16755
 魏坤	wei kun	12
 魏坤琳	wei kun lin	149
@@ -403592,8 +402945,6 @@ sort: by_weight
 唯其言而莫予违也	wei qi yan er mo yu wei ye	1
 为企业	wei qi ye	263720
 为期一周	wei qi yi zhou	201
-卫气营血	wei qi ying xue	11
-卫气营血辨证	wei qi ying xue bian zheng	1
 未启用	wei qi yong	75
 胃气胀	wei qi zhang	5
 伪奇舟蛾	wei qi zhou e	1
@@ -405114,11 +404465,8 @@ sort: by_weight
 为学	wei xue	25075
 魏学	wei xue	12
 魏学曾	wei xue ceng	1
-微血管	wei xue guan	8410
 魏学濂	wei xue lian	1
-维血宁	wei xue ning	1
 为学生	wei xue sheng	83580
-微血栓	wei xue shuan	3
 为学校	wei xue xiao	40305
 为学者	wei xue zhe	1140
 微醺	wei xun	4200
@@ -406861,8 +406209,6 @@ sort: by_weight
 鳁鲸	wen jing	120
 问荆茶	wen jing cha	1
 文景公园	wen jing gong yuan	44
-温经活血	wen jing huo xie	14
-温经活血	wen jing huo xue	14
 稳经济	wen jing ji	144
 刎颈交	wen jing jiao	9999
 文景街	wen jing jie	19
@@ -407725,7 +407071,6 @@ sort: by_weight
 文学城	wen xue cheng	825
 文学创作	wen xue chuang zuo	21495
 文学大师	wen xue da shi	3470
-温血动物	wen xue dong wu	615
 文学短评	wen xue duan ping	116
 文学概论	wen xue gai lun	3185
 文学革命	wen xue ge ming	1715
@@ -408828,7 +408173,6 @@ sort: by_weight
 我的相册	wo de xiang ce	11565
 我的箱子	wo de xiang zi	192
 我的小确幸	wo de xiao que xing	160
-我的血	wo de xie	5160
 我的心	wo de xin	180425
 我的心里	wo de xin li	49815
 我的心情	wo de xin qing	34875
@@ -408840,7 +408184,6 @@ sort: by_weight
 我的心中	wo de xin zhong	15995
 我的幸福	wo de xing fu	9350
 我的星球	wo de xing qiu	197
-我的血	wo de xue	5160
 我的学生	wo de xue sheng	11815
 我的眼睛	wo de yan jing	38705
 我的眼泪	wo de yan lei	23485
@@ -411672,8 +411015,6 @@ sort: by_weight
 无偿提供	wu chang ti gong	12090
 武昌县	wu chang xian	730
 五常县	wu chang xian	165
-无偿献血	wu chang xian xie	23195
-无偿献血	wu chang xian xue	23195
 无常形	wu chang xing	1465
 无偿性	wu chang xing	1350
 无常性	wu chang xing	515
@@ -414295,7 +413636,6 @@ sort: by_weight
 乌龙卧墨池	wu long wo mo chi	1
 武隆县	wu long xian	4330
 武隆仙女山	wu long xian nv shan	417
-乌龙养血胶囊	wu long yang xue jiao nang	46
 乌龙院	wu long yuan	2710
 武隆园蛛	wu long yuan zhu	1
 五龙壮族乡	wu long zhuang zu xiang	3
@@ -414378,11 +413718,11 @@ sort: by_weight
 无码	wu ma	9490
 五马	wu ma	6270
 误码	wu ma	5345
-午马	wu ma	3915
-乌玛	wu ma	3435
 五码	wu ma	3305
-吴妈	wu ma	2555
 侮骂	wu ma	200
+乌玛	wu ma	34
+吴妈	wu ma	25
+# 午马	wu ma	0
 五马场哈萨克族乡	wu ma chang ha sa ke zu xiang	10
 五马渡	wu ma du	139
 五马分尸	wu ma fen shi	2015
@@ -415622,7 +414962,6 @@ sort: by_weight
 鼯鼠五技	wu shu wu ji	111
 巫术项链	wu shu xiang lian	1
 无数新禽有喜声	wu shu xin qin you xi sheng	1
-无数心血	wu shu xin xue	985
 五输穴	wu shu xue	2
 梧鼠学技	wu shu xue ji	1
 武术学校	wu shu xue xiao	3135
@@ -416791,8 +416130,6 @@ sort: by_weight
 无雪	wu xue	3455
 吴雪	wu xue	3195
 武雪龙	wu xue long	3
-无血清培养基	wu xue qing pei yang ji	2
-无血色	wu xue se	915
 武穴市	wu xue shi	2955
 武穴酥糖	wu xue su tang	17
 无学无知	wu xue wu zhi	30
@@ -419896,7 +419233,6 @@ sort: by_weight
 细鳞光鳃鱼	xi lin guang sai yu	1
 锡林郭勒	xi lin guo le	4115
 锡林郭勒盟	xi lin guo le meng	5440
-锡林郭勒血蜱	xi lin guo le xue pi	1
 锡林浩特	xi lin hao te	4820
 锡林浩特市	xi lin hao te shi	1995
 席林林	xi lin lin	385
@@ -421300,7 +420636,6 @@ sort: by_weight
 系统性金融危机	xi tong xing jin rong wei ji	86
 系统性能	xi tong xing neng	20190
 系统行为	xi tong xing wei	710
-系统性血管炎	xi tong xing xue guan yan	15
 系统修复	xi tong xiu fu	399
 系统需求	xi tong xu qiu	6575
 系统选择	xi tong xuan ze	2040
@@ -421711,13 +421046,8 @@ sort: by_weight
 吸血	xi xie	30995
 细屑	xi xie	365
 溪蟹	xi xie	256
-吸血蝙蝠	xi xie bian fu	2675
-吸血虫	xi xie chong	530
-吸血动物	xi xie dong wu	130
-吸血鬼	xi xie gui	47130
-吸血鬼数字	xi xie gui shu zi	24
+吸血鬼	xi xie gui	3333
 溪蟹科	xi xie ke	1
-吸血昆虫	xi xie kun chong	43
 西斜六路	xi xie liu lu	5
 西斜七路	xi xie qi lu	76
 细谐鱼	xi xie yu	1
@@ -421806,17 +421136,10 @@ sort: by_weight
 戏谑	xi xue	13735
 西学	xi xue	11105
 洗雪	xi xue	1185
-吸血泵	xi xue beng	196
-吸血蝙蝠	xi xue bian fu	2675
 洗雪逋负	xi xue bu fu	1
-吸血虫	xi xue chong	530
 西学东渐	xi xue dong jian	1725
-吸血动物	xi xue dong wu	130
-吸血鬼	xi xue gui	47130
-吸血鬼数字	xi xue gui shu zi	24
+吸血鬼	xi xue gui	3333
 犀鳕科	xi xue ke	1
-吸血昆虫	xi xue kun chong	43
-吸血魔	xi xue mo	187
 西学为用	xi xue wei yong	60
 西学巷	xi xue xiang	2
 隙穴之窥	xi xue zhi kui	1
@@ -424456,16 +423779,12 @@ sort: by_weight
 下肢截断拉钩	xia zhi jie duan la gou	1
 下肢静脉	xia zhi jing mai	235
 下肢静脉功能不全	xia zhi jing mai gong neng bu quan	8
-下肢静脉血栓形成	xia zhi jing mai xie shuan xing cheng	13
-下肢静脉血栓形成	xia zhi jing mai xue shuan xing cheng	13
 下肢静脉炎	xia zhi jing mai yan	2
 下肢静脉造影	xia zhi jing mai zao ying	25
 下肢康复运动器	xia zhi kang fu yun dong qi	1
 下肢溃疡	xia zhi kui yang	35
 下肢脉管炎	xia zhi mai guan yan	2
 夏之日	xia zhi ri	184
-下肢深静脉血栓形成	xia zhi shen jing mai xie shuan xing cheng	27
-下肢深静脉血栓形成	xia zhi shen jing mai xue shuan xing cheng	27
 狎雉驯童	xia zhi xun tong	1
 夏至一阴生	xia zhi yi yin sheng	8
 夏至已至	xia zhi yi zhi	116
@@ -425282,7 +424601,8 @@ sort: by_weight
 蚬冈	xian gang	2
 限高	xian gao	4840
 先搞	xian gao	4260
-显高	xian gao	1111
+显高	xian gao	2222
+嫌高	xian gao	1111
 献歌	xian ge	2305
 弦歌	xian ge	235
 纤歌凝而白云遏	xian ge ning er bai yun e	1
@@ -426675,7 +425995,6 @@ sort: by_weight
 先天性梅毒	xian tian xing mei du	33
 先天性免疫	xian tian xing mian yi	110
 先天性脑积水	xian tian xing nao ji shui	99
-先天性脑血管畸形	xian tian xing nao xue guan ji xing	44
 先天性青光眼	xian tian xing qing guang yan	72
 先天性缺陷	xian tian xing que xian	2550
 先天性缺牙	xian tian xing que ya	1
@@ -426693,8 +426012,6 @@ sort: by_weight
 先天性眼球震颤	xian tian xing yan qiu zhen chan	5
 先天性阴道闭锁	xian tian xing yin dao bi suo	4
 先天性愚型	xian tian xing yu xing	25
-先天性再生障碍性贫血	xian tian xing zai sheng zhang ai xing pin xie	6
-先天性再生障碍性贫血	xian tian xing zai sheng zhang ai xing pin xue	6
 先天性肿瘤	xian tian xing zhong liu	16
 先天性主动脉缩窄	xian tian xing zhu dong mai suo zhai	2
 先天性足畸形	xian tian xing zu ji xing	3
@@ -426958,14 +426275,9 @@ sort: by_weight
 险些	xian xie	34335
 先写	xian xie	13555
 纤屑	xian xie	30
-献血车	xian xie che	795
 闲邪存诚	xian xie cun cheng	650
 险些儿	xian xie er	1245
-献血法	xian xie fa	2645
 先谢了	xian xie le	5175
-献血了	xian xie le	650
-献血量	xian xie liang	1475
-献血者	xian xie zhe	11695
 闲心	xian xin	4845
 馅心	xian xin	4495
 先心病	xian xin bing	3880
@@ -427075,16 +426387,8 @@ sort: by_weight
 现学	xian xue	2780
 显学	xian xue	40
 县学	xian xue	1
-献血车	xian xue che	795
-献血法	xian xue fa	2645
 县学街	xian xue jie	12
-献血了	xian xue le	650
-献血量	xian xue liang	1475
-鲜血淋漓	xian xue lin li	4950
-献血日	xian xue ri	196
 现学现卖	xian xue xian mai	1215
-献血者	xian xue zhe	11695
-鲜血直流	xian xue zhi liu	3395
 县衙	xian ya	9340
 娴雅	xian ya	3765
 闲雅	xian ya	1920
@@ -427760,7 +427064,6 @@ sort: by_weight
 香波螺	xiang bo luo	1
 湘波绿	xiang bo lv	31
 项伯乃夜驰之沛公军	xiang bo nai ye chi zhi pei gong jun	1
-香菠血糯饭	xiang bo xue nuo fan	1
 项伯亦拔剑起舞	xiang bo yi ba jian qi wu	1
 想不	xiang bu	61310
 想不出	xiang bu chu	18755
@@ -428969,7 +428272,6 @@ sort: by_weight
 香开酒库门	xiang kai jiu ku men	1
 想看	xiang kan	91775
 相看	xiang kan	8565
-相看白刃血纷纷	xiang kan bai ren xue fen fen	2
 相看恍如昨	xiang kan huang ru zuo	1
 想看看	xiang kan kan	26485
 相看两不厌	xiang kan liang bu yan	1180
@@ -429678,7 +428980,6 @@ sort: by_weight
 镶入	xiang ru	1565
 香薷	xiang ru	52
 想入非非	xiang ru fei fei	13050
-相如请得以颈血溅大王矣	xiang ru qing de yi jing xue jian da wang yi	3
 香薷散	xiang ru san	2
 相如一奋其气	xiang ru yi fen qi qi	1
 相濡以沫	xiang ru yi mo	12025
@@ -432609,7 +431910,6 @@ sort: by_weight
 笑话大全	xiao hua da quan	1465
 笑话大王	xiao hua da wang	1
 消化道	xiao hua dao	42985
-消化道出血	xiao hua dao chu xue	679
 消化道传染病	xiao hua dao chuan ran bing	135
 消化道憩室	xiao hua dao qi shi	1
 小话儿	xiao hua er	30
@@ -433762,7 +433062,6 @@ sort: by_weight
 小淖坝	xiao nao ba	2
 小脑扁桃体	xiao nao bian tao ti	21
 小脑扁桃体下疝畸形	xiao nao bian tao ti xia shan ji xing	6
-小脑出血	xiao nao chu xue	37
 小脑梗塞	xiao nao geng se	13
 小脑虎	xiao nao hu	106
 小脑壳烧烤	xiao nao ke shao kao	8
@@ -433827,9 +433126,6 @@ sort: by_weight
 小牛肉	xiao niu rou	955
 小牛肉串	xiao niu rou chuan	1
 小牛市	xiao niu shi	144
-小牛血清去蛋白	xiao niu xue qing qu dan bai	1
-小牛血清去蛋白注射液	xiao niu xue qing qu dan bai zhu she ye	2
-小牛血去蛋白提取物	xiao niu xue qu dan bai ti qu wu	10
 小牛芋螺	xiao niu yu luo	1
 小农	xiao nong	10410
 小农场	xiao nong chang	990
@@ -434778,7 +434074,6 @@ sort: by_weight
 笑谈独在千峰上	xiao tan du zai qian feng shang	1
 小摊儿	xiao tan er	9999
 小摊贩	xiao tan fan	2235
-笑谈渴饮匈奴血	xiao tan ke yin xiong nu xue	13
 小潭山	xiao tan shan	2
 小摊位	xiao tan wei	118
 小唐	xiao tang	6605
@@ -435189,7 +434484,6 @@ sort: by_weight
 消息系统	xiao xi xi tong	2609
 消息显示	xiao xi xian shi	3340
 消息响应	xiao xi xiang ying	2578
-小吸血鬼	xiao xi xue gui	176
 消息循环	xiao xi xun huan	6299
 消息循环机制	xiao xi xun huan ji zhi	399
 消息验证代码	xiao xi yan zheng dai ma	10
@@ -436366,7 +435660,6 @@ sort: by_weight
 斜背式轿车	xie bei shi jiao che	5
 写本	xie ben	9999
 写本书	xie ben shu	730
-血本无归	xie ben wu gui	9800
 歇逼	xie bi	3333
 歇笔	xie bi	1111
 斜壁	xie bi	111
@@ -436415,7 +435708,6 @@ sort: by_weight
 鞋厂	xie chang	11245
 血肠	xie chang	2820
 谢长安	xie chang an	150
-血常规	xie chang gui	8000
 谢长廷	xie chang ting	3765
 卸车	xie che	4315
 卸车费	xie che fei	4
@@ -436516,7 +435808,6 @@ sort: by_weight
 斜低建章阙	xie di jian zhang que	1
 鞋底抹油	xie di mo you	80
 写地址	xie di zhi	755
-血滴子	xie di zi	1230
 鞋底子	xie di zi	630
 鞋垫	xie dian	17410
 写点	xie dian	15255
@@ -436536,7 +435827,6 @@ sort: by_weight
 谢东娜	xie dong na	24
 写东西	xie dong xi	10135
 械斗	xie dou	5760
-血豆腐	xie dou fu	960
 亵渎	xie du	23815
 斜度	xie du	5285
 邪毒	xie du	2780
@@ -436646,18 +435936,12 @@ sort: by_weight
 协管	xie guan	9030
 斜管	xie guan	1735
 谢观	xie guan	9
-血管病	xie guan bing	5040
 写观后感	xie guan hou gan	140
-血管瘤	xie guan liu	10460
-血管平滑肌细胞	xie guan ping hua ji xi bao	780
 谢冠生	xie guan sheng	2
-血管性痴呆	xie guan xing chi dai	1025
-血管炎	xie guan yan	3360
 谢贯一	xie guan yi	1
 协管员	xie guan yuan	11425
 斜光到晓穿朱户	xie guang dao xiao chuan zhu hu	3
 谢广坤	xie guang kun	9999
-血光之灾	xie guang zhi zai	3280
 鞋柜	xie gui	13285
 蝎滚绣球	xie gun xiu qiu	86
 写过	xie guo	48715
@@ -436671,7 +435955,6 @@ sort: by_weight
 谢国桢	xie guo zhen	17
 血海	xie hai	5560
 邪害空窍	xie hai kong qiao	3
-血汗钱	xie han qian	14480
 谐函数	xie han shu	25
 颉颃	xie hang	945
 写好	xie hao	51455
@@ -436705,16 +435988,10 @@ sort: by_weight
 蟹鸻	xie heng	1
 蟹鸻科	xie heng ke	1
 泄洪	xie hong	9630
-血红蛋白	xie hong dan bai	23930
-血红蛋白病	xie hong dan bai bing	22
-血红蛋白测定	xie hong dan bai ce ding	365
-血红蛋白电泳	xie hong dan bai dian yong	20
 泄洪道	xie hong dao	9999
 泄洪口	xie hong kou	122
 谢洪赉	xie hong lai	1
 泄洪区	xie hong qu	189
-血红色	xie hong se	7300
-血红素	xie hong su	3275
 泄洪闸	xie hong zha	9999
 邂逅	xie hou	46800
 血厚	xie hou	1111
@@ -436727,7 +436004,6 @@ sort: by_weight
 邪乎	xie hu	1970
 泻湖	xie hu	1805
 蝎虎	xie hu	415
-血糊糊	xie hu hu	9999
 蝎虎链子	xie hu lian zi	1
 斜虎纹蝶	xie hu wen die	1
 泻湖蕈珊瑚	xie hu xun shan hu	1
@@ -436775,7 +436051,6 @@ sort: by_weight
 卸货机	xie huo ji	70
 泻火熄风	xie huo xi feng	1
 泻剂	xie ji	1225
-血迹斑斑	xie ji ban ban	3720
 鞋机配件	xie ji pei jian	35
 谢济世	xie ji shi	2
 歇假	xie jia	9925
@@ -436825,7 +436100,6 @@ sort: by_weight
 斜渐近线	xie jian jin xian	55
 鞋匠	xie jiang	5110
 谢江	xie jiang	78
-血浆车	xie jiang che	15
 蟹将虾兵	xie jiang xia bing	1
 邪教	xie jiao	38180
 斜角	xie jiao	6685
@@ -436928,7 +436202,6 @@ sort: by_weight
 写了吗	xie le ma	515
 偕乐桥	xie le qiao	36
 鞋类	xie lei	40300
-血泪斑斑	xie lei ban ban	295
 蟹类动物	xie lei dong wu	9
 胁肋疽	xie lei ju	1
 谢蕾蕾	xie lei lei	109
@@ -436963,8 +436236,6 @@ sort: by_weight
 燮林	xie lin	285
 谢琳	xie lin	118
 斜鳞笛鲷	xie lin di diao	1
-血淋淋	xie lin lin	2390
-血淋淋的	xie lin lin de	12835
 斜邻皮舟蛾	xie lin pi zhou e	1
 斜鳞蛇	xie lin she	29
 邪灵	xie ling	1111
@@ -436974,7 +436245,6 @@ sort: by_weight
 泄流	xie liu	1025
 蟹柳	xie liu	905
 蟹六跪而二螯	xie liu gui er er ao	1
-血流如注	xie liu ru zhu	2315
 邪留三焦	xie liu san jiao	1
 蟹柳沙拉	xie liu sha la	8
 谢六逸	xie liu yi	3
@@ -437012,14 +436282,9 @@ sort: by_weight
 歇马店	xie ma dian	3
 邪马台国	xie ma tai guo	1430
 血脉	xie mai	40600
-血脉贲张	xie mai ben zhang	1111
-血脉偾张	xie mai fen zhang	1111
-血脉相连	xie mai xiang lian	3125
-血脉相通	xie mai xiang tong	600
 写满	xie man	20950
 亵慢	xie man	250
 懈慢	xie man	200
-血馒头	xie man tou	455
 鞋帽	xie mao	27650
 懈毛胫夜蛾	xie mao jing ye e	1
 写没	xie mei	4444
@@ -437068,13 +436333,8 @@ sort: by_weight
 斜睨	xie ni	3655
 些年	xie nian	13720
 邪念	xie nian	7885
-血黏度	xie nian du	2135
 血尿	xie niao	19310
-血尿安胶囊	xie niao an jiao nang	2
-血尿酸	xie niao suan	2255
 邪佞	xie ning	620
-血凝素	xie ning su	1150
-血浓于水	xie nong yu shui	3825
 蟹奴	xie nu	114
 携女	xie nv	1111
 蝎女	xie nv	111
@@ -437082,7 +436342,6 @@ sort: by_weight
 协拍	xie pai	11
 携盘独出月荒凉	xie pan du chu yue huang liang	1
 血泡	xie pao	2495
-血盆大口	xie pen da kou	4485
 写皮光鲤	xie pi guang li	2
 写篇	xie pian	4775
 谢票	xie piao	111
@@ -437118,12 +436377,8 @@ sort: by_weight
 斜切	xie qie	3195
 斜切通心粉沙拉	xie qie tong xin fen sha la	4
 血亲	xie qin	6045
-血亲关系	xie qin guan xi	1270
 蟹青	xie qing	9999
 写情书	xie qing shu	4310
-血清素	xie qing su	2430
-血清型	xie qing xing	2125
-血清学	xie qing xue	9275
 撷取	xie qu	11025
 卸去	xie qu	4065
 谐趣	xie qu	555
@@ -437131,10 +436386,7 @@ sort: by_weight
 写全	xie quan	2065
 谢却	xie que	245
 血染	xie ran	11955
-血染沙场	xie ran sha chang	50
-血热妄行	xie re wang xing	4
 胁热下利	xie re xia li	1
-血热证	xie re zheng	2
 卸任	xie ren	9980
 写人	xie ren	8435
 血人	xie ren	2425
@@ -437147,7 +436399,6 @@ sort: by_weight
 蟹肉	xie rou	7630
 蟹肉羹	xie rou geng	48
 蟹肉罐头	xie rou guan tou	55
-血肉模糊	xie rou mo hu	5695
 蟹肉泥	xie rou ni	1
 蟹肉青瓜沙律	xie rou qing gua sha lv	1
 蟹肉沙拉	xie rou sha la	6
@@ -437156,7 +436407,6 @@ sort: by_weight
 蟹肉西兰花	xie rou xi lan hua	4
 蟹肉鱼唇	xie rou yu chun	1
 蟹肉圆子	xie rou yuan zi	1
-血肉之躯	xie rou zhi qu	6950
 写入	xie ru	134250
 写入到	xie ru dao	4310
 写入速度	xie ru su du	3870
@@ -437236,7 +436486,6 @@ sort: by_weight
 斜视性弱视	xie shi xing ruo shi	1
 挟尸要价	xie shi yao jia	28
 写实主义	xie shi zhu yi	4770
-血十字	xie shi zi	173
 携手	xie shou	160630
 写手	xie shou	48290
 歇手	xie shou	765
@@ -437256,7 +436505,6 @@ sort: by_weight
 携手玩芳丛	xie shou wan fang cong	1
 携手相伴	xie shou xiang ban	168
 携手一生	xie shou yi sheng	191
-血手印	xie shou yin	640
 写书	xie shu	15235
 解数	xie shu	8920
 邪术	xie shu	3535
@@ -437265,17 +436513,6 @@ sort: by_weight
 写书评	xie shu ping	540
 鞋刷	xie shua	1160
 血栓	xie shuan	21580
-血栓闭塞性脉管炎	xie shuan bi se xing mai guan yan	60
-血栓栓塞	xie shuan shuan se	90
-血栓素	xie shuan su	830
-血栓通	xie shuan tong	165
-血栓通胶囊	xie shuan tong jiao nang	1
-血栓通注射液	xie shuan tong zhu she ye	17
-血栓形成	xie shuan xing cheng	10525
-血栓性疾病	xie shuan xing ji bing	615
-血栓性脉管炎	xie shuan xing mai guan yan	10
-血栓性微血管病	xie shuan xing wei xue guan bing	2
-血栓性血小板减少性紫癜	xie shuan xing xie xiao ban jian shao xing zi dian	48
 蟹双眼钩虾	xie shuang yan gou xia	1
 血水	xie shui	13985
 泄水	xie shui	3340
@@ -437306,13 +436543,7 @@ sort: by_weight
 血糖	xie tang	76860
 斜躺	xie tang	2330
 谢堂	xie tang	3
-血糖测定	xie tang ce ding	395
-血糖高	xie tang gao	815
-血糖过低	xie tang guo di	595
 斜塘老街	xie tang lao jie	198
-血糖试纸	xie tang shi zhi	58
-血糖仪	xie tang yi	3215
-血糖值	xie tang zhi	1900
 鞋套	xie tao	4835
 鞋套机	xie tao ji	2000
 歇特兰矮种小马	xie te lan ai zhong xiao ma	1
@@ -437464,9 +436695,6 @@ sort: by_weight
 歇武镇	xie wu zhen	24
 歇息	xie xi	18225
 谐戏	xie xi	15
-血吸虫病	xie xi chong bing	16545
-血吸虫病防治条例	xie xi chong bing fang zhi tiao li	227
-血吸虫性肝硬化	xie xi chong xing gan ying hua	7
 谢希德	xie xi de	66
 谢西卷管螺	xie xi juan guan luo	1
 歇息歇息	xie xi xie xi	265
@@ -437501,9 +436729,6 @@ sort: by_weight
 泄香银囊破	xie xiang yin nang po	1
 谢孝	xie xiao	365
 些小	xie xiao	55
-血小板减少	xie xiao ban jian shao	6865
-血小板减少性紫癜	xie xiao ban jian shao xing zi dian	122
-血小板减少症	xie xiao ban jian shao zheng	80
 谢晓亮	xie xiao liang	59
 谢小双	xie xiao shuang	32
 谢谢	xie xie	500835
@@ -437572,8 +436797,6 @@ sort: by_weight
 楔形马拉芋螺	xie xing ma la yu luo	1
 楔形毛蕨	xie xing mao jue	1
 蟹形拟蝎	xie xing ni xie	1
-血腥气	xie xing qi	1455
-血腥味	xie xing wei	6610
 楔形文字	xie xing wen zi	1095
 楔形文字法	xie xing wen zi fa	48
 楔形销	xie xing xiao	4
@@ -437584,11 +436807,8 @@ sort: by_weight
 血虚	xie xu	10095
 写序	xie xu	1885
 些须	xie xu	85
-血虚寒凝证	xie xu han ning zheng	2
 谢旭人	xie xu ren	3650
-血虚生风	xie xu sheng feng	8
 写序言	xie xu yan	120
-血虚证	xie xu zheng	5
 鞋楦	xie xuan	27
 # 谢玄	xie xuan	0
 谐谑	xie xue	910
@@ -437597,19 +436817,10 @@ sort: by_weight
 谐谑曲	xie xue qu	675
 协寻	xie xun	1111
 谢逊	xie xun	11
-血循环	xie xun huan	4185
 血压	xie ya	117200
 卸压	xie ya	1340
 斜压	xie ya	375
-血压波动	xie ya bo dong	1015
-血压低	xie ya di	690
 谢亚芳	xie ya fang	7
-血压高	xie ya gao	3135
-血压过低	xie ya guo di	460
-血压过高	xie ya guo gao	450
-血压计	xie ya ji	6915
-血压下降	xie ya xia jiang	7285
-血压压差	xie ya ya cha	9999
 斜眼	xie yan	7875
 泻盐	xie yan	135
 斜眼副渊鼬鳚	xie yan fu yuan you wei	1
@@ -437624,7 +436835,6 @@ sort: by_weight
 泻药	xie yao	5465
 谢邀	xie yao	999
 蟹鳐	xie yao	1
-血药浓度	xie yao nong du	8390
 鞋业	xie ye	60965
 歇业	xie ye	13775
 歇夜	xie ye	70
@@ -437634,12 +436844,7 @@ sort: by_weight
 楔叶纲	xie ye gang	1
 谢业枧	xie ye jian	9
 脇野龙	xie ye long	1
-血液循环	xie ye xun huan	106515
-血液循环系统	xie ye xun huan xi tong	275
 鞋业有限公司	xie ye you xian gong si	14760
-血液制品	xie ye zhi pin	11700
-血液制品管理条例	xie ye zhi pin guan li tiao li	227
-血液中	xie ye zhong	29610
 协议	xie yi	500874
 谢意	xie yi	42245
 写意	xie yi	33780
@@ -437722,7 +436927,6 @@ sort: by_weight
 歇阴	xie yin	1
 谐音梗	xie yin geng	9999
 撷英	xie ying	1605
-血影蛋白	xie ying dan bai	5
 谢应芳	xie ying fang	2
 谢颖颖	xie ying ying	122
 谢莹莹	xie ying ying	1
@@ -437740,15 +436944,12 @@ sort: by_weight
 斜玉旁	xie yu pang	1111
 谢玉琼	xie yu qiong	4
 谢雨欣	xie yu xin	11
-血雨腥风	xie yu xing feng	6065
 血缘	xie yuan	22100
 挟怨	xie yuan	160
 血源	xie yuan	2
 # 谢园	xie yuan	0
 谢远定	xie yuan ding	1
 斜缘华溪蟹	xie yuan hua xi xie	1
-血源性	xie yuan xing	1210
-血源性肺脓肿	xie yuan xing fei nong zhong	1
 谢圆圆	xie yuan yuan	167
 斜圆锥	xie yuan zhui	80
 协约	xie yue	2915
@@ -437774,15 +436975,9 @@ sort: by_weight
 卸载图片	xie zai tu pian	25
 写在下方	xie zai xia fang	5
 卸责	xie ze	595
-血债累累	xie zhai lei lei	280
-血债血还	xie zhai xie huan	330
 血战	xie zhan	19670
 血站	xie zhan	2456
-血战到底	xie zhan dao di	2905
-血站管理办法	xie zhan guan li ban fa	325
-血站管理暂行办法	xie zhan guan li zan xing ban fa	1
 斜展假毛蕨	xie zhan jia mao jue	1
-血站实验室质量管理规范	xie zhan shi yan shi zhi liang guan li gui fan	62
 写账	xie zhang	3333
 携杖	xie zhang	11
 携杖来追柳外凉	xie zhang lai zhui liu wai liang	3
@@ -437825,14 +437020,12 @@ sort: by_weight
 谐振子	xie zhen zi	145
 血证	xie zheng	1425
 邪正	xie zheng	24
-血证论	xie zheng lun	175
 血脂	xie zhi	9999
 挟制	xie zhi	1630
 卸职	xie zhi	940
 歇枝	xie zhi	1
 獬豸	xie zhi	1
 写直达	xie zhi da	32
-血脂高	xie zhi gao	1315
 邪枝巨魔	xie zhi ju mo	1
 斜芝麻蜗牛	xie zhi ma wo niu	1
 泄殖腔	xie zhi qiang	1340
@@ -438060,7 +437253,6 @@ sort: by_weight
 心包肌	xin bao ji	2
 心包积气	xin bao ji qi	5
 心包积水	xin bao ji shui	75
-心包积血	xin bao ji xue	13
 心包积液	xin bao ji ye	105
 新宝来	xin bao lai	8890
 心包络	xin bao luo	36
@@ -439352,8 +438544,6 @@ sort: by_weight
 新几内亚下鱵鱼	xin ji nei ya xia zhen yu	1
 新几内亚蝎	xin ji nei ya xie	1
 新机器	xin ji qi	4760
-心肌缺血	xin ji que xie	7090
-心肌缺血	xin ji que xue	7090
 心急如焚	xin ji ru fen	14655
 心急如火	xin ji ru huo	415
 辛集市	xin ji shi	4135
@@ -439487,7 +438677,6 @@ sort: by_weight
 新疆昌吉	xin jiang chang ji	151
 新疆昌吉州	xin jiang chang ji zhou	200
 新疆城建	xin jiang cheng jian	12500
-新疆出血热	xin jiang chu xue re	11
 新江村	xin jiang cun	46
 新疆大头鱼	xin jiang da tou yu	69
 新疆大学	xin jiang da xue	6445
@@ -440313,9 +439502,6 @@ sort: by_weight
 心脑康胶囊	xin nao kang jiao nang	17
 心脑清软胶囊	xin nao qing ruan jiao nang	13
 心脑欣胶囊	xin nao xin jiao nang	3
-心脑血管	xin nao xue guan	19990
-心脑血管病	xin nao xue guan bing	8340
-心脑血管疾病	xin nao xue guan ji bing	11640
 心内	xin nei	16885
 信内	xin nei	1010
 心内科	xin nei ke	7820
@@ -440730,11 +439916,8 @@ sort: by_weight
 新胜村	xin sheng cun	136
 新生代	xin sheng dai	32055
 新生儿	xin sheng er	91685
-新生儿败血症	xin sheng er bai xue zheng	88
 新生儿病理性黄疸	xin sheng er bing li xing huang dan	14
 新生儿胆道闭锁	xin sheng er dan dao bi suo	3
-新生儿低血糖	xin sheng er di xie tang	16
-新生儿低血糖	xin sheng er di xue tang	16
 新生儿发热	xin sheng er fa re	1
 新生儿肺透明膜病	xin sheng er fei tou ming mo bing	20
 新生儿肺炎	xin sheng er fei yan	268
@@ -440747,19 +439930,14 @@ sort: by_weight
 新生儿泪囊炎	xin sheng er lei nang yan	11
 新生儿呕吐	xin sheng er ou tu	3
 新生儿皮下坏疽	xin sheng er pi xia huai ju	1
-新生儿贫血	xin sheng er pin xue	12
 新生儿破伤风	xin sheng er po shang feng	249
 新生儿期	xin sheng er qi	2005
 新生儿脐炎	xin sheng er qi yan	14
 新生儿抢救台	xin sheng er qiang jiu tai	6
-新生儿缺血缺氧性脑病	xin sheng er que xie que yang xing nao bing	9
-新生儿缺血缺氧性脑病	xin sheng er que xue que yang xing nao bing	9
 新生儿筛查	xin sheng er shai cha	180
 新生儿湿肺	xin sheng er shi fei	8
-新生儿血小板减少性紫癜	xin sheng er xie xiao ban jian shao xing zi dian	1
 新生儿心律失常	xin sheng er xin lv shi chang	1
 新生儿休克	xin sheng er xiu ke	8
-新生儿血小板减少性紫癜	xin sheng er xue xiao ban jian shao xing zi dian	1
 新生儿眼炎	xin sheng er yan yan	2
 新生儿运输培养箱	xin sheng er yun shu pei yang xiang	1
 新生儿窒息	xin sheng er zhi xi	213
@@ -440785,7 +439963,6 @@ sort: by_weight
 新圣徒	xin sheng tu	164
 新生物	xin sheng wu	3045
 新盛乡	xin sheng xiang	4
-新生血管性青光眼	xin sheng xue guan xing qing guang yan	18
 新生婴儿	xin sheng ying er	10460
 新生源	xin sheng yuan	70
 心事	xin shi	82040
@@ -441643,7 +440820,6 @@ sort: by_weight
 新鲜水果	xin xian shui guo	9620
 新线索	xin xian suo	138
 新鲜味	xin xian wei	215
-新鲜血液	xin xian xue ye	11500
 辛宪英	xin xian ying	1
 信箱	xin xiang	328825
 心想	xin xiang	186475
@@ -441691,19 +440867,6 @@ sort: by_weight
 新鞋	xin xie	7185
 信邪	xin xie	2130
 新泻	xin xie	318
-新血宝胶囊	xin xie bao jiao nang	2
-心血不足	xin xie bu zu	45
-心血管	xin xie guan	9387
-心血管病	xin xie guan bing	18010
-心血管病学	xin xie guan bing xue	170
-心血管疾病	xin xie guan ji bing	20455
-心血管科	xin xie guan ke	880
-心血管梅毒	xin xie guan mei du	6
-心血管内科	xin xie guan nei ke	1628
-心血管系统	xin xie guan xi tong	1404
-心血管造影	xin xie guan zao ying	24
-心血管中枢	xin xie guan zhong shu	1
-心血管专家	xin xie guan zhuan jia	625
 新鞋口虫属	xin xie kou chong shu	1
 新泻天鹅	xin xie tian e	166
 信心	xin xin	480305
@@ -441842,27 +441005,12 @@ sort: by_weight
 心悬两地	xin xuan liang di	6
 心血	xin xue	86155
 新学	xin xue	10225
-新血宝胶囊	xin xue bao jiao nang	2
-心血不足	xin xue bu zu	45
-心血管	xin xue guan	9387
-心血管病	xin xue guan bing	18010
-心血管病学	xin xue guan bing xue	170
-心血管疾病	xin xue guan ji bing	20455
-心血管科	xin xue guan ke	880
-心血管梅毒	xin xue guan mei du	6
-心血管内科	xin xue guan nei ke	1628
-心血管系统	xin xue guan xi tong	1404
-心血管造影	xin xue guan zao ying	24
-心血管中枢	xin xue guan zhong shu	1
-心血管专家	xin xue guan zhuan jia	625
 新学科	xin xue ke	3790
 新雪颗粒	xin xue ke li	5
-心血来潮	xin xue lai chao	14840
 新学年	xin xue nian	6240
 新学期	xin xue qi	19365
 新学说	xin xue shuo	800
 新学小生	xin xue xiao sheng	1
-心血瘀阻	xin xue yu zu	7
 新学员	xin xue yuan	3975
 新学院	xin xue yuan	690
 新训	xin xun	1145
@@ -442470,8 +441618,6 @@ sort: by_weight
 新主题	xin zhu ti	142
 新诛仙	xin zhu xian	2221
 新竹县	xin zhu xian	1165
-心主血脉	xin zhu xie mai	28
-心主血脉	xin zhu xue mai	28
 心主言	xin zhu yan	3
 新主张	xin zhu zhang	5165
 新传	xin zhuan	10130
@@ -443035,8 +442181,6 @@ sort: by_weight
 兴丰街南口	xing feng jie nan kou	1
 星蜂鸟	xing feng niao	1
 幸逢太平代	xing feng tai ping dai	2
-腥风血雨	xing feng xie yu	5885
-腥风血雨	xing feng xue yu	5885
 腥风雪雨	xing feng xue yu	3
 兴风作浪	xing feng zuo lang	7890
 幸福	xing fu	500435
@@ -444030,8 +443174,6 @@ sort: by_weight
 星期二	xing qi er	72350
 性器官	xing qi guan	25175
 星期后	xing qi hou	15485
-行气活血	xing qi huo xie	2010
-行气活血	xing qi huo xue	2010
 星期几	xing qi ji	5415
 星期计	xing qi ji	6
 星期假日	xing qi jia ri	335
@@ -445488,7 +444630,6 @@ sort: by_weight
 雄霸天下	xiong ba tian xia	3395
 雄霸一方	xiong ba yi fang	1165
 胸斑腔吻鳕	xiong ban qiang wen xue	1
-胸斑血鰕虎鱼	xiong ban xue xia hu yu	1
 胸斑珠目鱼	xiong ban zhu mu yu	1
 熊抱	xiong bao	7777
 凶暴	xiong bao	4145
@@ -449359,7 +448500,6 @@ sort: by_weight
 雪贝尼诗	xue bei ni shi	1
 雪北香南	xue bei xiang nan	1
 血本	xue ben	5425
-血本无归	xue ben wu gui	9800
 雪崩	xue beng	15850
 血崩	xue beng	1160
 雪碧	xue bi	14390
@@ -449368,7 +448508,6 @@ sort: by_weight
 血痹	xue bi	1
 雪碧榜	xue bi bang	89
 雪碧哥	xue bi ge	4824
-血必净注射液	xue bi jing zhu she ye	21
 雪碧娱乐无极限	xue bi yu le wu ji xian	6
 血便	xue bian	2520
 薛卞之门	xue bian zhi men	1
@@ -449408,7 +448547,6 @@ sort: by_weight
 学唱	xue chang	9080
 雪场	xue chang	7777
 血肠	xue chang	2820
-血常规	xue chang gui	8000
 学潮	xue chao	2170
 学车	xue che	35320
 雪车	xue che	1005
@@ -449444,7 +448582,6 @@ sort: by_weight
 血袋	xue dai	2380
 学代会	xue dai hui	1550
 雪蛋	xue dan	243
-血蛋白	xue dan bai	175
 雪胆胃肠丸	xue dan wei chang wan	5
 学到	xue dao	164260
 穴道	xue dao	25450
@@ -449459,7 +448596,6 @@ sort: by_weight
 雪的	xue de	37020
 学得比	xue de bi	385
 学得到	xue de dao	400
-血的教训	xue de jiao xun	4260
 学的是	xue de shi	14265
 学得像	xue de xiang	195
 学得着	xue de zhao	40
@@ -449473,7 +448609,6 @@ sort: by_weight
 学弟们	xue di men	119
 雪地上	xue di shang	10415
 学弟学妹	xue di xue mei	5515
-血滴子	xue di zi	1230
 学点	xue dian	11665
 血点	xue dian	1655
 学电脑	xue dian nao	5815
@@ -449488,7 +448623,6 @@ sort: by_weight
 学懂弄痛	xue dong nong tong	120
 雪洞巷	xue dong xiang	1
 血窦	xue dou	995
-血豆腐	xue dou fu	960
 雪豆子	xue dou zi	104
 雪堆	xue dui	2760
 雪堆遍满四山中	xue dui bian man si shan zhong	2
@@ -449522,7 +448656,6 @@ sort: by_weight
 穴坊	xue fang	5
 血防	xue fang	1
 雪纺纱	xue fang sha	655
-血防站	xue fang zhan	33
 学费	xue fei	352770
 学飞	xue fei	1535
 学费补助	xue fei bu zhu	440
@@ -449569,10 +448702,6 @@ sort: by_weight
 学府路口	xue fu lu kou	35
 学富五车	xue fu wu che	3820
 学府园	xue fu yuan	2
-血府逐瘀胶囊	xue fu zhu yu jiao nang	20
-血府逐瘀口服液	xue fu zhu yu kou fu ye	1
-血府逐瘀汤	xue fu zhu yu tang	11
-血府逐瘀丸	xue fu zhu yu wan	3
 雪盖	xue gai	870
 薛刚	xue gang	173
 雪岗北路	xue gang bei lu	25
@@ -449596,51 +448725,12 @@ sort: by_weight
 学乖了	xue guai le	55555
 血管	xue guan	228870
 学官	xue guan	55
-血管病	xue guan bing	5040
-血管成形术	xue guan cheng xing shu	13
-血管缝合	xue guan feng he	60
 学贯古今	xue guan gu jin	255
-血管活性肠肽	xue guan huo xing chang tai	3
-血管紧张素	xue guan jin zhang su	103
-血管紧张素转化酶	xue guan jin zhang su zhuan hua mei	30
-血管痉挛	xue guan jing luan	2390
-血管扩张	xue guan kuo zhang	10965
-血管淋巴管瘤	xue guan lin ba guan liu	1
-血管瘤	xue guan liu	10460
-血管内	xue guan nei	9220
-血管内支架	xue guan nei zhi jia	21
-血管平滑肌瘤	xue guan ping hua ji liu	2
-血管平滑肌细胞	xue guan ping hua ji xi bao	780
-血管球	xue guan qiu	2
-血管球瘤	xue guan qiu liu	3
-血管肉瘤	xue guan rou liu	3
-血管收缩	xue guan shou suo	9025
-血管舒张	xue guan shu zhang	84
-血管损伤	xue guan sun shang	146
 学贯天人	xue guan tian ren	1
-血管网状细胞瘤	xue guan wang zhuang xi bao liu	6
-血管吻合	xue guan wen he	103
-血管系统	xue guan xi tong	95
-血管性	xue guan xing	5415
-血管性痴呆	xue guan xing chi dai	1025
-血管性水肿	xue guan xing shui zhong	28
-血管性头痛	xue guan xing tou tong	106
-血管性血友病	xue guan xing xue you bing	6
-血管性紫癜	xue guan xing zi dian	1
-血管炎	xue guan yan	3360
-血管移植术	xue guan yi zhi shu	3
-血管硬化	xue guan ying hua	5000
-血管运动性鼻炎	xue guan yun dong xing bi yan	5
-血管造影	xue guan zao ying	279
 薛关镇	xue guan zhen	18
-血管痣	xue guan zhi	7
-血管脂肪瘤	xue guan zhi fang liu	6
-血管支架	xue guan zhi jia	173
 学贯中西	xue guan zhong xi	2500
 血光	xue guang	6375
-血光之灾	xue guang zhi zai	3280
 雪柜	xue gui	2835
-血鬼术	xue gui shu	196
 学棍	xue gun	70
 学过	xue guo	62040
 削过	xue guo	615
@@ -449650,34 +448740,22 @@ sort: by_weight
 血海	xue hai	5560
 雪海	xue hai	3385
 雪海冰山	xue hai bing shan	1
-血海深仇	xue hai shen chou	3380
 学海无涯	xue hai wu ya	5670
 学海无涯苦作舟	xue hai wu ya ku zuo zhou	73
-血海穴	xue hai xue	13
 血汗	xue han	11765
-血汗工厂	xue han gong chang	2650
-血汗钱	xue han qian	14480
 学汉语	xue han yu	2985
 学韩语	xue han yu	1340
-血汗症	xue han zheng	2
 学好	xue hao	63005
 学号	xue hao	26890
 雪好大	xue hao da	161
 学好数理化	xue hao shu li hua	141
 学好英语	xue hao ying yu	8790
 学好知识	xue hao zhi shi	171
-血和汗	xue he han	1610
 血痕	xue hen	8795
 雪恨	xue hen	1515
 雪很大	xue hen da	133
 血红	xue hong	276
 雪洪	xue hong	5
-血红蛋白	xue hong dan bai	23930
-血红蛋白病	xue hong dan bai bing	22
-血红蛋白测定	xue hong dan bai ce ding	365
-血红蛋白电泳	xue hong dan bai dian yong	20
-血红色	xue hong se	7300
-血红素	xue hong su	3275
 雪鸿指爪	xue hong zhi zhao	1
 雪后	xue hou	7630
 血厚	xue hou	1111
@@ -449744,7 +448822,6 @@ sort: by_weight
 雪祭	xue ji	575
 学季	xue ji	535
 血棘	xue ji	1
-血迹斑斑	xue ji ban ban	3720
 学籍表	xue ji biao	470
 薛记炒货	xue ji chao huo	125
 学籍辅号	xue ji fu hao	186
@@ -449752,7 +448829,6 @@ sort: by_weight
 削迹捐势	xue ji juan shi	5
 雪肌丽	xue ji li	1
 学计算	xue ji suan	865
-血迹蛙螺	xue ji wa luo	1
 薛季宣	xue ji xuan	1
 学籍证明	xue ji zheng ming	135
 学级制	xue ji zhi	1
@@ -449789,10 +448865,6 @@ sort: by_weight
 穴见小儒	xue jian xiao ru	1
 学建筑	xue jian zhu	134
 血浆	xue jiang	50085
-血浆蛋白	xue jiang dan bai	4680
-血浆蛋白结合率	xue jiang dan bai jie he lv	1
-血浆同型半胱氨酸	xue jiang tong xing ban guang an suan	4
-血浆置换术	xue jiang zhi huan shu	5
 学教材	xue jiao cai	186
 学教育	xue jiao yu	936
 学姐	xue jie	14865
@@ -449804,10 +448876,8 @@ sort: by_weight
 雪晶	xue jing	2075
 雪镜	xue jing	1855
 雪景房	xue jing fang	156
-血精灵	xue jing ling	3333
 雪精灵	xue jing ling	1120
 雪颈霜毛红网掌	xue jing shuang mao hong wang zhang	1
-血精症	xue jing zheng	155
 学究	xue jiu	4105
 学究气	xue jiu qi	580
 学究式	xue jiu shi	365
@@ -449827,7 +448897,6 @@ sort: by_weight
 薛凯琪	xue kai qi	202
 学刊	xue kan	11230
 薛侃	xue kan	8
-血康口服液	xue kang kou fu ye	1
 学考成绩	xue kao cheng ji	154
 学考网	xue kao wang	123
 学科	xue ke	500347
@@ -449844,7 +448913,6 @@ sort: by_weight
 学科知识	xue ke zhi shi	10890
 学科专业	xue ke zhuan ye	22780
 血口	xue kou	2195
-血口喷人	xue kou pen ren	1055
 雪口山乡	xue kou shan xiang	5
 血库	xue ku	5540
 薛圐圙村	xue ku lve cun	2
@@ -449866,9 +448934,7 @@ sort: by_weight
 削了	xue le	111
 学了个十足	xue le ge shi zu	9
 血泪	xue lei	13535
-血泪斑斑	xue lei ban ban	295
 学雷锋	xue lei feng	11250
-血泪史	xue lei shi	1965
 学历	xue li	500407
 雪梨	xue li	31016
 雪莉	xue li	6870
@@ -449925,8 +448991,6 @@ sort: by_weight
 学林街文汇路口	xue lin jie wen hui lu kou	1
 学林街文澜路口	xue lin jie wen lan lu kou	1
 学林街文泽路口	xue lin jie wen ze lu kou	2
-血淋淋	xue lin lin	2390
-血淋淋的	xue lin lin de	12835
 鳕鳞鱼属	xue lin yu shu	1
 学林苑	xue lin yuan	180
 学龄	xue ling	5845
@@ -449939,20 +449003,12 @@ sort: by_weight
 学龄前儿童	xue ling qian er tong	7470
 血流	xue liu	46115
 雪柳	xue liu	1145
-血流成河	xue liu cheng he	5735
-血流量	xue liu liang	13310
-血流如注	xue liu ru zhu	2315
-血流速度	xue liu su du	2245
 雪龙	xue long	5700
 血龙	xue long	111
 血路	xue lu	7685
 雪庐	xue lu	1111
 薛论道	xue lun dao	1
-血络通胶囊	xue luo tong jiao nang	1
 血脉	xue mai	40600
-血脉贲张	xue mai ben zhang	1111
-血脉相连	xue mai xiang lian	3125
-血脉相通	xue mai xiang tong	600
 薛曼	xue man	55
 雪盲	xue mang	1885
 雪梅	xue mei	21055
@@ -449973,7 +449029,6 @@ sort: by_weight
 薛牧	xue mu	1
 削木为吏	xue mu wei li	15
 雪纳瑞	xue na rui	7805
-血脑屏障	xue nao ping zhang	2985
 穴内	xue nei	5015
 雪泥	xue ni	1410
 雪泥鸿迹	xue ni hong ji	1
@@ -449981,46 +449036,30 @@ sort: by_weight
 学年	xue nian	77145
 学年成绩	xue nian cheng ji	380
 学年度	xue nian du	21850
-血黏度	xue nian du	2135
 学年考试	xue nian kao shi	260
 学年论文	xue nian lun wen	1340
 血尿	xue niao	19310
 雪鸟	xue niao	1030
-血尿安胶囊	xue niao an jiao nang	2
-血尿酸	xue niao suan	2255
-血凝酶	xue ning mei	2
-血凝试验	xue ning shi yan	3
-血凝素	xue ning su	1150
-血凝仪	xue ning yi	795
-血凝抑制试验	xue ning yi zhi shi yan	5
 学农	xue nong	3495
-血浓于水	xue nong yu shui	3825
 雪诺	xue nuo	1
-血糯米	xue nuo mi	570
 雪女	xue nv	1111
 学派	xue pai	67755
 薛蟠	xue pan	4765
 靴袢	xue pan	10
 血泡	xue pao	2495
 血疱	xue pao	28
-血盆大口	xue pen da kou	4485
 雪片	xue pian	6935
 雪片糕	xue pian gao	71
 血拼	xue pin	10995
 削平	xue ping	3175
 雪坡	xue po	4415
 血泊	xue po	3775
-血泊之中	xue po zhi zhong	2095
-血泊中	xue po zhong	6025
 学期	xue qi	141845
 血气	xue qi	18405
 学起	xue qi	13735
 学期报告	xue qi bao gao	21
 学期成绩	xue qi cheng ji	925
-血气方刚	xue qi fang gang	6215
-血气分析	xue qi fen xi	96
 学期工作总结	xue qi gong zuo zong jie	420
-血气唤醒	xue qi huan xing	144
 学期计划	xue qi ji hua	148
 学期结束	xue qi jie shu	3455
 学期开始	xue qi kai shi	2480
@@ -450031,10 +449070,8 @@ sort: by_weight
 学期末	xue qi mo	6580
 学期期末	xue qi qi mo	1085
 学期期中	xue qi qi zhong	31
-血气胸	xue qi xiong	606
 学期学	xue qi xue	70
 学期制	xue qi zhi	980
-血气之勇	xue qi zhi yong	415
 学前	xue qian	26400
 学谦	xue qian	1590
 学前班	xue qian ban	40725
@@ -450042,7 +449079,6 @@ sort: by_weight
 学前儿童	xue qian er tong	8555
 学前教育	xue qian jiao yu	44115
 学前街	xue qian jie	41
-血铅临床检验技术规范	xue qian lin chuang jian yan ji shu gui fan	10
 学前期	xue qian qi	9999
 薛强	xue qiang	76
 雪橇	xue qiao	13845
@@ -450053,44 +449089,25 @@ sort: by_weight
 学勤	xue qin	6085
 血亲	xue qin	6045
 雪芹	xue qin	4560
-血亲关系	xue qin guan xi	1270
 血清	xue qing	86645
 雪晴	xue qing	4305
 雪青	xue qing	1915
 雪情	xue qing	865
-血清白蛋白	xue qing bai dan bai	40
-血清病	xue qing bing	5
-血清病性荨麻疹	xue qing bing xing xun ma zhen	1
-血清蛋白	xue qing dan bai	1845
-血清胆红素	xue qing dan hong su	13
 雪清河	xue qing he	125
-血清抗体	xue qing kang ti	110
-血清疗法	xue qing liao fa	16
 学清路	xue qing lu	1075
-血清球蛋白	xue qing qiu dan bai	3
-血清素	xue qing su	2430
-血清型	xue qing xing	2125
-血清学	xue qing xue	9275
-血清学诊断	xue qing xue zhen duan	5
 雪晴云淡日光寒	xue qing yun dan ri guang han	3
 雪球	xue qiu	17095
 血球	xue qiu	4480
 雪裘冠	xue qiu guan	1
 雪球夹	xue qiu jia	125
 雪裘腕	xue qiu wan	1
-血球仪	xue qiu yi	215
 学区	xue qu	24755
 学去	xue qu	11500
 学全	xue quan	2200
 薛全荣	xue quan rong	58
 雪却输梅一段香	xue que shu mei yi duan xiang	20
-血缺氧	xue que yang	20
 血染	xue ran	11955
 学然后知不足	xue ran hou zhi bu zu	650
-血染沙场	xue ran sha chang	50
-血热病	xue re bing	114
-血热妄行	xue re wang xing	4
-血热证	xue re zheng	2
 学人	xue ren	19875
 雪人	xue ren	18400
 学仁	xue ren	3805
@@ -450100,35 +449117,17 @@ sort: by_weight
 雪人手套	xue ren shou tao	1
 学人书店	xue ren shu dian	40
 雪人套	xue ren tao	147
-血仍未冷	xue reng wei leng	335
 学日语	xue ri yu	3005
 雪绒花	xue rong hua	2145
-血容量	xue rong liang	7550
 雪容融	xue rong rong	122
 血肉	xue rou	41775
-血肉横飞	xue rou heng fei	3640
-血肉模糊	xue rou mo hu	5695
-血肉相连	xue rou xiang lian	2360
-血肉之躯	xue rou zhi qu	6950
 学如不及	xue ru bu ji	120
 学如穿井	xue ru chuan jing	1
 雪入春分省见稀	xue ru chun fen sheng jian xi	2
 学如登山	xue ru deng shan	1
 学阮公体三首	xue ruan gong ti san shou	35
 削弱	xue ruo	91360
-血鳃霉	xue sai mei	2
-血塞通	xue sai tong	35
-血塞通滴丸	xue sai tong di wan	2
-血塞通分散片	xue sai tong fen san pian	6
-血塞通胶囊	xue sai tong jiao nang	3
-血塞通片	xue sai tong pian	5
-血塞通软胶囊	xue sai tong ruan jiao nang	3
-血塞通注射液	xue sai tong zhu she ye	6
 血色	xue se	41130
-血色病	xue se bing	4
-血色罗裙翻酒污	xue se luo qun fan jiu wu	4
-血色素	xue se su	3225
-血色湘西	xue se xiang xi	148
 雪山	xue shan	121950
 雪山北路	xue shan bei lu	1
 雪山惨案	xue shan can an	4
@@ -450261,7 +449260,6 @@ sort: by_weight
 薛时雨	xue shi yu	3
 学识渊博	xue shi yuan bo	6565
 学史增信	xue shi zeng xin	73
-血十字	xue shi zi	173
 学士资格	xue shi zi ge	40
 削瘦	xue shou	9999
 学术	xue shu	468275
@@ -450327,18 +449325,6 @@ sort: by_weight
 学术组织	xue shu zu zhi	4165
 学术作品	xue shu zuo pin	945
 血栓	xue shuan	21580
-血栓闭塞性脉管炎	xue shuan bi se xing mai guan yan	60
-血栓病	xue shuan bing	9999
-血栓栓塞	xue shuan shuan se	90
-血栓素	xue shuan su	830
-血栓通	xue shuan tong	165
-血栓通胶囊	xue shuan tong jiao nang	1
-血栓通注射液	xue shuan tong zhu she ye	17
-血栓形成	xue shuan xing cheng	10525
-血栓性疾病	xue shuan xing ji bing	615
-血栓性脉管炎	xue shuan xing mai guan yan	10
-血栓性微血管病	xue shuan xing wei xue guan bing	2
-血栓性血小板减少性紫癜	xue shuan xing xue xiao ban jian shao xing zi dian	48
 血水	xue shui	13985
 雪水	xue shui	9905
 学说	xue shuo	119465
@@ -450351,19 +449337,12 @@ sort: by_weight
 雪松路	xue song lu	172
 雪太大	xue tai da	110
 雪胎梅骨	xue tai mei gu	1
-血胎屏障	xue tai ping zhang	3
 血糖	xue tang	76860
 学堂	xue tang	58265
-血糖测定	xue tang ce ding	395
 学堂墩	xue tang dun	2
 雪堂风雨夜	xue tang feng yu ye	1
-血糖高	xue tang gao	815
-血糖过低	xue tang guo di	595
 学堂坡	xue tang po	135
-血糖试纸	xue tang shi zhi	58
-血糖仪	xue tang yi	3215
 学堂园	xue tang yuan	10
-血糖值	xue tang zhi	1900
 血蹄	xue ti	121
 雪天	xue tian	9200
 学田	xue tian	1915
@@ -450381,9 +449360,6 @@ sort: by_weight
 学童	xue tong	11080
 靴筒	xue tong	75
 学童过街	xue tong guo jie	3333
-血统论	xue tong lun	1005
-血统书	xue tong shu	345
-血统证书	xue tong zheng shu	2935
 噱头	xue tou	19175
 穴头	xue tou	255
 学徒	xue tu	53900
@@ -450445,8 +449421,6 @@ sort: by_weight
 穴隙	xue xi	170
 学习班	xue xi ban	29180
 学习榜样	xue xi bang yang	160
-血细胞	xue xi bao	8920
-血细胞分析	xue xi bao fen xi	67
 学习笔记	xue xi bi ji	14180
 学习表	xue xi biao	895
 学习表现	xue xi biao xian	1250
@@ -450455,10 +449429,6 @@ sort: by_weight
 学习成果	xue xi cheng guo	9530
 学习成绩	xue xi cheng ji	83760
 学习程序	xue xi cheng xu	1490
-血吸虫	xue xi chong	11355
-血吸虫病	xue xi chong bing	16545
-血吸虫病防治条例	xue xi chong bing fang zhi tiao li	227
-血吸虫性肝硬化	xue xi chong xing gan ying hua	7
 学习单元	xue xi dan yuan	1105
 学习党章	xue xi dang zhang	10045
 学习的态度	xue xi de tai du	3910
@@ -450581,15 +449551,7 @@ sort: by_weight
 薛湘灵	xue xiang ling	135
 学校	xue xiao	523819
 学校啊	xue xiao a	2020
-血小板	xue xiao ban	32975
-血小板的	xue xiao ban de	2740
-血小板计数	xue xiao ban ji shu	1930
-血小板减少	xue xiao ban jian shao	6865
-血小板减少性紫癜	xue xiao ban jian shao xing zi dian	122
-血小板减少症	xue xiao ban jian shao zheng	80
-血小板无力症	xue xiao ban wu li zheng	7
 学校办学	xue xiao ban xue	16540
-血小板衍生生长因子	xue xiao ban yan sheng sheng zhang yin zi	3
 学校布局	xue xiao bu ju	4440
 学校成绩	xue xiao cheng ji	665
 学校大巴	xue xiao da ba	120
@@ -450648,95 +449610,50 @@ sort: by_weight
 雪鞋猫	xue xie mao	39
 雪心	xue xin	2180
 学信	xue xin	1055
-血心灯	xue xin deng	1
 薛辛庄	xue xin zhuang	10
 血型	xue xing	94145
 血腥	xue xing	66515
 血性	xue xing	16210
 靴形	xue xing	420
 薛姓	xue xing	375
-血行播散型肺结核	xue xing bo san xing fei jie he	2
-血性汉子	xue xing han zi	470
-血型抗原	xue xing kang yuan	23
-血性男儿	xue xing nan er	640
-血腥气	xue xing qi	1455
-血腥味	xue xing wei	6610
-血型物质	xue xing wu zhi	11
-血型系统	xue xing xi tong	99
 学兄	xue xiong	1025
 血胸	xue xiong	750
 雪胸鸾镜里	xue xiong luan jing li	1
 血虚	xue xu	10095
-血虚寒凝证	xue xu han ning zheng	2
-血虚生风	xue xu sheng feng	8
-血虚证	xue xu zheng	5
 薛瑄	xue xuan	15
 学学	xue xue	29515
 雪雪	xue xue	4290
 薛雪	xue xue	40
 雪雪子	xue xue zi	154
-血循环	xue xun huan	4185
 血压	xue ya	117200
-血压飙升	xue ya biao sheng	117
-血压波动	xue ya bo dong	1015
-血压低	xue ya di	690
 雪压低还举	xue ya di hai ju	1
 雪压冬云白絮飞	xue ya dong yun bai xu fei	3
-血压高	xue ya gao	3135
-血压过低	xue ya guo di	460
-血压过高	xue ya guo gao	450
-血压计	xue ya ji	6915
-血压下降	xue ya xia jiang	7285
-血压压差	xue ya ya cha	9999
 雪雁	xue yan	5885
 学研	xue yan	3071
 雪堰	xue yan	18
 雪岩尺蛾	xue yan chi e	1
-血眼虫	xue yan chong	1
 学研大厦	xue yan da sha	2
 血氧	xue yang	9999
 血样	xue yang	7325
 学养	xue yang	5745
 学样	xue yang	1730
-血氧低	xue yang di	127
 雪妖	xue yao	99
 血药	xue yao	1
 雪瑶	xue yao	1
 # 靴靿	xue yao	0
 雪窑冰天	xue yao bing tian	5
-血药浓度	xue yao nong du	8390
 血液	xue ye	326800
 学业	xue ye	130420
 雪夜	xue ye	9600
 雪野	xue ye	4195
-血液保存液	xue ye bao cun ye	2
-血液病	xue ye bing	13295
 学业成绩	xue ye cheng ji	12395
 学业成就测验	xue ye cheng jiu ce yan	3
-血液传播	xue ye chuan bo	608
-血液灌流器	xue ye guan liu qi	3
-血液寄生虫	xue ye ji sheng chong	86
 靴叶棘蝇	xue ye ji ying	1
 学业进步	xue ye jin bu	179
-血液科	xue ye ke	4320
 雪夜狂想曲	xue ye kuang xiang qu	1
-血液滤过	xue ye lv guo	55
-血液内科	xue ye nei ke	397
-血液凝固	xue ye ning gu	2500
-血液鳃	xue ye sai	1
 学业水平测试	xue ye shui ping ce shi	134
 学业顺利	xue ye shun li	141
-血液透析	xue ye tou xi	7865
-血液透析滤过	xue ye tou xi lv guo	20
-血液稀释	xue ye xi shi	99
-血液学	xue ye xue	4285
-血液学检验	xue ye xue jian yan	2
-血液循环	xue ye xun huan	106515
-血液循环系统	xue ye xun huan xi tong	275
 学业有成	xue ye you cheng	3975
-血液制品	xue ye zhi pin	11700
-血液制品管理条例	xue ye zhi pin guan li tiao li	227
-血液中	xue ye zhong	29610
 学医	xue yi	9270
 学艺	xue yi	7195
 雪姨	xue yi	2121
@@ -450746,10 +449663,8 @@ sort: by_weight
 雪衣红沙	xue yi hong sha	1
 薛姨妈	xue yi ma	5215
 学一门	xue yi men	12
-血意少年	xue yi shao nian	118
 学一食堂	xue yi shi tang	14
 学艺术	xue yi shu	3895
-血衣天使	xue yi tian shi	176
 学一学	xue yi xue	2630
 学以致用	xue yi zhi yong	26075
 血印	xue yin	2640
@@ -450765,8 +449680,6 @@ sort: by_weight
 雪拥蓝关马不前	xue yong lan guan ma bu qian	19
 学用一致	xue yong yi zhi	850
 学友	xue you	18555
-血友病	xue you bing	6150
-血友病性关节炎	xue you bing xing guan jie yan	3
 学优而仕	xue you er shi	1
 学有进境	xue you jin jing	1
 学有所	xue you suo	207
@@ -450786,16 +449699,11 @@ sort: by_weight
 谑语	xue yu	145
 鳕鱼豆腐羹	xue yu dou fu geng	1
 雪域高原	xue yu gao yuan	7505
-血与骨	xue yu gu	114
 雪域光芒	xue yu guang mang	28
-血与火	xue yu huo	5110
 学瑜伽	xue yu jia	127
 薛玉梅	xue yu mei	5
-血余炭	xue yu tan	6
 学语小儿知姓名	xue yu xiao er zhi xing ming	1
-血雨腥风	xue yu xing feng	6065
 薛玉洋	xue yu yang	53
-血瘀证	xue yu zheng	11
 学院	xue yuan	500675
 学员	xue yuan	500387
 学园	xue yuan	27465
@@ -450810,9 +449718,7 @@ sort: by_weight
 学院党委	xue yuan dang wei	12700
 学院地址	xue yuan di zhi	4020
 学员队	xue yuan dui	855
-血缘关系	xue yuan guan xi	17415
 学院胡同	xue yuan hu tong	19
-血缘婚	xue yuan hun	361
 学院教授	xue yuan jiao shou	16660
 学院街	xue yuan jie	66
 学源街	xue yuan jie	29
@@ -450834,8 +449740,6 @@ sort: by_weight
 学院式	xue yuan shi	880
 雪原双子	xue yuan shuang zi	123
 学原文	xue yuan wen	128
-血源性	xue yuan xing	1210
-血源性肺脓肿	xue yuan xing fei nong zhong	1
 学院学	xue yuan xue	420
 学院院士	xue yuan yuan shi	140
 学院院长	xue yuan yuan zhang	24715
@@ -450843,7 +449747,6 @@ sort: by_weight
 雪月	xue yue	3305
 薛岳	xue yue	178
 雪月城	xue yue cheng	113
-血月亮	xue yue liang	138
 雪月羊肉	xue yue yang rou	7
 雪云	xue yun	3333
 学运	xue yun	1360
@@ -450856,17 +449759,8 @@ sort: by_weight
 学则三代共之	xue ze san dai gong zhi	2
 学渣	xue zha	9999
 血债	xue zhai	3415
-血债累累	xue zhai lei lei	280
-血债血还	xue zhai xie huan	330
-血债血偿	xue zhai xue chang	785
 血战	xue zhan	19670
 血站	xue zhan	2456
-血站大盘鸡	xue zhan da pan ji	1
-血战到底	xue zhan dao di	2905
-血站管理办法	xue zhan guan li ban fa	325
-血站管理暂行办法	xue zhan guan li zan xing ban fa	1
-血站实验室质量管理规范	xue zhan shi yan shi zhi liang guan li gui fan	62
-血战湘江	xue zhan xiang jiang	191
 学长	xue zhang	36420
 雪杖	xue zhang	4625
 雪仗	xue zhang	1300
@@ -450884,7 +449778,6 @@ sort: by_weight
 血症	xue zheng	21655
 学政	xue zheng	4425
 血证	xue zheng	1425
-血证论	xue zheng lun	175
 学制	xue zhi	92330
 血脂	xue zhi	37370
 雪质	xue zhi	2085
@@ -450893,13 +449786,9 @@ sort: by_weight
 穴植	xue zhi	70
 学制度	xue zhi du	55
 学至乎没而后止也	xue zhi hu mei er hou zhi ye	1
-血脂康胶囊	xue zhi kang jiao nang	4
-血脂灵胶囊	xue zhi ling jiao nang	31
-血制品	xue zhi pin	2165
 薛之谦	xue zhi qian	244
 学知桥	xue zhi qiao	40
 学知桥北	xue zhi qiao bei	5
-血滞通胶囊	xue zhi tong jiao nang	5
 削职为民	xue zhi wei min	245
 学知轩	xue zhi xuan	140
 学知园	xue zhi yuan	540
@@ -450929,12 +449818,10 @@ sort: by_weight
 雪字底	xue zi di	1111
 学子们	xue zi men	11110
 学子宴	xue zi yan	180
-血族复仇	xue zu fu chou	144
 削足就履	xue zu jiu lv	3
 削足适履	xue zu shi lv	2150
 血钻	xue zuan	9999
 学做	xue zuo	17760
-血作陈陶泽中水	xue zuo chen tao ze zhong shui	2
 学做人	xue zuo ren	2580
 寻爱	xun ai	3333
 巡按	xun an	3115
@@ -451153,11 +450040,9 @@ sort: by_weight
 循环往复	xun huan wang fu	8370
 循环系统	xun huan xi tong	17105
 循环小数	xun huan xiao shu	640
-循环血量	xun huan xie liang	910
 循环型	xun huan xing	4425
 循环性	xun huan xing	915
 循环型社会法律研究	xun huan xing she hui fa lv yan jiu	11
-循环血量	xun huan xue liang	910
 循环移位	xun huan yi wei	939
 循环引用	xun huan yin yong	6692
 循环右移	xun huan you yi	1084
@@ -451321,7 +450206,6 @@ sort: by_weight
 熏马肉	xun ma rou	30
 驯马师	xun ma shi	290
 荨麻疹	xun ma zhen	21660
-荨麻疹性血管炎	xun ma zhen xing xue guan yan	1
 寻猫启事	xun mao qi shi	103
 寻梅	xun mei	990
 浔美	xun mei	3
@@ -451528,7 +450412,6 @@ sort: by_weight
 循序渐进	xun xu jian jin	66920
 熏铉	xun xuan	260
 训学	xun xue	955
-寻血猎犬	xun xue lie quan	158
 醺醺	xun xun	755
 熏熏	xun xun	720
 恂恂	xun xun	465
@@ -451564,8 +450447,6 @@ sort: by_weight
 薰衣草	xun yi cao	24380
 薰衣草饼干	xun yi cao bing gan	23
 薰衣草粉	xun yi cao fen	25
-薰衣草血红芋螺	xun yi cao xie hong yu luo	1
-薰衣草血红芋螺	xun yi cao xue hong yu luo	1
 循衣摸床	xun yi mo chuang	4
 寻一首好诗	xun yi shou hao shi	1
 寻医问药	xun yi wen yao	4580
@@ -452829,7 +451710,6 @@ sort: by_weight
 亚硝酸异戊酯	ya xiao suan yi wu zhi	6
 亚硝酸异戊酯吸入剂	ya xiao suan yi wu zhi xi ru ji	1
 鸭血	ya xie	9999
-鸭血豆腐汤	ya xie dou fu tang	38
 芽斜球水母	ya xie qiu shui mu	1
 亚信	ya xin	9685
 亚辛	ya xin	1785
@@ -452854,10 +451734,7 @@ sort: by_weight
 雅轩剧场	ya xuan ju chang	1
 鸭血	ya xue	9999
 哑穴	ya xue	111
-鸭血豆腐汤	ya xue dou fu tang	38
-鸭血粉丝	ya xue fen si	2446
 压雪求油	ya xue qiu you	1
-鸭血汤	ya xue tang	597
 雅驯	ya xun	385
 亚迅	ya xun	375
 丫丫	ya ya	28210
@@ -452906,8 +451783,6 @@ sort: by_weight
 牙印	ya yin	9999
 压印	ya yin	6360
 牙龈病	ya yin bing	14
-牙龈出血	ya yin chu xie	4875
-牙龈出血	ya yin chu xue	4875
 牙龈分离器	ya yin fen li qi	2
 牙龈剪	ya yin jian	1
 牙隐裂	ya yin lie	23
@@ -453622,7 +452497,6 @@ sort: by_weight
 严迪	yan di	6
 砚滴	yan di	1
 眼底病	yan di bing	3170
-眼底出血	yan di chu xue	231
 炎帝祠	yan di ci	80
 岩底村	yan di cun	2
 眼底动脉硬化	yan di dong mai ying hua	24
@@ -455093,8 +453967,6 @@ sort: by_weight
 燕雀安知鸿鹄之志哉	yan que an zhi hong hu zhi zhi zai	15
 燕雀湖	yan que hu	24
 燕雀岂知雕鹗志	yan que qi zhi diao e zhi	1
-眼缺血综合征	yan que xie zong he zheng	1
-眼缺血综合征	yan que xue zong he zheng	1
 燕雀之见	yan que zhi jian	1
 燕雀之居	yan que zhi ju	1
 雁群	yan qun	1815
@@ -455979,7 +454851,6 @@ sort: by_weight
 验血	yan xue	6170
 研学	yan xue	2222
 岩穴	yan xue	191
-验血单	yan xue dan	70
 延雪平	yan xue ping	55
 阎学通	yan xue tong	166
 烟熏	yan xun	53502
@@ -457934,8 +456805,6 @@ sort: by_weight
 洋参保肺胶囊	yang shen bao fei jiao nang	2
 洋参保肺丸	yang shen bao fei wan	1
 洋参龟灵口服液	yang shen gui ling kou fu ye	1
-养肾活血酒	yang shen huo xie jiu	3
-养肾活血酒	yang shen huo xue jiu	3
 杨深秀	yang shen xiu	14
 洋参雪耳炖燕窝	yang shen xue er dun yan wo	2
 洋参雪哈口服液	yang shen xue ha kou fu ye	1
@@ -458252,7 +457121,6 @@ sort: by_weight
 洋先生	yang xian sheng	75
 杨仙逸	yang xian yi	38
 洋县枣糕馍	yang xian zao gao mo	10
-洋县猪白血	yang xian zhu bai xue	1
 洋相	yang xiang	3970
 洋相百出	yang xiang bai chu	545
 洋相尽出	yang xiang jin chu	20
@@ -458325,29 +457193,15 @@ sort: by_weight
 阳虚水泛	yang xu shui fan	2
 阳虚水肿	yang xu shui zhong	1
 羊续悬鱼	yang xu xuan yu	26
-阳虚血瘀证	yang xu xue yu zheng	1
 阳虚则外寒	yang xu ze wai han	5
 杨璇	yang xuan	27
 杨宣	yang xuan	9
 杨玄感	yang xuan gan	1225
 养血	yang xue	23300
 杨雪	yang xue	6090
-养血安神	yang xue an shen	179
-养血安神片	yang xue an shen pian	5
-养血安神丸	yang xue an shen wan	6
-养血安胎汤	yang xue an tai tang	22
-养血补肾丸	yang xue bu shen wan	7
-养血当归糖浆	yang xue dang gui tang jiang	3
 杨雪鸫	yang xue dong	187
-养血口服液	yang xue kou fu ye	1
-羊血米线	yang xue mi xian	14
-养血清脑颗粒	yang xue qing nao ke li	10
-养血清脑丸	yang xue qing nao wan	3
-养血荣筋丸	yang xue rong jin wan	5
 洋学生	yang xue sheng	350
-养血生发胶囊	yang xue sheng fa jiao nang	6
 杨学涛	yang xue tao	23
-养血调经	yang xue tiao jing	33
 养鸭	yang ya	5825
 养鸭场	yang ya chang	1370
 养鸭户	yang ya hu	1580
@@ -463891,7 +462745,6 @@ sort: by_weight
 异常处理	yi chang chu li	23249
 异常处理程序	yi chang chu li cheng xu	1917
 异常处理机制	yi chang chu li ji zhi	3080
-异常出血	yi chang chu xie	175
 一长串	yi chang chuan	9999
 一长串儿	yi chang chuan er	9999
 一场春梦	yi chang chun meng	1090
@@ -463946,7 +462799,6 @@ sort: by_weight
 宜昌县	yi chang xian	1000
 异常现象	yi chang xian xiang	8310
 一场小雨	yi chang xiao yu	585
-异常血红蛋白	yi chang xie hong dan bai	3
 异常信息	yi chang xin xi	11100
 异常性	yi chang xing	955
 异常兴奋	yi chang xing fen	4205
@@ -463954,7 +462806,6 @@ sort: by_weight
 一唱雄鸡天下白	yi chang xiong ji tian xia bai	340
 一场虚惊	yi chang xu jing	1590
 一场雪	yi chang xue	3845
-异常血红蛋白	yi chang xue hong dan bai	3
 一唱一答	yi chang yi da	5
 一长一短	yi chang yi duan	1565
 一唱一和	yi chang yi he	11430
@@ -464215,7 +463066,6 @@ sort: by_weight
 遗传性痉挛性截瘫	yi chuan xing jing luan xing jie tan	9
 遗传性肾炎	yi chuan xing shen yan	10
 遗传性小脑性共济失调	yi chuan xing xiao nao xing gong ji shi tiao	2
-遗传性血管性水肿	yi chuan xing xue guan xing shui zhong	1
 遗传性状	yi chuan xing zhuang	915
 遗传学	yi chuan xue	22325
 遗传学家	yi chuan xue jia	2215
@@ -464799,8 +463649,6 @@ sort: by_weight
 一笛闻吹出塞愁	yi di wen chui chu sai chou	1
 异地相逢	yi di xiang feng	7
 易地销售	yi di xiao shou	65
-一滴血	yi di xie	5800
-一滴血	yi di xue	5800
 一滴眼泪	yi di yan lei	9485
 一帝一朝	yi di yi chao	1
 一递一答	yi di yi da	1
@@ -465831,9 +464679,7 @@ sort: by_weight
 以高速	yi gao su	3655
 胰高糖素	yi gao tang su	5
 以高效	yi gao xiao	2645
-胰高血糖素	yi gao xie tang su	21
 一高兴	yi gao xing	3770
-胰高血糖素	yi gao xue tang su	21
 一高一快	yi gao yi kuai	101
 一稿一投	yi gao yi tou	8
 一个	yi ge	508964
@@ -466415,8 +465261,6 @@ sort: by_weight
 异国他乡	yi guo ta xiang	6180
 易果网	yi guo wang	3
 以国为氏	yi guo wei shi	1120
-一过性脑缺血	yi guo xing nao que xie	21
-一过性脑缺血	yi guo xing nao que xue	21
 一椁一棺	yi guo yi guan	1
 一国一制	yi guo yi zhi	125
 一国之君	yi guo zhi jun	2480
@@ -467834,8 +466678,6 @@ sort: by_weight
 益康	yi kang	4985
 怡康	yi kang	390
 怡康花园	yi kang hua yuan	24
-异抗坏血酸	yi kang huai xue suan	222
-异抗坏血酸钠	yi kang huai xue suan na	134
 益康药店	yi kang yao dian	42
 益康唑	yi kang zuo	76
 益康唑曲安奈德	yi kang zuo qu an nai de	2
@@ -469609,8 +468451,6 @@ sort: by_weight
 一气浑成	yi qi hun cheng	1
 以其昏昏	yi qi hun hun	620
 以其昏昏使人昭昭	yi qi hun hun shi ren zhao zhao	30
-益气活血	yi qi huo xie	83
-益气活血	yi qi huo xue	83
 一起寄	yi qi ji	29
 一汽吉林森雅	yi qi ji lin sen ya	19
 仪器及内窥镜设备	yi qi ji nei kui jing she bei	26
@@ -469699,8 +468539,6 @@ sort: by_weight
 一起学网校	yi qi xue wang xiao	148
 一起学习	yi qi xue xi	9540
 移气养体	yi qi yang ti	1
-益气养血口服液	yi qi yang xie kou fu ye	9
-益气养血口服液	yi qi yang xue kou fu ye	9
 一起要	yi qi yao	1115
 以企业	yi qi ye	43980
 仪器仪表	yi qi yi biao	92885
@@ -469816,10 +468654,6 @@ sort: by_weight
 已抢光	yi qiang guang	150
 以强凌弱	yi qiang ling ruo	1365
 倚强凌弱	yi qiang ling ruo	66
-一腔热血	yi qiang re xie	4340
-一腔热血勤珍重	yi qiang re xie qin zhen zhong	1
-一腔热血	yi qiang re xue	4340
-一腔热血勤珍重	yi qiang re xue qin zhen zhong	1
 以强胜弱	yi qiang sheng ruo	6
 一枪一刀	yi qiang yi dao	45
 一腔一调	yi qiang yi diao	342
@@ -471256,8 +470090,6 @@ sort: by_weight
 伊斯迪尔废墟	yi si di er fei xu	1
 伊司顿	yi si dun	6
 一丝儿	yi si er	630
-一丝儿血	yi si er xie	14
-一丝儿血	yi si er xue	14
 一四二中	yi si er zhong	3
 以死济之	yi si ji zhi	6
 以死继之	yi si ji zhi	5
@@ -471302,8 +470134,6 @@ sort: by_weight
 以斯帖	yi si tie	450
 已死亡	yi si wang	3770
 意思为	yi si wei	6560
-一丝血	yi si xie	14
-一丝血	yi si xue	14
 疑似阳性	yi si yang xing	188
 一丝一点	yi si yi dian	110
 一丝一毫	yi si yi hao	11280
@@ -471456,8 +470286,6 @@ sort: by_weight
 一潭死水	yi tan si shui	3545
 一坛坛	yi tan tan	2435
 一摊摊	yi tan tan	1785
-一摊血	yi tan xie	1180
-一摊血	yi tan xue	1180
 一滩一滩	yi tan yi tan	115
 一谈一笑俗相看	yi tan yi xiao su xiang kan	1
 一弹指	yi tan zhi	530
@@ -472278,8 +471106,6 @@ sort: by_weight
 遗物忘形	yi wu wang xing	1
 伊吾县	yi wu xian	1610
 义乌县	yi wu xian	415
-义务献血	yi wu xian xie	3215
-义务献血	yi wu xian xue	3215
 遗物箱	yi wu xiang	3
 异戊橡胶	yi wu xiang jiao	560
 一物降一物	yi wu xiang yi wu	1130
@@ -472644,7 +471470,6 @@ sort: by_weight
 一些干部	yi xie gan bu	4795
 一些个	yi xie ge	11212
 一些歌	yi xie ge	1055
-以血还血	yi xie huan xie	520
 一些货	yi xie huo	344
 一些机	yi xie ji	700
 一些机型	yi xie ji xing	340
@@ -472871,7 +471696,6 @@ sort: by_weight
 医学隔离	yi xue ge li	510
 医学观察	yi xue guan cha	5929
 医学化学	yi xue hua xue	2
-以血还血	yi xue huan xue	520
 医学会	yi xue hui	35225
 医学家	yi xue jia	12255
 医学鉴定	yi xue jian ding	8605
@@ -472901,7 +471725,6 @@ sort: by_weight
 医学蠕虫	yi xue ru chong	128
 医学上	yi xue shang	23055
 医学神经生物学	yi xue shen jing sheng wu xue	17
-益血生胶囊	yi xue sheng jiao nang	1
 医学生物学	yi xue sheng wu xue	68
 医学史	yi xue shi	2040
 医学实验动物学	yi xue shi yan dong wu xue	2
@@ -473295,7 +472118,6 @@ sort: by_weight
 以义灭恩	yi yi mie en	1
 以意逆志	yi yi ni zhi	335
 以一年	yi yi nian	2380
-亦以平血气	yi yi ping xue qi	1
 异议期	yi yi qi	1445
 一一七中学	yi yi qi zhong xue	3
 移易迁变	yi yi qian bian	1
@@ -473935,8 +472757,6 @@ sort: by_weight
 一枕黄粱再现	yi zhen huang liang zai xian	1
 一针剂	yi zhen ji	354
 一阵激动	yi zhen ji dong	2925
-一针见血	yi zhen jian xie	17395
-一针见血	yi zhen jian xue	17395
 一阵狂风	yi zhen kuang feng	3390
 一阵强风	yi zhen qiang feng	345
 一真实	yi zhen shi	255
@@ -474982,8 +473802,6 @@ sort: by_weight
 阴道成形术	yin dao cheng xing shu	31
 引导程序	yin dao cheng xu	8225
 阴道冲洗	yin dao chong xi	30
-阴道出血	yin dao chu xie	6875
-阴道出血	yin dao chu xue	6875
 阴道分泌物检查	yin dao fen mi wu jian cha	35
 引导符	yin dao fu	1180
 阴道横隔	yin dao heng ge	3
@@ -475828,6 +474646,7 @@ sort: by_weight
 阴竭阳脱	yin jie yang tuo	4
 银戒指	yin jie zhi	2395
 引进	yin jin	500346
+音近	yin jin	2
 引进版	yin jin ban	2555
 饮尽东海难解渴	yin jin dong hai nan jie ke	1180
 引进法	yin jin fa	10
@@ -476978,7 +475797,6 @@ sort: by_weight
 阴虚火旺证	yin xu huo wang zheng	1
 阴虚内热证	yin xu nei re zheng	1
 音序器	yin xu qi	1695
-阴虚血瘀证	yin xu xue yu zheng	1
 阴虚阳浮	yin xu yang fu	1
 阴虚阳亢	yin xu yang kang	39
 阴虚阳亢证	yin xu yang kang zheng	1
@@ -478136,7 +476954,6 @@ sort: by_weight
 英国信托法原理与判例	ying guo xin tuo fa yuan li yu pan li	3
 英国刑事诉讼程序	ying guo xing shi su song cheng xu	21
 英国雪达蹲	ying guo xue da dun	1
-英国寻血猎犬	ying guo xun xue lie quan	8
 英国央行	ying guo yang hang	4360
 英国议会	ying guo yi hui	2225
 英国移民	ying guo yi min	765
@@ -478718,8 +477535,6 @@ sort: by_weight
 英脑	ying nao	4
 硬脑膜	ying nao mo	2545
 硬脑膜动静脉瘘	ying nao mo dong jing mai lou	12
-硬脑膜外血肿	ying nao mo wai xue zhong	6
-硬脑膜下血肿	ying nao mo xia xue zhong	43
 樱内	ying nei	820
 樱内义雄	ying nei yi xiong	2
 应能	ying neng	26975
@@ -479586,7 +478401,6 @@ sort: by_weight
 营养性	ying yang xing	5450
 营养型	ying yang xing	2655
 营养性疾病	ying yang xing ji bing	837
-营养性贫血	ying yang xing pin xue	65
 营养性水肿	ying yang xing shui zhong	2
 营养学	ying yang xue	20225
 营养学家	ying yang xue jia	9155
@@ -481406,8 +480220,6 @@ sort: by_weight
 用些	yong xie	9999
 用血	yong xie	2222
 用鞋	yong xie	111
-用血染	yong xie ran	10
-用血者	yong xie zhe	455
 用心	yong xin	205920
 永新	yong xin	18280
 用心的	yong xin de	102350
@@ -481452,8 +480264,6 @@ sort: by_weight
 永续债券	yong xu zhai quan	290
 用血	yong xue	18265
 咏雪	yong xue	1400
-用血染	yong xue ran	10
-用血者	yong xue zhe	455
 咏雪之慧	yong xue zhi hui	1
 咏雅华	yong ya hua	1
 用眼	yong yan	8999
@@ -481666,7 +480476,6 @@ sort: by_weight
 永州	yong zhou	25925
 雍州	yong zhou	4085
 永州八记	yong zhou ba ji	420
-永州炒血鸭	yong zhou chao xue ya	1
 永州市	yong zhou shi	19530
 永州视窗	yong zhou shi chuang	6
 永州之野产异蛇	yong zhou zhi ye chan yi she	8
@@ -487142,8 +485951,6 @@ sort: by_weight
 有血	you xue	1254
 有学	you xue	111
 油靴	you xue	70
-有血的	you xue de	395
-有血气	you xue qi	270
 有学生	you xue sheng	13410
 有学问	you xue wen	6640
 有雪无诗	you xue wu shi	200
@@ -487151,9 +485958,6 @@ sort: by_weight
 又学习了	you xue xi le	650
 又学习了一遍	you xue xi le yi bian	85
 由学校	you xue xiao	47575
-有血性	you xue xing	1260
-有血有泪	you xue you lei	450
-有血有肉	you xue you rou	10005
 鱿鳕鱼丸菠菜羹	you xue yu wan bo cai geng	1
 有学者	you xue zhe	24425
 又讯	you xun	5620
@@ -491850,7 +490654,6 @@ sort: by_weight
 渔械新村	yu xie xin cun	1
 雨歇杨林东渡头	yu xie yang lin dong du tou	1
 与谢野晶子	yu xie ye jing zi	105
-浴血战斗	yu xie zhan dou	225
 育新	yu xin	5365
 宇新	yu xin	1495
 娱心	yu xin	185
@@ -491931,19 +490734,12 @@ sort: by_weight
 瘀血	yu xue	565
 俞穴	yu xue	29
 雨雪瀌瀌	yu xue biao biao	1
-浴血东瓜守	yu xue dong gua shou	16
 雨雪霏霏	yu xue fei fei	1345
-浴血奋战	yu xue fen zhan	9335
-浴血苦战	yu xue ku zhan	330
 与学生	yu xue sheng	73555
-浴血誓言	yu xue shi yan	104
 雨雪天	yu xue tian	1370
 雨雪天气	yu xue tian qi	3985
 玉雪为骨冰为魂	yu xue wei gu bing wei hun	3
 与学校	yu xue xiao	33320
-浴血战	yu xue zhan	570
-浴血战斗	yu xue zhan dou	225
-瘀血阻络证	yu xue zu luo zheng	4
 鱼汛	yu xun	735
 欲寻阿练若	yu xun a lian ruo	1
 预压	yu ya	2385
@@ -493275,20 +492071,12 @@ sort: by_weight
 原发性侧索硬化	yuan fa xing ce suo ying hua	3
 原发性肺结核	yuan fa xing fei jie he	2
 原发性腹膜炎	yuan fa xing fu mo yan	2
-原发性高血压	yuan fa xing gao xie ya	187
-原发性高血压	yuan fa xing gao xue ya	187
 原发性开角型青光眼	yuan fa xing kai jiao xing qing guang yan	16
 原发性三叉神经痛	yuan fa xing san cha shen jing tong	13
 原发性肾病综合征	yuan fa xing shen bing zong he zheng	14
 原发性肾上腺皮质功能减退症	yuan fa xing shen shang xian pi zhi gong neng jian tui zheng	3
 原发性视网膜脱离	yuan fa xing shi wang mo tuo li	3
 原发性痛经	yuan fa xing tong jing	86
-原发性血小板减少性紫癜	yuan fa xing xie xiao ban jian shao xing zi dian	18
-原发性血小板减少症	yuan fa xing xie xiao ban jian shao zheng	4
-原发性血小板增多症	yuan fa xing xie xiao ban zeng duo zheng	8
-原发性血小板减少性紫癜	yuan fa xing xue xiao ban jian shao xing zi dian	18
-原发性血小板减少症	yuan fa xing xue xiao ban jian shao zheng	4
-原发性血小板增多症	yuan fa xing xue xiao ban zeng duo zheng	8
 远帆	yuan fan	1070
 圆泛	yuan fan	1
 # 圆范	yuan fan	0
@@ -501255,7 +500043,6 @@ sort: by_weight
 在深圳啊	zai shen zhen a	20
 再生	zai sheng	172515
 宰牲	zai sheng	1630
-再生不良性贫血	zai sheng bu liang xing pin xue	2
 在生产	zai sheng chan	103330
 再生产	zai sheng chan	19170
 在圣诞节	zai sheng dan jie	8560
@@ -501286,8 +500073,6 @@ sort: by_weight
 再生缘	zai sheng yuan	1835
 在生长	zai sheng zhang	1180
 再生长	zai sheng zhang	500
-再生障碍性贫血	zai sheng zhang ai xing pin xie	7475
-再生障碍性贫血	zai sheng zhang ai xing pin xue	7475
 再生者	zai sheng zhe	160
 再生纸	zai sheng zhi	3495
 再生资源	zai sheng zi yuan	24075
@@ -502163,7 +500948,6 @@ sort: by_weight
 再造林	zai zao lin	72
 在早期	zai zao qi	15080
 在早上	zai zao shang	8000
-再造生血片	zai zao sheng xue pian	1
 在遭受	zai zao shou	5365
 再造术	zai zao shu	1300
 再造淑女	zai zao shu nv	161
@@ -502518,6 +501302,7 @@ sort: by_weight
 攒的	zan de	1980
 攒的钱	zan de qian	1175
 咱的钱	zan de qian	850
+攒点	zan dian	5555
 暂调	zan diao	165
 咱爹	zan die	315
 暂定	zan ding	36790
@@ -502847,8 +501632,6 @@ sort: by_weight
 藏族酥酪糕	zang zu su lao gao	1
 藏族酸奶	zang zu suan nai	7
 藏族同胞	zang zu tong bao	3475
-藏族血肠	zang zu xie chang	3
-藏族血肠	zang zu xue chang	3
 早啊	zao a	4140
 造爱	zao ai	2320
 早安	zao an	13215
@@ -502902,7 +501685,6 @@ sort: by_weight
 早产	zao chan	18775
 早产儿	zao chan er	9620
 早产儿培养箱	zao chan er pei yang xiang	7
-早产儿贫血	zao chan er pin xue	3
 早产奶	zao chan nai	1180
 早产婴儿	zao chan ying er	265
 早场	zao chang	635
@@ -503465,10 +502247,6 @@ sort: by_weight
 造型药水	zao xing yao shui	2
 造型艺术	zao xing yi shu	8855
 造血	zao xue	31780
-造血干细胞	zao xue gan xi bao	20105
-造血器官	zao xue qi guan	61
-造血系统	zao xue xi tong	450
-造血祖细胞	zao xue zu xi bao	2
 糟鸭	zao ya	248
 造牙粉及造牙水	zao ya fen ji zao ya shui	1
 凿岩	zao yan	2790
@@ -505832,8 +504610,6 @@ sort: by_weight
 战锦方为大问题	zhan jin fang wei da wen ti	4
 占尽风情向小园	zhan jin feng qing xiang xiao yuan	5
 展尽黄金缕	zhan jin huang jin lv	1
-展筋活血散	zhan jin huo xie san	1
-展筋活血散	zhan jin huo xue san	1
 占进口	zhan jin kou	2095
 斩尽杀绝	zhan jin sha jue	1915
 詹金斯	zhan jin si	895
@@ -512974,7 +511750,6 @@ sort: by_weight
 真菌	zhen jun	44085
 真君	zhen jun	11695
 振军	zhen jun	2280
-真菌败血症	zhen jun bai xue zheng	1
 真菌孢子	zhen jun bao zi	525
 真菌病	zhen jun bing	49
 真菌感染	zhen jun gan ran	4420
@@ -517327,7 +516102,6 @@ sort: by_weight
 痔疮栓	zhi chuang shuan	8
 制创新权	zhi chuang xin quan	4
 支床有龟	zhi chuang you gui	5
-痔疮止血颗粒	zhi chuang zhi xue ke li	9
 只吹的水尽鹅飞罢	zhi chui de shui jin e fei ba	2
 之春	zhi chun	9470
 知春	zhi chun	4260
@@ -517431,7 +516205,6 @@ sort: by_weight
 # 志丹	zhi dan	0
 # 知单	zhi dan	0
 脂蛋白	zhi dan bai	16750
-脂蛋白血症	zhi dan bai xue zheng	1
 掷弹兵	zhi dan bing	1050
 只单单	zhi dan dan	9999
 执弹而留之	zhi dan er liu zhi	1
@@ -518152,8 +516925,6 @@ sort: by_weight
 至高天	zhi gao tian	132
 至高天使长	zhi gao tian shi zhang	1
 至高无上	zhi gao wu shang	25500
-治高血压	zhi gao xie ya	750
-治高血压	zhi gao xue ya	750
 之歌	zhi ge	45995
 之隔	zhi ge	14065
 制革	zhi ge	12060
@@ -521101,7 +519872,6 @@ sort: by_weight
 植物添银花	zhi wu tian yin hua	1
 植物网	zhi wu wang	150
 植物纤维	zhi wu xian wei	7335
-植物血凝素	zhi wu xie ning su	12
 植物新品种保护	zhi wu xin pin zhong bao hu	1921
 植物性	zhi wu xing	19015
 植物型	zhi wu xing	860
@@ -521109,7 +519879,6 @@ sort: by_weight
 职务行为	zhi wu xing wei	6557
 植物学	zhi wu xue	14595
 植物学家	zhi wu xue jia	6255
-植物血凝素	zhi wu xue ning su	12
 植物羊	zhi wu yang	151
 支吾以对	zhi wu yi dui	195
 植物饮料	zhi wu yin liao	538
@@ -521150,10 +519919,7 @@ sort: by_weight
 直系军阀	zhi xi jun fa	630
 直系亲属	zhi xi qin shu	26335
 只希望	zhi xi wang	27350
-直系血亲	zhi xi xie qin	8240
 窒息性	zhi xi xing	680
-直系血亲	zhi xi xue qin	8240
-直系血缘关系	zhi xi xue yuan guan xi	183
 知希则贵	zhi xi ze gui	1
 直溪镇	zhi xi zhen	172
 之下	zhi xia	498085
@@ -521292,13 +520058,11 @@ sort: by_weight
 制鞋	zhi xie	2792
 制鞋厂	zhi xie chang	1555
 只写出	zhi xie chu	440
-止血带	zhi xie dai	3020
 只写到	zhi xie dao	315
 止泻颗粒	zhi xie ke li	1
 只写了	zhi xie le	12
 致谢信	zhi xie xin	134
 直写胸臆	zhi xie xiong yi	1
-止血药	zhi xie yao	2450
 止泻药	zhi xie yao	2235
 制鞋业	zhi xie ye	4855
 之心	zhi xin	174700
@@ -521521,19 +520285,11 @@ sort: by_weight
 治学	zhi xue	21190
 只学	zhi xue	5315
 志学	zhi xue	4180
-止血带	zhi xue dai	3020
 只学到	zhi xue dao	265
-止血法	zhi xue fa	1060
-止血粉	zhi xue fen	14
 只学会	zhi xue hui	235
-止血剂	zhi xue ji	595
-痔血胶囊	zhi xue jiao nang	3
-止血钳	zhi xue qian	1600
-止血散	zhi xue san	8
 直学士	zhi xue shi	1675
 治学态度	zhi xue tai du	4250
 治学严谨	zhi xue yan jin	5740
-止血药	zhi xue yao	2450
 智学苑	zhi xue yuan	8
 质询	zhi xun	28390
 志勋	zhi xun	1395
@@ -521551,7 +520307,6 @@ sort: by_weight
 质押合同	zhi ya he tong	7150
 质押品	zhi ya pin	103
 质押物	zhi ya wu	2570
-指压止血法	zhi ya zhi xue fa	9
 之言	zhi yan	54455
 直言	zhi yan	28450
 只眼	zhi yan	6735
@@ -522436,7 +521191,6 @@ sort: by_weight
 蜘猪侠	zhi zhu xia	1
 直侏鰕虎鱼	zhi zhu xia hu yu	1
 蜘蛛香	zhi zhu xiang	45
-止住血	zhi zhu xie	1180
 蜘蛛蟹	zhi zhu xie	90
 支柱性	zhi zhu xing	2250
 支柱型	zhi zhu xing	1000
@@ -525976,7 +524730,6 @@ sort: by_weight
 中美合资	zhong mei he zi	7045
 中美合作	zhong mei he zuo	3090
 中美合作所	zhong mei he zuo suo	960
-中美混血	zhong mei hun xue	109
 中美建交联合公报	zhong mei jian jiao lian he gong bao	20
 中美两国	zhong mei liang guo	14010
 钟美玲	zhong mei ling	2
@@ -526303,7 +525056,6 @@ sort: by_weight
 中日和平	zhong ri he ping	1225
 中日合资	zhong ri he zi	7160
 中日合作	zhong ri he zuo	1505
-中日混血	zhong ri hun xue	188
 中日甲午战争	zhong ri jia wu zhan zheng	2290
 终日看山不厌山	zhong ri kan shan bu yan shan	1
 中日联谊	zhong ri lian yi	57
@@ -526734,15 +525486,15 @@ sort: by_weight
 中筒靴	zhong tong xue	170
 重统一	zhong tong yi	65
 钟头	zhong tou	28650
-中投	zhong tou	13875
 重头	zhong tou	11990
+中投	zhong tou	1387
 中投公司	zhong tou gong si	586
 重头戏	zhong tou xi	22775
 中途	zhong tu	101575
 中土	zhong tu	17125
-中图	zhong tu	12005
 种兔	zhong tu	2960
-中涂	zhong tu	58
+中涂	zhong tu	5
+# 中图	zhong tu	0
 种兔场	zhong tu chang	13
 中途辍学	zhong tu chuo xue	1255
 中土大厦	zhong tu da sha	47
@@ -527159,7 +525911,6 @@ sort: by_weight
 中新小区	zhong xin xiao qu	1
 中心小学	zhong xin xiao xue	55030
 中心新村	zhong xin xin cun	3
-中心血站	zhong xin xue zhan	1615
 中心摇摇	zhong xin yao yao	21
 中心仪	zhong xin yi	14
 钟欣怡	zhong xin yi	8
@@ -528193,7 +526944,6 @@ sort: by_weight
 种族天赋	zhong zu tian fu	102
 种族问题	zhong zu wen ti	930
 踵足相接	zhong zu xiang jie	1
-种族血缘	zhong zu xue yuan	18
 种族优势	zhong zu you shi	185
 种族主义	zhong zu zhu yi	4730
 种族主义者	zhong zu zhu yi zhe	1020
@@ -528903,8 +527653,6 @@ sort: by_weight
 周围世界	zhou wei shi jie	3695
 周伟童	zhou wei tong	6
 周围性面瘫	zhou wei xing mian tan	25
-周围血管病	zhou wei xue guan bing	71
-周围血管疾病	zhou wei xue guan ji bing	31
 帚尾岩袋鼠	zhou wei yan dai shu	1
 轴伪足	zhou wei zu	2
 皱纹	zhou wen	108700
@@ -531296,7 +530044,6 @@ sort: by_weight
 侏儒犀	zhu ru xi	1
 侏儒响尾蛇属	zhu ru xiang wei she shu	1
 侏儒小颌海龙	zhu ru xiao he hai long	1
-侏儒血鰕虎鱼	zhu ru xue xia hu yu	1
 侏儒野猪	zhu ru ye zhu	1
 侏儒一节	zhu ru yi jie	3
 侏儒依柯鰕虎鱼	zhu ru yi ke xia hu yu	1
@@ -531467,8 +530214,6 @@ sort: by_weight
 注射用心肌肽	zhu she yong xin ji tai	1
 注射用胸腺肽	zhu she yong xiong xian tai	11
 注射用胸腺五肽	zhu she yong xiong xian wu tai	7
-注射用血凝酶	zhu she yong xue ning mei	1
-注射用血栓通	zhu she yong xue shuan tong	150
 注射用炎琥宁	zhu she yong yan hu ning	9
 注射用盐酸氨溴索	zhu she yong yan suan an xiu suo	1
 注射用盐酸大观霉素	zhu she yong yan suan da guan mei su	1
@@ -531829,7 +530574,6 @@ sort: by_weight
 蛛网膜	zhu wang mo	5505
 蛛网膜颗粒	zhu wang mo ke li	2
 蛛网膜囊肿	zhu wang mo nang zhong	40
-蛛网膜下出血	zhu wang mo xia chu xue	18
 蛛网膜下腔	zhu wang mo xia qiang	158
 蛛网膜炎	zhu wang mo yan	4
 竹望山	zhu wang shan	6
@@ -532057,10 +530801,8 @@ sort: by_weight
 助学宝	zhu xue bao	151
 助学贷款	zhu xue dai kuan	23050
 朱学范	zhu xue fan	59050
-猪血灌肠	zhu xue guan chang	108
 助学金	zhu xue jin	34775
 朱雪松	zhu xue song	155
-猪血丸子	zhu xue wan zi	286
 朱雪莹	zhu xue ying	149
 朱学增	zhu xue zeng	2
 朱迅	zhu xun	244
@@ -537008,8 +535750,6 @@ sort: by_weight
 子宫壁	zi gong bi	2125
 子宫病	zi gong bing	190
 子工程	zi gong cheng	1350
-子宫出血	zi gong chu xie	6075
-子宫出血	zi gong chu xue	6075
 子宫穿孔	zi gong chuan kong	103
 子宫底	zi gong di	5
 自贡地震	zi gong di zhen	1
@@ -538210,12 +536950,9 @@ sort: by_weight
 自身免疫病	zi shen mian yi bing	980
 自身免疫性	zi shen mian yi xing	2960
 自身免疫性疾病	zi shen mian yi xing ji bing	345
-自身免疫性溶血性贫血	zi shen mian yi xing rong xie xing pin xue	18
-自身免疫性溶血性贫血	zi shen mian yi xing rong xue xing pin xue	18
 自身耐受	zi shen nai shou	4
 自身难保	zi shen nan bao	2705
 自身能力	zi shen neng li	9240
-自身输血	zi shen shu xue	24
 自身素质	zi shen su zhi	27970
 自身特点	zi shen te dian	15965
 自身调节	zi shen tiao jie	196
@@ -539622,7 +538359,6 @@ sort: by_weight
 孜孜汲汲	zi zi ji ji	4
 孳孳汲汲	zi zi ji ji	1
 字字句句	zi zi ju ju	2930
-字字看来都是血	zi zi kan lai dou shi xue	1
 孜孜矻矻	zi zi ku ku	24
 子字旁	zi zi pang	1111
 自自然然	zi zi ran ran	3115
@@ -541819,7 +540555,6 @@ sort: by_weight
 族里	zu li	9305
 足力	zu li	1130
 # 祖厉	zu li	0
-阻力血管	zu li xue guan	1
 足利义政	zu li yi zheng	1
 足联	zu lian	5680
 组练长驱十万夫	zu lian chang qu shi wan fu	4
@@ -543799,7 +542534,6 @@ sort: by_weight
 最需	zui xu	36980
 最需要	zui xu yao	42055
 最炫	zui xuan	5220
-最血腥	zui xue xing	705
 醉醺醺	zui xun xun	6475
 最严	zui yan	33040
 醉眼	zui yan	5520
