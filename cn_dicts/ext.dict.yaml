@@ -17,7 +17,7 @@
 # - [同义词词林2020.3.26修订版](https://forum.freemdict.com/t/topic/1211)
 ---
 name: ext
-version: "2023-09-24"
+version: "2023-09-25"
 sort: by_weight
 ...
 # +_+
@@ -14155,6 +14155,7 @@ sort: by_weight
 别不死心	bie bu si xin	100
 别不信	bie bu xin	100
 别不信啊	bie bu xin a	100
+别不信呐	bie bu xin na	100
 别裁伪体	bie cai wei ti	100
 别操之过急	bie cao zhi guo ji	100
 别册少年	bie ce shao nian	100
@@ -20316,6 +20317,7 @@ sort: by_weight
 补胎片	bu tai pian	100
 不太清楚啊	bu tai qing chu a	100
 不太清楚呢	bu tai qing chu ne	100
+不太清楚哦	bu tai qing chu o	100
 不太情愿	bu tai qing yuan	100
 不太擅长	bu tai shan chang	100
 不太适合	bu tai shi he	100
@@ -90380,6 +90382,8 @@ sort: by_weight
 过不过关哦	guo bu guo guan o	100
 过不过关哇	guo bu guo guan wa	100
 过不过关呀	guo bu guo guan ya	100
+过不过来	guo bu guo lai	100
+过不过来呀	guo bu guo lai ya	100
 过不过去	guo bu guo qu	100
 过不好	guo bu hao	100
 国步艰难	guo bu jian nan	100
@@ -92535,6 +92539,7 @@ sort: by_weight
 还不小	hai bu xiao	100
 还不小的	hai bu xiao de	100
 还不写作业	hai bu xie zuo ye	100
+还不行啊	hai bu xing a	100
 还不行吗	hai bu xing ma	100
 还不行么	hai bu xing me	100
 海不厌深	hai bu yan shen	100
@@ -93374,6 +93379,7 @@ sort: by_weight
 还是不明白	hai shi bu ming bai	100
 还是不算	hai shi bu suan	100
 还是不想	hai shi bu xiang	100
+还是不行啊	hai shi bu xing a	100
 还是不要	hai shi bu yao	100
 还是不要了	hai shi bu yao le	100
 还是不一样	hai shi bu yi yang	100
@@ -93470,6 +93476,10 @@ sort: by_weight
 还是听	hai shi ting	100
 还是听不到	hai shi ting bu dao	100
 还是听不见	hai shi ting bu jian	100
+还是挺没用	hai shi ting mei yong	100
+还是挺没用的	hai shi ting mei yong de	100
+还是挺有用	hai shi ting you yong	100
+还是挺有用的	hai shi ting you yong de	100
 还是我	hai shi wo	100
 还是我去	hai shi wo qu	100
 还是我去吧	hai shi wo qu ba	100
@@ -169161,6 +169171,7 @@ sort: by_weight
 你还爱我吗	ni hai ai wo ma	100
 你还爱着他	ni hai ai zhe ta	100
 你还别不信	ni hai bie bu xin	100
+你还别不信呐	ni hai bie bu xin na	100
 你还别说	ni hai bie shuo	100
 你还不笨	ni hai bu ben	100
 你还不承认	ni hai bu cheng ren	100
@@ -171462,6 +171473,7 @@ sort: by_weight
 你怎么这么笨呢	ni zen me zhe me ben ne	100
 你怎么这么好看	ni zen me zhe me hao kan	100
 你怎么知道的	ni zen me zhi dao de	100
+你怎么知道的呢	ni zen me zhi dao de ne	100
 你怎么总爱乱来了	ni zen me zong ai luan lai le	100
 你怎么总爱乱说呢	ni zen me zong ai luan shuo ne	100
 你怎么总是这样子了	ni zen me zong shi zhe yang zi le	100
@@ -185951,6 +185963,7 @@ sort: by_weight
 清除剪贴板	qing chu jian tie ban	100
 请出就戳	qing chu jiu chuo	100
 清楚了吗	qing chu le ma	100
+清楚哦	qing chu o	100
 清楚起来	qing chu qi lai	100
 清除宿便	qing chu su bian	100
 请出题	qing chu ti	100
@@ -203298,6 +203311,7 @@ sort: by_weight
 谁说得漂亮	shei shuo de piao liang	100
 谁说的呀	shei shuo de ya	100
 谁说我结不了婚	shei shuo wo jie bu liao hun	100
+谁他妈的信啊	shei ta ma de xin a	100
 谁听呢喃语	shei ting ni nan yu	100
 谁玩得过	shei wan de guo	100
 谁玩得过谁	shei wan de guo shei	100
@@ -226760,6 +226774,7 @@ sort: by_weight
 太抢戏	tai qiang xi	100
 太巧合了	tai qiao he le	100
 太清楚	tai qing chu	100
+太清楚哦	tai qing chu o	100
 太轻率	tai qing shuai	100
 太清爽	tai qing shuang	100
 太清爽啦	tai qing shuang la	100
@@ -233272,6 +233287,8 @@ sort: by_weight
 听没听说过	ting mei ting shuo guo	100
 婷美小屋	ting mei xiao wu	100
 挺没意思	ting mei yi si	100
+挺没用	ting mei yong	100
+挺没用的	ting mei yong de	100
 挺迷的	ting mi de	100
 挺迷茫	ting mi mang	100
 挺勉强	ting mian qiang	100
@@ -233477,6 +233494,7 @@ sort: by_weight
 挺有意义	ting you yi yi	100
 挺有意义的	ting you yi yi de	100
 挺有用	ting you yong	100
+挺有用的吧	ting you yong de ba	100
 挺圆的	ting yuan de	100
 挺远的	ting yuan de	100
 庭院灯系列	ting yuan deng xi lie	100
@@ -243108,10 +243126,12 @@ sort: by_weight
 文明的发源地	wen ming de fa yuan di	100
 文明的天空	wen ming de tian kong	100
 文明的天空里	wen ming de tian kong li	100
+文明的摇篮	wen ming de yao lan	100
 文明地	wen ming di	100
 文明发源地	wen ming fa yuan di	100
 文明高度	wen ming gao du	100
 文明工地	wen ming gong di	100
+文明故事	wen ming gu shi	100
 文明国度	wen ming guo du	100
 文明毁灭	wen ming hui mie	100
 文明江西	wen ming jiang xi	100
@@ -250279,6 +250299,7 @@ sort: by_weight
 五七八八年	wu qi ba ba nian	100
 五七八二	wu qi ba er	100
 五七八二年	wu qi ba er nian	100
+乌漆巴黑	wu qi ba hei	100
 五七八九	wu qi ba jiu	100
 五七八九年	wu qi ba jiu nian	100
 五七八零	wu qi ba ling	100
@@ -250390,8 +250411,6 @@ sort: by_weight
 武器落后	wu qi luo hou	100
 乌漆麻黑	wu qi ma hei	100
 无期迷途	wu qi mi tu	100
-乌漆墨黑	wu qi mo hei	100
-乌漆抹黑	wu qi mo hei	100
 武器模型	wu qi mo xing	100
 武器铺	wu qi pu	100
 五七七八	wu qi qi ba	100
@@ -263670,6 +263689,7 @@ sort: by_weight
 新部落	xin bu luo	100
 新步枪	xin bu qiang	100
 信步闲游	xin bu xian you	100
+信不信啊	xin bu xin a	100
 信不信吧	xin bu xin ba	100
 辛不辛苦	xin bu xin ku	100
 辛不辛苦啊	xin bu xin ku a	100
@@ -263680,6 +263700,7 @@ sort: by_weight
 辛不辛苦哦	xin bu xin ku o	100
 辛不辛苦哇	xin bu xin ku wa	100
 辛不辛苦呀	xin bu xin ku ya	100
+信不信呐	xin bu xin na	100
 信不信我	xin bu xin wo	100
 新不新鲜啊	xin bu xin xian a	100
 新不新鲜吧	xin bu xin xian ba	100
@@ -299180,6 +299201,7 @@ sort: by_weight
 早期参与者	zao qi can yu zhe	100
 早期的	zao qi de	100
 早期发行	zao qi fa xing	100
+早期发展	zao qi fa zhan	100
 早期来了	zao qi lai le	100
 早起来了	zao qi lai le	100
 早期历史	zao qi li shi	100
@@ -299949,6 +299971,7 @@ sort: by_weight
 怎么知道	zen me zhi dao	100
 怎么知道啊	zen me zhi dao a	100
 怎么知道的	zen me zhi dao de	100
+怎么知道的呢	zen me zhi dao de ne	100
 怎么知道我	zen me zhi dao wo	100
 怎么知道细节	zen me zhi dao xi jie	100
 怎么支付	zen me zhi fu	100
@@ -303913,6 +303936,8 @@ sort: by_weight
 这还不够吗	zhe hai bu gou ma	100
 这还不简单	zhe hai bu jian dan	100
 这还不算完	zhe hai bu suan wan	100
+这还不行	zhe hai bu xing	100
+这还不行啊	zhe hai bu xing a	100
 这还了得	zhe hai liao de	100
 这还没完	zhe hai mei wan	100
 这还是	zhe hai shi	100
@@ -305647,6 +305672,7 @@ sort: by_weight
 真该好好	zhen gai hao hao	100
 真该好好谢谢	zhen gai hao hao xie xie	100
 真该好好谢谢你	zhen gai hao hao xie xie ni	100
+真该死	zhen gai si	100
 真该死啊	zhen gai si a	100
 真该死呀	zhen gai si ya	100
 真尴尬	zhen gan ga	100
