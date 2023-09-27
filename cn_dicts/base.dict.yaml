@@ -84,6 +84,7 @@
 # 「马利亚、玛利亚」
 # 「碾压」「碾轧」
 # 「阵势」「阵式」
+# 「弹仓」「弹舱」
 #
 #
 ##### 以 #* 开头的可能有争议：
@@ -1766,10 +1767,12 @@
 # 「潘阳湖」→「鄱阳湖po yang hu」
 # 「办事不利」→「办事不力」
 # 「勒杜鹃」→「簕杜鹃」
+# 「乐淘淘」→「乐陶陶」
+# 「矮穷挫、矮挫穷、矮挫丑」→「矮穷矬、矮矬穷、矮矬丑」
 #///
 ---
 name: base
-version: "2023-09-24"
+version: "2023-09-27"
 sort: by_weight
 ...
 # +_+
@@ -4331,7 +4334,6 @@ sort: by_weight
 安德拉德	an de la de	59
 安德莱斯库	an de lai si ku	112
 安德雷斯	an de lei si	60
-安德利	an de li	188
 安得力士翻日车	an de li shi fan ri che	1180
 安德烈	an de lie	12995
 安德烈奥蒂	an de lie ao di	10
@@ -32189,7 +32191,7 @@ sort: by_weight
 不对啊	bu dui a	5440
 不对不对	bu dui bu dui	105
 不对茬儿	bu dui cha er	1
-不对称	bu dui chen	37320
+不对称	bu dui chen	3732
 不对称合成	bu dui chen he cheng	45
 不对称性	bu dui chen xing	2815
 不对称原子	bu dui chen yuan zi	15
@@ -74565,6 +74567,7 @@ sort: by_weight
 淡菜紫菜瘦肉汤	dan cai zi cai shou rou tang	3
 殚残天下之圣法	dan can tian xia zhi sheng fa	1
 弹仓	dan cang	875
+弹舱	dan cang	875
 淡仓	dan cang	10
 单槽式	dan cao shi	760
 单侧	dan ce	12860
@@ -145782,8 +145785,9 @@ sort: by_weight
 国际税收协定中常设机构原则研究	guo ji shui shou xie ding zhong chang she ji gou yuan ze yan jiu	10
 国际税务	guo ji shui wu	1280
 国际司	guo ji si	1800
-国际私法	guo ji si fa	17715
 国际司法	guo ji si fa	1395
+国际私法	guo ji si fa	177
+国际司法学	guo ji si fa xue	651
 国际私法学	guo ji si fa xue	650
 国际台	guo ji tai	1575
 国际特级大师	guo ji te ji da shi	400
@@ -148329,6 +148333,8 @@ sort: by_weight
 哈尼泡芙	ha ni pao fu	21
 哈尼亚	ha ni ya	1165
 哈尼族	ha ni zu	8885
+哈皮	ha pi	3333
+哈啤	ha pi	1111
 哈皮父子	ha pi fu zi	197
 哈平西路	ha ping xi lu	65
 哈珀	ha po	1
@@ -204640,7 +204646,6 @@ sort: by_weight
 精得像	jing de xiang	70
 惊得像	jing de xiang	15
 景德镇	jing de zhen	65185
-敬德镇	jing de zhen	3
 景德镇市	jing de zhen shi	12175
 景德镇陶瓷学院	jing de zhen tao ci xue yuan	3595
 景德镇窑	jing de zhen yao	1250
@@ -226906,6 +226911,7 @@ sort: by_weight
 廓尔喀人	kuo er ka ren	110
 扩股	kuo gu	1735
 括号	kuo hao	25115
+括号括住	kuo hao kuo zhu	3333
 括号里	kuo hao li	4820
 括号内	kuo hao nei	20530
 括号匹配	kuo hao pi pei	2244
@@ -227029,6 +227035,7 @@ sort: by_weight
 扩张政策	kuo zhang zheng ce	740
 扩张主义	kuo zhang zhu yi	675
 扩招	kuo zhao	38060
+括住	kuo zhu	3333
 阔嘴	kuo zui	555
 拉奥	la ao	2
 拉奥孔	la ao kong	440
@@ -251163,8 +251170,10 @@ sort: by_weight
 撸着	lu zhe	2222
 录着呢	lu zhe ne	10
 陆詟水栗	lu zhe shui li	1
-陆珍	lu zhen	4
-鲁贞	lu zhen	1
+陆贞	lu zhen	111
+鲁镇	lu zhen	111
+# 陆珍	lu zhen	0
+# 鲁贞	lu zhen	0
 路振飞	lu zhen fei	4
 路政	lu zheng	26895
 陆正	lu zheng	43
@@ -270556,9 +270565,9 @@ sort: by_weight
 莫过如此	mo guo ru ci	1025
 莫过于	mo guo yu	59305
 莫过于此	mo guo yu ci	5335
-膜蛤	mo ha	19260817
+膜蛤	mo ha	1926
 莫哈骨尾鱼	mo ha gu wei yu	1
-膜蛤文化	mo ha wen hua	19260817
+膜蛤文化	mo ha wen hua	817
 墨海	mo hai	1425
 莫罕达斯	mo han da si	5
 墨旱莲	mo han lian	300
@@ -341090,6 +341099,8 @@ sort: by_weight
 生财之道	sheng cai zhi dao	3585
 生财之路	sheng cai zhi lu	330
 圣餐	sheng can	2105
+生草	sheng cao	4444
+绳操	sheng cao	111
 生茶	sheng cha	6695
 胜垞	sheng cha	1
 生查子	sheng cha zi	1470
@@ -344562,6 +344573,7 @@ sort: by_weight
 试错	shi cuo	3175
 石厝	shi cuo	8
 石厝村	shi cuo cun	2
+是错觉	shi cuo jue	1111
 视错觉	shi cuo jue	43
 使挫折	shi cuo zhe	45
 十大	shi da	303105
@@ -344819,6 +344831,8 @@ sort: by_weight
 师德培训	shi de pei xun	172
 适得其反	shi de qi fan	27325
 是得人之得而不自得其得者也	shi de ren zhi de er bu zi de qi de zhe ye	1
+是的是的	shi de shi de	1000
+使得使得	shi de shi de	10
 师德师风	shi de shi feng	9680
 石德铁路	shi de tie lu	230
 诗的味道	shi de wei dao	160
@@ -363687,9 +363701,10 @@ sort: by_weight
 死而无怨	si er wu yuan	620
 似二蛭虫属	si er zhi chong shu	1
 司法	si fa	233880
-私法	si fa	18270
 死法	si fa	8785
+私发	si fa	3333
 四发	si fa	1180
+私法	si fa	827
 司法案例	si fa an li	255
 司法保护	si fa bao hu	6640
 司法保障	si fa bao zhang	5035
@@ -390004,7 +390019,8 @@ sort: by_weight
 透照	tou zhao	480
 头着地	tou zhao di	179
 透照仪	tou zhao yi	75
-透着	tou zhe	44905
+偷着	tou zhe	6666
+透着	tou zhe	4490
 偷着乐	tou zhe le	4570
 头枕	tou zhen	21990
 头针疗法	tou zhen liao fa	6
@@ -509041,6 +509057,8 @@ sort: by_weight
 这出	zhe chu	6995
 折出	zhe chu	4890
 这出戏	zhe chu xi	64
+这串	zhe chuan	3333
+这船	zhe chuan	222
 折床	zhe chuang	245
 这次	zhe ci	500739
 这词	zhe ci	4100
