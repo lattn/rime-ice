@@ -175,7 +175,7 @@
 # 「咳」表“咳嗽”时→「ke」
 # 「唐棣」→「棠棣」
 # 「划清界线」→「划清界限」
-# 「带耳机」→「戴耳机」
+# 「带耳机、耳环、耳钉。。。」→「戴耳机」
 # 「瞳瞳」→「曈曈」
 # 「整型」（表整形手术时）→「整形」
 # del「数据挖据」
@@ -1769,10 +1769,11 @@
 # 「勒杜鹃」→「簕杜鹃」
 # 「乐淘淘」→「乐陶陶」
 # 「矮穷挫、矮挫穷、矮挫丑」→「矮穷矬、矮矬穷、矮矬丑」
+# 「保力龙、保利龙」→「保丽龙」
 #///
 ---
 name: base
-version: "2023-09-27"
+version: "2023-09-29"
 sort: by_weight
 ...
 # +_+
@@ -22367,6 +22368,8 @@ sort: by_weight
 迸发出	beng fa chu	9730
 泵房	beng fang	5420
 迸飞	beng fei	999
+甭改	beng gai	3333
+甭改了	beng gai le	3333
 蹦高	beng gao	9999
 泵工	beng gong	222
 绷弓	beng gong	111
@@ -45748,6 +45751,7 @@ sort: by_weight
 常带	chang dai	7585
 常袋	chang dai	5
 常带着	chang dai zhe	1070
+尝胆	chang dan	111
 肠蛋白酶	chang dan bai mei	1
 尝胆眠薪	chang dan mian xin	1
 尝胆卧薪	chang dan wo xin	3
@@ -48443,6 +48447,9 @@ sort: by_weight
 抄近路	chao jin lu	1605
 超今越古	chao jin yue gu	1
 超紧张	chao jin zhang	149
+超静	chao jing	4444
+超净	chao jing	3333
+超精	chao jing	2
 超经典	chao jing dian	3715
 超晶格	chao jing ge	615
 超精细	chao jing xi	4925
@@ -76759,6 +76766,9 @@ sort: by_weight
 当今天子急贤良	dang jin tian zi ji xian liang	1
 当今之务	dang jin zhi wu	3
 当惊世界殊	dang jing shi jie shu	310
+挡酒	dang jiu	2222
+当久	dang jiu	111
+当久了	dang jiu le	3333
 当局	dang ju	96155
 当局称迷	dang ju cheng mi	2
 当局苦迷	dang ju ku mi	1
@@ -101805,9 +101815,9 @@ sort: by_weight
 二叠	er die	2170
 二爹	er die	800
 二叠纪	er die ji	1705
-而定	er ding	146235
 耳钉	er ding	7970
-二丁	er ding	1360
+而定	er ding	1462
+二丁	er ding	136
 二丁基羟基甲苯	er ding ji qiang ji jia ben	39
 而动	er dong	27030
 耳洞	er dong	5275
@@ -140459,6 +140469,7 @@ sort: by_weight
 冠瘤祝蛾	guan liu zhu e	1
 罐笼	guan long	745
 官龙村	guan long cun	20
+关喽	guan lou	3333
 关楼	guan lou	1380
 管路	guan lu	37885
 官禄	guan lu	3080
@@ -159112,6 +159123,8 @@ sort: by_weight
 很贵	hen gui	28325
 很规矩	hen gui ju	1030
 很诡异	hen gui yi	2370
+恨过	hen guo	3333
+恨国	hen guo	1111
 恨海愁天	hen hai chou tian	1
 很好	hen hao	500592
 很好啊	hen hao a	14090
@@ -159280,6 +159293,7 @@ sort: by_weight
 很满意	hen man yi	31555
 很忙	hen mang	42790
 很美	hen mei	66330
+很没	hen mei	3333
 很没道理	hen mei dao li	9999
 很美好	hen mei hao	3880
 很美丽	hen mei li	8885
@@ -210239,6 +210253,7 @@ sort: by_weight
 鸠形鹄面	jiu xing hu mian	75
 就行了	jiu xing le	163865
 就醒了	jiu xing le	4645
+酒醒了	jiu xing le	1111
 九星连珠	jiu xing lian zhu	158
 酒醒却咨嗟	jiu xing que zi jie	1
 酒醒时往事愁肠	jiu xing shi wang shi chou chang	3
@@ -216020,6 +216035,7 @@ sort: by_weight
 开溜	kai liu	5655
 开笼放雀	kai long fang que	3
 开聋启聩	kai long qi kui	1
+开喽	kai lou	3333
 开路	kai lu	35200
 开颅	kai lu	3425
 开撸	kai lu	3333
@@ -218241,7 +218257,8 @@ sort: by_weight
 拷贝数	kao bei shu	760
 拷贝文件	kao bei wen jian	4648
 靠背椅	kao bei yi	1460
-拷贝纸	kao bei zhi	760
+拷贝至	kao bei zhi	1111
+拷贝纸	kao bei zhi	76
 考妣	kao bi	260
 考比伦杯	kao bi lun bei	186
 靠边	kao bian	9490
@@ -225074,6 +225091,7 @@ sort: by_weight
 快反	kuai fan	985
 快帆船	kuai fan chuan	65
 快翻译	kuai fan yi	120
+快放	kuai fang	3333
 快分手	kuai fen shou	178
 快感	kuai gan	147615
 快干	kuai gan	12090
@@ -225323,6 +225341,8 @@ sort: by_weight
 快乐寒假	kuai le han jia	156
 快乐环岛	kuai le huan dao	145
 快乐假期	kuai le jia qi	169
+快了快了	kuai le kuai le	1001
+快乐快乐	kuai le kuai le	100
 快乐吗	kuai le ma	9135
 快乐每一天	kuai le mei yi tian	176
 快乐起来	kuai le qi lai	5350
@@ -228169,6 +228189,7 @@ sort: by_weight
 来龙村	lai long cun	20
 来龙门街道	lai long men jie dao	17
 来龙去脉	lai long qu mai	20130
+来喽	lai lou	3333
 来路	lai lu	16025
 来路不明	lai lu bu ming	5460
 来路不正	lai lu bu zheng	745
@@ -260064,6 +260085,7 @@ sort: by_weight
 么里镇	me li zhen	1
 么六桥乡	me liu qiao xiang	1
 么么	me me	9999
+么么哒	me me da	3333
 没啊	mei a	4205
 美啊	mei a	2222
 妹啊	mei a	1111
@@ -260412,9 +260434,9 @@ sort: by_weight
 梅地亚	mei di ya	2465
 美狄亚	mei di ya	880
 眉低眼慢	mei di yan man	1
-煤电	mei dian	32745
 没电	mei dian	8505
 没点	mei dian	5480
+煤电	mei dian	327
 煤店	mei dian	285
 没电了	mei dian le	7155
 没颠没倒	mei dian mei dao	1
@@ -279815,6 +279837,9 @@ sort: by_weight
 匿报	ni bao	1235
 倪葆春	ni bao chun	1
 你报价	ni bao jia	151
+你被	ni bei	5555
+你呗	ni bei	3333
+你背	ni bei	1111
 你比	ni bi	31225
 溺毙	ni bi	1335
 逆比例	ni bi li	5
@@ -305541,6 +305566,7 @@ sort: by_weight
 侨鸿国际	qiao hong guo ji	21
 乔红洁白	qiao hong jie bai	1
 乔虹苑	qiao hong yuan	29
+巧虎	qiao hu	3333
 乔户村	qiao hu cun	2
 樵湖岭	qiao hu ling	3
 敲葫芦震瓢	qiao hu lu zhen piao	1
@@ -313102,6 +313128,7 @@ sort: by_weight
 去留肝胆两昆仑	qu liu gan dan liang kun lun	1180
 去留无意	qu liu wu yi	11280
 曲隆异爪蝗	qu long yi zhao huang	1
+去喽	qu lou	3333
 去路	qu lu	22475
 曲鲁海乡	qu lu hai xiang	15
 佉卢文字	qu lu wen zi	1
@@ -337817,6 +337844,7 @@ sort: by_weight
 谁料	shei liao	10965
 谁买	shei mai	2222
 谁卖	shei mai	111
+谁们	shei men	3333
 谁呢	shei ne	38505
 谁能	shei neng	138840
 谁哦	shei o	560
@@ -361043,6 +361071,7 @@ sort: by_weight
 水煤气	shui mei qi	1275
 睡美人	shui mei ren	8000
 水门	shui men	5105
+谁们	shui men	2
 水门村	shui men cun	8
 水门洞	shui men dong	5
 水门桥	shui men qiao	124
@@ -381962,9 +381991,9 @@ sort: by_weight
 天牢	tian lao	9999
 天老儿	tian lao er	9999
 田老庄乡	tian lao zhuang xiang	8
-添了	tian le	23720
-填了	tian le	9560
-舔了	tian le	3333
+添了	tian le	2372
+填了	tian le	1560
+舔了	tian le	1333
 天乐湖	tian le hu	140
 舔了舔	tian le tian	3795
 天乐园小区	tian le yuan xiao qu	7
@@ -396259,6 +396288,7 @@ sort: by_weight
 万隆会议	wan long hui yi	2160
 万龙商场	wan long shang chang	20
 万隆市场	wan long shi chang	139
+完喽	wan lou	3333
 弯路	wan lu	26845
 湾路	wan lu	6
 完卵	wan luan	940
