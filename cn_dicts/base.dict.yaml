@@ -117,6 +117,7 @@
 #* 「香熏」→「香薰」「熏草」→「薰草」「熏衣草」→「薰衣草」，不知道🤷‍♂️，但前者搜索结果不多。
 #* 「乌漆嘛黑、乌漆墨黑、乌漆抹黑」→「乌漆麻黑、乌漆巴黑」，查不到多少。。。
 # 「的地得」，遇到了就修订一下
+# 「非常的、特别的、十分的、如此的」后接形容词时 → 「非常地、特别地、十分地、如此地」
 # 「想像」→「想象」「想像力」→「想象力」
 # 「执著」→「执着」
 # 「档dàng」→「挡dǎng」，表「汽车换挡」「自动挡汽车」「手动挡汽车」时
@@ -1356,7 +1357,7 @@
 # 「饿莩」→「饿莩」
 # 「酸硷」→「酸碱」
 # 「殢雨𣧗云、𣧗云殢雨」→「殢雨尤云、尤云殢雨」
-# 「呲牙」→「龇牙」
+# 「呲牙、呲着牙」→「龇牙、龇着牙」
 # 「罪人不帑」→「罪人不孥」
 # 「左支右诎」→「左支右绌」
 # 「冷颤」→「冷战」
@@ -1612,7 +1613,6 @@
 # 「练精化气」→「炼精化气」
 # 「单枞茶、凤凰单枞」→「单丛茶、凤凰单丛」
 # 「鸡枞」→「鸡𭎂」
-# 「非常的」及部分「特别的」→「非常地、特别地」
 # 「原型毕露」→「原形毕露」
 # 「磕瓜子、磕着瓜子」→「嗑瓜子、嗑着瓜子」
 # 「恬着脸、腆着脸、舔着脸」→「觍着脸」
@@ -1777,10 +1777,12 @@
 # 「趋之若骛」→「趋之若鹜」
 # 「心无旁鹜」→「心无旁骛」
 # 「醉熏熏」→「醉醺醺」
+# 「迫不急待」→「迫不及待」
+# 「出奇不意」→「出其不意」
 #///
 ---
 name: base
-version: "2023-10-09"
+version: "2023-10-14"
 sort: by_weight
 ...
 # +_+
@@ -2388,6 +2390,7 @@ sort: by_weight
 阿米驴	a mi lv	63
 阿米三嗪萝巴新片	a mi san qin luo ba xin pian	28
 阿米替林	a mi ti lin	20
+阿秒	a miao	1018
 阿敏	a min	111
 阿明	a ming	9920
 阿默岛鹰鸮	a mo dao ying xiao	1
@@ -2908,7 +2911,7 @@ sort: by_weight
 爱的歌	ai de ge	2065
 爱的故事	ai de gu shi	3755
 爱的光	ai de guang	436
-爱的很	ai de hen	88
+爱得很	ai de hen	88
 爱德华	ai de hua	33195
 爱德华湖朴丽鱼	ai de hua hu pu li yu	1
 爱德华·诺顿	ai de hua nuo dun	100
@@ -22651,7 +22654,6 @@ sort: by_weight
 彼得·凯丹	bi de kai dan	1
 彼德·拉克	bi de la ke	10
 彼得·林奇	bi de lin qi	9
-彼得·洛夫	bi de luo fu	230
 彼得·梅尔	bi de mei er	1
 彼得·帕克	bi de pa ke	186
 比得起	bi de qi	85
@@ -111586,7 +111588,7 @@ sort: by_weight
 飞米转刍	fei mi zhuan chu	1
 废棉	fei mian	715
 非棉花	fei mian hua	25
-飞秒	fei miao	5555
+飞秒	fei miao	1015
 非民间	fei min jian	160
 飞鸣	fei ming	2360
 非命	fei ming	2030
@@ -142295,6 +142297,8 @@ sort: by_weight
 广积	guang ji	2225
 光机电	guang ji dian	9630
 广济街	guang ji jie	115
+广积粮	guang ji liang	1000
+光脊梁	guang ji liang	100
 广济桥	guang ji qiao	214
 广济寺	guang ji si	169
 光计算机	guang ji suan ji	445
@@ -228330,8 +228334,9 @@ sort: by_weight
 来书	lai shu	2870
 来刷	lai shua	3333
 来耍	lai shua	1111
-涞水	lai shui	1990
-濑水	lai shui	85
+来水	lai shui	5555
+涞水	lai shui	2
+# 濑水	lai shui	0
 涞水县	lai shui xian	1825
 来说	lai shuo	501060
 来说吧	lai shuo ba	10565
@@ -257915,7 +257920,7 @@ sort: by_weight
 曼德尔	man de er	820
 瞒得过	man de guo	1430
 曼德海峡	man de hai xia	215
-慢的很	man de hen	79
+慢得很	man de hen	79
 曼德拉	man de la	5680
 曼得拉	man de la	8
 曼德拉效应	man de la xiao ying	165
@@ -291492,6 +291497,7 @@ sort: by_weight
 皮棉	pi mian	7835
 皮面	pi mian	6435
 劈面	pi mian	2175
+皮秒	pi miao	1012
 屁民	pi min	9999
 纰缪	pi miu	185
 匹莫林	pi mo lin	2
@@ -325347,6 +325353,7 @@ sort: by_weight
 萨伊德	sa yi de	980
 萨义德	sa yi de	323
 萨伊氏斑胸蚜蝇	sa yi shi ban xiong ya ying	1
+仨月	sa yue	3333
 洒在	sa zai	21885
 撒在	sa zai	17195
 撒诈捣虚	sa zha dao xu	1
@@ -345458,6 +345465,8 @@ sort: by_weight
 十分称赞	shi fen cheng zan	145
 十分崇拜	shi fen chong bai	610
 十分聪明	shi fen cong ming	820
+十分地	shi fen de	5555
+十分的	shi fen de	3333
 十分恶劣	shi fen e lie	3510
 十分反感	shi fen fan gan	1745
 十分方便	shi fen fang bian	21430
@@ -390951,8 +390960,8 @@ sort: by_weight
 图快	tu kuai	940
 图框	tu kuang	3005
 土筐	tu kuang	100
-图拉	tu la	4870
 涂蜡	tu la	1050
+图拉	tu la	2
 图拉丁	tu la ding	2530
 图拉姆	tu la mu	200
 图拉市	tu la shi	50
@@ -392977,6 +392986,7 @@ sort: by_weight
 屯蹶否塞	tun jue fou sai	1
 屯军营	tun jun ying	121
 屯军营村	tun jun ying cun	1
+吞颗	tun ke	1111
 鲀科	tun ke	95
 # 屯垦	tun ken	0
 屯垦队镇	tun ken dui zhen	1
@@ -392985,6 +392995,8 @@ sort: by_weight
 囤口罩	tun kou zhao	102
 屯兰矿	tun lan kuang	8
 吞了	tun le	12125
+囤了	tun le	1234
+屯了	tun le	1234
 吞了下去	tun le xia qu	3230
 屯里	tun li	1275
 屯里林场	tun li lin chang	16
@@ -393012,6 +393024,8 @@ sort: by_weight
 囤起来	tun qi lai	198
 吞气症	tun qi zheng	3
 臀肉	tun rou	590
+吞入	tun ru	5555
+吞入了	tun ru le	5555
 氽三样儿	tun san yang er	17
 臀上	tun shang	1700
 臀上皮神经	tun shang pi shen jing	2
@@ -409764,6 +409778,8 @@ sort: by_weight
 我替她	wo ti ta	64
 我替我	wo ti wo	240
 我提议	wo ti yi	5460
+我天	wo tian	3333
+我填	wo tian	2222
 沃田	wo tian	260
 我田方寸耕不尽	wo tian fang cun geng bu jin	1
 我填好	wo tian hao	66
@@ -449763,6 +449779,7 @@ sort: by_weight
 学院院士	xue yuan yuan shi	140
 学院院长	xue yuan yuan zhang	24715
 学员证	xue yuan zheng	1765
+血月	xue yue	3305
 雪月	xue yue	3305
 薛岳	xue yue	178
 雪月城	xue yue cheng	113
@@ -538168,6 +538185,7 @@ sort: by_weight
 自找麻烦	zi zhao ma fan	3175
 自找没趣	zi zhao mei qu	505
 自折叠	zi zhe die	1
+龇着牙	zi zhe ya	1111
 自斟	zi zhen	2320
 自振	zi zhen	1220
 自侦	zi zhen	1155
