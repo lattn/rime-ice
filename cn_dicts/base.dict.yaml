@@ -530,6 +530,7 @@
 # 「调坎儿」→「调侃儿」
 # 「断篇儿」→「断片儿」
 # 「二恶英、二噁英」→「二𫫇英」（类推简化）
+# 「二恶烷」→「二𫫇烷」
 # 「根深柢固、深根固柢」→「根深蒂固、深根固蒂」
 # 「哈什蚂」→「哈士蟆」
 # 「好高务远、好高鹜远」→「好高骛远」
@@ -1779,10 +1780,19 @@
 # 「醉熏熏」→「醉醺醺」
 # 「迫不急待」→「迫不及待」
 # 「出奇不意」→「出其不意」
+# 「隔栅」→「格栅」
+# 「虎视耽耽」→「虎视眈眈」
+# 「齐唰唰」→「齐刷刷」
+# 「海德拉巴」→「海得拉巴」
+# 「北卡罗莱纳」→「北卡罗来纳」
+# 「份内」→「分内」
+# 「长嘘短叹、长嘘短气」→「长吁短叹、长吁短气」（「吁」这里表叹气）
+# 「长吁一口气」→「长嘘一口气」（「嘘」这里表吐气）
+# 「疲弊」→「疲敝」
 #///
 ---
 name: base
-version: "2023-10-14"
+version: "2023-10-17"
 sort: by_weight
 ...
 # +_+
@@ -47565,12 +47575,11 @@ sort: by_weight
 厂休日	chang xiu ri	115
 长袖善舞	chang xiu shan wu	3460
 长袖子	chang xiu zi	122
+长嘘	chang xu	7777
 长须	chang xu	6600
 畅叙	chang xu	1920
 长吁短气	chang xu duan qi	1
-长嘘短气	chang xu duan qi	1
 长吁短叹	chang xu duan tan	3360
-长嘘短叹	chang xu duan tan	111
 长须干马乡	chang xu gan ma xiang	1
 长须贡马	chang xu gong ma	3
 长续航	chang xu hang	193
@@ -79660,8 +79669,8 @@ sort: by_weight
 # 德祐	de you	0
 得有个	de you ge	12
 得有人	de you ren	12
-德育	de yu	136030
 德语	de yu	77445
+德育	de yu	1360
 得鱼而忘荃	de yu er wang quan	1
 德语翻译	de yu fan yi	2545
 德育工作	de yu gong zuo	41065
@@ -86245,6 +86254,7 @@ sort: by_weight
 嗲嗲	dia dia	5555
 嗲嗲的	dia dia de	5555
 嗲声嗲气	dia sheng dia qi	2485
+点啊	dian a	1005
 点按	dian an	10050
 奠安乡	dian an xiang	2
 点吧	dian ba	41350
@@ -94319,6 +94329,9 @@ sort: by_weight
 都满	dou man	1111
 都忙	dou mang	8120
 都忙着	dou mang zhe	3800
+逗猫	dou mao	3333
+都冇	dou mao	1111
+逗猫猫	dou mao mao	3333
 斗毛眼蝶	dou mao yan die	1
 都没	dou mei	344395
 都美	dou mei	111
@@ -123485,6 +123498,8 @@ sort: by_weight
 甘德县	gan de xian	335
 干得像	gan de xiang	65
 赶得像	gan de xiang	1
+干得真	gan de zhen	3333
+感德镇	gan de zhen	2
 干等	gan deng	6340
 甘登乡	gan deng xiang	4
 干瞪眼	gan deng yan	2545
@@ -149024,6 +149039,7 @@ sort: by_weight
 还贵	hai gui	6155
 海归道	hai gui dao	1
 海归派	hai gui pai	3795
+还过	hai guo	3333
 害过	hai guo	1920
 还过得去	hai guo de qu	3530
 还过来	hai guo lai	480
@@ -159129,7 +159145,11 @@ sort: by_weight
 很高兴的	hen gao xing de	3333
 很高兴地	hen gao xing de	100
 很高兴认识你	hen gao xing ren shi ni	5305
+很给	hen gei	480
 很给力	hen gei li	480
+很给人	hen gei ren	480
+很给人以	hen gei ren yi	480
+很给人以启发	hen gei ren yi qi fa	480
 很够	hen gou	2755
 很古老	hen gu lao	3300
 很乖	hen guai	12400
@@ -159470,6 +159490,7 @@ sort: by_weight
 很水	hen shui	885
 很顺	hen shun	5380
 恨死	hen si	5275
+很死	hen si	4444
 恨死他了	hen si ta le	47
 很松	hen song	1710
 很酸	hen suan	2341
@@ -160249,6 +160270,9 @@ sort: by_weight
 哼着唱	heng zhao chang	80
 哼着	heng zhe	16055
 横着	heng zhe	10490
+横折	heng zhe	3333
+横折钩	heng zhe gou	3333
+横折钩儿	heng zhe gou er	3333
 横着看	heng zhe kan	149
 横遮竖挡	heng zhe shu dang	1
 哼着说	heng zhe shuo	355
@@ -255575,8 +255599,10 @@ sort: by_weight
 马街村委会	ma jie cun wei hui	4
 马街街道	ma jie jie dao	56
 马街书会	ma jie shu hui	137
-马晋	ma jin	262
-马锦	ma jin	4
+麻筋	ma jin	3333
+# 马晋	ma jin	0
+# 马锦	ma jin	0
+麻筋儿	ma jin er	3333
 马晶	ma jing	567
 马婧	ma jing	65
 马颈坳村	ma jing ao cun	1
@@ -313248,6 +313274,7 @@ sort: by_weight
 去哪了	qu na le	3620
 去哪里	qu na li	28355
 去那里	qu na li	21750
+去哪里啊	qu na li a	502
 去那里啊	qu na li a	205
 去哪里吃饭	qu na li chi fan	139
 去哪里了	qu na li le	6285
@@ -329193,6 +329220,7 @@ sort: by_weight
 色格拉	se ge la	475
 色格孜库勒乡	se ge zi ku le xiang	3
 瑟根石	se gen shi	1
+色狗	se gou	4444
 涩谷	se gu	1680
 色光	se guang	11665
 色鬼	se gui	7505
@@ -339338,6 +339366,7 @@ sort: by_weight
 什么主任	shen me zhu ren	339
 什么专业	shen me zhuan ye	6470
 什么资料	shen me zi liao	73
+什么最	shen me zui	4444
 什么罪	shen me zui	3610
 什么作用	shen me zuo yong	12170
 审美	shen mei	133445
@@ -357787,6 +357816,8 @@ sort: by_weight
 数万	shu wan	55515
 输完	shu wan	2815
 数完	shu wan	1930
+竖弯钩	shu wan gou	3333
+竖弯钩儿	shu wan gou er	3333
 数万名	shu wan ming	5870
 数万人	shu wan ren	7840
 数万元	shu wan yuan	9610
@@ -373316,9 +373347,10 @@ sort: by_weight
 台风暹芭	tai feng xian ba	1111
 台风鹦鹉	tai feng ying wu	1
 台服	tai fu	9999
-太傅	tai fu	1530
-台甫	tai fu	560
-泰复	tai fu	5
+太富	tai fu	6666
+太傅	tai fu	15
+台甫	tai fu	5
+# 泰复	tai fu	0
 太腐败了	tai fu bai le	510
 太傅村	tai fu cun	1
 泰富广场	tai fu guang chang	13
@@ -373332,7 +373364,7 @@ sort: by_weight
 太浮躁了	tai fu zao le	540
 太福庄村	tai fu zhuang cun	1
 太干	tai gan	2510
-太敢	tai gan	111
+太敢	tai gan	1111
 太感动了	tai gan dong le	2540
 太尴尬了	tai gan ga le	495
 太干净了	tai gan jing le	525
@@ -373347,8 +373379,8 @@ sort: by_weight
 太感性	tai gan xing	108
 苔干羊肉丝	tai gan yang rou si	6
 抬杠	tai gang	6890
-太钢	tai gang	4170
-台港	tai gang	2175
+太钢	tai gang	417
+台港	tai gang	217
 台港澳	tai gang ao	6360
 台港澳民事诉讼制度	tai gang ao min shi su song zhi du	2
 台港澳侨	tai gang ao qiao	465
@@ -373370,11 +373402,11 @@ sort: by_weight
 太高兴	tai gao xing	1720
 太高兴了	tai gao xing le	6685
 抬高自己	tai gao zi ji	3705
-泰格	tai ge	10165
-台鸽	tai ge	3222
 太阁	tai ge	3130
-台阁	tai ge	2875
-抬阁	tai ge	700
+台阁	tai ge	287
+抬阁	tai ge	7
+# 台鸽	tai ge	0
+# 泰格	tai ge	0
 抬胳膊	tai ge bo	162
 泰戈尔	tai ge er	9815
 太给力	tai gei li	480
@@ -374664,10 +374696,14 @@ sort: by_weight
 台台	tai tai	2565
 抬抬	tai tai	1945
 太太帮	tai tai bang	18
+抬抬胳膊	tai tai ge bo	162
 抬抬价	tai tai jia	269
+抬抬脚	tai tai jiao	162
 太太口服液	tai tai kou fu ye	28
 太太们	tai tai men	3005
 太太太	tai tai tai	2535
+抬抬腿	tai tai tui	162
+抬抬腿脚	tai tai tui jiao	162
 太太万岁	tai tai wan sui	177
 泰坦	tai tan	11190
 太贪	tai tan	2430
@@ -374990,6 +375026,7 @@ sort: by_weight
 台湾一品牛肉面	tai wan yi pin niu rou mian	16
 台湾艺人	tai wan yi ren	135
 台湾艺术	tai wan yi shu	490
+台湾议题	tai wan yi ti	405
 台湾银行	tai wan yin hang	645
 台湾银𬶋	tai wan yin ju	1
 台湾萤斑蛾	tai wan ying ban e	1
@@ -386763,11 +386800,13 @@ sort: by_weight
 通都大埠	tong dou da bu	1
 通都巨邑	tong dou ju yi	1
 通读	tong du	16965
-通都	tong du	1995
-统独	tong du	1405
+统读	tong du	3333
+统独	tong du	405
+通都	tong du	2
 通都大邑	tong du da yi	480
 樋渡结依	tong du jie yi	1
 铜都铜业	tong du tong ye	185
+统独议题	tong du yi ti	405
 通断	tong duan	6005
 痛断肝肠	tong duan gan chang	75
 同对	tong dui	4855
@@ -437903,7 +437942,7 @@ sort: by_weight
 新发展	xin fa zhan	38300
 新法制报	xin fa zhi bao	168
 心烦	xin fan	29095
-新番	xin fan	99
+新番	xin fan	233
 新翻花样	xin fan hua yang	1
 心烦虑乱	xin fan lv luan	2
 新凡乡	xin fan xiang	4
@@ -437913,9 +437952,9 @@ sort: by_weight
 新房	xin fang	90820
 心房	xin fang	19215
 心防	xin fang	8888
-新芳	xin fang	1665
-馨芳	xin fang	210
-新坊	xin fang	42
+# 新坊	xin fang	0
+# 新芳	xin fang	0
+# 馨芳	xin fang	0
 新方案	xin fang an	13580
 信访办	xin fang ban	12002
 信访办公室	xin fang ban gong shi	1165
@@ -446812,8 +446851,8 @@ sort: by_weight
 须菩提	xu pu ti	23340
 溆浦县	xu pu xian	1200
 续期	xu qi	16735
-嘘气	xu qi	335
 吁气	xu qi	190
+嘘气	xu qi	2
 徐启方	xu qi fang	105
 许其亮	xu qi liang	197
 徐启明	xu qi ming	7
@@ -489878,7 +489917,8 @@ sort: by_weight
 预设值	yu she zhi	4410
 与谁	yu shei	9005
 预审	yu shen	33325
-愈甚	yu shen	1265
+雨神	yu shen	6666
+愈甚	yu shen	12
 芋参	yu shen	2
 预审会	yu shen hui	90
 芋参目	yu shen mu	1
@@ -491606,6 +491646,7 @@ sort: by_weight
 遇阻	yu zu	3350
 浴足	yu zu	2840
 玉足	yu zu	2475
+鱼族	yu zu	1111
 羽族翅翼	yu zu chi yi	1
 欲租从速	yu zu cong su	610
 雨足郊原草木柔	yu zu jiao yuan cao mu rou	2
@@ -493001,7 +493042,6 @@ sort: by_weight
 院尚	yuan shang	36
 袁尚	yuan shang	5
 原上草	yuan shang cao	2075
-远上寒山石径斜	yuan shang han shan shi jing xia	1180
 远上寒山石径斜	yuan shang han shan shi jing xie	1180
 元上红	yuan shang hong	1
 院上镇	yuan shang zhen	180
