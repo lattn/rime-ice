@@ -17,7 +17,7 @@
 # - [同义词词林2020.3.26修订版](https://forum.freemdict.com/t/topic/1211)
 ---
 name: ext
-version: "2023-11-13"
+version: "2023-11-24"
 sort: by_weight
 ...
 # +_+
@@ -1420,6 +1420,7 @@ sort: by_weight
 癌症发病率	ai zheng fa bing lv	100
 癌症率	ai zheng lv	100
 癌症死亡率	ai zheng si wang lv	100
+癌症晚期了	ai zheng wan qi le	100
 癌症肿瘤	ai zheng zhong liu	100
 艾智超	ai zhi chao	100
 爱之初体验	ai zhi chu ti yan	100
@@ -2038,6 +2039,8 @@ sort: by_weight
 安宁片	an ning pian	100
 安宁平静	an ning ping jing	100
 安宁喜乐	an ning xi le	100
+按钮上	an niu shang	100
+按钮上面	an niu shang mian	100
 氨浓度	an nong du	100
 安排参观	an pai can guan	100
 安排处理	an pai chu li	100
@@ -2227,6 +2230,7 @@ sort: by_weight
 安全行	an quan xing	100
 安全行动	an quan xing dong	100
 安全行驶	an quan xing shi	100
+安全性问题	an quan xing wen ti	100
 安全宣传	an quan xuan chuan	100
 安全宣传教育	an quan xuan chuan jiao yu	100
 安全眼罩	an quan yan zhao	100
@@ -2618,6 +2622,8 @@ sort: by_weight
 安装好后	an zhuang hao hou	100
 安装好了	an zhuang hao le	100
 安装好之后	an zhuang hao zhi hou	100
+安装和	an zhuang he	100
+安装和配置	an zhuang he pei zhi	100
 安装和调试	an zhuang he tiao shi	100
 安装和卸载	an zhuang he xie zai	100
 安装及调试	an zhuang ji tiao shi	100
@@ -2660,6 +2666,8 @@ sort: by_weight
 安卓乐园	an zhuo le yuan	100
 安卓苹果	an zhuo ping guo	100
 安卓平台	an zhuo ping tai	100
+安卓上	an zhuo shang	100
+安卓上面	an zhuo shang mian	100
 安卓手机系统	an zhuo shou ji xi tong	100
 安卓微信	an zhuo wei xin	100
 安卓系	an zhuo xi	100
@@ -5579,8 +5587,6 @@ sort: by_weight
 把我杀了	ba wo sha le	100
 把我杀了不成	ba wo sha le bu cheng	100
 把我删了	ba wo shan le	100
-把我替了	ba wo ti le	100
-把我踢了	ba wo ti le	100
 把我推开	ba wo tui kai	100
 把我忘了	ba wo wang le	100
 把我忘却了	ba wo wang que le	100
@@ -5890,6 +5896,7 @@ sort: by_weight
 八一二一年	ba yi er yi nian	100
 八一飞行表演队	ba yi fei xing biao yan dui	100
 把衣服穿上	ba yi fu chuan shang	100
+把衣服拧干	ba yi fu ning gan	100
 把衣服脱	ba yi fu tuo	100
 把衣服脱了	ba yi fu tuo le	100
 把衣服脱下来	ba yi fu tuo xia lai	100
@@ -7467,7 +7474,9 @@ sort: by_weight
 百万位	bai wan wei	100
 百万用户	bai wan yong hu	100
 百万用户量	bai wan yong hu liang	100
+百万直拍	bai wan zhi pai	100
 百万之众	bai wan zhi zhong	100
+百万转场	bai wan zhuan chang	100
 百旺茉莉园	bai wang mo li yuan	100
 白卫兵	bai wei bing	100
 白苇黄茅	bai wei huang mao	100
@@ -7475,6 +7484,7 @@ sort: by_weight
 白纬玲	bai wei ling	100
 百威啤酒	bai wei pi jiu	100
 摆尾摇头	bai wei yao tou	100
+百味一盅	bai wei yi zhong	100
 百味珍馐	bai wei zhen xiu	100
 拜我为师	bai wo wei shi	100
 白屋出公卿	bai wu chu gong qing	100
@@ -8440,6 +8450,7 @@ sort: by_weight
 帮你省	bang ni sheng	100
 帮你省钱	bang ni sheng qian	100
 邦尼泰勒	bang ni tai le	100
+帮你选择	bang ni xuan ze	100
 帮你一把	bang ni yi ba	100
 帮你一个忙	bang ni yi ge mang	100
 帮你找的	bang ni zhao de	100
@@ -8492,6 +8503,7 @@ sort: by_weight
 帮我问一下	bang wo wen yi xia	100
 帮我想想	bang wo xiang xiang	100
 帮我写点	bang wo xie dian	100
+帮我选择	bang wo xuan ze	100
 帮我一把	bang wo yi ba	100
 帮我一下	bang wo yi xia	100
 帮我一下好吧	bang wo yi xia hao ba	100
@@ -8668,6 +8680,9 @@ sort: by_weight
 保不保护呀	bao bu bao hu ya	100
 暴不暴击	bao bu bao ji	100
 包不包括	bao bu bao kuo	100
+保不保真	bao bu bao zhen	100
+保不保真啊	bao bu bao zhen a	100
+保不保真呀	bao bu bao zhen ya	100
 报不进去	bao bu jin qu	100
 抱布贸丝	bao bu mao si	100
 保不齐啊	bao bu qi a	100
@@ -10037,8 +10052,6 @@ sort: by_weight
 被猜到了	bei cai dao le	100
 被裁了	bei cai le	100
 被踩了	bei cai le	100
-被裁员	bei cai yuan	100
-被裁员了	bei cai yuan le	100
 悲惨惨	bei can can	100
 悲惨的故事	bei can de gu shi	100
 悲惨的一幕	bei can de yi mu	100
@@ -10488,6 +10501,7 @@ sort: by_weight
 被解雇了	bei jie gu le	100
 被解救的姜戈	bei jie jiu de jiang ge	100
 北界王	bei jie wang	100
+被禁后	bei jin hou	100
 贝锦萋斐	bei jin qi fei	100
 被禁用	bei jin yong	100
 被禁用了	bei jin yong le	100
@@ -10694,6 +10708,8 @@ sort: by_weight
 被看穿了吗	bei kan chuan le ma	100
 被砍的	bei kan de	100
 被看重	bei kan zhong	100
+被扛走	bei kang zou	100
+被扛走了	bei kang zou le	100
 背靠大树	bei kao da shu	100
 被烤了吃	bei kao le chi	100
 背靠上了	bei kao shang le	100
@@ -10886,6 +10902,7 @@ sort: by_weight
 被抛弃了	bei pao qi le	100
 被辟谣	bei pi yao	100
 被嫖娼	bei piao chang	100
+北漂多年	bei piao duo nian	100
 北漂青年	bei piao qing nian	100
 北漂一族	bei piao yi zu	100
 北漂族	bei piao zu	100
@@ -11081,6 +11098,7 @@ sort: by_weight
 被弹劾的总统	bei tan he de zong tong	100
 被弹劾下台	bei tan he xia tai	100
 被弹开	bei tan kai	100
+背唐诗	bei tang shi	100
 北讨南征	bei tao nan zheng	100
 被淘汰了	bei tao tai le	100
 贝特优美	bei te you mei	100
@@ -11792,6 +11810,7 @@ sort: by_weight
 本山传媒	ben shan chuan mei	100
 本山快乐营	ben shan kuai le ying	100
 本社讯	ben she xun	100
+本身不支持	ben shen bu zhi chi	100
 本身的实力	ben shen de shi li	100
 本身就	ben shen jiu	100
 本身就有问题	ben shen jiu you wen ti	100
@@ -11824,6 +11843,7 @@ sort: by_weight
 奔天涯	ben tian ya	100
 本田雅人	ben tian ya ren	100
 本田真凛	ben tian zhen lin	100
+本条目	ben tiao mu	100
 本同末异	ben tong mo yi	100
 苯酮尿症	ben tong niao zheng	100
 本土传播	ben tu chuan bo	100
@@ -11945,9 +11965,11 @@ sort: by_weight
 蹦蹦儿车	beng beng er che	100
 蹦蹦响	beng beng xiang	100
 蹦蹦直跳	beng beng zhi tiao	100
+崩不崩	beng bu beng	100
 蹦不蹦跶	beng bu beng da	100
 蚌埠二中	beng bu er zhong	100
 蚌埠火车站	beng bu huo che zhan	100
+崩不了	beng bu liao	100
 蚌埠路	beng bu lu	100
 蚌埠南站	beng bu nan zhan	100
 蚌埠站	beng bu zhan	100
@@ -11982,6 +12004,8 @@ sort: by_weight
 崩溃反馈	beng kui fan kui	100
 崩溃毁灭	beng kui hui mie	100
 崩溃落泪	beng kui luo lei	100
+崩了啊	beng le a	100
+崩了呀	beng le ya	100
 甭理你	beng li ni	100
 甭理他	beng li ta	100
 甭理她	beng li ta	100
@@ -12024,7 +12048,6 @@ sort: by_weight
 比别人都	bi bie ren dou	100
 碧波龙	bi bo long	100
 比不得	bi bu de	100
-必不得已	bi bu de yi	100
 比不过啊	bi bu guo a	100
 比不过你	bi bu guo ni	100
 必不可少的一环	bi bu ke shao de yi huan	100
@@ -12219,6 +12242,7 @@ sort: by_weight
 碧姬芭杜	bi ji ba du	100
 笔记本重装系统	bi ji ben chong zhuang xi tong	100
 笔记本计算机	bi ji ben ji suan ji	100
+笔记本上面	bi ji ben shang mian	100
 笔记本温度	bi ji ben wen du	100
 笔记本系统	bi ji ben xi tong	100
 笔记本预算	bi ji ben yu suan	100
@@ -12307,6 +12331,7 @@ sort: by_weight
 比较省油	bi jiao sheng you	100
 比较时	bi jiao shi	100
 比较适合	bi jiao shi he	100
+比较舒适	bi jiao shu shi	100
 比较斯文	bi jiao si wen	100
 比较调皮	bi jiao tiao pi	100
 比较痛苦	bi jiao tong ku	100
@@ -12881,6 +12906,7 @@ sort: by_weight
 必须要做点什么	bi xu yao zuo dian shen me	100
 必须以	bi xu yi	100
 必须赢	bi xu ying	100
+必须赢啊	bi xu ying a	100
 必须在	bi xu zai	100
 必须执行	bi xu zhi xing	100
 必须重视	bi xu zhong shi	100
@@ -13412,6 +13438,7 @@ sort: by_weight
 遍地是宝	bian di shi bao	100
 遍地是黄金	bian di shi huang jin	100
 遍地书香	bian di shu xiang	100
+遍地献忠	bian di xian zhong	100
 遍地英雄	bian di ying xiong	100
 遍地走	bian di zou	100
 变电运行	bian dian yun xing	100
@@ -13573,6 +13600,7 @@ sort: by_weight
 变了形	bian le xing	100
 变了性	bian le xing	100
 变了颜色	bian le yan se	100
+变了样了	bian le yang le	100
 变了样子	bian le yang zi	100
 变了又变	bian le you bian	100
 变了质	bian le zhi	100
@@ -14270,6 +14298,8 @@ sort: by_weight
 别吵了	bie chao le	100
 别吵了啊	bie chao le a	100
 别吵了你们	bie chao le ni men	100
+别抄作业	bie chao zuo ye	100
+别抄作业了	bie chao zuo ye le	100
 别扯淡	bie che dan	100
 别成天	bie cheng tian	100
 别成天就	bie cheng tian jiu	100
@@ -14990,6 +15020,7 @@ sort: by_weight
 别走了	bie zou le	100
 瘪嘴子	bie zui zi	100
 别做梦了	bie zuo meng le	100
+别作死	bie zuo si	100
 别坐下	bie zuo xia	100
 别作一眼	bie zuo yi yan	100
 别做指望	bie zuo zhi wang	100
@@ -15090,6 +15121,7 @@ sort: by_weight
 并不能算是	bing bu neng suan shi	100
 并不能直接	bing bu neng zhi jie	100
 并不偏重	bing bu pian zhong	100
+并不奇怪呀	bing bu qi guai ya	100
 并不如	bing bu ru	100
 并不擅长	bing bu shan chang	100
 兵部尚书大人	bing bu shang shu da ren	100
@@ -15860,6 +15892,9 @@ sort: by_weight
 搏出一个未来	bo chu yi ge wei lai	100
 波茨坦公告	bo ci tan gong gao	100
 拨打的	bo da de	100
+拨打的号	bo da de hao	100
+拨打的号码	bo da de hao ma	100
+拨打号码	bo da hao ma	100
 博大精深吗	bo da jing shen ma	100
 拨打了报警电话	bo da le bao jing dian hua	100
 博达学院	bo da xue yuan	100
@@ -16856,6 +16891,8 @@ sort: by_weight
 不到四百	bu dao si bai	100
 布道所	bu dao suo	100
 不到万不得已	bu dao wan bu de yi	100
+不到万不得已的	bu dao wan bu de yi de	100
+不到万不得已的时候	bu dao wan bu de yi de shi hou	100
 不到乌江不尽头	bu dao wu jiang bu jin tou	100
 不到一个月	bu dao yi ge yue	100
 不到一炷香	bu dao yi zhu xiang	100
@@ -17539,6 +17576,7 @@ sort: by_weight
 不符合条件者	bu fu he tiao jian zhe	100
 不负华年	bu fu hua nian	100
 不复还	bu fu huan	100
+不服就来	bu fu jiu lai	100
 不复课	bu fu ke	100
 不腐烂	bu fu lan	100
 不服老	bu fu lao	100
@@ -18070,6 +18108,7 @@ sort: by_weight
 不好说什么	bu hao shuo shen me	100
 不好填志愿	bu hao tian zhi yuan	100
 不好调教	bu hao tiao jiao	100
+不好听的	bu hao ting de	100
 不好哇	bu hao wa	100
 不好玩啊	bu hao wan a	100
 不好玩儿	bu hao wan er	100
@@ -18293,6 +18332,7 @@ sort: by_weight
 不会让他吃亏	bu hui rang ta chi kui	100
 不会让她吃亏	bu hui rang ta chi kui	100
 不会让我吃亏	bu hui rang wo chi kui	100
+不会容忍	bu hui rong ren	100
 不会伤害	bu hui shang hai	100
 不会什么	bu hui shen me	100
 不会失手	bu hui shi shou	100
@@ -19276,6 +19316,7 @@ sort: by_weight
 不明究理	bu ming jiu li	100
 不明觉厉	bu ming jue li	100
 不名数	bu ming shu	100
+不明物种	bu ming wu zhong	100
 不名一钱	bu ming yi qian	100
 不名誉	bu ming yu	100
 不名誉事物	bu ming yu shi wu	100
@@ -19289,6 +19330,7 @@ sort: by_weight
 不那么乐观	bu na me le guan	100
 不那么信任	bu na me xin ren	100
 不那么严重	bu na me yan zhong	100
+不拿拿	bu na na	100
 不拿人当人	bu na ren dang ren	100
 不拿手机	bu na shou ji	100
 不耐烦的	bu nai fan de	100
@@ -19414,6 +19456,7 @@ sort: by_weight
 不能理会	bu neng li hui	100
 不能理解啊	bu neng li jie a	100
 不能了解	bu neng liao jie	100
+不能录屏	bu neng lu ping	100
 不能乱说	bu neng luan shuo	100
 不能落地	bu neng luo di	100
 不能落后	bu neng luo hou	100
@@ -19596,6 +19639,7 @@ sort: by_weight
 不气干	bu qi gan	100
 补气固表	bu qi gu biao	100
 不奇怪啊	bu qi guai a	100
+不奇怪呀	bu qi guai ya	100
 不契合	bu qi he	100
 不契合的地方	bu qi he de di fang	100
 补起来	bu qi lai	100
@@ -20050,6 +20094,8 @@ sort: by_weight
 不是很刺激	bu shi hen ci ji	100
 不是很刺激啊	bu shi hen ci ji a	100
 不是很聪明的样子	bu shi hen cong ming de yang zi	100
+不是很服	bu shi hen fu	100
+不是很服啊	bu shi hen fu a	100
 不是很高	bu shi hen gao	100
 不是很高级啊	bu shi hen gao ji a	100
 不是很给力	bu shi hen gei li	100
@@ -20372,6 +20418,8 @@ sort: by_weight
 不说点什么	bu shuo dian shen me	100
 不说点什么吗	bu shuo dian shen me ma	100
 不说话啊	bu shuo hua a	100
+不说话的	bu shuo hua de	100
+不说话的爱	bu shuo hua de ai	100
 不说话就算了	bu shuo hua jiu suan le	100
 不说话了啊	bu shuo hua le a	100
 不说话了呢	bu shuo hua le ne	100
@@ -20394,13 +20442,16 @@ sort: by_weight
 不说自明	bu shuo zi ming	100
 不死不灭	bu si bu mie	100
 不死不生	bu si bu sheng	100
+不死不幸	bu si bu xing	100
 不死不休	bu si bu xiu	100
 不私藏	bu si cang	100
 不死传说	bu si chuan shuo	100
+不似春光	bu si chun guang	100
 不死的	bu si de	100
 不死的话	bu si de hua	100
 不死都灵	bu si du ling	100
 不死就行	bu si jiu xing	100
+不死少女	bu si shao nv	100
 不死亡灵	bu si wang ling	100
 不死系	bu si xi	100
 不死刑	bu si xing	100
@@ -20461,6 +20512,8 @@ sort: by_weight
 不太对劲	bu tai dui jin	100
 不太对劲儿	bu tai dui jin er	100
 不太饿	bu tai e	100
+不太服	bu tai fu	100
+不太服啊	bu tai fu a	100
 不太负责	bu tai fu ze	100
 不太感冒	bu tai gan mao	100
 不太给力啊	bu tai gei li a	100
@@ -21024,6 +21077,7 @@ sort: by_weight
 不小心摔了一跤	bu xiao xin shuai le yi jiao	100
 不孝有三无后为大	bu xiao you san wu hou wei da	100
 不肖子弟	bu xiao zi di	100
+不写博客	bu xie bo ke	100
 不谢不谢	bu xie bu xie	100
 不写成	bu xie cheng	100
 补血吃什么	bu xie chi shen me	100
@@ -21317,6 +21371,7 @@ sort: by_weight
 不要翻墙	bu yao fan qiang	100
 不要放进	bu yao fang jin	100
 不要放弃啊	bu yao fang qi a	100
+不要放弃了	bu yao fang qi le	100
 不要放在	bu yao fang zai	100
 不要废话	bu yao fei hua	100
 不要封控	bu yao feng kong	100
@@ -21439,6 +21494,8 @@ sort: by_weight
 不要那么消极	bu yao na me xiao ji	100
 不要那么着急	bu yao na me zhao ji	100
 不要那么直接	bu yao na me zhi jie	100
+不要那啥	bu yao na sha	100
+不要那啥啊	bu yao na sha a	100
 不要你觉得	bu yao ni jue de	100
 不要念	bu yao nian	100
 不要捏造事实	bu yao nie zao shi shi	100
@@ -21909,6 +21966,9 @@ sort: by_weight
 不再说了	bu zai shuo le	100
 不再宿舍	bu zai su she	100
 不在宿舍	bu zai su she	100
+不再玩	bu zai wan	100
+不再玩儿	bu zai wan er	100
+不再玩了	bu zai wan le	100
 不再维护了	bu zai wei hu le	100
 不在五行中	bu zai wu xing zhong	100
 不再想	bu zai xiang	100
@@ -22176,6 +22236,7 @@ sort: by_weight
 不知道要做什么	bu zhi dao yao zuo shen me	100
 不知道耶	bu zhi dao ye	100
 不知道有何感想	bu zhi dao you he gan xiang	100
+不知道有没有	bu zhi dao you mei you	100
 不知道有没有发现	bu zhi dao you mei you fa xian	100
 不知道有没有人	bu zhi dao you mei you ren	100
 不知道在干什么	bu zhi dao zai gan shen me	100
@@ -22495,6 +22556,9 @@ sort: by_weight
 不做奴才	bu zuo nu cai	100
 不做什么	bu zuo shen me	100
 不作死不会死	bu zuo si bu hui si	100
+不作死就	bu zuo si jiu	100
+不作死就不	bu zuo si jiu bu	100
+不作死就不会	bu zuo si jiu bu hui	100
 不作死就不会死	bu zuo si jiu bu hui si	100
 补作业去	bu zuo ye qu	100
 不做忠臣	bu zuo zhong chen	100
@@ -22715,6 +22779,7 @@ sort: by_weight
 财富盛宴	cai fu sheng yan	100
 财富与地位	cai fu yu di wei	100
 财富增长	cai fu zeng zhang	100
+财富战	cai fu zhan	100
 财富战争	cai fu zhan zheng	100
 财富值	cai fu zhi	100
 才干杯	cai gan bei	100
@@ -23318,6 +23383,7 @@ sort: by_weight
 裁员传闻	cai yuan chuan wen	100
 菜园地	cai yuan di	100
 裁员降薪	cai yuan jiang xin	100
+裁员了	cai yuan le	100
 裁员率	cai yuan lv	100
 财源旺盛	cai yuan wang sheng	100
 裁月镂云	cai yue lou yun	100
@@ -25133,6 +25199,7 @@ sort: by_weight
 曹公之意	cao gong zhi yi	100
 草菇场	cao gu chang	100
 操觚染翰	cao gu ran han	100
+曹国军	cao guo jun	100
 草户柴门	cao hu chai men	100
 草花八	cao hua ba	100
 草花二	cao hua er	100
@@ -29183,6 +29250,7 @@ sort: by_weight
 长沙西站	chang sha xi zhan	100
 长沙县公安局	chang sha xian gong an ju	100
 长沙县委	chang sha xian wei	100
+长沙乡村敢死队	chang sha xiang cun gan si dui	100
 长沙湘江	chang sha xiang jiang	100
 长沙小吃	chang sha xiao chi	100
 长沙消防	chang sha xiao fang	100
@@ -29301,6 +29369,7 @@ sort: by_weight
 长时间暴露	chang shi jian bao lu	100
 长时间暴晒	chang shi jian bao shai	100
 长时间憋尿	chang shi jian bie niao	100
+长时间勃起	chang shi jian bo qi	100
 长时间不更换	chang shi jian bu geng huan	100
 长时间不换	chang shi jian bu huan	100
 长时间不见	chang shi jian bu jian	100
@@ -30125,11 +30194,13 @@ sort: by_weight
 长足鹰爪虾	chang zu ying zhao xia	100
 长足鹰爪虾	chang zu ying zhua xia	100
 常坐汽车者	chang zuo qi che zhe	100
+超爱的	chao ai de	100
 超爱棉花糖	chao ai mian hua tang	100
 抄把刀	chao ba dao	100
 超霸系列	chao ba xi lie	100
 朝拜圣地	chao bai sheng di	100
 朝拜圣山	chao bai sheng shan	100
+超棒的	chao bang de	100
 超爆力魔波	chao bao li mo bo	100
 超薄系列	chao bao xi lie	100
 朝北鼻	chao bei bi	100
@@ -30137,6 +30208,7 @@ sort: by_weight
 朝北巨鼻	chao bei ju bi	100
 朝北面	chao bei mian	100
 朝北走	chao bei zou	100
+超笨的	chao ben de	100
 超本科线	chao ben ke xian	100
 朝比奈彩	chao bi nai cai	100
 炒比特币	chao bi te bi	100
@@ -30164,6 +30236,7 @@ sort: by_weight
 超参数	chao can shu	100
 超长波	chao chang bo	100
 超长超宽	chao chang chao kuan	100
+超长的	chao chang de	100
 超长的假期	chao chang de jia qi	100
 超长的使用寿命	chao chang de shi yong shou ming	100
 超长的续航	chao chang de xu hang	100
@@ -30216,6 +30289,7 @@ sort: by_weight
 超出预算了	chao chu yu suan le	100
 超纯水系统	chao chun shui xi tong	100
 超大尺度	chao da chi du	100
+超大的	chao da de	100
 超大地图	chao da di tu	100
 超大风	chao da feng	100
 超大福利	chao da fu li	100
@@ -30244,6 +30318,7 @@ sort: by_weight
 吵得很	chao de hen	100
 吵得很凶	chao de hen xiong	100
 炒得火热	chao de huo re	100
+超低的	chao di de	100
 超低调	chao di diao	100
 超低功率	chao di gong lv	100
 超低空飞行	chao di kong fei xing	100
@@ -30257,10 +30332,12 @@ sort: by_weight
 朝东边	chao dong bian	100
 朝东面	chao dong mian	100
 朝东走	chao dong zou	100
+超度了	chao du le	100
 超度女鬼	chao du nv gui	100
 超度亡魂	chao du wang hun	100
 超度亡灵	chao du wang ling	100
 超度婴灵	chao du ying ling	100
+超短的	chao duan de	100
 超短牛仔	chao duan niu zai	100
 超短牛仔裤	chao duan niu zai ku	100
 超对称	chao dui chen	100
@@ -30277,6 +30354,7 @@ sort: by_weight
 超凡持久	chao fan chi jiu	100
 超凡出世	chao fan chu shi	100
 超凡大师	chao fan da shi	100
+超凡的	chao fan de	100
 超凡帝国	chao fan di guo	100
 吵翻了天	chao fan le tian	100
 炒番茄	chao fan qie	100
@@ -30294,6 +30372,7 @@ sort: by_weight
 超高爆率	chao gao bao lv	100
 超高辨识度	chao gao bian shi du	100
 超高层地标	chao gao ceng di biao	100
+超高的	chao gao de	100
 超高的保值率	chao gao de bao zhi lv	100
 超高的自由度	chao gao de zi you du	100
 超高度	chao gao du	100
@@ -30327,6 +30406,7 @@ sort: by_weight
 超高音速导弹	chao gao yin su dao dan	100
 超高帧率	chao gao zhen lv	100
 超高自由度	chao gao zi you du	100
+超给力的	chao gei li de	100
 朝贡关系	chao gong guan xi	100
 朝贡国	chao gong guo	100
 朝贡贸易	chao gong mao yi	100
@@ -30520,13 +30600,16 @@ sort: by_weight
 巢居穴处	chao ju xue chu	100
 超距作用	chao ju zuo yong	100
 潮卷浪涌	chao juan lang yong	100
+超绝的	chao jue de	100
 超可爱	chao ke ai	100
 超可耐	chao ke nai	100
+超坑的	chao keng de	100
 朝孔雀	chao kong que	100
 超口爱乐团	chao kou ai yue tuan	100
 超快的速度	chao kuai de su du	100
 超快速	chao kuai su	100
 超快速度	chao kuai su du	100
+超辣的	chao la de	100
 抄来抄去	chao lai chao qu	100
 炒了吃	chao le chi	100
 吵了架	chao le jia	100
@@ -30537,6 +30620,7 @@ sort: by_weight
 超类绝伦	chao lei jue lun	100
 潮力发电	chao li fa dian	100
 超厉害啊	chao li hai a	100
+超厉害的	chao li hai de	100
 超力王	chao li wang	100
 超联结	chao lian jie	100
 超量杯	chao liang bei	100
@@ -30551,6 +30635,7 @@ sort: by_weight
 抄录编目	chao lu bian mu	100
 抄录在	chao lu zai	100
 超滤系统	chao lv xi tong	100
+超忙的	chao mang de	100
 超没超出	chao mei chao chu	100
 超没超出啊	chao mei chao chu a	100
 超没超出呀	chao mei chao chu ya	100
@@ -30560,9 +30645,11 @@ sort: by_weight
 超没超越	chao mei chao yue	100
 超没超越啊	chao mei chao yue a	100
 超没超越呀	chao mei chao yue ya	100
+超美的	chao mei de	100
 朝美关系	chao mei guan xi	100
 朝美领导人会晤	chao mei ling dao ren hui wu	100
 朝美首脑会谈	chao mei shou nao hui tan	100
+超猛的	chao meng de	100
 炒米饭	chao mi fan	100
 超模般	chao mo ban	100
 超模大赛	chao mo da sai	100
@@ -30608,6 +30695,7 @@ sort: by_weight
 超跑娱乐	chao pao yu le	100
 超便宜	chao pian yi	100
 超漂亮	chao piao liang	100
+超漂亮的	chao piao liang de	100
 超频模式	chao pin mo shi	100
 超拼夜	chao pin ye	100
 超平地坪	chao ping di ping	100
@@ -30712,6 +30800,7 @@ sort: by_weight
 超时空战士	chao shi kong zhan shi	100
 超时空之钥	chao shi kong zhi yao	100
 超市冷藏柜	chao shi leng cang gui	100
+超市里面	chao shi li mian	100
 超时时间	chao shi shi jian	100
 超世俗	chao shi su	100
 潮湿天	chao shi tian	100
@@ -30719,12 +30808,14 @@ sort: by_weight
 超兽伪画	chao shou wei hua	100
 抄手游廊	chao shou you lang	100
 超手游廊	chao shou you lang	100
+超帅的	chao shuai de	100
 吵死个人	chao si ge ren	100
 吵死了	chao si le	100
 吵死人啦	chao si ren la	100
 吵死人了	chao si ren le	100
 吵死人了啊	chao si ren le a	100
 超速度	chao su du	100
+超速了	chao su le	100
 抄它的底	chao ta de di	100
 超弹力	chao tan li	100
 超弹性	chao tan xing	100
@@ -30734,6 +30825,7 @@ sort: by_weight
 朝堂之上	chao tang zhi shang	100
 朝堂之争	chao tang zhi zheng	100
 朝天辫	chao tian bian	100
+超甜的	chao tian de	100
 朝天翻	chao tian fan	100
 朝天钩	chao tian gou	100
 朝天开枪	chao tian kai qiang	100
@@ -30969,6 +31061,7 @@ sort: by_weight
 朝一个方向	chao yi ge fang xiang	100
 吵一架	chao yi jia	100
 超轶绝尘	chao yi jue chen	100
+超一流的	chao yi liu de	100
 超异能	chao yi neng	100
 超异能族	chao yi neng zu	100
 抄一千遍	chao yi qian bian	100
@@ -31021,6 +31114,7 @@ sort: by_weight
 朝着正确的方向	chao zhe zheng que de fang xiang	100
 朝着正确方向	chao zhe zheng que fang xiang	100
 朝政大权	chao zheng da quan	100
+超正的	chao zheng de	100
 朝政腐败	chao zheng fu bai	100
 朝政混乱	chao zheng hun luan	100
 超值工作餐	chao zhi gong zuo can	100
@@ -31051,6 +31145,7 @@ sort: by_weight
 超足球	chao zu qiu	100
 炒作股票	chao zuo gu piao	100
 抄作业	chao zuo ye	100
+抄作业了	chao zuo ye le	100
 车百合	che bai he	100
 车被划	che bei hua	100
 车被划了	che bei hua le	100
@@ -33424,6 +33519,7 @@ sort: by_weight
 撑死了	cheng si le	100
 澄思渺虑	cheng si miao lv	100
 撑死你	cheng si ni	100
+撑死你吧	cheng si ni ba	100
 撑死你得了	cheng si ni de le	100
 撑死我	cheng si wo	100
 撑死我了	cheng si wo le	100
@@ -34023,6 +34119,7 @@ sort: by_weight
 吃饱了没事干	chi bao le mei shi gan	100
 吃饱了没事做	chi bao le mei shi zuo	100
 吃饱了睡	chi bao le shui	100
+吃饱了呀	chi bao le ya	100
 吃饱没	chi bao mei	100
 吃饱没吃饱	chi bao mei chi bao	100
 赤宝牌	chi bao pai	100
@@ -34051,6 +34148,10 @@ sort: by_weight
 吃不吃惊啊	chi bu chi jing a	100
 吃不吃惊呀	chi bu chi jing ya	100
 吃不吃了	chi bu chi le	100
+吃不吃呀	chi bu chi ya	100
+吃不吃药	chi bu chi yao	100
+吃不吃药啊	chi bu chi yao a	100
+吃不吃药呀	chi bu chi yao ya	100
 吃不出啊	chi bu chu a	100
 吃不出来	chi bu chu lai	100
 吃不到葡萄说葡萄酸	chi bu dao pu tao shuo pu tao suan	100
@@ -34069,9 +34170,11 @@ sort: by_weight
 吃不了了	chi bu liao le	100
 吃不了热豆腐	chi bu liao re dou fu	100
 吃不胖娘	chi bu pang niang	100
+吃不起了	chi bu qi le	100
 吃不上菜	chi bu shang cai	100
 吃不上饭	chi bu shang fan	100
 吃不上饭了	chi bu shang fan le	100
+吃不上了	chi bu shang le	100
 吃不上肉	chi bu shang rou	100
 尺步绳趋	chi bu sheng qu	100
 吃不死你	chi bu si ni	100
@@ -34393,6 +34496,7 @@ sort: by_weight
 吃还是不吃	chi hai shi bu chi	100
 痴汉系列	chi han xi lie	100
 吃好饭了	chi hao fan le	100
+吃好了吧	chi hao le ba	100
 吃好了嘛	chi hao le ma	100
 吃好了么	chi hao le me	100
 吃合家欢	chi he jia huan	100
@@ -34423,6 +34527,7 @@ sort: by_weight
 驰魂夺魄	chi hun duo po	100
 尺蠖蛾	chi huo e	100
 齿豁头童	chi huo tou tong	100
+吃火腿	chi huo tui	100
 尺蠖之屈	chi huo zhi qu	100
 吃鸡啊	chi ji a	100
 吃鸡巴	chi ji ba	100
@@ -34514,6 +34619,7 @@ sort: by_weight
 吃了多少	chi le duo shao	100
 吃了多少苦	chi le duo shao ku	100
 吃了恶魔果实	chi le e mo guo shi	100
+吃了饭了	chi le fan le	100
 吃了饭再走	chi le fan zai zou	100
 吃了防腐剂	chi le fang fu ji	100
 吃了感冒药	chi le gan mao yao	100
@@ -37277,6 +37383,8 @@ sort: by_weight
 抽不出啊	chou bu chu a	100
 愁布袋	chou bu dai	100
 臭不可当	chou bu ke dang	100
+抽不死	chou bu si	100
+抽不死你	chou bu si ni	100
 臭不要脸的	chou bu yao lian de	100
 瞅不准	chou bu zhun	100
 抽查合格率	chou cha he ge lv	100
@@ -37430,6 +37538,7 @@ sort: by_weight
 臭死啦	chou si la	100
 愁死喽	chou si lou	100
 愁思茫茫	chou si mang mang	100
+抽死你	chou si ni	100
 臭死人了	chou si ren le	100
 瞅他一眼	chou ta yi yan	100
 抽胎换骨	chou tai huan gu	100
@@ -37546,6 +37655,9 @@ sort: by_weight
 出兵朝鲜	chu bing chao xian	100
 初步编目	chu bu bian mu	100
 出不出得去	chu bu chu dei qu	100
+出不出发	chu bu chu fa	100
+出不出发啊	chu bu chu fa a	100
+出不出发呀	chu bu chu fa ya	100
 出不出来	chu bu chu lai	100
 出不出来啊	chu bu chu lai a	100
 出不出来吧	chu bu chu lai ba	100
@@ -37671,6 +37783,7 @@ sort: by_weight
 处处破绽	chu chu po zhan	100
 处处是舞台	chu chu shi wu tai	100
 处处受人排挤	chu chu shou ren pai ji	100
+处处受限	chu chu shou xian	100
 处处为	chu chu wei	100
 楚楚有致	chu chu you zhi	100
 出处语默	chu chu yu mo	100
@@ -37690,6 +37803,7 @@ sort: by_weight
 初次相见	chu ci xiang jian	100
 除此之外还有	chu ci zhi wai hai you	100
 储存地	chu cun di	100
+储存空间不足	chu cun kong jian bu zu	100
 储存空间管理	chu cun kong jian guan li	100
 储存量	chu cun liang	100
 储存室	chu cun shi	100
@@ -39443,6 +39557,7 @@ sort: by_weight
 传承精华	chuan cheng jing hua	100
 传承久远	chuan cheng jiu yuan	100
 传承空间	chuan cheng kong jian	100
+传承了	chuan cheng le	100
 传承雷锋精神	chuan cheng lei feng jing shen	100
 传承历史文化	chuan cheng li shi wen hua	100
 传承历史文脉	chuan cheng li shi wen mai	100
@@ -42533,10 +42648,12 @@ sort: by_weight
 戳几下	chuo ji xia	100
 戳进来	chuo jin lai	100
 踔厉奋进	chuo li fen jin	100
+戳你们	chuo ni men	100
 戳破啊	chuo po a	100
 辍食吐哺	chuo shi tu bu	100
 啜菽饮水	chuo shu yin shui	100
 戳图了解	chuo tu liao jie	100
+戳我们	chuo wo men	100
 戳我一下	chuo wo yi xia	100
 戳心灌髓	chuo xin guan sui	100
 戳一下	chuo yi xia	100
@@ -43398,6 +43515,7 @@ sort: by_weight
 从未来过	cong wei lai guo	100
 从未如此	cong wei ru ci	100
 从未如此简单	cong wei ru ci jian dan	100
+从未有过的	cong wei you guo de	100
 从未有过的感觉	cong wei you guo de gan jue	100
 从未有过的体验	cong wei you guo de ti yan	100
 从未长大	cong wei zhang da	100
@@ -43977,6 +44095,7 @@ sort: by_weight
 存在严重分歧	cun zai yan zhong fen qi	100
 存在严重缺陷	cun zai yan zhong que xian	100
 存在严重问题	cun zai yan zhong wen ti	100
+存在以下问题	cun zai yi xia wen ti	100
 存在因果关系	cun zai yin guo guan xi	100
 存在银行	cun zai yin hang	100
 存在着安全隐患	cun zai zhe an quan yin huan	100
@@ -44182,6 +44301,8 @@ sort: by_weight
 打败你	da bai ni	100
 打败你的	da bai ni de	100
 打败她	da bai ta	100
+大白腿啊	da bai tui a	100
+大白腿呀	da bai tui ya	100
 打败我	da bai wo	100
 打败我的	da bai wo de	100
 大白鲟	da bai xun	100
@@ -44317,6 +44438,7 @@ sort: by_weight
 打不打卡哇	da bu da ka wa	100
 打不打卡呀	da bu da ka ya	100
 打不打麻将	da bu da ma jiang	100
+打不打球啊	da bu da qiu a	100
 打不打算	da bu da suan	100
 打不打疫苗	da bu da yi miao	100
 答不答应啊	da bu da ying a	100
@@ -44327,6 +44449,7 @@ sort: by_weight
 答不答应哦	da bu da ying o	100
 答不答应哇	da bu da ying wa	100
 答不答应呀	da bu da ying ya	100
+打不打游戏	da bu da you xi	100
 打不到车	da bu dao che	100
 打不得骂不得	da bu de ma bu de	100
 打不得仗	da bu de zhang	100
@@ -44568,6 +44691,9 @@ sort: by_weight
 打打游戏	da da you xi	100
 打打杂	da da za	100
 打打字	da da zi	100
+打代码了	da dai ma le	100
+打代码吗	da dai ma ma	100
+打代码呀	da dai ma ya	100
 打带跑	da dai pao	100
 大胆猜	da dan cai	100
 大胆地试	da dan de shi	100
@@ -44657,6 +44783,8 @@ sort: by_weight
 打得很好呀	da de hen hao ya	100
 打得很凶	da de hen xiong	100
 打得精彩	da de jing cai	100
+打得久	da de jiu	100
+打得久了	da de jiu le	100
 打的就是你	da de jiu shi ni	100
 打得开	da de kai	100
 打得快	da de kuai	100
@@ -45720,6 +45848,7 @@ sort: by_weight
 大咯血	da ka xue	100
 大咖一日行	da ka yi ri xing	100
 打卡之地	da ka zhi di	100
+打开按钮	da kai an niu	100
 打开吧	da kai ba	100
 打开百度	da kai bai du	100
 打开百度地图	da kai bai du di tu	100
@@ -45770,6 +45899,7 @@ sort: by_weight
 打开拼多多	da kai pin duo duo	100
 打开设置	da kai she zhi	100
 打开时	da kai shi	100
+打开水龙头	da kai shui long tou	100
 打开速度快	da kai su du kuai	100
 打开速度慢	da kai su du man	100
 打开锁	da kai suo	100
@@ -45935,6 +46065,8 @@ sort: by_weight
 打了七份工	da le qi fen gong	100
 打了起来	da le qi lai	100
 大了七岁	da le qi sui	100
+打了球	da le qiu	100
+打了球了	da le qiu le	100
 大乐趣	da le qu	100
 打了人	da le ren	100
 打了三份儿工	da le san fen er gong	100
@@ -46231,6 +46363,7 @@ sort: by_weight
 大媒体	da mei ti	100
 大美学工	da mei xue gong	100
 大美中华	da mei zhong hua	100
+大妹子呀	da mei zi ya	100
 大门朝向	da men chao xiang	100
 大门乐队	da men yue dui	100
 大梦方醒	da meng fang xing	100
@@ -46542,11 +46675,12 @@ sort: by_weight
 打球儿去	da qiu er qu	100
 打秋丰	da qiu feng	100
 大邱广域市	da qiu guang yu shi	100
+打球了	da qiu le	100
 打球去	da qiu qu	100
+打球去了	da qiu qu le	100
 大邱市	da qiu shi	100
 大秋元	da qiu yuan	100
 大酋长	da qiu zhang	100
-大曲道	da qu dao	100
 打趣地	da qu de	100
 打趣逗乐	da qu dou le	100
 大区服务器	da qu fu wu qi	100
@@ -46628,8 +46762,6 @@ sort: by_weight
 大厦地下	da sha di xia	100
 大厦栋梁	da sha dong liang	100
 大厦高楼	da sha gao lou	100
-大傻个	da sha ge	100
-大傻个儿	da sha ge er	100
 大沙河	da sha he	100
 大厦门口	da sha men kou	100
 大沙田	da sha tian	100
@@ -46995,6 +47127,7 @@ sort: by_weight
 大王庄村	da wang zhuang cun	100
 大王子	da wang zi	100
 大卫艾登堡	da wei ai deng bao	100
+大尾巴狼	da wei ba lang	100
 大尾巴鱼	da wei ba yu	100
 大卫鲍依	da wei bao yi	100
 大未必佳	da wei bi jia	100
@@ -47199,6 +47332,8 @@ sort: by_weight
 大行秋	da xing qiu	100
 大型犬	da xing quan	100
 大型商业银行	da xing shang ye yin hang	100
+大型社死	da xing she si	100
+大型社死现场	da xing she si xian chang	100
 大型生产基地	da xing sheng chan ji di	100
 大兴水利	da xing shui li	100
 大型水上乐园	da xing shui shang le yuan	100
@@ -47230,6 +47365,7 @@ sort: by_weight
 大胸长腿	da xiong chang tui	100
 大兄弟啊	da xiong di a	100
 大兄弟呀	da xiong di ya	100
+大熊猫福宝	da xiong mao fu bao	100
 大熊猫基地	da xiong mao ji di	100
 大胸妹	da xiong mei	100
 大胸妹子	da xiong mei zi	100
@@ -47252,6 +47388,7 @@ sort: by_weight
 大学的时候	da xue de shi hou	100
 大学的宿舍	da xue de su she	100
 大学的校园	da xue de xiao yuan	100
+大雪堆	da xue dui	100
 大学法律系	da xue fa lv xi	100
 大学副校长	da xue fu xiao zhang	100
 大学刚毕业	da xue gang bi ye	100
@@ -47270,6 +47407,7 @@ sort: by_weight
 大学女生宿舍	da xue nv sheng su she	100
 大学排行	da xue pai hang	100
 大学排行榜	da xue pai hang bang	100
+大雪泡天	da xue pao tian	100
 大雪片子	da xue pian zi	100
 大削弱	da xue ruo	100
 大学三年	da xue san nian	100
@@ -47331,6 +47469,7 @@ sort: by_weight
 大眼睛长睫毛	da yan jing chang jie mao	100
 大衍历	da yan li	100
 大眼萌	da yan meng	100
+大烟炮	da yan pao	100
 大岩蛇	da yan she	100
 打盐水	da yan shui	100
 大岩桐	da yan tong	100
@@ -47366,8 +47505,10 @@ sort: by_weight
 打野外	da ye wai	100
 打野小乐言	da ye xiao le yan	100
 打野效率	da ye xiao lv	100
+打野蝎子	da ye xie zi	100
 打一把昆特牌	da yi ba kun te pai	100
 打一把昆特牌吧	da yi ba kun te pai ba	100
+大尾巴狼	da yi ba lang	100
 打一遍	da yi bian	100
 大意不得	da yi bu de	100
 大疫不过三年	da yi bu guo san nian	100
@@ -47489,6 +47630,7 @@ sort: by_weight
 打渔流	da yu liu	100
 达与璐	da yu lu	100
 大玉螺旋丸	da yu luo xuan wan	100
+大峪南路	da yu nan lu	100
 大雨磅礴	da yu pang bo	100
 大雨盆倾	da yu pen qing	100
 打鱼晒网	da yu shai wang	100
@@ -47774,6 +47916,7 @@ sort: by_weight
 代办费	dai ban fei	100
 代办理	dai ban li	100
 待办事项	dai ban shi xiang	100
+待办项	dai ban xiang	100
 代办银行存款证明	dai ban yin hang cun kuan zheng ming	100
 代办银行流水	dai ban yin hang liu shui	100
 呆宝静	dai bao jing	100
@@ -49207,6 +49350,7 @@ sort: by_weight
 但是我相信	dan shi wo xiang xin	100
 但是想想不妥	dan shi xiang xiang bu tuo	100
 但是呀	dan shi ya	100
+但实在是	dan shi zai shi	100
 但是只有	dan shi zhi you	100
 但是最终会到达	dan shi zui zhong hui dao da	100
 单手扶把	dan shou fu ba	100
@@ -51295,6 +51439,7 @@ sort: by_weight
 到了期末	dao le qi mo	100
 到了七月	dao le qi yue	100
 到了乾隆时期	dao le qian long shi qi	100
+到了前面	dao le qian mian	100
 到了秦朝	dao le qin chao	100
 到了秦国	dao le qin guo	100
 到了清朝	dao le qing chao	100
@@ -51756,6 +51901,7 @@ sort: by_weight
 到手的	dao shou de	100
 岛瘦郊寒	dao shou jiao han	100
 到手就	dao shou jiu	100
+到手了吗	dao shou le ma	100
 到手没	dao shou mei	100
 倒竖虎须	dao shu hu xu	100
 倒数时刻	dao shu shi ke	100
@@ -51834,6 +51980,7 @@ sort: by_weight
 到现在都不知道	dao xian zai dou bu zhi dao	100
 到现在还记得	dao xian zai hai ji de	100
 到现在还是单身	dao xian zai hai shi dan shen	100
+到现在一次	dao xian zai yi ci	100
 导向飞弹	dao xiang fei dan	100
 导向管	dao xiang guan	100
 倒想看看	dao xiang kan kan	100
@@ -51899,6 +52046,7 @@ sort: by_weight
 到一百零八岁	dao yi bai ling ba sui	100
 到异地	dao yi di	100
 到一定程度	dao yi ding cheng du	100
+道义放两旁	dao yi fang liang pang	100
 道义人情	dao yi ren qing	100
 道一声珍重	dao yi sheng zhen zhong	100
 道义之交	dao yi zhi jiao	100
@@ -52028,6 +52176,7 @@ sort: by_weight
 得病了	de bing le	100
 的博客	de bo ke	100
 德薄任重	de bo ren zhong	100
+得不偿失了	de bu chang shi le	100
 得不到爱	de bu dao ai	100
 得不到爱情	de bu dao ai qing	100
 得不到帮助	de bu dao bang zhu	100
@@ -52206,6 +52355,7 @@ sort: by_weight
 得到了解脱	de dao le jie tuo	100
 得到了肯定	de dao le ken ding	100
 得到了控制	de dao le kong zhi	100
+得到了吗	de dao le ma	100
 得到了钱	de dao le qian	100
 得到了全世界	de dao le quan shi jie	100
 得到了认可	de dao le ren ke	100
@@ -52881,6 +53031,7 @@ sort: by_weight
 得天时	de tian shi	100
 得天下	de tian xia	100
 的条件	de tiao jian	100
+的帖子	de tie zi	100
 的痛苦	de tong ku	100
 的同事	de tong shi	100
 的同时	de tong shi	100
@@ -52967,6 +53118,8 @@ sort: by_weight
 德言工貌	de yan gong mao	100
 德言工容	de yan gong rong	100
 的眼睛	de yan jing	100
+的眼睛里	de yan jing li	100
+的眼睛里面	de yan jing li mian	100
 的研究	de yan jiu	100
 的眼里	de yan li	100
 德言容功	de yan rong gong	100
@@ -53046,6 +53199,7 @@ sort: by_weight
 得意忘象	de yi wang xiang	100
 得意忘言	de yi wang yan	100
 的意味	de yi wei	100
+的疑问	de yi wen	100
 得以显现	de yi xian xian	100
 的一小步	de yi xiao bu	100
 的一些问题	de yi xie wen ti	100
@@ -53090,6 +53244,7 @@ sort: by_weight
 德育副校长	de yu fu xiao zhang	100
 的预感	de yu gan	100
 德育护专	de yu hu zhuan	100
+得遇良师	de yu liang shi	100
 的语气	de yu qi	100
 德育室	de yu shi	100
 德育天地	de yu tian di	100
@@ -53098,6 +53253,7 @@ sort: by_weight
 德育园地	de yu yuan di	100
 德育原则	de yu yuan ze	100
 的预兆	de yu zhao	100
+德语专四	de yu zhuan si	100
 得圆满	de yuan man	100
 的怨念	de yuan nian	100
 的源头	de yuan tou	100
@@ -53110,6 +53266,7 @@ sort: by_weight
 的运动	de yun dong	100
 德云七队	de yun qi dui	100
 德云山	de yun shan	100
+德泽尔比	de ze er bi	100
 的责任	de ze ren	100
 的炸弹人	de zha dan ren	100
 的账号	de zhang hao	100
@@ -53126,12 +53283,14 @@ sort: by_weight
 得知此事后	de zhi ci shi hou	100
 得知此消息	de zhi ci xiao xi	100
 得知此消息后	de zhi ci xiao xi hou	100
+得之淡然	de zhi dan ran	100
 得智慧	de zhi hui	100
 的知己	de zhi ji	100
 得知姐姐	de zhi jie jie	100
 得之可得	de zhi ke de	100
 得之可得天下	de zhi ke de tian xia	100
 的智能	de zhi neng	100
+得之偶然	de zhi ou ran	100
 得知情况	de zhi qing kuang	100
 得知情况后	de zhi qing kuang hou	100
 的知识	de zhi shi	100
@@ -53163,6 +53322,7 @@ sort: by_weight
 德州疫情	de zhou yi qing	100
 德州一中	de zhou yi zhong	100
 德州银行	de zhou yin hang	100
+德州之夜	de zhou zhi ye	100
 得住吗	de zhu ma	100
 的主人	de zhu ren	100
 的主题	de zhu ti	100
@@ -53234,6 +53394,7 @@ sort: by_weight
 得跟上	dei gen shang	100
 得花多少钱	dei hua duo shao qian	100
 得加钱	dei jia qian	100
+得加钱啊	dei jia qian a	100
 得讲道理	dei jiang dao li	100
 得讲道理啊	dei jiang dao li a	100
 得交钱	dei jiao qian	100
@@ -53415,6 +53576,7 @@ sort: by_weight
 灯火幽灵	deng huo you ling	100
 灯火照夜	deng huo zhao ye	100
 登记备案制度	deng ji bei an zhi du	100
+等级不够了	deng ji bu gou le	100
 邓寄尘	deng ji chen	100
 登记地点	deng ji di dian	100
 登记地址	deng ji di zhi	100
@@ -54096,6 +54258,7 @@ sort: by_weight
 第二基地	di er ji di	100
 第二机长	di er ji zhang	100
 第二件事	di er jian shi	100
+第二件事了	di er jian shi liao	100
 第二届校园	di er jie xiao yuan	100
 第二轮土地承包	di er lun tu di cheng bao	100
 第二落点	di er luo dian	100
@@ -54268,6 +54431,7 @@ sort: by_weight
 地缝里	di feng li	100
 地缝里去	di feng li qu	100
 低风险	di feng xian	100
+低负担	di fu dan	100
 地府的宙斯	di fu de zhou si	100
 地富反	di fu fan	100
 地富反坏	di fu fan huai	100
@@ -54967,6 +55131,7 @@ sort: by_weight
 敌人消失	di ren xiao shi	100
 敌人阵地	di ren zhen di	100
 狄塞耳机	di sai er ji	100
+第三把了	di san ba le	100
 第三百五十六条	di san bai wu shi liu tiao	100
 第三百五十条	di san bai wu shi tiao	100
 第三部资料片	di san bu zi liao pian	100
@@ -55002,6 +55167,7 @@ sort: by_weight
 第三季度财报	di san ji du cai bao	100
 第三季度末	di san ji du mo	100
 第三季度业绩	di san ji du ye ji	100
+第三件事了	di san jian shi liao	100
 第三届校园	di san jie xiao yuan	100
 第三臼齿	di san jiu chi	100
 第三人履行	di san ren lv xing	100
@@ -55110,6 +55276,7 @@ sort: by_weight
 第四个人	di si ge ren	100
 第四纪地质	di si ji di zhi	100
 第四季度财报	di si ji du cai bao	100
+第四件事了	di si jian shi liao	100
 狄斯可	di si ke	100
 迪斯可	di si ke	100
 迪斯科吧	di si ke ba	100
@@ -55358,6 +55525,8 @@ sort: by_weight
 第五档	di wu dang	100
 第五个现代化	di wu ge xian dai hua	100
 第五行	di wu hang	100
+第五件事	di wu jian shi	100
+第五件事了	di wu jian shi liao	100
 地无立锥	di wu li zhui	100
 地无三里平	di wu san li ping	100
 第五位海上皇帝	di wu wei hai shang huang di	100
@@ -55438,12 +55607,15 @@ sort: by_weight
 地下矿	di xia kuang	100
 地下矿区	di xia kuang qu	100
 地下矿山	di xia kuang shan	100
+低下了	di xia le	100
+低下了脑袋	di xia le nao dai	100
 地下恋	di xia lian	100
 地下恋情	di xia lian qing	100
 地下连续墙	di xia lian xu qiang	100
 地下连续墙施工	di xia lian xu qiang shi gong	100
 地下六合彩	di xia liu he cai	100
 地下迷宫	di xia mi gong	100
+低下脑袋	di xia nao dai	100
 地下排水	di xia pai shui	100
 地下排污	di xia pai wu	100
 地下苹果	di xia ping guo	100
@@ -55651,6 +55823,8 @@ sort: by_weight
 第一个任务	di yi ge ren wu	100
 第一个愿望	di yi ge yuan wang	100
 第一个字	di yi ge zi	100
+第一个字儿	di yi ge zi er	100
+第一个字母	di yi ge zi mu	100
 第一个作品	di yi ge zuo pin	100
 第一狗仔	di yi gou zai	100
 第一行代码	di yi hang dai ma	100
@@ -55662,6 +55836,7 @@ sort: by_weight
 第一季度报告	di yi ji du bao gao	100
 第一家园	di yi jia yuan	100
 第一剑魂	di yi jian hun	100
+第一件事了	di yi jian shi le	100
 第一经济大省	di yi jing ji da sheng	100
 第一精锐师	di yi jing rui shi	100
 第一军军长	di yi jun jun zhang	100
@@ -56638,6 +56813,7 @@ sort: by_weight
 电脑企业	dian nao qi ye	100
 电脑上传	dian nao shang chuan	100
 电脑上了	dian nao shang le	100
+电脑上面	dian nao shang mian	100
 电脑手机	dian nao shou ji	100
 电脑手机同步	dian nao shou ji tong bu	100
 电脑速度	dian nao su du	100
@@ -56683,6 +56859,7 @@ sort: by_weight
 店铺转化率	dian pu zhuan hua lv	100
 电气参数	dian qi can shu	100
 电气锤	dian qi chui	100
+电器灯饰	dian qi deng shi	100
 电气工程系	dian qi gong cheng xi	100
 电器行业	dian qi hang ye	100
 电器化	dian qi hua	100
@@ -57520,6 +57697,8 @@ sort: by_weight
 掉了下巴	diao le xia ba	100
 掉了一地	diao le yi di	100
 掉了一颗星	diao le yi ke xing	100
+钓了鱼	diao le yu	100
+钓了鱼了	diao le yu le	100
 调离工作岗位	diao li gong zuo gang wei	100
 雕翎扇	diao ling shan	100
 雕龙绣虎	diao long xiu hu	100
@@ -58694,6 +58873,8 @@ sort: by_weight
 冬冬鼓	dong dong gu	100
 动动看	dong dong kan	100
 动动脑	dong dong nao	100
+动动脑袋	dong dong nao dai	100
+动动脑筋儿	dong dong nao jin er	100
 动动手脚	dong dong shou jiao	100
 咚咚鼠	dong dong shu	100
 东东汤运焕	dong dong tang yun huan	100
@@ -59253,6 +59434,7 @@ sort: by_weight
 东门之役	dong men zhi yi	100
 东盟地区	dong meng di qu	100
 东盟地区论坛	dong meng di qu lun tan	100
+冻懵了	dong meng le	100
 东密德兰	dong mi de lan	100
 东缅高原	dong mian gao yuan	100
 洞庙河	dong miao he	100
@@ -59434,6 +59616,7 @@ sort: by_weight
 动手打	dong shou da	100
 动手的乐趣	dong shou de le qu	100
 动手脚	dong shou jiao	100
+冻手了	dong shou le	100
 董书含	dong shu han	100
 东数西算	dong shu xi suan	100
 冻死寒鸦	dong si han ya	100
@@ -59488,6 +59671,7 @@ sort: by_weight
 冬天的感觉	dong tian de gan jue	100
 冬天的温度	dong tian de wen du	100
 动天地	dong tian di	100
+冬天第一杯	dong tian di yi bei	100
 冬天过去了	dong tian guo qu le	100
 冬天还是夏天	dong tian hai shi xia tian	100
 冬天和春天	dong tian he chun tian	100
@@ -59506,6 +59690,7 @@ sort: by_weight
 动听的音乐	dong ting de yin yue	100
 动听的乐曲	dong ting de yue qu	100
 洞庭湖湿地	dong ting hu shi di	100
+洞庭问剑	dong ting wen jian	100
 东土大唐	dong tu da tang	100
 东土大唐而来	dong tu da tang er lai	100
 冻土豆	dong tu dou	100
@@ -59842,6 +60027,7 @@ sort: by_weight
 都不给我	dou bu gei wo	100
 都不跟我聊	dou bu gen wo liao	100
 都不跟我说	dou bu gen wo shuo	100
+都不够了	dou bu gou le	100
 都不关	dou bu guan	100
 都不管了	dou bu guan le	100
 都不关心	dou bu guan xin	100
@@ -60125,6 +60311,12 @@ sort: by_weight
 都成啥样了	dou cheng sha yang le	100
 都称赞	dou cheng zan	100
 都成长	dou cheng zhang	100
+都成这样	dou cheng zhe yang	100
+都成这样了	dou cheng zhe yang le	100
+都吃不起	dou chi bu qi	100
+都吃不起了	dou chi bu qi le	100
+都吃不上	dou chi bu shang	100
+都吃不上了	dou chi bu shang le	100
 都吃到	dou chi dao	100
 都吃过	dou chi guo	100
 都吃过亏	dou chi guo kui	100
@@ -61337,8 +61529,12 @@ sort: by_weight
 都抢空了	dou qiang kong le	100
 都强烈	dou qiang lie	100
 斗巧争奇	dou qiao zheng qi	100
+都请不	dou qing bu	100
+都请不了	dou qing bu liao	100
 都清楚	dou qing chu	100
+都清楚呀	dou qing chu ya	100
 都青春	dou qing chun	100
+都请来	dou qing lai	100
 都清清楚楚	dou qing qing chu chu	100
 都轻松	dou qing song	100
 都清晰	dou qing xi	100
@@ -62272,6 +62468,8 @@ sort: by_weight
 兜着风	dou zhe feng	100
 都这个时辰	dou zhe ge shi chen	100
 都这个时辰了	dou zhe ge shi chen le	100
+都这个样子	dou zhe ge yang zi	100
+都这个样子了	dou zhe ge yang zi le	100
 都这么大	dou zhe me da	100
 都这么大了	dou zhe me da le	100
 都这么久了	dou zhe me jiu le	100
@@ -62280,6 +62478,7 @@ sort: by_weight
 逗着玩	dou zhe wan	100
 都这样	dou zhe yang	100
 都这样的	dou zhe yang de	100
+都这样了	dou zhe yang le	100
 兜着走	dou zhe zou	100
 都震惊	dou zhen jing	100
 痘疹娘娘	dou zhen niang niang	100
@@ -63188,7 +63387,9 @@ sort: by_weight
 黩武穷兵	du wu qiong bing	100
 睹物伤怀	du wu shang huai	100
 睹物思情	du wu si qing	100
+独显核显	du xian he xian	100
 妒贤忌能	du xian ji neng	100
+独显集显	du xian ji xian	100
 独显芯片	du xian xin pian	100
 都香高速	du xiang gao su	100
 独享你	du xiang ni	100
@@ -63313,6 +63514,8 @@ sort: by_weight
 独自个	du zi ge	100
 肚子咕咕叫	du zi gu gu jiao	100
 肚子还疼吗	du zi hai teng ma	100
+肚子好饿啊	du zi hao e a	100
+肚子好饿呀	du zi hao e ya	100
 读字机	du zi ji	100
 独自落泪	du zi luo lei	100
 独自旅行	du zi lv xing	100
@@ -63343,6 +63546,9 @@ sort: by_weight
 断壁颓垣	duan bi tui yuan	100
 断编残简	duan bian can jian	100
 短波长	duan bo chang	100
+断不断开	duan bu duan kai	100
+断不断开啊	duan bu duan kai a	100
+断不断开呀	duan bu duan kai ya	100
 断不可	duan bu ke	100
 断不可信	duan bu ke xin	100
 断层湖	duan ceng hu	100
@@ -63374,6 +63580,7 @@ sort: by_weight
 短笛大魔王	duan di da mo wang	100
 短笛横箫	duan di heng xiao	100
 端电压	duan dian ya	100
+断掉了	duan diao le	100
 断断不可	duan duan bu ke	100
 短短的	duan duan de	100
 短短的一句话	duan duan de yi ju hua	100
@@ -63434,6 +63641,7 @@ sort: by_weight
 断绝人命门	duan jue ren ming men	100
 断绝一切关系	duan jue yi qie guan xi	100
 断卡行动	duan ka xing dong	100
+断开了	duan kai le	100
 断开联系	duan kai lian xi	100
 断开音频	duan kai yin pin	100
 短裤装	duan ku zhuang	100
@@ -63797,6 +64005,7 @@ sort: by_weight
 对肝好	dui gan hao	100
 对肝肾	dui gan shen	100
 对个鬼	dui ge gui	100
+对个下联	dui ge xia lian	100
 对工儿	dui gong er	100
 对攻战	dui gong zhan	100
 对过儿	dui guo er	100
@@ -65187,8 +65396,10 @@ sort: by_weight
 恶不恶心哦	e bu e xin o	100
 恶不恶心哇	e bu e xin wa	100
 恶不恶心呀	e bu e xin ya	100
+饿不饿呀	e bu e ya	100
 恶不可长	e bu ke zhang	100
 呃不是	e bu shi	100
+饿不死你	e bu si ni	100
 恶叉白赖	e cha bai lai	100
 恶臭的味道	e chou de wei dao	100
 恶臭废气	e chou fei qi	100
@@ -65223,6 +65434,7 @@ sort: by_weight
 额定载重	e ding zai zhong	100
 额定载重量	e ding zai zhong liang	100
 鄂东地区	e dong di qu	100
+额度不够了	e du bu gou le	100
 额度不足	e du bu zu	100
 阿堵传神	e du chuan shen	100
 额度大	e du da	100
@@ -70064,6 +70276,7 @@ sort: by_weight
 发展基调	fa zhan ji diao	100
 发展加速度	fa zhan jia su du	100
 发展进度	fa zhan jin du	100
+发展剧情	fa zhan ju qing	100
 发展了	fa zhan le	100
 发展了中国	fa zhan le zhong guo	100
 发展历史	fa zhan li shi	100
@@ -70287,7 +70500,10 @@ sort: by_weight
 饭都不给吃	fan dou bu gei chi	100
 饭都不让吃	fan dou bu rang chi	100
 反斗城	fan dou cheng	100
+饭都吃	fan dou chi	100
 饭都吃不饱	fan dou chi bu bao	100
+饭都吃不起	fan dou chi bu qi	100
+饭都吃不起了	fan dou chi bu qi le	100
 饭都吃不上	fan dou chi bu shang	100
 饭都吃不下	fan dou chi bu xia	100
 烦都烦死了	fan dou fan si le	100
@@ -70366,7 +70582,9 @@ sort: by_weight
 反复咀嚼	fan fu ju jue	100
 反腐力度	fan fu li du	100
 反复模拟	fan fu mo ni	100
+反复碾压	fan fu nian ya	100
 凡夫肉眼	fan fu rou yan	100
+反复如此	fan fu ru ci	100
 反复思量	fan fu si liang	100
 反复思维	fan fu si wei	100
 凡夫俗妇	fan fu su fu	100
@@ -70559,6 +70777,8 @@ sort: by_weight
 犯了法	fan le fa	100
 翻了番	fan le fan	100
 翻了个底朝天	fan le ge di chao tian	100
+犯了规	fan le gui	100
+犯了规了	fan le gui le	100
 反了过来	fan le guo lai	100
 翻了过来	fan le guo lai	100
 翻了好几页	fan le hao ji ye	100
@@ -70583,6 +70803,7 @@ sort: by_weight
 犯了什么罪	fan le shen me zui	100
 犯了什么罪啊	fan le shen me zui a	100
 犯了事	fan le shi	100
+翻了十倍	fan le shi bei	100
 犯了死罪	fan le si zui	100
 反了天	fan le tian	100
 翻了天	fan le tian	100
@@ -71334,6 +71555,9 @@ sort: by_weight
 方不方便哦	fang bu fang bian o	100
 方不方便哇	fang bu fang bian wa	100
 方不方便呀	fang bu fang bian ya	100
+防不防冻	fang bu fang dong	100
+防不防冻啊	fang bu fang dong a	100
+防不防冻呀	fang bu fang dong ya	100
 放不放假啊	fang bu fang jia a	100
 放不放假吧	fang bu fang jia ba	100
 放不放假啦	fang bu fang jia la	100
@@ -71940,6 +72164,7 @@ sort: by_weight
 放开那个女孩儿	fang kai na ge nv hai er	100
 放开那女孩	fang kai na nv hai	100
 放开那女孩儿	fang kai na nv hai er	100
+放开手吧	fang kai shou ba	100
 放开他	fang kai ta	100
 放开她	fang kai ta	100
 放开我	fang kai wo	100
@@ -72596,6 +72821,7 @@ sort: by_weight
 纺织等行业	fang zhi deng hang ye	100
 放置地	fang zhi di	100
 放置地点	fang zhi di dian	100
+防止冻结	fang zhi dong jie	100
 防止堵塞	fang zhi du se	100
 防止恶意收购	fang zhi e yi shou gou	100
 防制法	fang zhi fa	100
@@ -72605,14 +72831,19 @@ sort: by_weight
 防止疾病传播	fang zhi ji bing chuan bo	100
 纺织机械行业	fang zhi ji xie hang ye	100
 防止经济过热	fang zhi jing ji guo re	100
+防止你们	fang zhi ni men	100
 防止泡沫经济	fang zhi pao mo jing ji	100
 纺织品行业	fang zhi pin hang ye	100
 方志强	fang zhi qiang	100
 方治权	fang zhi quan	100
 放之四海皆准	fang zhi si hai jie zhun	100
+防止他	fang zhi ta	100
+防止他们	fang zhi ta men	100
 纺织图	fang zhi tu	100
 防止徒长	fang zhi tu zhang	100
 防止脱落	fang zhi tuo luo	100
+防止我	fang zhi wo	100
+防止我们	fang zhi wo men	100
 纺织物	fang zhi wu	100
 方志贤	fang zhi xian	100
 防治校园欺凌	fang zhi xiao yuan qi ling	100
@@ -72691,6 +72922,7 @@ sort: by_weight
 非必要不出省	fei bi yao bu chu sheng	100
 非必要不出行	fei bi yao bu chu xing	100
 非必要不到岗	fei bi yao bu dao gang	100
+非必要不要	fei bi yao bu yao	100
 非必要旅行	fei bi yao lv xing	100
 非毕业生	fei bi ye sheng	100
 费边主义	fei bian zhu yi	100
@@ -73077,6 +73309,7 @@ sort: by_weight
 非常高调	fei chang gao diao	100
 非常高级啊	fei chang gao ji a	100
 非常给力	fei chang gei li	100
+非常公道	fei chang gong dao	100
 非常古怪	fei chang gu guai	100
 非常关系	fei chang guan xi	100
 非常规注音	fei chang gui zhu yin	100
@@ -73179,6 +73412,7 @@ sort: by_weight
 非常实用	fei chang shi yong	100
 非常实用主义	fei chang shi yong zhu yi	100
 非常手段	fei chang shou duan	100
+非常舒适	fei chang shu shi	100
 非常松懈	fei chang song xie	100
 非常特别的地方	fei chang te bie de di fang	100
 非常体贴	fei chang ti tie	100
@@ -73234,6 +73468,7 @@ sort: by_weight
 非常有智慧	fei chang you zhi hui	100
 非常着急	fei chang zhao ji	100
 非常着迷	fei chang zhao mi	100
+非常真啊	fei chang zhen a	100
 非常正常	fei chang zheng chang	100
 非常正常的	fei chang zheng chang de	100
 非常支持	fei chang zhi chi	100
@@ -73341,7 +73576,9 @@ sort: by_weight
 飞得多高	fei de duo gao	100
 菲德尔	fei de er	100
 飞的感觉	fei de gan jue	100
+飞得高啊	fei de gao a	100
 飞得高不高	fei de gao bu gao	100
+飞得高呀	fei de gao ya	100
 飞得更高更远	fei de geng gao geng yuan	100
 飞得更快	fei de geng kuai	100
 飞得更远	fei de geng yuan	100
@@ -74575,6 +74812,7 @@ sort: by_weight
 分筋术	fen jin shu	100
 奋进向未来	fen jin xiang wei lai	100
 分镜脚本	fen jing jiao ben	100
+分久必干	fen jiu bi gan	100
 分久必合合久必分	fen jiu bi he he jiu bi fen	100
 分就行	fen jiu xing	100
 分局党委高度重视	fen ju dang wei gao du zhong shi	100
@@ -74791,6 +75029,7 @@ sort: by_weight
 分手炮	fen shou pao	100
 分手应该体面	fen shou ying gai ti mian	100
 分手再见	fen shou zai jian	100
+分数不够了	fen shu bu gou le	100
 分数段统计表	fen shu duan tong ji biao	100
 分数多少	fen shu duo shao	100
 分数够	fen shu gou	100
@@ -75656,6 +75895,7 @@ sort: by_weight
 风是什么	feng shi shen me	100
 奉事师长	feng shi shi zhang	100
 冯世真	feng shi zhen	100
+风是自由的	feng shi zi you de	100
 丰收的一年	feng shou de yi nian	100
 丰收了	feng shou le	100
 风属性	feng shu xing	100
@@ -75676,6 +75916,7 @@ sort: by_weight
 凤髓龙肝	feng sui long gan	100
 封锁地带	feng suo di dai	100
 封锁山门	feng suo shan men	100
+封锁扇区	feng suo shan qu	100
 封锁行动	feng suo xing dong	100
 风太大	feng tai da	100
 风太大了	feng tai da le	100
@@ -76674,6 +76915,7 @@ sort: by_weight
 伏击阵地	fu ji zhen di	100
 缚鸡之力	fu ji zhi li	100
 附加表决权	fu jia biao jue quan	100
+附加层	fu jia ceng	100
 富家大户	fu jia da hu	100
 富家大室	fu jia da shi	100
 浮家泛宅	fu jia fan zhai	100
@@ -76890,6 +77132,8 @@ sort: by_weight
 服了你	fu le ni	100
 富了起来	fu le qi lai	100
 付了钱	fu le qian	100
+付了钱后	fu le qian hou	100
+付了钱了	fu le qian le	100
 服了软	fu le ruan	100
 负了伤	fu le shang	100
 付了首付	fu le shou fu	100
@@ -78228,6 +78472,7 @@ sort: by_weight
 改不了了	gai bu liao le	100
 改不了名	gai bu liao ming	100
 概不退还	gai bu tui huan	100
+盖不严	gai bu yan	100
 改操易节	gai cao yi jie	100
 概测法	gai ce fa	100
 改厕模式	gai ce mo shi	100
@@ -78596,6 +78841,7 @@ sort: by_weight
 该休息了	gai xiu xi le	100
 该选哪个	gai xuan na ge	100
 该选哪一个	gai xuan na yi ge	100
+该选啥	gai xuan sha	100
 该选什么	gai xuan shen me	100
 该选择什么	gai xuan ze shen me	100
 该学什么	gai xue shen me	100
@@ -78624,6 +78870,8 @@ sort: by_weight
 改辕易辙	gai yuan yi zhe	100
 该乐队	gai yue dui	100
 该咋过	gai za guo	100
+该咋选	gai za xuan	100
+该咋选择	gai za xuan ze	100
 改造成	gai zao cheng	100
 改造传统产业	gai zao chuan tong chan ye	100
 改造法	gai zao fa	100
@@ -78636,6 +78884,8 @@ sort: by_weight
 该怎么办才好	gai zen me ban cai hao	100
 该怎么办了	gai zen me ban le	100
 该怎么去	gai zen me qu	100
+该怎么选	gai zen me xuan	100
+该怎么选择	gai zen me xuan ze	100
 该怎么样	gai zen me yang	100
 改战区	gai zhan qu	100
 该长大	gai zhang da	100
@@ -79071,6 +79321,7 @@ sort: by_weight
 干净吗	gan jing ma	100
 干净抹布	gan jing ma bu	100
 甘井先竭	gan jing xian jie	100
+干久必分	gan jiu bi fen	100
 干就对了	gan jiu dui le	100
 干就干	gan jiu gan	100
 干就是了	gan jiu shi le	100
@@ -79288,6 +79539,7 @@ sort: by_weight
 感觉人生	gan jue ren sheng	100
 感觉日本	gan jue ri ben	100
 感觉如何啊	gan jue ru he a	100
+感觉如何呢	gan jue ru he ne	100
 感觉如何呀	gan jue ru he ya	100
 感觉丧失	gan jue sang shi	100
 感觉傻傻的	gan jue sha sha de	100
@@ -80128,6 +80380,7 @@ sort: by_weight
 刚刚知道	gang gang zhi dao	100
 刚刚知道啊	gang gang zhi dao a	100
 刚刚知道呀	gang gang zhi dao ya	100
+刚更新了	gang geng xin le	100
 刚更新完	gang geng xin wan	100
 港股大跌	gang gu da die	100
 港股行情	gang gu hang qing	100
@@ -80321,6 +80574,7 @@ sort: by_weight
 刚性增长	gang xing zeng zhang	100
 刚性执行	gang xing zhi xing	100
 刚需房	gang xu fang	100
+刚需买房	gang xu mai fang	100
 刚演完戏	gang yan wan xi	100
 刚阳过	gang yang guo	100
 刚阳完	gang yang wan	100
@@ -81686,6 +81940,7 @@ sort: by_weight
 高铁行业	gao tie hang ye	100
 高铁票	gao tie piao	100
 高铁速度	gao tie su du	100
+高铁停运	gao tie ting yun	100
 高铁晚点	gao tie wan dian	100
 高铁侠	gao tie xia	100
 高铁学校	gao tie xue xiao	100
@@ -81888,6 +82143,7 @@ sort: by_weight
 高校人才	gao xiao ren cai	100
 高校人才培养	gao xiao ren cai pei yang	100
 高校人才网	gao xiao ren cai wang	100
+高校认证	gao xiao ren zheng	100
 高校入学	gao xiao ru xue	100
 高校赛	gao xiao sai	100
 高校设计	gao xiao she ji	100
@@ -82473,7 +82729,6 @@ sort: by_weight
 割肚牵肠	ge du qian chang	100
 隔断板	ge duan ban	100
 割断了	ge duan le	100
-隔断时间	ge duan shi jian	100
 各队伍	ge dui wu	100
 隔多久	ge duo jiu	100
 个多小时	ge duo xiao shi	100
@@ -83510,6 +83765,9 @@ sort: by_weight
 给老师的一封信	gei lao shi de yi feng xin	100
 给老师们	gei lao shi men	100
 给了红包	gei le hong bao	100
+给了钱	gei le qian	100
+给了钱后	gei le qian hou	100
+给了钱了	gei le qian le	100
 给了他们	gei le ta men	100
 给了他们一份	gei le ta men yi fen	100
 给了我机会	gei le wo ji hui	100
@@ -83676,6 +83934,7 @@ sort: by_weight
 给他时间	gei ta shi jian	100
 给他送	gei ta song	100
 给他送走	gei ta song zou	100
+给他踢了	gei ta ti le	100
 给他添乱	gei ta tian luan	100
 给她添乱	gei ta tian luan	100
 给他希望	gei ta xi wang	100
@@ -83778,6 +84037,7 @@ sort: by_weight
 给我说一声	gei wo shuo yi sheng	100
 给我说一下	gei wo shuo yi xia	100
 给我送一个	gei wo song yi ge	100
+给我踢了	gei wo ti le	100
 给我添乱	gei wo tian luan	100
 给我跳	gei wo tiao	100
 给我听好	gei wo ting hao	100
@@ -83860,6 +84120,7 @@ sort: by_weight
 根本补不完	gen ben bu bu wan	100
 根本不存在	gen ben bu cun zai	100
 根本不够	gen ben bu gou	100
+根本不够呀	gen ben bu gou ya	100
 根本不会	gen ben bu hui	100
 根本不会同意	gen ben bu hui tong yi	100
 根本不记得	gen ben bu ji de	100
@@ -84543,6 +84804,7 @@ sort: by_weight
 更多行业	geng duo hang ye	100
 更多获得感	geng duo huo de gan	100
 更多家长	geng duo jia zhang	100
+更多来源	geng duo lai yuan	100
 更多联系方式	geng duo lian xi fang shi	100
 更多了解	geng duo liao jie	100
 更多模式	geng duo mo shi	100
@@ -84685,7 +84947,10 @@ sort: by_weight
 更积极地	geng ji ji de	100
 更积极的态度	geng ji ji de tai du	100
 更加不同凡响	geng jia bu tong fan xiang	100
+更加长了	geng jia chang le	100
 更加长寿	geng jia chang shou	100
+更加地	geng jia de	100
+更加地长	geng jia de chang	100
 更加的了解	geng jia de liao jie	100
 更加得心应手	geng jia de xin ying shou	100
 更加的注重	geng jia de zhu zhong	100
@@ -85768,6 +86033,7 @@ sort: by_weight
 功率半导体器件	gong lv ban dao ti qi jian	100
 功率半导体芯片	gong lv ban dao ti xin pian	100
 功率不够	gong lv bu gou	100
+功率不够了	gong lv bu gou le	100
 功率不同	gong lv bu tong	100
 功率不足	gong lv bu zu	100
 功率参数	gong lv can shu	100
@@ -86897,6 +87163,7 @@ sort: by_weight
 够不够好哦	gou bu gou hao o	100
 够不够好哇	gou bu gou hao wa	100
 够不够好呀	gou bu gou hao ya	100
+够不够了	gou bu gou le	100
 够不够用	gou bu gou yong	100
 苟不能	gou bu neng	100
 狗不嫌家贫	gou bu xian jia pin	100
@@ -87055,6 +87322,8 @@ sort: by_weight
 购买地址	gou mai di zhi	100
 购买额度	gou mai e du	100
 购买房地产	gou mai fang di chan	100
+购买和	gou mai he	100
+购买和下载	gou mai he xia zai	100
 购买户	gou mai hu	100
 购买角色	gou mai jue se	100
 购买力下降	gou mai li xia jiang	100
@@ -88407,6 +88676,7 @@ sort: by_weight
 怪来怪去	guai lai guai qu	100
 拐来拐去	guai lai guai qu	100
 拐了弯	guai le wan	100
+怪里怪气的	guai li guai qi de	100
 乖离剑	guai li jian	100
 乖离率	guai li lv	100
 怪你多嘴	guai ni duo zui	100
@@ -88476,6 +88746,7 @@ sort: by_weight
 关闭空调	guan bi kong tiao	100
 关闭蓝牙	guan bi lan ya	100
 关闭没关闭	guan bi mei guan bi	100
+关闭水龙头	guan bi shui long tou	100
 关闭学校	guan bi xue xiao	100
 关闭再开启	guan bi zai kai qi	100
 观变沉机	guan bian chen ji	100
@@ -89080,6 +89351,7 @@ sort: by_weight
 关上了一扇门	guan shang le yi shan men	100
 关上闹钟	guan shang nao zhong	100
 观赏日落	guan shang ri luo	100
+关上水龙头	guan shang shui long tou	100
 观赏用	guan shang yong	100
 莞深高速	guan shen gao su	100
 管什么	guan shen me	100
@@ -90057,6 +90329,7 @@ sort: by_weight
 光能合成	guang neng he cheng	100
 光能使者	guang neng shi zhe	100
 广宁省	guang ning sheng	100
+广漂多年	guang piao duo nian	100
 广平省	guang ping sheng	100
 广平王	guang ping wang	100
 光谱分辨率	guang pu fen bian lv	100
@@ -90578,6 +90851,7 @@ sort: by_weight
 桂纶镁	gui lun mei	100
 硅铝质	gui lv zhi	100
 归马放牛	gui ma fang niu	100
+贵吗贵吗	gui ma gui ma	100
 鬼马天师	gui ma tian shi	100
 归马休牛	gui ma xiu niu	100
 柜买中心	gui mai zhong xin	100
@@ -90607,6 +90881,7 @@ sort: by_weight
 规模不断扩大	gui mo bu duan kuo da	100
 规模不断壮大	gui mo bu duan zhuang da	100
 规模不够	gui mo bu gou	100
+规模不够了	gui mo bu gou le	100
 规模不经济	gui mo bu jing ji	100
 规模部署	gui mo bu shu	100
 规模不同	gui mo bu tong	100
@@ -90937,6 +91212,7 @@ sort: by_weight
 跪在那	gui zai na	100
 跪在那的	gui zai na de	100
 跪在那里	gui zai na li	100
+跪在前面	gui zai qian mian	100
 跪在身边	gui zai shen bian	100
 贵在行动	gui zai xing dong	100
 跪在一起	gui zai yi qi	100
@@ -92162,6 +92438,9 @@ sort: by_weight
 过来接他	guo lai jie ta	100
 过来接我	guo lai jie wo	100
 过来看看	guo lai kan kan	100
+过来看看吧	guo lai kan kan ba	100
+过来看一下	guo lai kan yi xia	100
+过来看一下吧	guo lai kan yi xia ba	100
 过来啦	guo lai la	100
 过来了吧	guo lai le ba	100
 过来了吗	guo lai le ma	100
@@ -92395,6 +92674,9 @@ sort: by_weight
 过没过来	guo mei guo lai	100
 过没过来啊	guo mei guo lai a	100
 过没过来呀	guo mei guo lai ya	100
+过没过期	guo mei guo qi	100
+过没过期啊	guo mei guo qi a	100
+过没过期呀	guo mei guo qi ya	100
 过没过去	guo mei guo qu	100
 过没过去啊	guo mei guo qu a	100
 过没过去呀	guo mei guo qu ya	100
@@ -92591,6 +92873,7 @@ sort: by_weight
 国旗敬礼	guo qi jing li	100
 过起来	guo qi lai	100
 郭麒麟	guo qi lin	100
+过期没过期	guo qi mei guo qi	100
 过气明星	guo qi ming xing	100
 过期未付	guo qi wei fu	100
 过七夕啊	guo qi xi a	100
@@ -93034,6 +93317,7 @@ sort: by_weight
 蝈螽属	guo zhong shu	100
 郭主任	guo zhu ren	100
 锅转到	guo zhuan dao	100
+国字标准	guo zi biao zhun	100
 果子冻	guo zi dong	100
 果子干	guo zi gan	100
 郭子干	guo zi gan	100
@@ -93255,6 +93539,7 @@ sort: by_weight
 海边度假风	hai bian du jia feng	100
 海边旅行	hai bian lv xing	100
 海表温度	hai biao wen du	100
+还别不	hai bie bu	100
 还别不信	hai bie bu xin	100
 还别不信啊	hai bie bu xin a	100
 还别说	hai bie shuo	100
@@ -93272,6 +93557,7 @@ sort: by_weight
 还不乘机	hai bu cheng ji	100
 还不承认	hai bu cheng ren	100
 还不出	hai bu chu	100
+还不错吧	hai bu cuo ba	100
 还不错嘛	hai bu cuo ma	100
 还不错哦	hai bu cuo o	100
 还不戴	hai bu dai	100
@@ -93489,8 +93775,16 @@ sort: by_weight
 害得我	hai de wo	100
 还得背	hai dei bei	100
 还得法	hai dei fa	100
+还得加多少	hai dei jia duo shao	100
+还得加多少钱	hai dei jia duo shao qian	100
 还得进	hai dei jin	100
 还得是靠我自己啊	hai dei shi kao wo zi ji a	100
+还得是你	hai dei shi ni	100
+还得是你啊	hai dei shi ni a	100
+还得是你呀	hai dei shi ni ya	100
+还得是我	hai dei shi wo	100
+还得是我啊	hai dei shi wo a	100
+还得是我呀	hai dei shi wo ya	100
 海灯法师	hai deng fa shi	100
 还等啥	hai deng sha	100
 海堤坝	hai di ba	100
@@ -93612,6 +93906,7 @@ sort: by_weight
 还好还好	hai hao hai hao	100
 还好看	hai hao kan	100
 还好啦	hai hao la	100
+还好了吧	hai hao le ba	100
 还好吗你	hai hao ma ni	100
 还好么	hai hao me	100
 还好没	hai hao mei	100
@@ -93661,10 +93956,14 @@ sort: by_weight
 还活着	hai huo zhe	100
 还活着吗	hai huo zhe ma	100
 还活着呢	hai huo zhe ne	100
+还鸡巴说	hai ji ba shuo	100
+还鸡巴说话	hai ji ba shuo hua	100
+还鸡巴说是吧	hai ji ba shuo shi ba	100
 还鸡巴有谁	hai ji ba you shei	100
 还鸡巴有谁	hai ji ba you shui	100
 还记不记得	hai ji bu ji de	100
 还记得吧	hai ji de ba	100
+还记得不	hai ji de bu	100
 还记得曾经	hai ji de ceng jing	100
 还记得啦	hai ji de la	100
 还记得那年	hai ji de na nian	100
@@ -93907,6 +94206,8 @@ sort: by_weight
 还没开始做	hai mei kai shi zuo	100
 还没开通	hai mei kai tong	100
 还没看懂	hai mei kan dong	100
+还没看够	hai mei kan gou	100
+还没看够呢	hai mei kan gou ne	100
 还没看好	hai mei kan hao	100
 还没考呢	hai mei kao ne	100
 还没考上	hai mei kao shang	100
@@ -93936,6 +94237,11 @@ sort: by_weight
 还没确诊	hai mei que zhen	100
 还没扫	hai mei sao	100
 还没上映	hai mei shang ying	100
+还没射	hai mei she	100
+还没设置	hai mei she zhi	100
+还没设置好	hai mei she zhi hao	100
+还没设置完	hai mei she zhi wan	100
+还没设置完毕	hai mei she zhi wan bi	100
 还没审核	hai mei shen he	100
 还没收拾好	hai mei shou shi hao	100
 还没睡啊	hai mei shui a	100
@@ -93988,6 +94294,7 @@ sort: by_weight
 还没有吗	hai mei you ma	100
 还没有名字	hai mei you ming zi	100
 还没有去	hai mei you qu	100
+还没有射	hai mei you she	100
 还没有睡	hai mei you shui	100
 还没有睡觉	hai mei you shui jiao	100
 还没有说完	hai mei you shuo wan	100
@@ -94443,6 +94750,9 @@ sort: by_weight
 还顺利吧	hai shun li ba	100
 还说你	hai shuo ni	100
 还说你不知道	hai shuo ni bu zhi dao	100
+还说啥	hai shuo sha	100
+还说啥啊	hai shuo sha a	100
+还说啥呀	hai shuo sha ya	100
 还说什么	hai shuo shen me	100
 还说什么来着	hai shuo shen me lai zhe	100
 害死了	hai si le	100
@@ -94459,6 +94769,7 @@ sort: by_weight
 还他妈的可以	hai ta ma de ke yi	100
 还他妈的可以吧	hai ta ma de ke yi ba	100
 还他妈说	hai ta ma shuo	100
+还他妈说话	hai ta ma shuo hua	100
 还他妈玩	hai ta ma wan	100
 还他妈玩儿	hai ta ma wan er	100
 还他妈有谁	hai ta ma you shei	100
@@ -94493,6 +94804,8 @@ sort: by_weight
 还挺干净	hai ting gan jing	100
 还挺贵	hai ting gui	100
 还挺贵的	hai ting gui de	100
+还挺好的	hai ting hao de	100
+还挺好的吧	hai ting hao de ba	100
 还挺厚	hai ting hou	100
 还挺厚重	hai ting hou zhong	100
 还挺划算	hai ting hua suan	100
@@ -94594,6 +94907,7 @@ sort: by_weight
 海伍德	hai wu de	100
 海雾里	hai wu li	100
 海屋添筹	hai wu tian chou	100
+还习惯	hai xi guan	100
 还习惯吗	hai xi guan ma	100
 还喜欢	hai xi huan	100
 还喜欢吗	hai xi huan ma	100
@@ -97133,6 +97447,7 @@ sort: by_weight
 好大啊	hao da a	100
 好哒大佬	hao da da lao	100
 好哒大王	hao da da wang	100
+好大的	hao da de	100
 好大的胆	hao da de dan	100
 好大的风	hao da de feng	100
 好大的官威啊	hao da de guan wei a	100
@@ -97141,6 +97456,7 @@ sort: by_weight
 好大的太阳	hao da de tai yang	100
 好大的雾	hao da de wu	100
 好大的雨	hao da de yu	100
+好大的雨啊	hao da de yu a	100
 好搭衣服	hao da yi fu	100
 好大一个瓜	hao da yi ge gua	100
 好大雨	hao da yu	100
@@ -97273,6 +97589,8 @@ sort: by_weight
 好多呀	hao duo ya	100
 豪夺渔取	hao duo yu qu	100
 好饿啊	hao e a	100
+好饿好饿	hao e hao e	100
+好饿好饿的	hao e hao e de	100
 好恶劣	hao e lie	100
 好饿呀	hao e ya	100
 昊恩家家	hao en jia jia	100
@@ -97329,6 +97647,7 @@ sort: by_weight
 好贵好贵	hao gui hao gui	100
 好规律	hao gui lv	100
 郝海东	hao hai dong	100
+好孩儿	hao hai er	100
 好还是不好	hao hai shi bu hao	100
 好还是坏	hao hai shi huai	100
 好孩子啊	hao hai zi a	100
@@ -97578,6 +97897,8 @@ sort: by_weight
 好久没聊	hao jiu mei liao	100
 好久没听	hao jiu mei ting	100
 好久没玩了	hao jiu mei wan le	100
+好久没写	hao jiu mei xie	100
+好久没写了	hao jiu mei xie le	100
 好久没有见	hao jiu mei you jian	100
 好酒贪杯	hao jiu tan bei	100
 好就行了	hao jiu xing le	100
@@ -98468,6 +98789,7 @@ sort: by_weight
 喝不掉	he bu diao	100
 喝不动	he bu dong	100
 喝不动了	he bu dong le	100
+喝不喝啊	he bu he a	100
 喝不喝茶	he bu he cha	100
 喝不喝茶啊	he bu he cha a	100
 喝不喝茶吧	he bu he cha ba	100
@@ -98548,6 +98870,7 @@ sort: by_weight
 喝不喝水哦	he bu he shui o	100
 喝不喝水哇	he bu he shui wa	100
 喝不喝水呀	he bu he shui ya	100
+喝不喝呀	he bu he ya	100
 喝不了酒	he bu liao jiu	100
 喝不了酒了	he bu liao jiu le	100
 喝不了了	he bu liao le	100
@@ -98788,6 +99111,7 @@ sort: by_weight
 河汉吾言	he han wu yan	100
 河汉予言	he han yu yan	100
 何豪杰	he hao jie	100
+喝好了吧	he hao le ba	100
 和好了吗	he hao le ma	100
 和好相处	he hao xiang chu	100
 核合成	he he cheng	100
@@ -98886,6 +99210,7 @@ sort: by_weight
 合金模型	he jin mo xing	100
 贺今朝	he jin zhao	100
 河静省	he jing sheng	100
+喝酒不喝酒	he jiu bu he jiu	100
 喝酒不开车	he jiu bu kai che	100
 喝酒不骑马	he jiu bu qi ma	100
 喝酒喝的	he jiu he de	100
@@ -98979,6 +99304,7 @@ sort: by_weight
 喝了几口	he le ji kou	100
 喝了假酒	he le jia jiu	100
 喝了酒后	he le jiu hou	100
+喝了酒了	he le jiu le	100
 喝了就是	he le jiu shi	100
 喝了咖啡	he le ka fei	100
 喝了口水	he le kou shui	100
@@ -98996,6 +99322,7 @@ sort: by_weight
 和乐融融	he le rong rong	100
 喝了什么	he le shen me	100
 喝了水	he le shui	100
+喝了水了	he le shui le	100
 喝了汤	he le tang	100
 和乐蟹	he le xie	100
 喝了些酒	he le xie jiu	100
@@ -99353,6 +99680,7 @@ sort: by_weight
 何年何月何日	he nian he yue he ri	100
 何年马月	he nian ma yue	100
 何女士	he nv shi	100
+核排放	he pai fang	100
 呵脬捧屁	he pao peng pi	100
 呵脬舐痔	he pao shi zhi	100
 何沛澄	he pei cheng	100
@@ -100451,6 +100779,7 @@ sort: by_weight
 很别扭	hen bie niu	100
 很不安	hen bu an	100
 很不错的	hen bu cuo de	100
+很不错的呀	hen bu cuo de ya	100
 很不错呀	hen bu cuo ya	100
 恨不得把	hen bu de ba	100
 很不地道	hen bu di dao	100
@@ -100959,7 +101288,12 @@ sort: by_weight
 很朴素	hen pu su	100
 很期待	hen qi dai	100
 很奇怪啊	hen qi guai a	100
+很奇怪的	hen qi guai de	100
 很奇怪的冲动	hen qi guai de chong dong	100
+很奇怪的人	hen qi guai de ren	100
+很奇怪的事	hen qi guai de shi	100
+很奇怪的事儿	hen qi guai de shi er	100
+很奇怪的事情	hen qi guai de shi qing	100
 很起劲	hen qi jin	100
 恨起来	hen qi lai	100
 很奇妙	hen qi miao	100
@@ -101017,6 +101351,7 @@ sort: by_weight
 很少了	hen shao le	100
 很少联系	hen shao lian xi	100
 很少上	hen shao shang	100
+很少数	hen shao shu	100
 很少说话	hen shao shuo hua	100
 很少用	hen shao yong	100
 很少有	hen shao you	100
@@ -101065,6 +101400,7 @@ sort: by_weight
 很受重视	hen shou zhong shi	100
 很舒服啊	hen shu fu a	100
 很舒服的感觉	hen shu fu de gan jue	100
+很舒适	hen shu shi	100
 很帅的	hen shuai de	100
 很帅了	hen shuai le	100
 很帅了啊	hen shuai le a	100
@@ -102438,6 +102774,7 @@ sort: by_weight
 后台匿名	hou tai ni ming	100
 后台上传	hou tai shang chuan	100
 后台审核	hou tai shen he	100
+后台刷新	hou tai shua xin	100
 后台系统	hou tai xi tong	100
 后台项目	hou tai xiang mu	100
 后台消息通知	hou tai xiao xi tong zhi	100
@@ -103013,6 +103350,7 @@ sort: by_weight
 互联网的一些事	hu lian wang de yi xie shi	100
 互联网等行业	hu lian wang deng hang ye	100
 互联网地图	hu lian wang di tu	100
+互联网服务的	hu lian wang fu wu de	100
 互联网服务行业	hu lian wang fu wu hang ye	100
 互联网跟帖评论	hu lian wang gen tie ping lun	100
 互联网跟帖评论服务管理规定	hu lian wang gen tie ping lun fu wu guan li gui ding	100
@@ -104516,8 +104854,10 @@ sort: by_weight
 华硕飞行堡垒	hua shuo fei xing bao lei	100
 华硕客服	hua shuo ke fu	100
 华硕路由器	hua shuo lu you qi	100
+话说你	hua shuo ni	100
 话说起来	hua shuo qi lai	100
 华硕售后	hua shuo shou hou	100
+话说天下大势	hua shuo tian xia da shi	100
 华硕娱乐场	hua shuo yu le chang	100
 划算得多	hua suan de duo	100
 花碎花	hua sui hua	100
@@ -105164,6 +105504,7 @@ sort: by_weight
 换点东西	huan dian dong xi	100
 换电模式	huan dian mo shi	100
 换电脑	huan dian nao	100
+换电脑了	huan dian nao le	100
 换电重卡	huan dian zhong ka	100
 换动作	huan dong zuo	100
 欢度重阳	huan du chong yang	100
@@ -105190,6 +105531,7 @@ sort: by_weight
 换发型	huan fa xing	100
 缓发中子	huan fa zhong zi	100
 环法自行车赛	huan fa zi xing che sai	100
+换方便	huan fang bian	100
 还房贷	huan fang dai	100
 换房旅游	huan fang lv you	100
 患肺癌的几率	huan fei ai de ji lv	100
@@ -105277,6 +105619,7 @@ sort: by_weight
 缓缓行	huan huan xing	100
 缓缓摇头	huan huan yao tou	100
 缓缓走来	huan huan zou lai	100
+换回来吧	huan hui lai ba	100
 换回了	huan hui le	100
 换回去	huan hui qu	100
 还魂草	huan hun cao	100
@@ -107520,10 +107863,14 @@ sort: by_weight
 回收行情	hui shou hang qing	100
 回收行业	hui shou hang ye	100
 回收回去	hui shou hui qu	100
+回收旧电脑	hui shou jiu dian nao	100
+回收旧家电	hui shou jiu jia dian	100
+回收旧手机	hui shou jiu shou ji	100
 回收力度	hui shou li du	100
 回收利用率	hui shou li yong lv	100
 回收量	hui shou liang	100
 回收率高	hui shou lv gao	100
+回收破烂	hui shou po lan	100
 回首山河	hui shou shan he	100
 回收商	hui shou shang	100
 回收体系	hui shou ti xi	100
@@ -107729,6 +108076,7 @@ sort: by_weight
 回忆先祖	hui yi xian zu	100
 会议性	hui yi xing	100
 会议宣读了	hui yi xuan du le	100
+会议用花	hui yi yong hua	100
 会议员	hui yi yuan	100
 会议展览	hui yi zhan lan	100
 会议中	hui yi zhong	100
@@ -107857,6 +108205,7 @@ sort: by_weight
 会着急	hui zhao ji	100
 会照看	hui zhao kan	100
 挥着翅膀的女孩	hui zhe chi bang de nv hai	100
+回这个	hui zhe ge	100
 回折格子	hui zhe ge zi	100
 会折寿	hui zhe shou	100
 会这样	hui zhe yang	100
@@ -109185,6 +109534,7 @@ sort: by_weight
 火焰斗篷	huo yan dou peng	100
 火焰高度	huo yan gao du	100
 火焰光度计	huo yan guang du ji	100
+火焰果实	huo yan guo shi	100
 火焰鸡	huo yan ji	100
 火眼金睛啊	huo yan jin jing a	100
 火眼金睛识真假	huo yan jin jing shi zhen jia	100
@@ -109364,6 +109714,7 @@ sort: by_weight
 鸡巴的鸡	ji ba de ji	100
 鸡巴好长	ji ba hao chang	100
 鸡巴好大	ji ba hao da	100
+鸡巴很大	ji ba hen da	100
 鸡巴坑爹	ji ba keng die	100
 鸡巴脸	ji ba lian	100
 鸡巴卵用	ji ba luan yong	100
@@ -109876,7 +110227,10 @@ sort: by_weight
 记得看	ji de kan	100
 记得快	ji de kuai	100
 记得牢	ji de lao	100
+记得牢啊	ji de lao a	100
+记得牢吗	ji de lao ma	100
 记得老师	ji de lao shi	100
+记得牢呀	ji de lao ya	100
 记得了	ji de le	100
 积德累功	ji de lei gong	100
 积德累仁	ji de lei ren	100
@@ -111080,6 +111434,7 @@ sort: by_weight
 极境修行	ji jing xiu xing	100
 寂静之地	ji jing zhi di	100
 急救法	ji jiu fa	100
+急救护士	ji jiu hu shi	100
 急救系统	ji jiu xi tong	100
 急救一下	ji jiu yi xia	100
 极具辨识度	ji ju bian shi du	100
@@ -111087,6 +111442,7 @@ sort: by_weight
 急剧恶化	ji ju e hua	100
 集聚高地	ji ju gao di	100
 棘句钩章	ji ju gou zhang	100
+几局几胜	ji ju ji sheng	100
 急剧降低	ji ju jiang di	100
 极具深度	ji ju shen du	100
 几句是非	ji ju shi fei	100
@@ -111182,6 +111538,7 @@ sort: by_weight
 积累了经验	ji lei le jing yan	100
 积累性	ji lei xing	100
 极冷龙卷	ji leng long juan	100
+基里安墨菲	ji li an mo fei	100
 吉利长城	ji li chang cheng	100
 祭礼长袍	ji li chang pao	100
 极力撮合	ji li cuo he	100
@@ -111396,6 +111753,8 @@ sort: by_weight
 寄卖店	ji mai dian	100
 急脉缓灸	ji mai huan jiu	100
 急脉缓受	ji mai huan shou	100
+即买即送	ji mai ji song	100
+即买即用	ji mai ji yong	100
 寄卖品	ji mai pin	100
 挤满了人	ji man le ren	100
 挤满了游客	ji man le you ke	100
@@ -111832,6 +112191,7 @@ sort: by_weight
 机身宽度	ji shen kuan du	100
 计深虑远	ji shen lv yuan	100
 记什么	ji shen me	100
+急什么啊	ji shen me a	100
 急什么急	ji shen me ji	100
 机身强度	ji shen qiang du	100
 机身温度	ji shen wen du	100
@@ -113028,6 +113388,7 @@ sort: by_weight
 济州上城	ji zhou shang cheng	100
 济州特别自治道	ji zhou te bie zi zhi dao	100
 击筑悲歌	ji zhu bei ge	100
+记住了吧	ji zhu le ba	100
 记住了吗	ji zhu le ma	100
 记住没	ji zhu mei	100
 记住你	ji zhu ni	100
@@ -113366,6 +113727,7 @@ sort: by_weight
 加队伍	jia dui wu	100
 贾队长	jia dui zhang	100
 加多宝	jia duo bao	100
+加多少钱	jia duo shao qian	100
 假恶丑	jia e chou	100
 甲二醇	jia er chun	100
 加尔迪亚	jia er di ya	100
@@ -113376,6 +113738,7 @@ sort: by_weight
 加尔鲁什	jia er lu shi	100
 加尔鲁什地狱咆哮	jia er lu shi di yu pao xiao	100
 家法伺候	jia fa ci hou	100
+假法官	jia fa guan	100
 驾帆船	jia fan chuan	100
 家饭了吗	jia fan le ma	100
 嫁反派	jia fan pai	100
@@ -113386,6 +113749,7 @@ sort: by_weight
 架飞机	jia fei ji	100
 加分法	jia fen fa	100
 加分后	jia fen hou	100
+加分机制	jia fen ji zhi	100
 加分扣分	jia fen kou fen	100
 家风传承	jia feng chuan cheng	100
 家风的传承	jia feng de chuan cheng	100
@@ -113416,6 +113780,7 @@ sort: by_weight
 价格非常便宜	jia ge fei chang pian yi	100
 价格幅度	jia ge fu du	100
 价格更便宜	jia ge geng pian yi	100
+价格贵吗	jia ge gui ma	100
 价格还便宜	jia ge hai pian yi	100
 价格行情参考	jia ge hang qing can kao	100
 加个好友	jia ge hao you	100
@@ -115062,6 +115427,7 @@ sort: by_weight
 见不了人	jian bu le ren	100
 剪不了	jian bu liao	100
 建不了	jian bu liao	100
+捡不了	jian bu liao	100
 建不了房间	jian bu liao fang jian	100
 减不了肥	jian bu liao fei	100
 间不容缓	jian bu rong huan	100
@@ -115152,6 +115518,7 @@ sort: by_weight
 检查署	jian cha shu	100
 检查宿舍	jian cha su she	100
 检查调整	jian cha tiao zheng	100
+检查网络连接	jian cha wang luo lian jie	100
 监察委员	jian cha wei yuan	100
 检察温度	jian cha wen du	100
 检查温度	jian cha wen du	100
@@ -115375,6 +115742,7 @@ sort: by_weight
 见德思齐	jian de si qi	100
 见得太少	jian de tai shao	100
 剪得有点乱	jian de you dian luan	100
+捡灯笼	jian deng long	100
 见底反弹	jian di fan tan	100
 箭底觅封侯	jian di mi feng hou	100
 减低速度	jian di su du	100
@@ -115447,6 +115815,7 @@ sort: by_weight
 简短介绍	jian duan jie shao	100
 剪断了	jian duan le	100
 剪短了头发	jian duan le tou fa	100
+剑断人亡	jian duan ren wang	100
 简短一点	jian duan yi dian	100
 间断运行	jian duan yun xing	100
 舰队国际	jian dui guo ji	100
@@ -121813,6 +122182,8 @@ sort: by_weight
 紧迫钉人	jin po ding ren	100
 金坡苗族彝族满族乡	jin po miao zu yi zu man zu xiang	100
 金仆姑	jin pu gu	100
+近期大事	jin qi da shi	100
+近期大事儿	jin qi da shi er	100
 近期的反弹	jin qi de fan tan	100
 近期的行情	jin qi de hang qing	100
 金起范	jin qi fan	100
@@ -122325,6 +122696,7 @@ sort: by_weight
 今天冲高回落	jin tian chong gao hui luo	100
 今天出成绩	jin tian chu cheng ji	100
 今天出分	jin tian chu fen	100
+今天处暑	jin tian chu shu	100
 今天穿什么	jin tian chuan shen me	100
 今天打游戏	jin tian da you xi	100
 今天的反弹	jin tian de fan tan	100
@@ -122347,6 +122719,8 @@ sort: by_weight
 今天风好大	jin tian feng hao da	100
 今天父亲节	jin tian fu qin jie	100
 今天复试	jin tian fu shi	100
+今天刚更新	jin tian gang geng xin	100
+今天刚更新了	jin tian gang geng xin le	100
 今天刚回来	jin tian gang hui lai	100
 今天刚上班	jin tian gang shang ban	100
 今天故事的主角	jin tian gu shi de zhu jue	100
@@ -122360,6 +122734,8 @@ sort: by_weight
 今天和昨天	jin tian he zuo tian	100
 今天回学校	jin tian hui xue xiao	100
 今天解封	jin tian jie feng	100
+今天就放假	jin tian jiu fang jia	100
+今天就放假了	jin tian jiu fang jia le	100
 今天举行	jin tian ju xing	100
 今天开工	jin tian kai gong	100
 今天开门	jin tian kai men	100
@@ -122377,8 +122753,15 @@ sort: by_weight
 今天没上班吗	jin tian mei shang ban ma	100
 今天没有上班吗	jin tian mei you shang ban ma	100
 今天母亲节	jin tian mu qin jie	100
+今天能发货	jin tian neng fa huo	100
+今天能发货不	jin tian neng fa huo bu	100
+今天能发货吗	jin tian neng fa huo ma	100
+今天你	jin tian ni	100
+今天你的	jin tian ni de	100
 今天你对我	jin tian ni dui wo	100
+今天你们	jin tian ni men	100
 今天女神节	jin tian nv shen jie	100
+今天排	jin tian pai	100
 今天平安夜	jin tian ping an ye	100
 今天情人节	jin tian qing ren jie	100
 今天去	jin tian qu	100
@@ -122395,11 +122778,15 @@ sort: by_weight
 今天是个	jin tian shi ge	100
 今天是个好日子	jin tian shi ge hao ri zi	100
 今天是来	jin tian shi lai	100
+今天十六	jin tian shi liu	100
 今天是母亲节	jin tian shi mu qin jie	100
 今天是什么	jin tian shi shen me	100
 今天是什么节日	jin tian shi shen me jie ri	100
 今天是什么日子	jin tian shi shen me ri zi	100
 今天是小年	jin tian shi xiao nian	100
+今天收假	jin tian shou jia	100
+今天霜降	jin tian shuang jiang	100
+今天他们	jin tian ta men	100
 今天太冷	jin tian tai leng	100
 今天特别	jin tian te bie	100
 今天特别高兴	jin tian te bie gao xing	100
@@ -122412,6 +122799,9 @@ sort: by_weight
 今天晚上吃什么	jin tian wan shang chi shen me	100
 今天晚上开什么码	jin tian wan shang kai shen me ma	100
 今天我生日	jin tian wo sheng ri	100
+今天下午考	jin tian xia wu kao	100
+今天下午考完	jin tian xia wu kao wan	100
+今天下午考完了	jin tian xia wu kao wan le	100
 今天下雨了	jin tian xia yu le	100
 今天相见	jin tian xiang jian	100
 今天小年	jin tian xiao nian	100
@@ -122609,6 +122999,7 @@ sort: by_weight
 进行核对	jin xing he dui	100
 进行计算	jin xing ji suan	100
 进行家访	jin xing jia fang	100
+进行加密	jin xing jia mi	100
 谨行俭用	jin xing jian yong	100
 进行解释	jin xing jie shi	100
 进行会计核算	jin xing kuai ji he suan	100
@@ -123260,6 +123651,7 @@ sort: by_weight
 精度标准	jing du biao zhun	100
 精度不高	jing du bu gao	100
 精度不够	jing du bu gou	100
+精度不够了	jing du bu gou le	100
 京都不死鸟	jing du bu si niao	100
 精度测量	jing du ce liang	100
 精度测试	jing du ce shi	100
@@ -125433,6 +125825,9 @@ sort: by_weight
 就更简单	jiu geng jian dan	100
 就更简单了	jiu geng jian dan le	100
 就更稳了	jiu geng wen le	100
+九宫格布局	jiu gong ge bu ju	100
+九宫格方案	jiu gong ge fang an	100
+九宫格键盘	jiu gong ge jian pan	100
 九宫格数独	jiu gong ge shu du	100
 九宫格输入法	jiu gong ge shu ru fa	100
 九宫键	jiu gong jian	100
@@ -125500,6 +125895,7 @@ sort: by_weight
 就很棒了	jiu hen bang le	100
 就很棒了哦	jiu hen bang le o	100
 就很棒哦	jiu hen bang o	100
+就很好呀	jiu hen hao ya	100
 就很灵性	jiu hen ling xing	100
 就很灵性了	jiu hen ling xing le	100
 就很危险	jiu hen wei xian	100
@@ -125557,6 +125953,7 @@ sort: by_weight
 九几折	jiu ji zhe	100
 救济制度	jiu ji zhi du	100
 救驾来迟	jiu jia lai chi	100
+酒驾了	jiu jia le	100
 酒家女	jiu jia nv	100
 酒驾整治行动	jiu jia zheng zhi xing dong	100
 九键布局	jiu jian bu ju	100
@@ -128383,6 +128780,7 @@ sort: by_weight
 举杯敬	ju bei jing	100
 举杯敬了	ju bei jing le	100
 举杯敬了一圈	ju bei jing le yi quan	100
+举杯敬往后	ju bei jing wang hou	100
 具备什么	ju bei shen me	100
 具备一定规模	ju bei yi ding gui mo	100
 剧本会	ju ben hui	100
@@ -128661,7 +129059,9 @@ sort: by_weight
 拒绝广告	ju jue guang gao	100
 拒绝归还	ju jue gui huan	100
 咀嚼过	ju jue guo	100
+拒绝国产	ju jue guo chan	100
 拒绝过度	ju jue guo du	100
+拒绝国货	ju jue guo huo	100
 拒绝和谈	ju jue he tan	100
 咀嚼和吞咽	ju jue he tun yan	100
 咀嚼和消化	ju jue he xiao hua	100
@@ -128670,6 +129070,7 @@ sort: by_weight
 拒绝黄	ju jue huang	100
 拒绝黄赌毒	ju jue huang du du	100
 拒绝加班	ju jue jia ban	100
+拒绝焦虑	ju jue jiao lv	100
 咀嚼口香糖	ju jue kou xiang tang	100
 拒绝浪费	ju jue lang fei	100
 拒绝了你	ju jue le ni	100
@@ -128685,6 +129086,7 @@ sort: by_weight
 咀嚼能力	ju jue neng li	100
 拒绝你	ju jue ni	100
 咀嚼起来	ju jue qi lai	100
+拒绝日货	ju jue ri huo	100
 咀嚼声	ju jue sheng	100
 咀嚼时	ju jue shi	100
 咀嚼食物	ju jue shi wu	100
@@ -128841,6 +129243,7 @@ sort: by_weight
 居民小组长	ju min xiao zu zhang	100
 居民休闲娱乐	ju min xiu xian yu le	100
 居民医保参保	ju min yi bao can bao	100
+居民用水	ju min yong shui	100
 居民院落	ju min yuan luo	100
 居民组长	ju min zu zhang	100
 狙魔女杰	ju mo nv jie	100
@@ -128923,6 +129326,8 @@ sort: by_weight
 居然没	ju ran mei	100
 居然没发现	ju ran mei fa xian	100
 居然没理会	ju ran mei li hui	100
+居然没有	ju ran mei you	100
+居然没有一个	ju ran mei you yi ge	100
 居然是个	ju ran shi ge	100
 居然是来	ju ran shi lai	100
 居然是那	ju ran shi na	100
@@ -129663,6 +130068,7 @@ sort: by_weight
 觉得无聊	jue de wu liao	100
 觉得无所谓	jue de wu suo wei	100
 觉得喜欢	jue de xi huan	100
+觉得心慌	jue de xin huang	100
 觉得辛苦	jue de xin ku	100
 觉得新奇	jue de xin qi	100
 觉得心酸	jue de xin suan	100
@@ -129786,6 +130192,7 @@ sort: by_weight
 绝对不会听的	jue dui bu hui ting de	100
 绝对不能错过	jue dui bu neng cuo guo	100
 绝对不能有	jue dui bu neng you	100
+绝对不容忍	jue dui bu rong ren	100
 绝对不是问题	jue dui bu shi wen ti	100
 绝对参照	jue dui can zhao	100
 绝对大多数	jue dui da duo shu	100
@@ -131314,6 +131721,7 @@ sort: by_weight
 开普勒斯	kai pu le si	100
 开普勒太空望远镜	kai pu le tai kong wang yuan jing	100
 开普勒望远镜	kai pu le wang yuan jing	100
+开启按钮	kai qi an niu	100
 开启霸屏模式	kai qi ba ping mo shi	100
 开启宝箱	kai qi bao xiang	100
 开启不开启	kai qi bu kai qi	100
@@ -131794,6 +132202,7 @@ sort: by_weight
 看不出真假	kan bu chu zhen jia	100
 看不到的	kan bu dao de	100
 看不到的地方	kan bu dao de di fang	100
+看不到内容	kan bu dao nei rong	100
 看不到你啊	kan bu dao ni a	100
 看不到你了	kan bu dao ni le	100
 看不到什么	kan bu dao shen me	100
@@ -131803,6 +132212,7 @@ sort: by_weight
 看不懂了	kan bu dong le	100
 看不懂没关系	kan bu dong mei guan xi	100
 看不分明	kan bu fen ming	100
+看不够啊	kan bu gou a	100
 看不见边际	kan bu jian bian ji	100
 看不见的地方	kan bu jian de di fang	100
 看不见的角落	kan bu jian de jiao luo	100
@@ -131811,7 +132221,10 @@ sort: by_weight
 看不见你呀	kan bu jian ni ya	100
 看不见天	kan bu jian tian	100
 看不见罪的国度	kan bu jian zui de guo du	100
+看不看得见	kan bu kan de jian	100
 看不看电影	kan bu kan dian ying	100
+看不看书	kan bu kan shu	100
+看不看书啊	kan bu kan shu a	100
 看不了了	kan bu liao le	100
 看不明白	kan bu ming bai	100
 看不腻	kan bu ni	100
@@ -131831,6 +132244,8 @@ sort: by_weight
 看不透未来	kan bu tou wei lai	100
 看不习惯	kan bu xi guan	100
 看不下去了	kan bu xia qu le	100
+看不着啊	kan bu zhao a	100
+看不着呀	kan bu zhao ya	100
 看不中	kan bu zhong	100
 看财奴	kan cai nu	100
 看参数	kan can shu	100
@@ -131907,6 +132322,7 @@ sort: by_weight
 看到了他	kan dao le ta	100
 看到了未来	kan dao le wei lai	100
 看到了希望	kan dao le xi wang	100
+看到了一个	kan dao le yi ge	100
 看到了一切	kan dao le yi qie	100
 看到了这	kan dao le zhe	100
 看到了这儿	kan dao le zhe er	100
@@ -131945,6 +132361,7 @@ sort: by_weight
 看得到吧	kan de dao ba	100
 看得到不	kan de dao bu	100
 看得到的地方	kan de dao de di fang	100
+看得到吗	kan de dao ma	100
 看得到希望	kan de dao xi wang	100
 看得懂吧	kan de dong ba	100
 看得多	kan de duo	100
@@ -131967,6 +132384,8 @@ sort: by_weight
 看得很开心	kan de hen kai xin	100
 看得很明白	kan de hen ming bai	100
 看得很清楚	kan de hen qing chu	100
+看得很清楚啊	kan de hen qing chu a	100
+看得很清楚呀	kan de hen qing chu ya	100
 看得很爽	kan de hen shuang	100
 看得很重	kan de hen zhong	100
 看得见吧	kan de jian ba	100
@@ -131996,6 +132415,7 @@ sort: by_weight
 看得起病	kan de qi bing	100
 看得起谁	kan de qi shei	100
 看得起谁	kan de qi shui	100
+看得清楚吗	kan de qing chu ma	100
 看得清清楚楚	kan de qing qing chu chu	100
 看得清晰	kan de qing xi	100
 看得热泪盈眶	kan de re lei ying kuang	100
@@ -132024,6 +132444,7 @@ sort: by_weight
 看得下去	kan de xia qu	100
 看得眼花缭乱	kan de yan hua liao luan	100
 看得一清二楚	kan de yi qing er chu	100
+看得着吗	kan de zhao ma	100
 看得真切	kan de zhen qie	100
 看得正入迷	kan de zheng ru mi	100
 看得直	kan de zhi	100
@@ -132204,6 +132625,7 @@ sort: by_weight
 看看你可以吗	kan kan ni ke yi ma	100
 看看你行吗	kan kan ni xing ma	100
 看看你自己	kan kan ni zi ji	100
+看看片儿	kan kan pian er	100
 看看去	kan kan qu	100
 看看伤口	kan kan shang kou	100
 看看上下	kan kan shang xia	100
@@ -132367,6 +132789,7 @@ sort: by_weight
 看落叶	kan luo ye	100
 看麦娘	kan mai niang	100
 看漫展	kan man zhan	100
+看毛片儿	kan mao pian er	100
 看没看	kan mei kan	100
 看没看到	kan mei kan dao	100
 看没看到啊	kan mei kan dao a	100
@@ -132375,6 +132798,11 @@ sort: by_weight
 看没看见	kan mei kan jian	100
 看没看见啊	kan mei kan jian a	100
 看没看见呀	kan mei kan jian ya	100
+看没看清	kan mei kan qing	100
+看没看清啊	kan mei kan qing a	100
+看没看清楚	kan mei kan qing chu	100
+看没看清楚啊	kan mei kan qing chu a	100
+看没看清楚呀	kan mei kan qing chu ya	100
 看梅西	kan mei xi	100
 看梦华录	kan meng hua lu	100
 看懵了	kan meng le	100
@@ -132403,6 +132831,8 @@ sort: by_weight
 看你们	kan ni men	100
 看你那边	kan ni na bian	100
 看你那边儿	kan ni na bian er	100
+看你是	kan ni shi	100
+看你是要	kan ni shi yao	100
 看你像个	kan ni xiang ge	100
 看你笑话	kan ni xiao hua	100
 看你心意	kan ni xin yi	100
@@ -132418,6 +132848,7 @@ sort: by_weight
 看排球	kan pai qiu	100
 坎培拉	kan pei la	100
 看片地址	kan pian di zhi	100
+看片儿	kan pian er	100
 看片基地	kan pian ji di	100
 看评论区	kan ping lun qu	100
 看破不说破	kan po bu shuo po	100
@@ -132623,6 +133054,7 @@ sort: by_weight
 看图猜谜	kan tu cai mi	100
 看推特	kan tui te	100
 看外婆	kan wai po	100
+看外网	kan wai wang	100
 看完电视	kan wan dian shi	100
 看完电影	kan wan dian ying	100
 看完就分手	kan wan jiu fen shou	100
@@ -133006,6 +133438,7 @@ sort: by_weight
 看重颜值	kan zhong yan zhi	100
 看中医调理	kan zhong yi tiao li	100
 看重自己	kan zhong zi ji	100
+看准了	kan zhun le	100
 看自己	kan zi ji	100
 看自己了	kan zi ji le	100
 看仔细	kan zi xi	100
@@ -133028,6 +133461,8 @@ sort: by_weight
 抗病能力下降	kang bing neng li xia jiang	100
 康伯巴奇	kang bo ba qi	100
 康柏西普	kang bo xi pu	100
+抗不抗	kang bu kang	100
+扛不扛揍	kang bu kang zou	100
 扛不住了	kang bu zhu le	100
 糠菜半年粮	kang cai ban nian liang	100
 康采恩	kang cai en	100
@@ -133240,6 +133675,7 @@ sort: by_weight
 扛住了	kang zhu le	100
 扛住了生活	kang zhu le sheng huo	100
 康庄大路	kang zhuang da lu	100
+扛走了	kang zou le	100
 抗组胺	kang zu an	100
 抗组织胺	kang zu zhi an	100
 靠岸边	kao an bian	100
@@ -133570,6 +134006,7 @@ sort: by_weight
 考完咯考完教资	kao wan lo kao wan jiao zi	100
 考完喽	kao wan lou	100
 考完试了	kao wan shi le	100
+考完试了吗	kao wan shi le ma	100
 考完试了嘛	kao wan shi le ma	100
 考完四级了	kao wan si ji le	100
 考完一科	kao wan yi ke	100
@@ -134626,7 +135063,9 @@ sort: by_weight
 可能你会觉得	ke neng ni hui jue de	100
 可能去了	ke neng qu le	100
 可能稍微	ke neng shao wei	100
+可能是的	ke neng shi de	100
 可能适得其反	ke neng shi de qi fan	100
+可能使人	ke neng shi ren	100
 可能是什么	ke neng shi shen me	100
 可能是遗传	ke neng shi yi chuan	100
 可能下调	ke neng xia tiao	100
@@ -135260,7 +135699,9 @@ sort: by_weight
 可以看得出来	ke yi kan de chu lai	100
 可以看得见	ke yi kan de jian	100
 可以看得清清楚楚	ke yi kan de qing qing chu chu	100
+可以看看	ke yi kan kan	100
 可以看看你吗	ke yi kan kan ni ma	100
+可以看一下	ke yi kan yi xia	100
 可以考虑考虑	ke yi kao lv kao lv	100
 可以考虑一下	ke yi kao lv yi xia	100
 可以靠着	ke yi kao zhe	100
@@ -135681,6 +136122,7 @@ sort: by_weight
 坑爹呐	keng die na	100
 坑爹呢	keng die ne	100
 坑爹呢吧	keng die ne ba	100
+坑爹呢不是	keng die ne bu shi	100
 坑爹呢这是	keng die ne zhe shi	100
 坑爹玩意	keng die wan yi	100
 坑队友	keng dui you	100
@@ -135827,6 +136269,7 @@ sort: by_weight
 空间背景音乐	kong jian bei jing yin yue	100
 空间壁	kong jian bi	100
 空间补丁	kong jian bu ding	100
+空间不足	kong jian bu zu	100
 空间尺度	kong jian chi du	100
 空间重生	kong jian chong sheng	100
 空间传送	kong jian chuan song	100
@@ -136910,6 +137353,8 @@ sort: by_weight
 枯株朽木	ku zhu xiu mu	100
 裤子的长度	ku zi de chang du	100
 裤子都脱了	ku zi dou tuo le	100
+裤子里	ku zi li	100
+裤子里面	ku zi li mian	100
 库兹涅佐娃	ku zi nie zuo wa	100
 裤子太长	ku zi tai chang	100
 裤子脱了	ku zi tuo le	100
@@ -137115,6 +137560,8 @@ sort: by_weight
 快被挤成一团麻花	kuai bei ji cheng yi tuan ma hua	100
 快闭嘴	kuai bi zui	100
 快闭嘴吧	kuai bi zui ba	100
+快别哔哔了	kuai bie bi bi le	100
+快别逼逼了	kuai bie bi bi le	100
 快禀报	kuai bing bao	100
 快播案	kuai bo an	100
 快不快乐啊	kuai bu kuai le a	100
@@ -137461,6 +137908,7 @@ sort: by_weight
 快拉倒	kuai la dao	100
 快拉到	kuai la dao	100
 快拉倒吧	kuai la dao ba	100
+快拉倒吧你	kuai la dao ba ni	100
 快拉鸡巴倒	kuai la ji ba dao	100
 快来吧	kuai lai ba	100
 快来帮忙	kuai lai bang mang	100
@@ -138319,6 +138767,7 @@ sort: by_weight
 昆明房地产	kun ming fang di chan	100
 昆明分行	kun ming fen hang	100
 困难程度	kun nan cheng du	100
+困难重重啊	kun nan chong chong a	100
 困难的	kun nan de	100
 困难得多	kun nan de duo	100
 困难的境地	kun nan de jing di	100
@@ -139101,9 +139550,11 @@ sort: by_weight
 来回的话	lai hui de hua	100
 来回横跳	lai hui heng tiao	100
 来回晃	lai hui huang	100
+来回几次	lai hui ji ci	100
 来回就这么	lai hui jiu zhe me	100
 来回就这么一句	lai hui jiu zhe me yi ju	100
 来回来去地	lai hui lai qu de	100
+来回了几次	lai hui le ji ci	100
 来回票	lai hui piao	100
 来回上下	lai hui shang xia	100
 来回一趟	lai hui yi tang	100
@@ -139152,6 +139603,7 @@ sort: by_weight
 来了吧	lai le ba	100
 来了个	lai le ge	100
 来了个新人	lai le ge xin ren	100
+来了几个	lai le ji ge	100
 来了就好了	lai le jiu hao le	100
 来了就是	lai le jiu shi	100
 来了就是深圳人	lai le jiu shi shen zhen ren	100
@@ -139456,6 +139908,8 @@ sort: by_weight
 懒得去想	lan de qu xiang	100
 懒得去做	lan de qu zuo	100
 懒得删	lan de shan	100
+懒得升级	lan de sheng ji	100
+懒得升级了	lan de sheng ji le	100
 懒得收拾	lan de shou shi	100
 懒得刷了	lan de shua le	100
 懒得说	lan de shuo	100
@@ -139739,6 +140193,7 @@ sort: by_weight
 蓝牙双模	lan ya shuang mo	100
 蓝牙系统	lan ya xi tong	100
 蓝眼泪	lan yan lei	100
+蓝眼武士	lan yan wu shi	100
 懒洋洋地	lan yang yang de	100
 懒羊羊夸夸	lan yang yang kua kua	100
 烂叶菜	lan ye cai	100
@@ -140236,7 +140691,6 @@ sort: by_weight
 老化速度	lao hua su du	100
 老化严重	lao hua yan zhong	100
 老花样	lao hua yang	100
-老黄历	lao huang li	100
 老黄埔	lao huang pu	100
 老会员	lao hui yuan	100
 老会长	lao hui zhang	100
@@ -140748,6 +141202,7 @@ sort: by_weight
 乐从镇	le cong zhen	100
 乐道安贫	le dao an pin	100
 乐道甘贫	le dao gan pin	100
+乐到开花	le dao kai hua	100
 乐道忘饥	le dao wang ji	100
 乐得不行	le de bu xing	100
 乐得不行了	le de bu xing le	100
@@ -141593,6 +142048,7 @@ sort: by_weight
 冷冷的冰雨	leng leng de bing yu	100
 愣愣地看着	leng leng de kan zhe	100
 冷冷地说	leng leng de shuo	100
+冷冷果实	leng leng guo shi	100
 冷冷寂寂	leng leng ji ji	100
 冷冷静静	leng leng jing jing	100
 冷链行业	leng lian hang ye	100
@@ -141794,6 +142250,7 @@ sort: by_weight
 理不理解啊	li bu li jie a	100
 理不理解呀	li bu li jie ya	100
 离不离开啊	li bu li kai a	100
+离不离去啊	li bu li qu a	100
 理不理我	li bu li wo	100
 理不理想	li bu li xiang	100
 理不理想啊	li bu li xiang a	100
@@ -142490,6 +142947,7 @@ sort: by_weight
 历练老成	li lian lao cheng	100
 历练之地	li lian zhi di	100
 力量宝石	li liang bao shi	100
+力量不够了	li liang bu gou le	100
 力量差距	li liang cha ju	100
 力量大	li liang da	100
 力量党	li liang dang	100
@@ -144663,6 +145121,7 @@ sort: by_weight
 两点一线	liang dian yi xian	100
 亮度变化	liang du bian hua	100
 亮度不够	liang du bu gou	100
+亮度不够了	liang du bu gou le	100
 亮度不足	liang du bu zu	100
 亮度大	liang du da	100
 亮度对比度	liang du dui bi du	100
@@ -153844,6 +154303,8 @@ sort: by_weight
 马上就到	ma shang jiu dao	100
 马上就到啦	ma shang jiu dao la	100
 马上就到了	ma shang jiu dao le	100
+马上就放假	ma shang jiu fang jia	100
+马上就放假了	ma shang jiu fang jia le	100
 马上就好	ma shang jiu hao	100
 马上就好了	ma shang jiu hao le	100
 马上就截止	ma shang jiu jie zhi	100
@@ -153854,6 +154315,8 @@ sort: by_weight
 马上就睡了	ma shang jiu shui le	100
 马上就要来	ma shang jiu yao lai	100
 马上就有	ma shang jiu you	100
+马上就知道	ma shang jiu zhi dao	100
+马上就知道了	ma shang jiu zhi dao le	100
 马上开始	ma shang kai shi	100
 马上开始了	ma shang kai shi le	100
 马上来	ma shang lai	100
@@ -153865,6 +154328,7 @@ sort: by_weight
 马上没电	ma shang mei dian	100
 马上没电了	ma shang mei dian le	100
 马上拿过去	ma shang na guo qu	100
+马上你就知道	ma shang ni jiu zhi dao	100
 马上墙头	ma shang qiang tou	100
 马上清零	ma shang qing ling	100
 马上清明	ma shang qing ming	100
@@ -155068,6 +155532,7 @@ sort: by_weight
 瞒报行程	man bao xing cheng	100
 曼比季地区	man bi ji di qu	100
 蛮不错的	man bu cuo de	100
+蛮不错的嘛	man bu cuo de ma	100
 慢不得	man bu de	100
 慢不得的危机感	man bu de de wei ji gan	100
 漫不加意	man bu jia yi	100
@@ -155294,7 +155759,6 @@ sort: by_weight
 慢慢长	man man chang	100
 漫漫长路上	man man chang lu shang	100
 漫漫长途	man man chang tu	100
-慢慢长夜	man man chang ye	100
 漫漫长征路	man man chang zheng lu	100
 慢慢抄	man man chao	100
 慢慢成长	man man cheng zhang	100
@@ -155446,6 +155910,7 @@ sort: by_weight
 满乾坤	man qian kun	100
 满腔愤懑	man qiang fen men	100
 曼切斯特	man qie si te	100
+满清朝廷	man qing chao ting	100
 满清帝国	man qing di guo	100
 满清末年	man qing mo nian	100
 满清十大酷刑	man qing shi da ku xing	100
@@ -156425,7 +156890,10 @@ sort: by_weight
 没吃到	mei chi dao	100
 没迟到	mei chi dao	100
 没吃的	mei chi de	100
+没吃饭啊	mei chi fan a	100
+没吃饭吧	mei chi fan ba	100
 没吃饭吗	mei chi fan ma	100
+没吃饭呀	mei chi fan ya	100
 没吃够	mei chi gou	100
 没吃过饭	mei chi guo fan	100
 没吃过饭似的	mei chi guo fan shi de	100
@@ -156443,6 +156911,7 @@ sort: by_weight
 没吃完	mei chi wan	100
 没吃晚饭	mei chi wan fan	100
 没吃药	mei chi yao	100
+没吃药吧	mei chi yao ba	100
 没吃早饭	mei chi zao fan	100
 没冲动	mei chong dong	100
 没充钱	mei chong qian	100
@@ -156451,6 +156920,7 @@ sort: by_weight
 没抽过风	mei chou guo feng	100
 没抽卡	mei chou ka	100
 没出成绩	mei chu cheng ji	100
+没出大问题	mei chu da wen ti	100
 没处发	mei chu fa	100
 没处放	mei chu fang	100
 没出分	mei chu fen	100
@@ -156484,6 +156954,7 @@ sort: by_weight
 没出省	mei chu sheng	100
 没出手	mei chu shou	100
 没出太阳	mei chu tai yang	100
+没出问题	mei chu wen ti	100
 没出息的孩子	mei chu xi de hai zi	100
 没出息的男人	mei chu xi de nan ren	100
 没出现过	mei chu xian guo	100
@@ -157087,8 +157558,10 @@ sort: by_weight
 每个孩子都能	mei ge hai zi dou neng	100
 每个孩子都是天使	mei ge hai zi dou shi tian shi	100
 每个行业	mei ge hang ye	100
+每个号	mei ge hao	100
 没个好结果	mei ge hao jie guo	100
 每个号可领取	mei ge hao ke ling qu	100
+每个号码	mei ge hao ma	100
 没个黑家白日的	mei ge hei jia bai ri de	100
 每个家长	mei ge jia zhang	100
 没个见识	mei ge jian shi	100
@@ -157184,6 +157657,7 @@ sort: by_weight
 没工具	mei gong ju	100
 没公开	mei gong kai	100
 没公司	mei gong si	100
+没共同话题	mei gong tong hua ti	100
 没共同语言	mei gong tong yu yan	100
 没恭喜过	mei gong xi guo	100
 没工资	mei gong zi	100
@@ -157223,6 +157697,18 @@ sort: by_weight
 没观众	mei guan zhong	100
 没关注	mei guan zhu	100
 没广告	mei guang gao	100
+没逛个遍	mei guang ge bian	100
+没逛个街	mei guang ge jie	100
+没逛公园	mei guang gong yuan	100
+没逛逛	mei guang guang	100
+没逛花灯	mei guang hua deng	100
+没逛商场	mei guang shang chang	100
+没逛商店	mei guang shang dian	100
+没逛淘宝	mei guang tao bao	100
+没逛一次	mei guang yi ci	100
+没逛一逛	mei guang yi guang	100
+没逛一圈	mei guang yi quan	100
+没逛一下	mei guang yi xia	100
 没光泽	mei guang ze	100
 玫瑰不管叫啥名	mei gui bu guan jiao sha ming	100
 玫瑰到了花期	mei gui dao le hua qi	100
@@ -157767,6 +158253,7 @@ sort: by_weight
 没经允许	mei jing yun xu	100
 没竞争力	mei jing zheng li	100
 美酒果蔬	mei jiu guo shu	100
+没酒喝了	mei jiu he le	100
 美酒佳酿	mei jiu jia niang	100
 没救讲了	mei jiu jiang le	100
 梅九亮	mei jiu liang	100
@@ -157824,6 +158311,7 @@ sort: by_weight
 没看到其他	mei kan dao qi ta	100
 没看点	mei kan dian	100
 没看够	mei kan gou	100
+没看够呢	mei kan gou ne	100
 没看过吧	mei kan guo ba	100
 没看过的朋友	mei kan guo de peng you	100
 没看过漫画	mei kan guo man hua	100
@@ -158153,6 +158641,7 @@ sort: by_weight
 没名额	mei ming e	100
 没名分	mei ming fen	100
 没命花	mei ming hua	100
+没命花了	mei ming hua le	100
 没命了	mei ming le	100
 没名没份	mei ming mei fen	100
 没名没分	mei ming mei fen	100
@@ -158472,6 +158961,7 @@ sort: by_weight
 没牵挂	mei qian gua	100
 没签合同	mei qian he tong	100
 没钱花	mei qian hua	100
+没钱花了	mei qian hua le	100
 没钱还	mei qian huan	100
 没钱还债	mei qian huan zhai	100
 没钱回家	mei qian hui jia	100
@@ -158536,6 +159026,7 @@ sort: by_weight
 没渠道	mei qu dao	100
 没去抵抗	mei qu di kang	100
 没去跟	mei qu gen	100
+没去逛逛	mei qu guang guang	100
 没去纠结	mei qu jiu jie	100
 没去看	mei qu kan	100
 没去理	mei qu li	100
@@ -158672,6 +159163,7 @@ sort: by_weight
 没人能管理	mei ren neng guan li	100
 没人能救	mei ren neng jiu	100
 没人能说	mei ren neng shuo	100
+没人能说清楚	mei ren neng shuo qing chu	100
 没人能想到	mei ren neng xiang dao	100
 没人能知道	mei ren neng zhi dao	100
 没人能做	mei ren neng zuo	100
@@ -158859,6 +159351,7 @@ sort: by_weight
 没啥人	mei sha ren	100
 没杀人	mei sha ren	100
 没啥事吧	mei sha shi ba	100
+没啥说法	mei sha shuo fa	100
 没啥特别	mei sha te bie	100
 没啥特点	mei sha te dian	100
 没啥推荐的	mei sha tui jian de	100
@@ -159073,6 +159566,7 @@ sort: by_weight
 没什么事了	mei shen me shi liao	100
 没什么事情	mei shen me shi qing	100
 没什么事做	mei shen me shi zuo	100
+没什么说法	mei shen me shuo fa	100
 没什么太大问题	mei shen me tai da wen ti	100
 没什么特别	mei shen me te bie	100
 没什么特别的感觉	mei shen me te bie de gan jue	100
@@ -159818,6 +160312,7 @@ sort: by_weight
 没想法吧	mei xiang fa ba	100
 没想法了	mei xiang fa le	100
 没想法吗	mei xiang fa ma	100
+没想法呀	mei xiang fa ya	100
 没想过放弃	mei xiang guo fang qi	100
 没想好呢	mei xiang hao ne	100
 没想力战	mei xiang li zhan	100
@@ -160191,6 +160686,7 @@ sort: by_weight
 没有法子	mei you fa zi	100
 没有反驳	mei you fan bo	100
 没有反感	mei you fan gan	100
+没有犯规	mei you fan gui	100
 没有饭了吗	mei you fan le ma	100
 没有烦恼	mei you fan nao	100
 没有房	mei you fang	100
@@ -160539,6 +161035,7 @@ sort: by_weight
 没有伞的孩子	mei you san de hai zi	100
 没有色彩	mei you se cai	100
 没有刹车	mei you sha che	100
+没有杀过人	mei you sha guo ren	100
 没有杀害	mei you sha hai	100
 没有上班啊	mei you shang ban a	100
 没有上帝	mei you shang di	100
@@ -160744,6 +161241,8 @@ sort: by_weight
 没有艺术追求	mei you yi shu zhui qiu	100
 没有一丝的愧疚	mei you yi si de kui jiu	100
 没有意外	mei you yi wai	100
+没有意外的	mei you yi wai de	100
+没有意外的话	mei you yi wai de hua	100
 没有异议	mei you yi yi	100
 没有意义了	mei you yi yi le	100
 没有银弹	mei you yin dan	100
@@ -161140,6 +161639,7 @@ sort: by_weight
 门打开了	men da kai le	100
 门殚户尽	men dan hu jin	100
 门到户说	men dao hu shuo	100
+闷得儿蜜	men de er mi	100
 门店地图	men dian di tu	100
 门店地址	men dian di zhi	100
 门店店长	men dian dian zhang	100
@@ -162513,6 +163013,9 @@ sort: by_weight
 秒变大长腿	miao bian da chang tui	100
 描边儿	miao bian er	100
 缪伯英	miao bo ying	100
+渺不渺小	miao bu miao xiao	100
+渺不渺小啊	miao bu miao xiao a	100
+渺不渺小呀	miao bu miao xiao ya	100
 瞄不准	miao bu zhun	100
 渺不足道	miao bu zu dao	100
 秒差距	miao cha ju	100
@@ -163394,6 +163897,8 @@ sort: by_weight
 明明还有	ming ming hai you	100
 明明还有很多	ming ming hai you hen duo	100
 明明就	ming ming jiu	100
+明明就很	ming ming jiu hen	100
+明明就很好	ming ming jiu hen hao	100
 明明就是	ming ming jiu shi	100
 明明就是你	ming ming jiu shi ni	100
 明明没有	ming ming mei you	100
@@ -163592,6 +164097,8 @@ sort: by_weight
 明天降温	ming tian jiang wen	100
 明天交	ming tian jiao	100
 明天解封	ming tian jie feng	100
+明天就放假	ming tian jiu fang jia	100
+明天就放假了	ming tian jiu fang jia le	100
 明天就好了	ming tian jiu hao le	100
 明天就开始	ming tian jiu kai shi	100
 明天就考试	ming tian jiu kao shi	100
@@ -164802,6 +165309,7 @@ sort: by_weight
 默然无声	mo ran wu sheng	100
 默然无言	mo ran wu yan	100
 魔人布欧	mo ren bu ou	100
+默认不启用	mo ren bu qi yong	100
 默认打开方式	mo ren da kai fang shi	100
 默认的打开方式	mo ren de da kai fang shi	100
 默认关了	mo ren guan le	100
@@ -165462,6 +165970,7 @@ sort: by_weight
 某一个角落	mou yi ge jiao luo	100
 某一行	mou yi hang	100
 某一行业	mou yi hang ye	100
+某一集	mou yi ji	100
 侔夷节兮	mou yi jie xi	100
 某银行	mou yin hang	100
 某娱乐	mou yu le	100
@@ -166413,6 +166922,7 @@ sort: by_weight
 哪方面的	na fang mian de	100
 纳菲鲁塔利	na fei lu ta li	100
 那份赤子之心	na fen chi zi zhi xin	100
+那份简历	na fen jian li	100
 那份快乐	na fen kuai le	100
 那分数	na fen shu	100
 拿分走人	na fen zou ren	100
@@ -166538,7 +167048,7 @@ sort: by_weight
 那还不容易	na hai bu rong yi	100
 那还不如	na hai bu ru	100
 那还不如索性	na hai bu ru suo xing	100
-那还得了	na hai de le	100
+那还得了	na hai de liao	100
 那还等什么	na hai deng shen me	100
 那还叫	na hai jiao	100
 那还少了一些	na hai shao le yi xie	100
@@ -166554,6 +167064,7 @@ sort: by_weight
 哪还有办法	na hai you ban fa	100
 那还有假	na hai you jia	100
 那还早呢	na hai zao ne	100
+呐喊彷徨	na han pang huang	100
 呐喊摇旗	na han yao qi	100
 呐喊助阵	na han zhu zhen	100
 拿好东西	na hao dong xi	100
@@ -167182,6 +167693,7 @@ sort: by_weight
 那啥的	na sha de	100
 那啥可以	na sha ke yi	100
 那啥了	na sha le	100
+那啥那啥	na sha na sha	100
 那扇门	na shan men	100
 那上面	na shang mian	100
 拿上去	na shang qu	100
@@ -168499,6 +169011,9 @@ sort: by_weight
 难逃干系	nan tao gan xi	100
 南特杰克	nan te jie ke	100
 南天北地	nan tian bei di	100
+难听的	nan ting de	100
+难听点	nan ting dian	100
+难听点儿	nan ting dian er	100
 难听死了	nan ting si le	100
 男童长裤	nan tong chang ku	100
 南通长牌	nan tong chang pai	100
@@ -169045,6 +169560,7 @@ sort: by_weight
 内控体系建设	nei kong ti xi jian she	100
 内裤啊	nei ku a	100
 内裤队长	nei ku dui zhang	100
+内裤里面	nei ku li mian	100
 内愧于心	nei kui yu xin	100
 内涝严重	nei lao yan zhong	100
 内力深厚	nei li shen hou	100
@@ -169198,6 +169714,8 @@ sort: by_weight
 内衣店	nei yi dian	100
 内衣行业	nei yi hang ye	100
 内一句话	nei yi ju hua	100
+内衣里	nei yi li	100
+内衣里面	nei yi li mian	100
 内衣系列	nei yi xi lie	100
 内营力	nei ying li	100
 内应外合	nei ying wai he	100
@@ -169377,6 +169895,9 @@ sort: by_weight
 能夺冠	neng duo guan	100
 能躲几时	neng duo ji shi	100
 能多久	neng duo jiu	100
+能发货	neng fa huo	100
+能发货不	neng fa huo bu	100
+能发货吗	neng fa huo ma	100
 能返还	neng fan huan	100
 能放心吗	neng fang xin ma	100
 能飞行	neng fei xing	100
@@ -170347,6 +170868,7 @@ sort: by_weight
 你的家乡	ni de jia xiang	100
 你的家长	ni de jia zhang	100
 你的剑	ni de jian	100
+你的简历	ni de jian li	100
 你的将来	ni de jiang lai	100
 你的角度	ni de jiao du	100
 你的姐姐	ni de jie jie	100
@@ -170384,6 +170906,7 @@ sort: by_weight
 你的趋势	ni de qu shi	100
 你的人	ni de ren	100
 你的人际关系	ni de ren ji guan xi	100
+你的人设	ni de ren she	100
 你的容颜	ni de rong yan	100
 你的社会地位	ni de she hui di wei	100
 你的身高体重	ni de shen gao ti zhong	100
@@ -170553,6 +171076,8 @@ sort: by_weight
 你多少斤	ni duo shao jin	100
 你多有理	ni duo you li	100
 你多重	ni duo zhong	100
+你饿不饿啊	ni e bu e a	100
+你饿不饿呀	ni e bu e ya	100
 你俄爹	ni e die	100
 你饿了	ni e le	100
 你饿了吗	ni e le ma	100
@@ -170696,6 +171221,8 @@ sort: by_weight
 尼格买提	ni ge mai ti	100
 你搁那	ni ge na	100
 你个逆子	ni ge ni zi	100
+你个浓眉大眼	ni ge nong mei da yan	100
+你个浓眉大眼的	ni ge nong mei da yan de	100
 你个懦夫	ni ge nuo fu	100
 你个骗子	ni ge pian zi	100
 你个傻逼	ni ge sha bi	100
@@ -170757,6 +171284,7 @@ sort: by_weight
 你过得怎么样	ni guo de zen me yang	100
 你过来接我	ni guo lai jie wo	100
 你过来看	ni guo lai kan	100
+你过来看看吧	ni guo lai kan kan ba	100
 你过来了	ni guo lai le	100
 你过来了吗	ni guo lai le ma	100
 你过来吗	ni guo lai ma	100
@@ -170768,6 +171296,7 @@ sort: by_weight
 你还爱他吗	ni hai ai ta ma	100
 你还爱我吗	ni hai ai wo ma	100
 你还爱着他	ni hai ai zhe ta	100
+你还别不	ni hai bie bu	100
 你还别不信	ni hai bie bu xin	100
 你还别不信啊	ni hai bie bu xin a	100
 你还别不信呐	ni hai bie bu xin na	100
@@ -171102,6 +171631,7 @@ sort: by_weight
 你急啥	ni ji sha	100
 你急啥啊	ni ji sha a	100
 你急什么	ni ji shen me	100
+你急什么啊	ni ji shen me a	100
 你既为	ni ji wei	100
 你既为谄谀之臣	ni ji wei chan yu zhi chen	100
 匿迹消声	ni ji xiao sheng	100
@@ -171153,7 +171683,9 @@ sort: by_weight
 你今天怎么了	ni jin tian zen me le	100
 逆境重生	ni jing chong sheng	100
 你经历了什么	ni jing li le shen me	100
+你竟然是	ni jing ran shi	100
 你竟然也	ni jing ran ye	100
+你竟是	ni jing shi	100
 你敬我爱	ni jing wo ai	100
 逆境中成长	ni jing zhong cheng zhang	100
 你就别再乱说了	ni jiu bie zai luan shuo le	100
@@ -171301,6 +171833,9 @@ sort: by_weight
 你考完了嘛	ni kao wan le ma	100
 你可别	ni ke bie	100
 你可别哭	ni ke bie ku	100
+你可别说	ni ke bie shuo	100
+你可别说话	ni ke bie shuo hua	100
+你可别说了	ni ke bie shuo le	100
 你可不可以	ni ke bu ke yi	100
 你可不是	ni ke bu shi	100
 你可曾	ni ke ceng	100
@@ -171341,7 +171876,9 @@ sort: by_weight
 你可要小心了	ni ke yao xiao xin le	100
 你可以帮	ni ke yi bang	100
 你可以当	ni ke yi dang	100
+你可以看	ni ke yi kan	100
 你可以看看	ni ke yi kan kan	100
+你可以看一下	ni ke yi kan yi xia	100
 你可以吗	ni ke yi ma	100
 你可以去死了	ni ke yi qu si le	100
 你可以问问	ni ke yi wen wen	100
@@ -172660,6 +173197,7 @@ sort: by_weight
 你养我呀	ni yang wo ya	100
 你养我长大	ni yang wo zhang da	100
 你要保重	ni yao bao zhong	100
+你要不然	ni yao bu ran	100
 你要不要	ni yao bu yao	100
 你要不要呢	ni yao bu yao ne	100
 你要不用	ni yao bu yong	100
@@ -174277,6 +174815,7 @@ sort: by_weight
 您这些年	nin zhe xie nian	100
 您正在收看的是	nin zheng zai shou kan de shi	100
 您走了	nin zou le	100
+您最喜欢的	nin zui xi huan de	100
 宁安如梦	ning an ru meng	100
 宁宝宝	ning bao bao	100
 宁波等地	ning bo deng di	100
@@ -174415,6 +174954,7 @@ sort: by_weight
 扭摆不停	niu bai bu ting	100
 牛背上	niu bei shang	100
 牛逼啊	niu bi a	100
+牛逼吧	niu bi ba	100
 牛逼啦	niu bi la	100
 牛逼牛逼	niu bi niu bi	100
 牛逼哦	niu bi o	100
@@ -176712,6 +177252,9 @@ sort: by_weight
 磅礴之势	pang bo zhi shi	100
 胖不啦唧的	pang bu la ji de	100
 胖不胖	pang bu pang	100
+庞不庞大	pang bu pang da	100
+庞不庞大啊	pang bu pang da a	100
+庞不庞大呀	pang bu pang da ya	100
 庞大的地图	pang da de di tu	100
 庞大的规模	pang da de gui mo	100
 庞大的市场规模	pang da de shi chang gui mo	100
@@ -176843,6 +177386,7 @@ sort: by_weight
 跑不掉了	pao bu diao le	100
 跑不动了	pao bu dong le	100
 跑不过	pao bu guo	100
+跑不过了	pao bu guo le	100
 跑步记录	pao bu ji lu	100
 跑不快	pao bu kuai	100
 跑不了的	pao bu liao de	100
@@ -177080,6 +177624,7 @@ sort: by_weight
 泡一袋	pao yi dai	100
 泡一袋方便面	pao yi dai fang bian mian	100
 泡一泡	pao yi pao	100
+跑一跑步	pao yi pao bu	100
 跑一圈	pao yi quan	100
 跑一圈儿	pao yi quan er	100
 跑一下	pao yi xia	100
@@ -177136,6 +177681,7 @@ sort: by_weight
 配不出	pei bu chu	100
 配不配	pei bu pei	100
 陪不陪	pei bu pei	100
+配不配置	pei bu pei zhi	100
 配不上我	pei bu shang wo	100
 陪不是	pei bu shi	100
 配菜盘	pei cai pan	100
@@ -178347,12 +178893,14 @@ sort: by_weight
 便宜点儿的	pian yi dian er de	100
 便宜爹	pian yi die	100
 便宜东西	pian yi dong xi	100
+便宜多了	pian yi duo le	100
 便宜儿子	pian yi er zi	100
 便宜方便	pian yi fang bian	100
 便宜房子	pian yi fang zi	100
 便宜好吃	pian yi hao chi	100
 便宜好看	pian yi hao kan	100
 便宜好用	pian yi hao yong	100
+便宜很多了	pian yi hen duo le	100
 便宜机票	pian yi ji piao	100
 便宜价格	pian yi jia ge	100
 便宜就好	pian yi jiu hao	100
@@ -179058,6 +179606,7 @@ sort: by_weight
 平白无事	ping bai wu shi	100
 平板模式	ping ban mo shi	100
 平板三轮	ping ban san lun	100
+平板上面	ping ban shang mian	100
 平板系列	ping ban xi lie	100
 平板仪	ping ban yi	100
 平宝盖	ping bao gai	100
@@ -179232,6 +179781,8 @@ sort: by_weight
 苹果迷	ping guo mi	100
 苹果苹方	ping guo ping fang	100
 苹果苹方字体	ping guo ping fang zi ti	100
+苹果上	ping guo shang	100
+苹果上面	ping guo shang mian	100
 苹果设计奖	ping guo she ji jiang	100
 苹果市值	ping guo shi zhi	100
 苹果手表	ping guo shou biao	100
@@ -179408,6 +179959,7 @@ sort: by_weight
 平流雾	ping liu wu	100
 平炉钢	ping lu gang	100
 评论的	ping lun de	100
+评论和专栏	ping lun he zhuan lan	100
 评论了一下	ping lun le yi xia	100
 评论内容	ping lun nei rong	100
 评论排行	ping lun pai hang	100
@@ -179552,6 +180104,7 @@ sort: by_weight
 平潭映象	ping tan ying xiang	100
 平特藏宝图	ping te cang bao tu	100
 平特一肖是什么	ping te yi xiao shi shen me	100
+平替的	ping ti de	100
 平添一段佳话	ping tian yi duan jia hua	100
 凭天由命	ping tian you ming	100
 娉婷袅娜	ping ting niao nuo	100
@@ -180694,6 +181247,10 @@ sort: by_weight
 起不起床哦	qi bu qi chuang o	100
 起不起床哇	qi bu qi chuang wa	100
 起不起床呀	qi bu qi chuang ya	100
+期不期待啊	qi bu qi dai a	100
+期不期待呀	qi bu qi dai ya	100
+奇不奇怪啊	qi bu qi guai a	100
+奇不奇怪呀	qi bu qi guai ya	100
 起步起来	qi bu qi lai	100
 气不气人啊	qi bu qi ren a	100
 气不气人吧	qi bu qi ren ba	100
@@ -180703,6 +181260,9 @@ sort: by_weight
 气不气人哦	qi bu qi ren o	100
 气不气人哇	qi bu qi ren wa	100
 气不气人呀	qi bu qi ren ya	100
+期不期望	qi bu qi wang	100
+期不期望啊	qi bu qi wang a	100
+期不期望呀	qi bu qi wang ya	100
 岂不是白费	qi bu shi bai fei	100
 岂不是白费了	qi bu shi bai fei le	100
 岂不是成笑话	qi bu shi cheng xiao hua	100
@@ -180975,7 +181535,9 @@ sort: by_weight
 气得要命	qi de yao ming	100
 气得要死	qi de yao si	100
 气得咬牙切齿	qi de yao ya qie chi	100
+起得早啊	qi de zao a	100
 起得早了	qi de zao le	100
+起得早呀	qi de zao ya	100
 气得直跺脚	qi de zhi duo jiao	100
 气得志满	qi de zhi man	100
 起得最早	qi de zui zao	100
@@ -181373,6 +181935,7 @@ sort: by_weight
 奇怪的魔力	qi guai de mo li	100
 奇怪的癖好	qi guai de pi hao	100
 奇怪的腔肠动物坐骑	qi guai de qiang chang dong wu zuo qi	100
+奇怪的人	qi guai de ren	100
 奇怪的事儿	qi guai de shi er	100
 奇怪的事情	qi guai de shi qing	100
 奇怪的态度	qi guai de tai du	100
@@ -181587,6 +182150,13 @@ sort: by_weight
 骑进来	qi jin lai	100
 旗津区	qi jin qu	100
 骑进去	qi jin qu	100
+迄今为止最	qi jin wei zhi zui	100
+迄今为止最好	qi jin wei zhi zui hao	100
+迄今为止最好的	qi jin wei zhi zui hao de	100
+迄今为止最好用	qi jin wei zhi zui hao yong	100
+迄今为止最好用的	qi jin wei zhi zui hao yong de	100
+迄今为止最快	qi jin wei zhi zui kuai	100
+迄今为止最快的	qi jin wei zhi zui kuai de	100
 骑警队	qi jing dui	100
 七九八八	qi jiu ba ba	100
 七九八八年	qi jiu ba ba nian	100
@@ -183320,6 +183890,8 @@ sort: by_weight
 七四六一	qi si liu yi	100
 七四六一年	qi si liu yi nian	100
 气死喽	qi si lou	100
+气死你吧	qi si ni ba	100
+气死你得了	qi si ni de le	100
 气死你啦	qi si ni la	100
 气死你了	qi si ni le	100
 气死你了吧	qi si ni le ba	100
@@ -183699,8 +184271,11 @@ sort: by_weight
 气温先升后降	qi wen xian sheng hou jiang	100
 气温小幅下降	qi wen xiao fu xia jiang	100
 气温有所下降	qi wen you suo xia jiang	100
+气温骤降了	qi wen zhou jiang le	100
 气温逐渐降低	qi wen zhu jian jiang di	100
 气温逐渐下降	qi wen zhu jian xia jiang	100
+气温转凉	qi wen zhuan liang	100
+气温转凉了	qi wen zhuan liang le	100
 七窝八代	qi wo ba dai	100
 弃我而去	qi wo er qu	100
 欺我老无力	qi wo lao wu li	100
@@ -185017,6 +185592,7 @@ sort: by_weight
 千代婆婆	qian dai po po	100
 千代纸	qian dai zhi	100
 签单率	qian dan lv	100
+签单员	qian dan yuan	100
 千岛寒流	qian dao han liu	100
 千岛湖事件	qian dao hu shi jian	100
 千岛酱	qian dao jiang	100
@@ -185146,6 +185722,8 @@ sort: by_weight
 前后泊车雷达	qian hou bo che lei da	100
 前后的经过	qian hou de jing guo	100
 前后都只有	qian hou dou zhi you	100
+前后端	qian hou duan	100
+前后对比	qian hou dui bi	100
 前后呼应	qian hou hu ying	100
 前后联系	qian hou lian xi	100
 前后落差	qian hou luo cha	100
@@ -185670,6 +186248,7 @@ sort: by_weight
 前所未有的重视	qian suo wei you de zhong shi	100
 欠他人情	qian ta ren qing	100
 欠她人情	qian ta ren qing	100
+前台调度	qian tai diao du	100
 前台跟我说	qian tai gen wo shuo	100
 前台匿名	qian tai ni ming	100
 千态万貌	qian tai wan mao	100
@@ -187030,6 +187609,7 @@ sort: by_weight
 切切地	qie qie de	100
 怯怯地	qie qie de	100
 切切私语	qie qie si yu	100
+窃取其	qie qu qi	100
 切入角度	qie ru jiao du	100
 切三挡	qie san dang	100
 切上来	qie shang lai	100
@@ -187697,6 +188277,7 @@ sort: by_weight
 清除宿便	qing chu su bian	100
 请出题	qing chu ti	100
 清除系统垃圾	qing chu xi tong la ji	100
+清楚呀	qing chu ya	100
 清除者	qing chu zhe	100
 清楚自己想要什么	qing chu zi ji xiang yao shen me	100
 情出自愿	qing chu zi yuan	100
@@ -187887,6 +188468,7 @@ sort: by_weight
 轻度至中度	qing du zhi zhong du	100
 轻度中毒	qing du zhong du	100
 轻度中暑	qing du zhong shu	100
+轻多了	qing duo le	100
 请多原谅	qing duo yuan liang	100
 青蛾皓齿	qing e hao chi	100
 情而不色	qing er bu se	100
@@ -191857,6 +192439,7 @@ sort: by_weight
 全在逆行	quan zai ni xing	100
 权责关系	quan ze guan xi	100
 全站地图	quan zhan di tu	100
+全栈开发者	quan zhan kai fa zhe	100
 全战系列	quan zhan xi lie	100
 全仗绿叶扶	quan zhang lv ye fu	100
 全仗绿叶扶持	quan zhang lv ye fu chi	100
@@ -192361,6 +192944,7 @@ sort: by_weight
 燃膏继晷	ran gao ji gui	100
 染谷将太	ran gu jiang tai	100
 染翰操纸	ran han cao zhi	100
+染红霞	ran hong xia	100
 然后按	ran hou an	100
 然后发现	ran hou fa xian	100
 然后跟你	ran hou gen ni	100
@@ -192469,6 +193053,7 @@ sort: by_weight
 染指于鼎	ran zhi yu ding	100
 让爱传出去	rang ai chuan chu qu	100
 让爱传递	rang ai chuan di	100
+让爸爸	rang ba ba	100
 让本座看看	rang ben zuo kan kan	100
 攘臂而起	rang bi er qi	100
 攘臂挥拳	rang bi hui quan	100
@@ -192479,11 +193064,13 @@ sort: by_weight
 嚷出去	rang chu qu	100
 让大家出来	rang da jia chu lai	100
 让道让道	rang dao rang dao	100
+让弟弟	rang di di	100
 让电于民	rang dian yu min	100
 让二追二	rang er zhui er	100
 让二追四	rang er zhui si	100
 让二追五	rang er zhui wu	100
 让各方满意	rang ge fang man yi	100
+让哥哥	rang ge ge	100
 让给我	rang gei wo	100
 让更多人	rang geng duo ren	100
 让孩子快乐成长	rang hai zi kuai le cheng zhang	100
@@ -192495,8 +193082,11 @@ sort: by_weight
 让开让开	rang kai rang kai	100
 让颗烟	rang ke yan	100
 让泪化作相思雨	rang lei hua zuo xiang si yu	100
+让妈妈	rang ma ma	100
+让妈妈开心	rang ma ma kai xin	100
 让马停下	rang ma ting xia	100
 攘袂扼腕	rang mei e wan	100
+让妹妹	rang mei mei	100
 攘袂切齿	rang mei qie chi	100
 攘袂引领	rang mei yin ling	100
 让迷失的孩子	rang mi shi de hai zi	100
@@ -192568,6 +193158,7 @@ sort: by_weight
 让人困扰	rang ren kun rao	100
 让人困扰的	rang ren kun rao de	100
 让人流连	rang ren liu lian	100
+让人难堪	rang ren nan kan	100
 让人难以琢磨	rang ren nan yi zuo mo	100
 让人脑子空白	rang ren nao zi kong bai	100
 让人钦佩	rang ren qin pei	100
@@ -194106,6 +194697,7 @@ sort: by_weight
 人上了年纪	ren shang le nian ji	100
 人少的地方	ren shao de di fang	100
 人设崩了	ren she beng le	100
+人设崩了吗	ren she beng le ma	100
 人设崩塌	ren she beng ta	100
 人社部	ren she bu	100
 人社局局长	ren she ju ju zhang	100
@@ -195072,6 +195664,7 @@ sort: by_weight
 日长月远	ri chang yue yuan	100
 日常运行	ri chang yun xing	100
 日常着装	ri chang zhuo zhuang	100
+日程管理	ri cheng guan li	100
 日成交额	ri cheng jiao e	100
 日程月课	ri cheng yue ke	100
 日出不穷	ri chu bu qiong	100
@@ -195566,6 +196159,7 @@ sort: by_weight
 容嬷嬷	rong mo mo	100
 容纳得下	rong na de xia	100
 容纳度	rong na du	100
+容纳格式	rong na ge shi	100
 熔喷布模具	rong pen bu mu ju	100
 熔喷模头	rong pen mo tou	100
 容器标签	rong qi biao qian	100
@@ -195692,12 +196286,15 @@ sort: by_weight
 容易恶心	rong yi e xin	100
 容易反弹	rong yi fan tan	100
 容易感冒	rong yi gan mao	100
+容易混淆的	rong yi hun xiao de	100
 容易获得	rong yi huo de	100
 容易加重	rong yi jia zhong	100
 容易降低	rong yi jiang di	100
 容易咀嚼	rong yi ju jue	100
 荣一郎	rong yi lang	100
 荣一鸣	rong yi ming	100
+容易弄混	rong yi nong hun	100
+容易弄混的	rong yi nong hun de	100
 容易取得	rong yi qu de	100
 熔蚁兽	rong yi shou	100
 容易调整	rong yi tiao zheng	100
@@ -196032,8 +196629,10 @@ sort: by_weight
 如观止水	ru guan zhi shui	100
 如鬼魅一般	ru gui mei yi ban	100
 如果爱了	ru guo ai le	100
+如果爱情	ru guo ai qing	100
 如果爱忘了	ru guo ai wang le	100
 如果巴黎不快乐	ru guo ba li bu kuai le	100
+如果不爱	ru guo bu ai	100
 如果不爱了	ru guo bu ai le	100
 如果不记得	ru guo bu ji de	100
 如果不快乐	ru guo bu kuai le	100
@@ -200991,6 +201590,7 @@ sort: by_weight
 杀草快	sha cao kuai	100
 傻叉吧你	sha cha ba ni	100
 沙场老兵	sha chang lao bing	100
+沙场秋点兵	sha chang qiu dian bing	100
 刹车不灵	sha che bu ling	100
 刹车辅助系统	sha che fu zhu xi tong	100
 刹车痕迹	sha che hen ji	100
@@ -201089,6 +201689,7 @@ sort: by_weight
 砂锅菜	sha guo cai	100
 砂锅面	sha guo mian	100
 杀过人	sha guo ren	100
+杀过人了	sha guo ren le	100
 杀过人吗	sha guo ren ma	100
 砂锅粥	sha guo zhou	100
 霎哈嘉瑜伽	sha ha jia yu jia	100
@@ -201160,6 +201761,7 @@ sort: by_weight
 杀了个回马枪	sha le ge hui ma qiang	100
 杀了过来	sha le guo lai	100
 傻乐和	sha le he	100
+杀了很多人	sha le hen duo ren	100
 杀了回来	sha le hui lai	100
 杀了几个人	sha le ji ge ren	100
 沙勒罗瓦	sha le luo wa	100
@@ -201205,6 +201807,7 @@ sort: by_weight
 啥毛病没有	sha mao bing mei you	100
 傻帽儿	sha mao er	100
 杀没杀过	sha mei sha guo	100
+杀没杀过人	sha mei sha guo ren	100
 沙门菌	sha men jun	100
 沙蜜豆	sha mi dou	100
 沙弥戒	sha mi jie	100
@@ -201302,6 +201905,7 @@ sort: by_weight
 傻傻地等	sha sha de deng	100
 傻傻地等待	sha sha de deng dai	100
 傻傻地看	sha sha de kan	100
+傻傻地笑了	sha sha de xiao le	100
 啥啥啥	sha sha sha	100
 杀杀杀	sha sha sha	100
 沙沙沙	sha sha sha	100
@@ -203005,6 +203609,7 @@ sort: by_weight
 商会秘书长	shang hui mi shu zhang	100
 商会调解	shang hui tiao jie	100
 商会执行会长	shang hui zhi xing hui zhang	100
+上几个	shang ji ge	100
 伤及根本	shang ji gen ben	100
 上集市	shang ji shi	100
 上级首长	shang ji shou zhang	100
@@ -203115,6 +203720,7 @@ sort: by_weight
 上了环	shang le huan	100
 上了火	shang le huo	100
 上了火车	shang le huo che	100
+上了几个	shang le ji ge	100
 上了节目	shang le jie mu	100
 上了考场	shang le kao chang	100
 上了课	shang le ke	100
@@ -203408,6 +204014,7 @@ sort: by_weight
 商事制度	shang shi zhi du	100
 商事制度改革	shang shi zhi du gai ge	100
 上手难度	shang shou nan du	100
+上手体验	shang shou ti yan	100
 尚书大传	shang shu da zhuan	100
 上述地区	shang shu di qu	100
 上书公车	shang shu gong che	100
@@ -203576,6 +204183,7 @@ sort: by_weight
 上下看	shang xia kan	100
 上下课	shang xia ke	100
 上下来回	shang xia lai hui	100
+上下撸动	shang xia lu dong	100
 上下上下	shang xia shang xia	100
 上下升降	shang xia sheng jiang	100
 上下天光	shang xia tian guang	100
@@ -204901,6 +205509,7 @@ sort: by_weight
 滠澌漕沭	she si cao shu	100
 社死了	she si le	100
 射死你	she si ni	100
+社死现场	she si xian chang	100
 射死在地上	she si zai di shang	100
 射他脸上	she ta lian shang	100
 射她脸上	she ta lian shang	100
@@ -204942,6 +205551,7 @@ sort: by_weight
 射线疗法	she xian liao fa	100
 涉嫌敲诈勒索	she xian qiao zha le suo	100
 涉嫌敲诈勒索罪	she xian qiao zha le suo zui	100
+涉嫌辱华了	she xian ru hua le	100
 涉嫌行贿	she xian xing hui	100
 涉嫌虚假宣传	she xian xu jia xuan chuan	100
 涉嫌严重违法	she xian yan zhong wei fa	100
@@ -205263,6 +205873,9 @@ sort: by_weight
 伸不开	shen bu kai	100
 婶不可忍	shen bu ke ren	100
 肾不亏	shen bu kui	100
+神不神奇	shen bu shen qi	100
+神不神奇啊	shen bu shen qi a	100
+神不神奇呀	shen bu shen qi ya	100
 身不由主	shen bu you zhu	100
 沈不住气	shen bu zhu qi	100
 身材保持得很好	shen cai bao chi de hen hao	100
@@ -207385,6 +207998,7 @@ sort: by_weight
 神奇啊	shen qi a	100
 身骑白马	shen qi bai ma	100
 神奇变化	shen qi bian hua	100
+神奇不神奇	shen qi bu shen qi	100
 参杞茶	shen qi cha	100
 神器传奇	shen qi chuan qi	100
 神奇传说	shen qi chuan shuo	100
@@ -209017,6 +209631,7 @@ sort: by_weight
 省级规范化学校	sheng ji gui fan hua xue xiao	100
 省级规划	sheng ji gui hua	100
 升记号	sheng ji hao	100
+升级好了	sheng ji hao le	100
 省级核查	sheng ji he cha	100
 省级环保	sheng ji huan bao	100
 省级环保督察	sheng ji huan bao du cha	100
@@ -209505,6 +210120,7 @@ sort: by_weight
 胜利啦	sheng li la	100
 胜利来之不易	sheng li lai zhi bu yi	100
 胜利了	sheng li le	100
+胜利了吗	sheng li le ma	100
 生理落果	sheng li luo guo	100
 胜利率	sheng li lv	100
 生力面	sheng li mian	100
@@ -209673,6 +210289,7 @@ sort: by_weight
 剩男剩女	sheng nan sheng nv	100
 生男生女都一样	sheng nan sheng nv dou yi yang	100
 省内城市	sheng nei cheng shi	100
+省内存	sheng nei cun	100
 省内大学	sheng nei da xue	100
 省内第二	sheng nei di er	100
 省内第一	sheng nei di yi	100
@@ -211006,6 +211623,7 @@ sort: by_weight
 石百合	shi bai he	100
 失败几率	shi bai ji lv	100
 失败啦	shi bai la	100
+失败了吗	shi bai le ma	100
 失败了怎么办	shi bai le zen me ban	100
 失败论者	shi bai lun zhe	100
 失败率高	shi bai lv gao	100
@@ -212085,6 +212703,7 @@ sort: by_weight
 释放一番	shi fang yi fan	100
 释放一下	shi fang yi xia	100
 是非褒贬	shi fei bao bian	100
+是非不分呐	shi fei bu fen na	100
 是非成败转头空	shi fei cheng bai zhuan tou kong	100
 是非多	shi fei duo	100
 是非互出	shi fei hu chu	100
@@ -212274,6 +212893,7 @@ sort: by_weight
 是否可行	shi fou ke xing	100
 是否可行呢	shi fou ke xing ne	100
 是否可以用于	shi fou ke yi yong yu	100
+是否没有	shi fou mei you	100
 是否涉嫌	shi fou she xian	100
 是否是	shi fou shi	100
 是否属实	shi fou shu shi	100
@@ -212870,6 +213490,7 @@ sort: by_weight
 时间的朋友	shi jian de peng you	100
 世间的事	shi jian de shi	100
 世间的事儿	shi jian de shi er	100
+时间的推移	shi jian de tui yi	100
 时间的维度	shi jian de wei du	100
 世间的一切	shi jian de yi qie	100
 时间的重要性	shi jian de zhong yao xing	100
@@ -213666,6 +214287,7 @@ sort: by_weight
 施力臂	shi li bi	100
 势力并行	shi li bing xing	100
 实力不低	shi li bu di	100
+实力不够了	shi li bu gou le	100
 视力测定法	shi li ce ding fa	100
 十里长街	shi li chang jie	100
 十里长廊	shi li chang lang	100
@@ -214424,6 +215046,7 @@ sort: by_weight
 食人魔海豹图腾	shi ren mo hai bao tu teng	100
 食人魔魔法师	shi ren mo mo fa shi	100
 食人魔之斧	shi ren mo zhi fu	100
+使人难堪	shi ren nan kan	100
 世人情狂	shi ren qing kuang	100
 食人鲨	shi ren sha	100
 石人山	shi ren shan	100
@@ -215739,6 +216362,7 @@ sort: by_weight
 试一阵子	shi yi zhen zi	100
 是一只	shi yi zhi	100
 是一直	shi yi zhi	100
+事已至此了	shi yi zhi ci le	100
 什一之利	shi yi zhi li	100
 是一种解脱	shi yi zhong jie tuo	100
 食衣住行	shi yi zhu xing	100
@@ -215884,6 +216508,7 @@ sort: by_weight
 使用数量	shi yong shu liang	100
 使用舒适度	shi yong shu shi du	100
 使用税	shi yong shui	100
+使用说明书啊	shi yong shuo ming shu a	100
 使用速度	shi yong su du	100
 使用体验	shi yong ti yan	100
 食用调和油	shi yong tiao he you	100
@@ -216330,6 +216955,7 @@ sort: by_weight
 师之所存	shi zhi suo cun	100
 实质所得	shi zhi suo de	100
 势之所趋	shi zhi suo qu	100
+失之坦然	shi zhi tan ran	100
 石志伟	shi zhi wei	100
 实质违建	shi zhi wei jian	100
 师直为壮	shi zhi wei zhuang	100
@@ -216757,6 +217383,7 @@ sort: by_weight
 受到了损害	shou dao le sun hai	100
 受到了威胁	shou dao le wei xie	100
 受到了侮辱	shou dao le wu ru	100
+受到了限制	shou dao le xian zhi	100
 受到了羞辱	shou dao le xiu ru	100
 受到了严重的打击	shou dao le yan zhong de da ji	100
 受到了一万点暴击	shou dao le yi wan dian bao ji	100
@@ -217145,6 +217772,8 @@ sort: by_weight
 手机行业	shou ji hang ye	100
 手机号登录	shou ji hao deng lu	100
 手机号多少	shou ji hao duo shao	100
+手机号码验证	shou ji hao ma yan zheng	100
+手机号验证	shou ji hao yan zheng	100
 手机号注册	shou ji hao zhu ce	100
 手机和	shou ji he	100
 手机和银行	shou ji he yin hang	100
@@ -217194,6 +217823,7 @@ sort: by_weight
 手机上	shou ji shang	100
 手机上查	shou ji shang cha	100
 手机上传	shou ji shang chuan	100
+手机上面	shou ji shang mian	100
 手机摄像模组	shou ji she xiang mo zu	100
 手机省电	shou ji sheng dian	100
 手机失而复得	shou ji shi er fu de	100
@@ -217462,6 +218092,10 @@ sort: by_weight
 售票台	shou piao tai	100
 售票系统	shou piao xi tong	100
 受聘于	shou pin yu	100
+收破烂的	shou po lan de	100
+收破烂儿的	shou po lan er de	100
+收破烂儿了	shou po lan er le	100
+收破烂了	shou po lan le	100
 手气不行	shou qi bu xing	100
 授旗典礼	shou qi dian li	100
 首期发行	shou qi fa xing	100
@@ -217988,6 +218622,8 @@ sort: by_weight
 输不输出啊	shu bu shu chu a	100
 输不输出呀	shu bu shu chu ya	100
 舒不舒服	shu bu shu fu	100
+舒不舒服啊	shu bu shu fu a	100
+舒不舒服呀	shu bu shu fu ya	100
 属不属于	shu bu shu yu	100
 属不属于啊	shu bu shu yu a	100
 属不属于吧	shu bu shu yu ba	100
@@ -218146,6 +218782,7 @@ sort: by_weight
 鼠坊主	shu fang zhu	100
 数分之差	shu fen zhi cha	100
 舒服啊	shu fu a	100
+舒服不舒服	shu fu bu shu fu	100
 舒服程度	shu fu cheng du	100
 熟妇大尺度人体艺	shu fu da chi du ren ti yi	100
 舒服的表情	shu fu de biao qing	100
@@ -218290,6 +218927,7 @@ sort: by_weight
 数据机构与算法	shu ju ji gou yu suan fa	100
 数据机构与算法之美	shu ju ji gou yu suan fa zhi mei	100
 数据加密传输	shu ju jia mi chuan shu	100
+数据加密了	shu ju jia mi le	100
 数据结构与算法	shu ju jie gou yu suan fa	100
 数据介面	shu ju jie mian	100
 数据仅供参考	shu ju jin gong can kao	100
@@ -218302,6 +218940,8 @@ sort: by_weight
 数据排行	shu ju pai hang	100
 数据上传	shu ju shang chuan	100
 数据深度	shu ju shen du	100
+数据是加密	shu ju shi jia mi	100
+数据是加密的	shu ju shi jia mi de	100
 数据是什么	shu ju shi shen me	100
 数据实时传输	shu ju shi shi chuan shu	100
 数据实时上传	shu ju shi shi shang chuan	100
@@ -218609,6 +219249,7 @@ sort: by_weight
 漱漱口	shu shu kou	100
 疏疏落落	shu shu luo luo	100
 疏疏密密	shu shu mi mi	100
+叔叔我	shu shu wo	100
 叔叔我啊	shu shu wo a	100
 叔叔我们	shu shu wo men	100
 叔叔我呀	shu shu wo ya	100
@@ -219230,6 +219871,8 @@ sort: by_weight
 双波长	shuang bo chang	100
 双柏忌	shuang bo ji	100
 爽不起来	shuang bu qi lai	100
+爽不爽啊	shuang bu shuang a	100
+双补汤	shuang bu tang	100
 双侧对称	shuang ce dui chen	100
 双层阿拉斯加狭鳕鱼堡	shuang ceng a la si jia xia xue yu bao	100
 双层巴士	shuang ceng ba shi	100
@@ -220171,6 +220814,8 @@ sort: by_weight
 睡了吃	shui le chi	100
 睡了多久	shui le duo jiu	100
 睡了过去	shui le guo qu	100
+睡了觉	shui le jiao	100
+睡了觉了	shui le jiao le	100
 睡了两个小时	shui le liang ge xiao shi	100
 睡了吗	shui le ma	100
 睡了嘛	shui le ma	100
@@ -221144,7 +221789,10 @@ sort: by_weight
 说那些话	shuo na xie hua	100
 说那些气话	shuo na xie qi hua	100
 说难不难	shuo nan bu nan	100
+说难听	shuo nan ting	100
+说难听的	shuo nan ting de	100
 说难听点	shuo nan ting dian	100
+说难听点儿	shuo nan ting dian er	100
 说你妈	shuo ni ma	100
 说你妈呢	shuo ni ma ne	100
 说你妈啥	shuo ni ma sha	100
@@ -221244,6 +221892,7 @@ sort: by_weight
 说一遍	shuo yi bian	100
 说一堆	shuo yi dui	100
 说一个	shuo yi ge	100
+说一个人	shuo yi ge ren	100
 说一个数	shuo yi ge shu	100
 说一声啊	shuo yi sheng a	100
 说一下吧	shuo yi xia ba	100
@@ -222195,6 +222844,7 @@ sort: by_weight
 丝瓜藤	si gua teng	100
 丝挂子	si gua zi	100
 四贯钱	si guan qian	100
+死光了	si guang le	100
 死光枪	si guang qiang	100
 思归鸟	si gui niao	100
 死国可乎	si guo ke hu	100
@@ -226384,6 +227034,8 @@ sort: by_weight
 随便唱唱	sui bian chang chang	100
 随便丢给	sui bian diu gei	100
 随便哼哼	sui bian heng heng	100
+随便换	sui bian huan	100
+随便换啊	sui bian huan a	100
 随便换了个	sui bian huan le ge	100
 随便加的	sui bian jia de	100
 随便啦	sui bian la	100
@@ -227132,6 +227784,10 @@ sort: by_weight
 索爱客服	suo ai ke fu	100
 所扮演的角色	suo ban yan de jue se	100
 索邦大学	suo bang da xue	100
+所拨打	suo bo da	100
+所拨打的	suo bo da de	100
+所拨打的号	suo bo da de hao	100
+所拨打的号码	suo bo da de hao ma	100
 所布的	suo bu de	100
 所不能比拟	suo bu neng bi ni	100
 所不能比拟的	suo bu neng bi ni de	100
@@ -227342,6 +227998,7 @@ sort: by_weight
 所学校	suo xue xiao	100
 所言甚是	suo yan shen shi	100
 所言所行	suo yan suo xing	100
+所要求的	suo yao qiu de	100
 锁妖塔	suo yao ta	100
 蓑叶虫	suo ye chong	100
 蓑叶蛾	suo ye e	100
@@ -227635,6 +228292,7 @@ sort: by_weight
 他的前程	ta de qian cheng	100
 它的强度	ta de qiang du	100
 它的热度	ta de re du	100
+他的人设	ta de ren she	100
 他的软肋	ta de ruan lei	100
 他的软肋是	ta de ruan lei shi	100
 它的深度	ta de shen du	100
@@ -228141,6 +228799,7 @@ sort: by_weight
 太草率	tai cao shuai	100
 太草率了吧	tai cao shuai le ba	100
 太差劲	tai cha jin	100
+太长不读	tai chang bu du	100
 太长不看	tai chang bu kan	100
 太长的话	tai chang de hua	100
 太长的时间	tai chang de shi jian	100
@@ -228538,6 +229197,8 @@ sort: by_weight
 太鸡巴坑爹了吧	tai ji ba keng die le ba	100
 太鸡巴坑了	tai ji ba keng le	100
 太鸡巴坑了吧	tai ji ba keng le ba	100
+太鸡巴那啥	tai ji ba na sha	100
+太鸡巴那啥了	tai ji ba na sha le	100
 太鸡巴难用了	tai ji ba nan yong le	100
 太鸡巴爽	tai ji ba shuang	100
 太鸡巴爽了	tai ji ba shuang le	100
@@ -228877,6 +229538,7 @@ sort: by_weight
 太清真人	tai qing zhen ren	100
 台球城	tai qiu cheng	100
 台球俱乐部	tai qiu ju le bu	100
+台球术语	tai qiu shu yu	100
 跆拳道俱乐部	tai quan dao ju le bu	100
 太燃了	tai ran le	100
 太燃了吧	tai ran le ba	100
@@ -228946,6 +229608,8 @@ sort: by_weight
 台式电导率检测仪	tai shi dian dao lv jian ce yi	100
 台式电导率仪	tai shi dian dao lv yi	100
 台视公司	tai shi gong si	100
+台式机上	tai shi ji shang	100
+台式机上面	tai shi ji shang mian	100
 台式机主机	tai shi ji zhu ji	100
 太使劲	tai shi jin	100
 太势利	tai shi li	100
@@ -229360,6 +230024,7 @@ sort: by_weight
 太直白	tai zhi bai	100
 太知道了	tai zhi dao le	100
 太值得	tai zhi de	100
+太智能了	tai zhi neng le	100
 台制品	tai zhi pin	100
 台指期	tai zhi qi	100
 太智障	tai zhi zhang	100
@@ -230323,6 +230988,7 @@ sort: by_weight
 糖制食品	tang zhi shi pin	100
 唐志中	tang zhi zhong	100
 堂姊妹	tang zi mei	100
+躺坐在	tang zuo zai	100
 陶庵梦忆	tao an meng yi	100
 桃白白	tao bai bai	100
 陶板屋	tao ban wu	100
@@ -231290,6 +231956,9 @@ sort: by_weight
 题不难	ti bu nan	100
 踢不起	ti bu qi	100
 提不起劲儿	ti bu qi jin er	100
+踢不踢球	ti bu ti qiu	100
+踢不踢球啊	ti bu ti qiu a	100
+踢不踢球呀	ti bu ti qiu ya	100
 踢不赢	ti bu ying	100
 体彩爱行走	ti cai ai xing zou	100
 体彩超级大乐透	ti cai chao ji da le tou	100
@@ -231629,6 +232298,7 @@ sort: by_weight
 提供资源给你	ti gong zi yuan gei ni	100
 剔骨还父	ti gu huan fu	100
 替古人担忧	ti gu ren dan you	100
+剃光头了	ti guang tou le	100
 体国爱民	ti guo ai min	100
 提过来	ti guo lai	100
 提葫芦	ti hu lu	100
@@ -231680,9 +232350,11 @@ sort: by_weight
 提来提去	ti lai ti qu	100
 提篮儿	ti lan er	100
 踢了啊	ti le a	100
+踢了吧	ti le ba	100
 踢了出来	ti le chu lai	100
 踢了个球	ti le ge qiu	100
 剃了光头	ti le guang tou	100
+剃了光头了	ti le guang tou le	100
 踢了两脚	ti le liang jiao	100
 提了什么	ti le shen me	100
 踢了他	ti le ta	100
@@ -231697,6 +232369,7 @@ sort: by_weight
 提利昂	ti li ang	100
 提里奥	ti li ao	100
 提里奥弗丁	ti li ao fu ding	100
+体力不够了	ti li bu gou le	100
 体力不行	ti li bu xing	100
 提利尔	ti li er	100
 提利尔家族	ti li er jia zu	100
@@ -231942,8 +232615,10 @@ sort: by_weight
 倜傥不羁	ti tang bu ji	100
 倜傥不群	ti tang bu qun	100
 倜傥疏放	ti tang shu fang	100
+提提建议	ti ti jian yi	100
 啼啼哭哭	ti ti ku ku	100
 踢踢踢	ti ti ti	100
+提提意见	ti ti yi jian	100
 啼天哭地	ti tian ku di	100
 踢天弄井	ti tian nong jing	100
 体贴地	ti tie de	100
@@ -233128,6 +233803,7 @@ sort: by_weight
 天启者卡尔玛	tian qi zhe ka er ma	100
 天气这么冷	tian qi zhe me leng	100
 天气之子	tian qi zhi zi	100
+天气转凉了	tian qi zhuan liang le	100
 天前配	tian qian pei	100
 天谴之心	tian qian zhi xin	100
 天桥底下	tian qiao di xia	100
@@ -234790,6 +235466,7 @@ sort: by_weight
 调钟表	tiao zhong biao	100
 挑重点	tiao zhong dian	100
 调中开胃	tiao zhong kai wei	100
+跳忠字舞	tiao zhong zi wu	100
 调朱弄粉	tiao zhu nong fen	100
 挑专业	tiao zhuan ye	100
 条子来了	tiao zi lai le	100
@@ -235042,6 +235719,7 @@ sort: by_weight
 挺不常用	ting bu chang yong	100
 挺不错的	ting bu cuo de	100
 挺不错的啊	ting bu cuo de a	100
+挺不错的了	ting bu cuo de le	100
 挺不错的哦	ting bu cuo de o	100
 挺不错的呀	ting bu cuo de ya	100
 听不到啊	ting bu dao a	100
@@ -235093,6 +235771,7 @@ sort: by_weight
 听不下去	ting bu xia qu	100
 听不要脸	ting bu yao lian	100
 听不着啊	ting bu zhao a	100
+听不着呀	ting bu zhao ya	100
 亭彩店	ting cai dian	100
 挺惨的	ting can de	100
 听谗惑乱	ting chan huo luan	100
@@ -235169,6 +235848,8 @@ sort: by_weight
 廷德尔空军基地	ting de er kong jun ji di	100
 听得好	ting de hao	100
 听得很清楚	ting de hen qing chu	100
+听得很清楚啊	ting de hen qing chu a	100
+听得很清楚呀	ting de hen qing chu ya	100
 听得见吧	ting de jian ba	100
 听得见不	ting de jian bu	100
 听得进	ting de jin	100
@@ -235179,6 +235860,7 @@ sort: by_weight
 听得目	ting de mu	100
 听得清	ting de qing	100
 听得清楚	ting de qing chu	100
+听得清楚吗	ting de qing chu ma	100
 听得清清楚楚	ting de qing qing chu chu	100
 听得认真	ting de ren zhen	100
 听得入	ting de ru	100
@@ -235272,6 +235954,7 @@ sort: by_weight
 挺好笑啊	ting hao xiao a	100
 挺好笑的	ting hao xiao de	100
 挺好用的	ting hao yong de	100
+挺好用的呀	ting hao yong de ya	100
 挺合适	ting he shi	100
 挺合适的	ting he shi de	100
 听候差遣	ting hou chai qian	100
@@ -235439,6 +236122,15 @@ sort: by_weight
 听没听过	ting mei ting guo	100
 听没听过啊	ting mei ting guo a	100
 听没听过呀	ting mei ting guo ya	100
+听没听见	ting mei ting jian	100
+听没听见啊	ting mei ting jian a	100
+听没听见呀	ting mei ting jian ya	100
+听没听清	ting mei ting qing	100
+听没听清啊	ting mei ting qing a	100
+听没听清楚	ting mei ting qing chu	100
+听没听清楚啊	ting mei ting qing chu a	100
+听没听清楚呀	ting mei ting qing chu ya	100
+听没听清呀	ting mei ting qing ya	100
 听没听说过	ting mei ting shuo guo	100
 婷美小屋	ting mei xiao wu	100
 挺没意思	ting mei yi si	100
@@ -235483,6 +236175,7 @@ sort: by_weight
 听凭驱使	ting ping qu shi	100
 挺奇怪	ting qi guai	100
 挺奇怪的	ting qi guai de	100
+挺奇怪的呀	ting qi guai de ya	100
 听起来还不错	ting qi lai hai bu cuo	100
 听起来头头是道	ting qi lai tou tou shi dao	100
 挺起了胸膛	ting qi le xiong tang	100
@@ -235612,6 +236305,7 @@ sort: by_weight
 挺辛苦	ting xin ku	100
 挺辛苦的	ting xin ku de	100
 听信了	ting xin le	100
+挺新颖的	ting xin ying de	100
 停辛伫苦	ting xin zhu ku	100
 挺幸福	ting xing fu	100
 挺幸福的	ting xing fu de	100
@@ -236121,6 +236815,8 @@ sort: by_weight
 通了匪呢	tong le fei ne	100
 捅了个娄子	tong le ge lou zi	100
 捅了个马蜂窝	tong le ge ma feng wo	100
+通了关	tong le guan	100
+通了关了	tong le guan le	100
 同乐会	tong le hui	100
 捅了娄子	tong le lou zi	100
 捅了篓子	tong le lou zi	100
@@ -236315,6 +237011,7 @@ sort: by_weight
 僮手指千	tong shou zhi qian	100
 通俗读音	tong su du yin	100
 通俗科学	tong su ke xue	100
+通俗易懂的	tong su yi dong de	100
 同素异性	tong su yi xing	100
 同素异性体	tong su yi xing ti	100
 通俗音乐	tong su yin yue	100
@@ -236744,6 +237441,7 @@ sort: by_weight
 同质化竞争严重	tong zhi hua jing zheng yan zhong	100
 同质化现象严重	tong zhi hua xian xiang yan zhong	100
 同质化严重	tong zhi hua yan zhong	100
+通知唤起	tong zhi huan qi	100
 通知家长	tong zhi jia zhang	100
 同志酒吧	tong zhi jiu ba	100
 通知栏	tong zhi lan	100
@@ -236975,6 +237673,7 @@ sort: by_weight
 投篮服	tou lan fu	100
 投篮机	tou lan ji	100
 投篮效率	tou lan xiao lv	100
+投了吧	tou le ba	100
 偷了东西	tou le dong xi	100
 投了多少钱	tou le duo shao qian	100
 投了反对票	tou le fan dui piao	100
@@ -237773,6 +238472,7 @@ sort: by_weight
 徒利家族	tu li jia zu	100
 土沥青	tu li qing	100
 图利他人	tu li ta ren	100
+土里土气的	tu li tu qi de	100
 图里亚夫	tu li ya fu	100
 涂料行业	tu liao hang ye	100
 涂料体系	tu liao ti xi	100
@@ -238518,6 +239218,7 @@ sort: by_weight
 腿毛长	tui mao chang	100
 推门儿进来	tui men er jin lai	100
 推门进来	tui men jin lai	100
+推门就进	tui men jiu jin	100
 推免服务系统	tui mian fu wu xi tong	100
 推拿法	tui na fa	100
 推女郎	tui nv lang	100
@@ -239623,6 +240324,7 @@ sort: by_weight
 外交关系理事会	wai jiao guan xi li shi hui	100
 外交关系委员会	wai jiao guan xi wei yuan hui	100
 外教课	wai jiao ke	100
+崴脚了	wai jiao le	100
 外角球	wai jiao qiu	100
 外交手腕	wai jiao shou wan	100
 外交团	wai jiao tuan	100
@@ -239873,6 +240575,8 @@ sort: by_weight
 完不完美	wan bu wan mei	100
 完不完美啊	wan bu wan mei a	100
 完不完美呀	wan bu wan mei ya	100
+玩不玩耍	wan bu wan shua	100
+玩不玩游戏	wan bu wan you xi	100
 玩不我就	wan bu wo jiu	100
 玩不习惯	wan bu xi guan	100
 玩不下去	wan bu xia qu	100
@@ -240006,6 +240710,8 @@ sort: by_weight
 玩得很溜	wan de hen liu	100
 玩的姐姐	wan de jie jie	100
 玩得尽兴	wan de jin xing	100
+玩得久	wan de jiu	100
+玩得久了	wan de jiu le	100
 玩得开	wan de kai	100
 玩得开心不	wan de kai xin bu	100
 玩得开心不啊	wan de kai xin bu a	100
@@ -240451,6 +241157,7 @@ sort: by_weight
 完美关系	wan mei guan xi	100
 完美还原	wan mei huan yuan	100
 完美解决	wan mei jie jue	100
+完美解决了	wan mei jie jue le	100
 完美落地	wan mei luo di	100
 完美落幕	wan mei luo mu	100
 完美旅行	wan mei lv xing	100
@@ -240921,6 +241628,7 @@ sort: by_weight
 万事俱休	wan shi ju xiu	100
 万世开太平	wan shi kai tai ping	100
 完事啦	wan shi la	100
+完事了吧	wan shi le ba	100
 完事了吗	wan shi le ma	100
 万事顺利	wan shi shun li	100
 万事顺心	wan shi shun xin	100
@@ -242303,6 +243011,8 @@ sort: by_weight
 网页传奇	wang ye chuan qi	100
 网页打开速度	wang ye da kai su du	100
 王也道长	wang ye dao zhang	100
+网页的问题	wang ye de wen ti	100
+网页的问题吧	wang ye de wen ti ba	100
 网页斗地主	wang ye dou di zhu	100
 网页很慢	wang ye hen man	100
 网页加载速度	wang ye jia zai su du	100
@@ -244892,6 +245602,7 @@ sort: by_weight
 温度不达标	wen du bu da biao	100
 温度不高	wen du bu gao	100
 温度不够	wen du bu gou	100
+温度不够了	wen du bu gou le	100
 温度不均匀	wen du bu jun yun	100
 温度不同	wen du bu tong	100
 温度不稳定	wen du bu wen ding	100
@@ -246122,6 +246833,8 @@ sort: by_weight
 我不说话了	wo bu shuo hua le	100
 我不说了吗	wo bu shuo le ma	100
 我不太懂	wo bu tai dong	100
+我不太服	wo bu tai fu	100
+我不太服啊	wo bu tai fu a	100
 我不太清楚	wo bu tai qing chu	100
 我不太清楚的	wo bu tai qing chu de	100
 我不太清楚的地方	wo bu tai qing chu de di fang	100
@@ -246519,6 +247232,7 @@ sort: by_weight
 我的青春期	wo de qing chun qi	100
 我的权利	wo de quan li	100
 我的缺点	wo de que dian	100
+我的人设	wo de ren she	100
 我的少年	wo de shao nian	100
 我的身份	wo de shen fen	100
 我的生父	wo de sheng fu	100
@@ -246954,6 +247668,9 @@ sort: by_weight
 我过得很好	wo guo de hen hao	100
 卧果儿	wo guo er	100
 我过会儿	wo guo hui er	100
+我过来看看	wo guo lai kan kan	100
+我过来看看吧	wo guo lai kan kan ba	100
+我过来看一下	wo guo lai kan yi xia	100
 我过来了	wo guo lai le	100
 我过来了吧	wo guo lai le ba	100
 我过来了吗	wo guo lai le ma	100
@@ -247522,6 +248239,7 @@ sort: by_weight
 我看你是不想	wo kan ni shi bu xiang	100
 我看你是不想活了	wo kan ni shi bu xiang huo le	100
 我看你像个	wo kan ni xiang ge	100
+我看你长得像	wo kan ni zhang de xiang	100
 我看上	wo kan shang	100
 我看上了	wo kan shang le	100
 我看上你了	wo kan shang ni le	100
@@ -247726,7 +248444,10 @@ sort: by_weight
 我马上到了	wo ma shang dao le	100
 我马上过去	wo ma shang guo qu	100
 我马上回去	wo ma shang hui qu	100
+我马上就	wo ma shang jiu	100
 我马上就到	wo ma shang jiu dao	100
+我马上就好	wo ma shang jiu hao	100
+我马上就好了	wo ma shang jiu hao le	100
 我马上相信	wo ma shang xiang xin	100
 我马上信	wo ma shang xin	100
 我马上信了	wo ma shang xin le	100
@@ -248257,6 +248978,9 @@ sort: by_weight
 我明白啦	wo ming bai la	100
 我明白喽	wo ming bai lou	100
 我命令你	wo ming ling ni	100
+我明明就	wo ming ming jiu	100
+我明明就很	wo ming ming jiu hen	100
+我明明就很好	wo ming ming jiu hen hao	100
 我明明是	wo ming ming shi	100
 我命你	wo ming ni	100
 我明天出去	wo ming tian chu qu	100
@@ -249579,6 +250303,8 @@ sort: by_weight
 我一同学	wo yi tong xue	100
 我以为是	wo yi wei shi	100
 我以为是我	wo yi wei shi wo	100
+我已无话	wo yi wu hua	100
+我已无话可说	wo yi wu hua ke shuo	100
 我已无计可施	wo yi wu ji ke shi	100
 我已无颜苟活于世	wo yi wu yan gou huo yu shi	100
 我已下单	wo yi xia dan	100
@@ -250150,6 +250876,7 @@ sort: by_weight
 我最差	wo zui cha	100
 我最常去	wo zui chang qu	100
 我最多	wo zui duo	100
+我最关心的	wo zui guan xin de	100
 我最恨的	wo zui hen de	100
 我最近	wo zui jin	100
 我最快乐	wo zui kuai le	100
@@ -250734,7 +251461,6 @@ sort: by_weight
 武都路	wu du lu	100
 巫毒面具	wu du mian ju	100
 无毒品	wu du pin	100
-武都区	wu du qu	100
 武都区公安局	wu du qu gong an ju	100
 无堵塞排污泵	wu du se pai wu beng	100
 五毒神掌	wu du shen zhang	100
@@ -255471,6 +256197,7 @@ sort: by_weight
 习惯了你	xi guan le ni	100
 习惯了一个人	xi guan le yi ge ren	100
 习惯了这异象	xi guan le zhe yi xiang	100
+习惯吗	xi guan ma	100
 习惯若自然	xi guan ruo zi ran	100
 西关什字站	xi guan shi zi zhan	100
 习惯习惯	xi guan xi guan	100
@@ -255700,6 +256427,7 @@ sort: by_weight
 西京赋	xi jing fu	100
 西京故事	xi jing gu shi	100
 洗净黑暗的高墙	xi jing hei an de gao qiang	100
+洗净了	xi jing le	100
 吸净率	xi jing lv	100
 吸睛率	xi jing lv	100
 戏精牡丹	xi jing mu dan	100
@@ -258518,6 +259246,7 @@ sort: by_weight
 下午就走	xia wu jiu zou	100
 下午看电影	xia wu kan dian ying	100
 下午考完	xia wu kao wan	100
+下午考完了	xia wu kao wan le	100
 下雾了	xia wu le	100
 下午了嘛	xia wu le ma	100
 下午两点考试	xia wu liang dian kao shi	100
@@ -258694,6 +259423,8 @@ sort: by_weight
 下载地图	xia zai di tu	100
 下载地址一	xia zai di zhi yi	100
 下载斗地主	xia zai dou di zhu	100
+下载和	xia zai he	100
+下载和购买	xia zai he gou mai	100
 下载和上传	xia zai he shang chuan	100
 下载欢乐斗地主	xia zai huan le dou di zhu	100
 下载黄片	xia zai huang pian	100
@@ -259607,6 +260338,7 @@ sort: by_weight
 仙琦小姐	xian qi xiao jie	100
 掀起一丝	xian qi yi si	100
 掀起一丝波澜	xian qi yi si bo lan	100
+嫌弃自己	xian qi zi ji	100
 现钱交易	xian qian jiao yi	100
 先遣图	xian qian tu	100
 先遣组	xian qian zu	100
@@ -260255,6 +260987,7 @@ sort: by_weight
 现在没事了	xian zai mei shi le	100
 现在瞄瞄吧	xian zai miao miao ba	100
 现在哪里	xian zai na li	100
+现在那样	xian zai na yang	100
 现在年轻人	xian zai nian qing ren	100
 现在拍下	xian zai pai xia	100
 现在其实	xian zai qi shi	100
@@ -260299,6 +261032,7 @@ sort: by_weight
 现在训练了	xian zai xun lian le	100
 现在要去那里了呢	xian zai yao qu na li le ne	100
 现在也	xian zai ye	100
+现在也这样	xian zai ye zhe yang	100
 现在已	xian zai yi	100
 现在疫情	xian zai yi qing	100
 现在疫情严重	xian zai yi qing yan zhong	100
@@ -260447,6 +261181,7 @@ sort: by_weight
 现状调研	xian zhuang diao yan	100
 现状及	xian zhuang ji	100
 现状是什么	xian zhuang shi shen me	100
+嫌自己	xian zi ji	100
 仙子精灵	xian zi jing ling	100
 仙子请自重	xian zi qing zi zhong	100
 先自隗始	xian zi wei shi	100
@@ -260563,9 +261298,11 @@ sort: by_weight
 想不成功都难	xiang bu cheng gong dou nan	100
 想不出来	xiang bu chu lai	100
 想不出来了	xiang bu chu lai le	100
+想不到啊	xiang bu dao a	100
 想不到啊想不到	xiang bu dao a xiang bu dao	100
 想不到啊想不到啊	xiang bu dao a xiang bu dao a	100
 想不到的地方	xiang bu dao de di fang	100
+想不到哇	xiang bu dao wa	100
 想不到真的	xiang bu dao zhen de	100
 想不到真的是	xiang bu dao zhen de shi	100
 想不到真的是你	xiang bu dao zhen de shi ni	100
@@ -260578,6 +261315,7 @@ sort: by_weight
 想不了这么多	xiang bu le zhe me duo	100
 想不明白啊	xiang bu ming bai a	100
 想不起来了	xiang bu qi lai le	100
+想不起来了吗	xiang bu qi lai le ma	100
 向不特定对象发行	xiang bu te ding dui xiang fa xing	100
 想不通啊	xiang bu tong a	100
 想不通的地方	xiang bu tong de di fang	100
@@ -260725,6 +261463,7 @@ sort: by_weight
 乡村度假	xiang cun du jia	100
 乡村都市化	xiang cun du shi hua	100
 乡村服	xiang cun fu	100
+乡村敢死队	xiang cun gan si dui	100
 乡村化	xiang cun hua	100
 乡村建设行动	xiang cun jian she xing dong	100
 乡村建设运动	xiang cun jian she yun dong	100
@@ -261702,6 +262441,7 @@ sort: by_weight
 想清楚了	xiang qing chu le	100
 想清楚了之后	xiang qing chu le zhi hou	100
 详情度理	xiang qing duo li	100
+想请教一个	xiang qing jiao yi ge	100
 详情联系	xiang qing lian xi	100
 详情请	xiang qing qing	100
 详情请联系	xiang qing qing lian xi	100
@@ -261986,6 +262726,7 @@ sort: by_weight
 向我刺来	xiang wo ci lai	100
 想我的	xiang wo de	100
 相握的手	xiang wo de shou	100
+向我开炮	xiang wo kai pao	100
 想我了	xiang wo le	100
 想我了啊	xiang wo le a	100
 想我了没	xiang wo le mei	100
@@ -262510,6 +263251,7 @@ sort: by_weight
 小白熊电台	xiao bai xiong dian tai	100
 小白一键重装系统	xiao bai yi jian chong zhuang xi tong	100
 小白用户	xiao bai yong hu	100
+小白装机	xiao bai zhuang ji	100
 小绊爱	xiao ban ai	100
 小版本	xiao ban ben	100
 小版本更新	xiao ban ben geng xin	100
@@ -263852,6 +264594,8 @@ sort: by_weight
 小盆友们	xiao pen you men	100
 小鹏汽车	xiao peng qi che	100
 小鹏奇啪行	xiao peng qi pa xing	100
+小朋友的眼睛里	xiao peng you de yan jing li	100
+小朋友的眼睛里面	xiao peng you de yan jing li mian	100
 小屁孩日记	xiao pi hai ri ji	100
 削皮后	xiao pi hou	100
 削皮机	xiao pi ji	100
@@ -263899,6 +264643,7 @@ sort: by_weight
 校企结合	xiao qi jie he	100
 小奇拉比	xiao qi la bi	100
 笑起来的模样	xiao qi lai de mu yang	100
+笑起来了	xiao qi lai le	100
 校企联动	xiao qi lian dong	100
 校企联合	xiao qi lian he	100
 校企联合培养	xiao qi lian he pei yang	100
@@ -264024,6 +264769,7 @@ sort: by_weight
 小三儿	xiao san er	100
 校三好学生	xiao san hao xue sheng	100
 小三上位	xiao san shang wei	100
+小散仙	xiao san xian	100
 小三元	xiao san yuan	100
 小桑启	xiao sang qi	100
 小骚逼	xiao sao bi	100
@@ -264330,6 +265076,7 @@ sort: by_weight
 校外专家	xiao wai zhuan jia	100
 校外租房	xiao wai zu fang	100
 小婉管乐	xiao wan guan yue	100
+笑弯了	xiao wan le	100
 笑弯了腰	xiao wan le yao	100
 小完熊	xiao wan xiong	100
 小玩艺	xiao wan yi	100
@@ -264610,6 +265357,7 @@ sort: by_weight
 逍遥叹	xiao yao tan	100
 逍遥天地	xiao yao tian di	100
 逍遥物外	xiao yao wu wai	100
+逍遥小散仙	xiao yao xiao san xian	100
 逍遥逍遥	xiao yao xiao yao	100
 逍遥行	xiao yao xing	100
 逍遥自得	xiao yao zi de	100
@@ -265227,6 +265975,8 @@ sort: by_weight
 谢陛下恩赐	xie bi xia en ci	100
 颉斌斌	xie bin bin	100
 写博客	xie bo ke	100
+写博客了	xie bo ke le	100
+写博客吗	xie bo ke ma	100
 写不出来诗	xie bu chu lai shi	100
 写不出来诗了	xie bu chu lai shi le	100
 邪不敌正	xie bu di zheng	100
@@ -265268,7 +266018,9 @@ sort: by_weight
 絜大度长	xie da duo chang	100
 鞋带系法	xie dai ji fa	100
 携带率	xie dai lv	100
+写代码了	xie dai ma le	100
 写代码吗	xie dai ma ma	100
+写代码呀	xie dai ma ya	100
 鞋带散了	xie dai san le	100
 鞋带系统	xie dai xi tong	100
 懈怠下去	xie dai xia qu	100
@@ -265298,6 +266050,7 @@ sort: by_weight
 写得好吧	xie de hao ba	100
 写得好不好	xie de hao bu hao	100
 写得好看	xie de hao kan	100
+写得好呀	xie de hao ya	100
 写得很	xie de hen	100
 写得很好	xie de hen hao	100
 写得很好啊	xie de hen hao a	100
@@ -265558,6 +266311,7 @@ sort: by_weight
 谢啦谢啦	xie la xie la	100
 携老扶幼	xie lao fu you	100
 谢了啊	xie le a	100
+写了博客	xie le bo ke	100
 写了不少	xie le bu shao	100
 写了多久	xie le duo jiu	100
 谢了恩	xie le en	100
@@ -265890,6 +266644,8 @@ sort: by_weight
 解晓东	xie xiao dong	100
 写小说	xie xiao shuo	100
 谢谢陛下	xie xie bi xia	100
+写写博客	xie xie bo ke	100
+写写博客吧	xie xie bo ke ba	100
 谢谢财神爷	xie xie cai shen ye	100
 谢谢大宝贝	xie xie da bao bei	100
 谢谢大姑	xie xie da gu	100
@@ -266019,11 +266775,13 @@ sort: by_weight
 携云握雨	xie yun wo yu	100
 卸载安装	xie zai an zhuang	100
 卸载重装	xie zai chong zhuang	100
+卸载好了	xie zai hao le	100
 卸载了吧	xie zai le ba	100
 写在脸上	xie zai lian shang	100
 写在脸上了	xie zai lian shang le	100
 写在上面	xie zai shang mian	100
 写在同一行	xie zai tong yi hang	100
+卸载完了	xie zai wan le	100
 写在刑法里	xie zai xing fa li	100
 写在刑法里了	xie zai xing fa li le	100
 写在这里	xie zai zhe li	100
@@ -266348,6 +267106,7 @@ sort: by_weight
 新的定义	xin de ding yi	100
 新的法宝	xin de fa bao	100
 新的发展模式	xin de fa zhan mo shi	100
+新的费用	xin de fei yong	100
 心得分享	xin de fen xiang	100
 心的感觉	xin de gan jue	100
 新的感觉	xin de gan jue	100
@@ -267474,6 +268233,7 @@ sort: by_weight
 新盛镇	xin sheng zhen	100
 新生仔猪	xin sheng zi zhu	100
 新市场	xin shi chang	100
+新时代的	xin shi dai de	100
 新时代的视觉体验	xin shi dai de shi jue ti yan	100
 新时代检察宣传周	xin shi dai jian cha xuan chuan zhou	100
 新时代学校	xin shi dai xue xiao	100
@@ -268798,6 +269558,7 @@ sort: by_weight
 性感炸弹	xing gan zha dan	100
 性感照	xing gan zhao	100
 兴高采烈地	xing gao cai lie de	100
+性格保守	xing ge bao shou	100
 性格成长	xing ge cheng zhang	100
 性格低调	xing ge di diao	100
 性格恶劣	xing ge e lie	100
@@ -270343,6 +271104,7 @@ sort: by_weight
 雄辩高谈	xiong bian gao tan	100
 雄兵百万	xiong bing bai wan	100
 雄兵连之诸天降临	xiong bing lian zhi zhu tian jiang lin	100
+胸部很大	xiong bu hen da	100
 胸部手术	xiong bu shou shu	100
 胸部以下都是腿	xiong bu yi xia dou shi tui	100
 熊不壮	xiong bu zhuang	100
@@ -270511,6 +271273,9 @@ sort: by_weight
 熊战士	xiong zhan shi	100
 兄长大人	xiong zhang da ren	100
 兄长们	xiong zhang men	100
+胸罩里	xiong zhao li	100
+胸罩里面	xiong zhao li mian	100
+胸这么大	xiong zhe me da	100
 雄酯酮	xiong zhi tong	100
 兄终弟及	xiong zhong di ji	100
 胸中甲兵	xiong zhong jia bing	100
@@ -271142,6 +271907,7 @@ sort: by_weight
 续航时长	xu hang shi chang	100
 续航时间长	xu hang shi jian chang	100
 续航时间更长	xu hang shi jian geng chang	100
+续航问题	xu hang wen ti	100
 续航最长	xu hang zui chang	100
 徐浩峰	xu hao feng	100
 许豪升	xu hao sheng	100
@@ -271707,6 +272473,7 @@ sort: by_weight
 宣布投降	xuan bu tou xiang	100
 宣布退出娱乐圈	xuan bu tui chu yu le quan	100
 宣布无条件投降	xuan bu wu tiao jian tou xiang	100
+选不选择	xuan bu xuan ze	100
 宣布引退	xuan bu yin tui	100
 炫彩模式	xuan cai mo shi	100
 炫彩系列	xuan cai xi lie	100
@@ -274666,6 +275433,8 @@ sort: by_weight
 压死你	ya si ni	100
 雅思培训学校	ya si pei xun xue xiao	100
 压死人	ya si ren	100
+压死我	ya si wo	100
+压死我了	ya si wo le	100
 雅思组合	ya si zu he	100
 亚速钢铁厂	ya su gang tie chang	100
 亚速团	ya su tuan	100
@@ -277270,6 +278039,7 @@ sort: by_weight
 要不起	yao bu qi	100
 要不然滚	yao bu ran gun	100
 要不然你	yao bu ran ni	100
+要不然你们	yao bu ran ni men	100
 要不然我死了	yao bu ran wo si le	100
 要不删	yao bu shan	100
 要不删了	yao bu shan le	100
@@ -277432,6 +278202,8 @@ sort: by_weight
 要饭一样	yao fan yi yang	100
 要放大招了	yao fang da zhao le	100
 药方儿	yao fang er	100
+要放弃	yao fang qi	100
+要放弃了	yao fang qi le	100
 要放松	yao fang song	100
 要分数	yao fen shu	100
 要封闭	yao feng bi	100
@@ -277670,6 +278442,8 @@ sort: by_weight
 要看清楚了	yao kan qing chu le	100
 要看清了	yao kan qing le	100
 要看怎么想	yao kan zen me xiang	100
+要看准	yao kan zhun	100
+要看准了	yao kan zhun le	100
 要扛几楼	yao kang ji lou	100
 要考好	yao kao hao	100
 要靠自己	yao kao zi ji	100
@@ -278196,6 +278970,7 @@ sort: by_weight
 也不得	ye bu de	100
 也不得	ye bu dei	100
 也不对	ye bu dui	100
+也不多啊	ye bu duo a	100
 也不方便	ye bu fang bian	100
 也不放过你	ye bu fang guo ni	100
 也不敢	ye bu gan	100
@@ -278215,6 +278990,7 @@ sort: by_weight
 也不告诉我	ye bu gao su wo	100
 也不跟我说	ye bu gen wo shuo	100
 也不够	ye bu gou	100
+也不够啊	ye bu gou a	100
 也不管一管	ye bu guan yi guan	100
 也不过就是	ye bu guo jiu shi	100
 也不过如此	ye bu guo ru ci	100
@@ -278267,6 +279043,7 @@ sort: by_weight
 也不去	ye bu qu	100
 也不认	ye bu ren	100
 也不认输	ye bu ren shu	100
+也不少啊	ye bu shao a	100
 也不少了	ye bu shao le	100
 也不是	ye bu shi	100
 也不是啊	ye bu shi a	100
@@ -278531,6 +279308,7 @@ sort: by_weight
 夜间班	ye jian ban	100
 夜间长	ye jian chang	100
 夜间出行	ye jian chu xing	100
+夜间冻结	ye jian dong jie	100
 夜间加重	ye jian jia zhong	100
 叶简明	ye jian ming	100
 夜间起降	ye jian qi jiang	100
@@ -281453,6 +282231,8 @@ sort: by_weight
 一帆顺风	yi fan shun feng	100
 易反弹	yi fan tan	100
 一番讨价还价	yi fan tao jia huan jia	100
+一番体验	yi fan ti yan	100
+一番体验下来	yi fan ti yan xia lai	100
 一番天地	yi fan tian di	100
 已返校	yi fan xiao	100
 一饭之德	yi fan zhi de	100
@@ -281530,6 +282310,7 @@ sort: by_weight
 遗风余泽	yi feng yu ze	100
 一佛出世二佛涅槃	yi fo chu shi er fo nie pan	100
 一佛出世二佛升天	yi fo chu shi er fo sheng tian	100
+义父大人	yi fu da ren	100
 一夫当关万夫莫敌	yi fu dang guan wan fu mo di	100
 一幅地图	yi fu di tu	100
 衣服店	yi fu dian	100
@@ -281542,12 +282323,14 @@ sort: by_weight
 以附骥尾	yi fu ji wei	100
 义夫节妇	yi fu jie fu	100
 已付款	yi fu kuan	100
+衣服里面	yi fu li mian	100
 伊芙琳	yi fu lin	100
 伊夫林省	yi fu lin sheng	100
 衣服没脱	yi fu mei tuo	100
 易福门传感器	yi fu men chuan gan qi	100
 义父母	yi fu mu	100
 益肤宁	yi fu ning	100
+衣服拧干	yi fu ning gan	100
 衣服湿了	yi fu shi le	100
 一幅水墨画	yi fu shui mo hua	100
 以弗所	yi fu suo	100
@@ -281577,9 +282360,13 @@ sort: by_weight
 一干弟子	yi gan di zi	100
 一干而尽	yi gan er jin	100
 一干家中	yi gan jia zhong	100
+一杆清	yi gan qing	100
+一杆清了	yi gan qing le	100
 已感染过	yi gan ran guo	100
 一干人	yi gan ren	100
 乙肝三系	yi gan san xi	100
+一杆收	yi gan shou	100
+一杆收台	yi gan shou tai	100
 乙肝小三阳	yi gan xiao san yang	100
 乙肝知识	yi gan zhi shi	100
 一竿子捅到底	yi gan zi tong dao di	100
@@ -282361,10 +283148,12 @@ sort: by_weight
 一键还原软件	yi jian huan yuan ruan jian	100
 一键还原系统	yi jian huan yuan xi tong	100
 一键恢复系统	yi jian hui fu xi tong	100
+一键降低	yi jian jiang di	100
 一键解绑	yi jian jie bang	100
 一键接入	yi jian jie ru	100
 一件接着一件	yi jian jie zhe yi jian	100
 一件旧事	yi jian jiu shi	100
+一键开启	yi jian kai qi	100
 一件快乐的事	yi jian kuai le de shi	100
 一件乐事	yi jian le shi	100
 一件两件	yi jian liang jian	100
@@ -282377,6 +283166,7 @@ sort: by_weight
 一间民宿	yi jian min su	100
 一件牛仔外套	yi jian niu zai wai tao	100
 一键启动系统	yi jian qi dong xi tong	100
+一键启用	yi jian qi yong	100
 意见强调	yi jian qiang diao	100
 一见倾倒	yi jian qing dao	100
 异见人士	yi jian ren shi	100
@@ -282389,6 +283179,7 @@ sort: by_weight
 一键收藏	yi jian shou cang	100
 一箭双星	yi jian shuang xing	100
 一间宿舍	yi jian su she	100
+一键提高	yi jian ti gao	100
 一键调节	yi jian tiao jie	100
 遗艰投大	yi jian tou da	100
 意见相合	yi jian xiang he	100
@@ -282506,6 +283297,7 @@ sort: by_weight
 已经被我	yi jing bei wo	100
 已经被我控制	yi jing bei wo kong zhi	100
 已经别无选择	yi jing bie wu xuan ze	100
+已经不	yi jing bu	100
 已经不错了	yi jing bu cuo le	100
 已经不大	yi jing bu da	100
 已经不见	yi jing bu jian	100
@@ -282516,9 +283308,12 @@ sort: by_weight
 已经不能满足	yi jing bu neng man zu	100
 已经不是当年	yi jing bu shi dang nian	100
 已经不是当年的	yi jing bu shi dang nian de	100
+已经不是个	yi jing bu shi ge	100
 已经不是了	yi jing bu shi le	100
+已经不是一个	yi jing bu shi yi ge	100
 已经不想	yi jing bu xiang	100
 已经不需要	yi jing bu xu yao	100
+已经不要	yi jing bu yao	100
 已经不用	yi jing bu yong	100
 已经不在了	yi jing bu zai le	100
 已经不止是个	yi jing bu zhi shi ge	100
@@ -282635,6 +283430,8 @@ sort: by_weight
 已经上路了	yi jing shang lu le	100
 已经失传	yi jing shi chuan	100
 已经失传了	yi jing shi chuan le	100
+已经试过	yi jing shi guo	100
+已经试过了	yi jing shi guo le	100
 已经失去	yi jing shi qu	100
 已经实施	yi jing shi shi	100
 已经湿透	yi jing shi tou	100
@@ -286410,6 +287207,8 @@ sort: by_weight
 衣物和银两	yi wu he yin liang	100
 疑误后生	yi wu hou sheng	100
 疑误后学	yi wu hou xue	100
+已无话可说	yi wu hua ke shuo	100
+已无话可说了	yi wu hua ke shuo le	100
 以物换物	yi wu huan wu	100
 以吾魂魄	yi wu hun po	100
 已无计可施	yi wu ji ke shi	100
@@ -291276,6 +292075,8 @@ sort: by_weight
 影响行动	ying xiang xing dong	100
 影响行人通行	ying xiang xing ren tong xing	100
 影响严重	ying xiang yan zhong	100
+影响用电	ying xiang yong dian	100
+影响用水	ying xiang yong shui	100
 影响有	ying xiang you	100
 影响有没	ying xiang you mei	100
 影响有没有	ying xiang you mei you	100
@@ -291863,6 +292664,7 @@ sort: by_weight
 永久关闭了	yong jiu guan bi le	100
 永久光翼	yong jiu guang yi	100
 永久和平	yong jiu he ping	100
+永久会员	yong jiu hui yuan	100
 永久基地	yong jiu ji di	100
 永久记住	yong jiu ji zhu	100
 永久记住了	yong jiu ji zhu le	100
@@ -292088,7 +292890,9 @@ sort: by_weight
 用一下	yong yi xia	100
 用一阵子	yong yi zhen zi	100
 用隐私	yong yin si	100
+用隐私换	yong yin si huan	100
 用隐私换便利	yong yin si huan bian li	100
+用隐私换方便	yong yin si huan fang bian	100
 勇勇敢敢	yong yong gan gan	100
 拥有大长腿	yong you da chang tui	100
 拥有的快乐	yong you de kuai le	100
@@ -292433,6 +293237,7 @@ sort: by_weight
 优畅享	you chang xiang	100
 又吵架了	you chao jia le	100
 有巢氏	you chao shi	100
+又抄作业	you chao zuo ye	100
 有车感	you che gan	100
 油车还是	you che hai shi	100
 游车河	you che he	100
@@ -292913,6 +293718,7 @@ sort: by_weight
 有公告	you gong gao	100
 有攻击性	you gong ji xing	100
 有共鸣	you gong ming	100
+有共同话题	you gong tong hua ti	100
 有功在身	you gong zai shen	100
 有勾当	you gou dang	100
 邮购价格	you gou jia ge	100
@@ -292939,6 +293745,7 @@ sort: by_weight
 有管腺	you guan xian	100
 油管线	you guan xian	100
 有观众	you guan zhong	100
+油光满面的	you guang man mian de	100
 油光漆	you guang qi	100
 油光锃亮	you guang zeng liang	100
 油鬼子	you gui zi	100
@@ -292983,6 +293790,7 @@ sort: by_weight
 友好的关系	you hao de guan xi	100
 友好的态度	you hao de tai du	100
 友好度	you hao du	100
+有好多个	you hao duo ge	100
 友好发展	you hao fa zhan	100
 有好工作	you hao gong zuo	100
 友好合作关系	you hao he zuo guan xi	100
@@ -293605,6 +294413,7 @@ sort: by_weight
 又没人逼你	you mei ren bi ni	100
 有美容的功效	you mei rong de gong xiao	100
 有美容功效	you mei rong gong xiao	100
+有没杀过人	you mei sha guo ren	100
 又没什么	you mei shen me	100
 又没时间	you mei shi jian	100
 又没收到	you mei shou dao	100
@@ -293640,8 +294449,10 @@ sort: by_weight
 有没有看过	you mei you kan guo	100
 有没有课	you mei you ke	100
 有没有可能	you mei you ke neng	100
+有没有可能是	you mei you ke neng shi	100
 有没有来	you mei you lai	100
 有没有烂尾	you mei you lan wei	100
+有没有吗	you mei you ma	100
 有没有买到	you mei you mai dao	100
 有没有买过	you mei you mai guo	100
 有没有妹	you mei you mei	100
@@ -293664,6 +294475,7 @@ sort: by_weight
 有没有人告诉我	you mei you ren gao su wo	100
 有没有人能告诉我	you mei you ren neng gao su wo	100
 有没有人像我一样	you mei you ren xiang wo yi yang	100
+有没有杀过人	you mei you sha guo ren	100
 有没有谁	you mei you shei	100
 有没有什么办法	you mei you shen me ban fa	100
 有没有什么办法去	you mei you shen me ban fa qu	100
@@ -293764,6 +294576,7 @@ sort: by_weight
 幽明异路	you ming yi lu	100
 幽明永隔	you ming yong ge	100
 有命挣	you ming zheng	100
+有命挣没命花	you ming zheng mei ming hua	100
 幽冥之地	you ming zhi di	100
 有莫大关系	you mo da guan xi	100
 幽默地	you mo de	100
@@ -294090,6 +294903,8 @@ sort: by_weight
 有杀气	you sha qi	100
 有杀气啊	you sha qi a	100
 有啥事儿	you sha shi er	100
+有啥说法	you sha shuo fa	100
+有啥说法吗	you sha shuo fa ma	100
 有啥推荐的	you sha tui jian de	100
 有啥影响	you sha ying xiang	100
 有啥用	you sha yong	100
@@ -294203,6 +295018,8 @@ sort: by_weight
 有什么经验	you shen me jing yan	100
 有什么觉得	you shen me jue de	100
 有什么可	you shen me ke	100
+有什么可说	you shen me ke shuo	100
+有什么可说的	you shen me ke shuo de	100
 有什么可以帮	you shen me ke yi bang	100
 有什么可以帮你的	you shen me ke yi bang ni de	100
 有什么可以帮你的吗	you shen me ke yi bang ni de ma	100
@@ -294233,6 +295050,8 @@ sort: by_weight
 有什么事儿	you shen me shi er	100
 有什么事瞒着	you shen me shi man zhe	100
 有什么事么	you shen me shi me	100
+有什么说法	you shen me shuo fa	100
+有什么说法吗	you shen me shuo fa ma	100
 有什么条件	you shen me tiao jian	100
 有什么推荐	you shen me tui jian	100
 有什么推荐吗	you shen me tui jian ma	100
@@ -294581,6 +295400,8 @@ sort: by_weight
 佑我中华	you wo zhong hua	100
 尤雾弹	you wu dan	100
 有物混成	you wu hun cheng	100
+有无可能	you wu ke neng	100
+有无可能是	you wu ke neng shi	100
 有舞台	you wu tai	100
 有无相生	you wu xiang sheng	100
 有无相通	you wu xiang tong	100
@@ -294872,6 +295693,7 @@ sort: by_weight
 有些期待	you xie qi dai	100
 有些奇怪	you xie qi guai	100
 有些区别	you xie qu bie	100
+有些人呐	you xie ren na	100
 有些日子	you xie ri zi	100
 有些日子了	you xie ri zi le	100
 有些慎重	you xie shen zhong	100
@@ -295128,6 +295950,7 @@ sort: by_weight
 有一项重要的	you yi xiang zhong yao de	100
 有一项重要的任务	you yi xiang zhong yao de ren wu	100
 有一小撮	you yi xiao cuo	100
+有一些人	you yi xie ren	100
 有一些问题	you yi xie wen ti	100
 友谊勋章	you yi xun zhang	100
 有一样	you yi yang	100
@@ -296745,6 +297568,7 @@ sort: by_weight
 浴日补天	yu ri bu tian	100
 与日俱辉	yu ri ju hui	100
 与日俱进	yu ri ju jin	100
+与日俱增呀	yu ri ju zeng ya	100
 与日同辉	yu ri tong hui	100
 与日月争辉	yu ri yue zheng hui	100
 羽绒服女中长款	yu rong fu nv zhong chang kuan	100
@@ -296901,7 +297725,9 @@ sort: by_weight
 玉素甫江	yu su fu jiang	100
 于素秋	yu su qiu	100
 预算表	yu suan biao	100
+预算不够了	yu suan bu gou le	100
 预算超出	yu suan chao chu	100
+预算超出了	yu suan chao chu le	100
 预算超过	yu suan chao guo	100
 预算大于	yu suan da yu	100
 预算的执行	yu suan de zhi xing	100
@@ -296914,6 +297740,7 @@ sort: by_weight
 预算小于	yu suan xiao yu	100
 预算削减	yu suan xue jian	100
 预算执行审计	yu suan zhi xing shen ji	100
+预算只有	yu suan zhi you	100
 宇髄天元	yu sui tian yuan	100
 玉碎香消	yu sui xiang xiao	100
 玉碎珠沉	yu sui zhu chen	100
@@ -297427,6 +298254,7 @@ sort: by_weight
 援笔而就	yuan bi er jiu	100
 援笔立成	yuan bi li cheng	100
 援笔立就	yuan bi li jiu	100
+圆比椭圆圆	yuan bi tuo yuan yuan	100
 缘波讨源	yuan bo tao yuan	100
 园博园	yuan bo yuan	100
 怨不得别人	yuan bu de bie ren	100
@@ -301754,6 +302582,7 @@ sort: by_weight
 早年经历	zao nian jing li	100
 早年生涯	zao nian sheng ya	100
 早鸟礼	zao niao li	100
+早鸟优惠	zao niao you hui	100
 早排了	zao pai le	100
 早盘冲高回落	zao pan chong gao hui luo	100
 早盘内参	zao pan nei can	100
@@ -301761,6 +302590,10 @@ sort: by_weight
 早破了	zao po le	100
 早期参与者	zao qi can yu zhe	100
 早期的	zao qi de	100
+早起的鸟	zao qi de niao	100
+早起的鸟儿	zao qi de niao er	100
+早起的小鸟	zao qi de xiao niao	100
+早期的作品	zao qi de zuo pin	100
 早期发行	zao qi fa xing	100
 早期发展	zao qi fa zhan	100
 早期来了	zao qi lai le	100
@@ -301772,6 +302605,7 @@ sort: by_weight
 早起晚归	zao qi wan gui	100
 早期效应	zao qi xiao ying	100
 早期预警系统	zao qi yu jing xi tong	100
+早期作品	zao qi zuo pin	100
 遭枪击	zao qiang ji	100
 遭枪击身亡	zao qiang ji shen wang	100
 造桥工程	zao qiao gong cheng	100
@@ -302540,6 +303374,7 @@ sort: by_weight
 怎么知道的呢	zen me zhi dao de ne	100
 怎么知道我	zen me zhi dao wo	100
 怎么知道细节	zen me zhi dao xi jie	100
+怎么知道呀	zen me zhi dao ya	100
 怎么支付	zen me zhi fu	100
 怎么执行	zen me zhi xing	100
 怎么助力	zen me zhu li	100
@@ -302588,6 +303423,8 @@ sort: by_weight
 怎样调整	zen yang tiao zheng	100
 怎样行	zen yang xing	100
 怎样宣传	zen yang xuan chuan	100
+怎样一番	zen yang yi fan	100
+怎样一番体验	zen yang yi fan ti yan	100
 怎样长高	zen yang zhang gao	100
 怎样做	zen yang zuo	100
 曾阿牛	zeng a niu	100
@@ -304248,6 +305085,7 @@ sort: by_weight
 长得很帅	zhang de hen shuai	100
 长得很帅气	zhang de hen shuai qi	100
 长得很像	zhang de hen xiang	100
+长得很像啊	zhang de hen xiang a	100
 长得很秀气	zhang de hen xiu qi	100
 长得会	zhang de hui	100
 长得娇小	zhang de jiao xiao	100
@@ -304308,6 +305146,7 @@ sort: by_weight
 长得旺	zhang de wang	100
 长得显老	zhang de xian lao	100
 长得像爸爸	zhang de xiang ba ba	100
+长得像不像	zhang de xiang bu xiang	100
 长得像吗	zhang de xiang ma	100
 长得像妈妈	zhang de xiang ma ma	100
 长得像人	zhang de xiang ren	100
@@ -305220,6 +306059,8 @@ sort: by_weight
 找不找得到	zhao bu zhao de dao	100
 找不着对象	zhao bu zhao dui xiang	100
 找不着工作	zhao bu zhao gong zuo	100
+着不着急啊	zhao bu zhao ji a	100
+着不着急呀	zhao bu zhao ji ya	100
 找不着了	zhao bu zhao le	100
 找不着了呀	zhao bu zhao le ya	100
 找不着人	zhao bu zhao ren	100
@@ -306119,6 +306960,8 @@ sort: by_weight
 这不叫	zhe bu jiao	100
 这不就	zhe bu jiu	100
 这不就说明	zhe bu jiu shuo ming	100
+这部剧	zhe bu ju	100
+这部剧集	zhe bu ju ji	100
 这不科学啊	zhe bu ke xue a	100
 这不坑爹	zhe bu keng die	100
 这不坑爹吗	zhe bu keng die ma	100
@@ -306327,6 +307170,7 @@ sort: by_weight
 这方面的记载	zhe fang mian de ji zai	100
 这份懊恼	zhe fen ao nao	100
 这份赤子之心	zhe fen chi zi zhi xin	100
+这份简历	zhe fen jian li	100
 这份口供	zhe fen kou gong	100
 这份口供有假	zhe fen kou gong you jia	100
 这份苦楚	zhe fen ku chu	100
@@ -306505,6 +307349,7 @@ sort: by_weight
 这个兄弟	zhe ge xiong di	100
 这个需求很简单	zhe ge xu qiu hen jian dan	100
 这个需要	zhe ge xu yao	100
+这个样子了	zhe ge yang zi le	100
 这个样子吗	zhe ge yang zi ma	100
 这个药的价格	zhe ge yao de jia ge	100
 这个应该	zhe ge ying gai	100
@@ -307484,6 +308329,7 @@ sort: by_weight
 遮天压地	zhe tian ya di	100
 遮天掩日	zhe tian yan ri	100
 遮天映日	zhe tian ying ri	100
+这条法律	zhe tiao fa lv	100
 这条狗	zhe tiao gou	100
 这条街	zhe tiao jie	100
 这条龙	zhe tiao long	100
@@ -307921,6 +308767,10 @@ sort: by_weight
 真不是闹着玩	zhen bu shi nao zhe wan	100
 真不是演戏	zhen bu shi yan xi	100
 真不谈判	zhen bu tan pan	100
+真不玩	zhen bu wan	100
+真不玩儿	zhen bu wan er	100
+真不玩儿了	zhen bu wan er le	100
+真不玩了	zhen bu wan le	100
 贞卜文字	zhen bu wen zi	100
 真不习惯	zhen bu xi guan	100
 真不希望	zhen bu xi wang	100
@@ -307932,6 +308782,7 @@ sort: by_weight
 真不咋的	zhen bu za di	100
 真不在乎	zhen bu zai hu	100
 真不在意	zhen bu zai yi	100
+真不真	zhen bu zhen	100
 震不震惊	zhen bu zhen jing	100
 震不震惊啊	zhen bu zhen jing a	100
 震不震惊吧	zhen bu zhen jing ba	100
@@ -308151,7 +309002,7 @@ sort: by_weight
 真的没有想到	zhen de mei you xiang dao	100
 真的没有想过	zhen de mei you xiang guo	100
 真的没有意义	zhen de mei you yi yi	100
-真的难手	zhen de nan shou	100
+真的难受	zhen de nan shou	100
 真的牛逼	zhen de niu bi	100
 真的怕	zhen de pa	100
 真的怕了	zhen de pa le	100
@@ -308511,6 +309362,7 @@ sort: by_weight
 真没想到啊	zhen mei xiang dao a	100
 真没意思	zhen mei yi si	100
 真没有想到	zhen mei you xiang dao	100
+真没有想到啊	zhen mei you xiang dao a	100
 真没辙	zhen mei zhe	100
 珍梦海	zhen meng hai	100
 缜密调查	zhen mi diao cha	100
@@ -308531,12 +309383,15 @@ sort: by_weight
 真那么	zhen na me	100
 真那么要紧	zhen na me yao jin	100
 真拿你没办法	zhen na ni mei ban fa	100
+真难啊	zhen nan a	100
 真难缠	zhen nan chan	100
 真难伺候	zhen nan ci hou	100
 真难得	zhen nan de	100
 真难懂	zhen nan dong	100
 真难懂啊	zhen nan dong a	100
+镇南关之役	zhen nan guan zhi yi	100
 真难找	zhen nan zhao	100
+镇南镇	zhen nan zhen	100
 真难追	zhen nan zhui	100
 真能接受	zhen neng jie shou	100
 真能装	zhen neng zhuang	100
@@ -308613,6 +309468,7 @@ sort: by_weight
 真是棒	zhen shi bang	100
 真是棒啊	zhen shi bang a	100
 真视宝石	zhen shi bao shi	100
+真是不错啊	zhen shi bu cuo a	100
 真是不好意思	zhen shi bu hao yi si	100
 真是不容易	zhen shi bu rong yi	100
 真是不虚此行	zhen shi bu xu ci xing	100
@@ -309596,6 +310452,7 @@ sort: by_weight
 整个一季度	zheng ge yi ji du	100
 整个印度	zheng ge yin du	100
 整个银河系	zheng ge yin he xi	100
+整个硬盘	zheng ge ying pan	100
 整个娱乐圈	zheng ge yu le quan	100
 整个院落	zheng ge yuan luo	100
 整个中东地区	zheng ge zhong dong di qu	100
@@ -309777,6 +310634,8 @@ sort: by_weight
 睁了开来	zheng le kai lai	100
 争了口气	zheng le kou qi	100
 正了名	zheng le ming	100
+挣了钱后	zheng le qian hou	100
+挣了钱了	zheng le qian le	100
 整了容	zheng le rong	100
 整了牙	zheng le ya	100
 挣了一点儿钱	zheng le yi dian er qian	100
@@ -310033,6 +310892,7 @@ sort: by_weight
 整世纪	zheng shi ji	100
 正式进入娱乐圈	zheng shi jin ru yu le quan	100
 正是利用了	zheng shi li yong le	100
+正式亮相了	zheng shi liang xiang le	100
 正式落地	zheng shi luo di	100
 正时少年	zheng shi shao nian	100
 正视绳行	zheng shi sheng xing	100
@@ -310936,6 +311796,7 @@ sort: by_weight
 枝词蔓语	zhi ci man yu	100
 值此生死存亡之际	zhi ci sheng si cun wang zhi ji	100
 值此新春佳节	zhi ci xin chun jia jie	100
+只此一个	zhi ci yi ge	100
 志村健	zhi cun jian	100
 志村剑	zhi cun jian	100
 志村妙	zhi cun miao	100
@@ -312010,6 +312871,7 @@ sort: by_weight
 直接上屏	zhi jie shang ping	100
 直接上手	zhi jie shang shou	100
 直接上嘴	zhi jie shang zui	100
+直接升级	zhi jie sheng ji	100
 直接省略	zhi jie sheng lve	100
 直接使用	zhi jie shi yong	100
 直接收回	zhi jie shou hui	100
@@ -312798,6 +313660,7 @@ sort: by_weight
 芝山岩	zhi shan yan	100
 芝山站	zhi shan zhan	100
 智商不够	zhi shang bu gou	100
+智商不够了	zhi shang bu gou le	100
 智商不行	zhi shang bu xing	100
 智商测验	zhi shang ce yan	100
 智商高	zhi shang gao	100
@@ -313482,6 +314345,7 @@ sort: by_weight
 执行立案	zhi xing li an	100
 执行力不够	zhi xing li bu gou	100
 执行力不强	zhi xing li bu qiang	100
+执行力不行	zhi xing li bu xing	100
 执行力差	zhi xing li cha	100
 执行力超强	zhi xing li chao qiang	100
 执行力非常强	zhi xing li fei chang qiang	100
@@ -315747,6 +316611,7 @@ sort: by_weight
 众多行业	zhong duo hang ye	100
 众多家长	zhong duo jia zhang	100
 众多角色	zhong duo jue se	100
+重多了	zhong duo le	100
 众多人口	zhong duo ren kou	100
 中俄瑷珲和约	zhong e ai hui he yue	100
 中俄瑷珲条约	zhong e ai hui tiao yue	100
@@ -316433,6 +317298,7 @@ sort: by_weight
 中国音乐史	zhong guo yin yue shi	100
 中国音乐学院	zhong guo yin yue xue yuan	100
 中国营销传播网	zhong guo ying xiao chuan bo wang	100
+中国用户啊	zhong guo yong hu a	100
 中国邮储银行	zhong guo you chu yin hang	100
 中国有句	zhong guo you ju	100
 中国有句古话	zhong guo you ju gu hua	100
@@ -317531,6 +318397,7 @@ sort: by_weight
 重文化	zhong wen hua	100
 中文机	zhong wen ji	100
 中文角度	zhong wen jiao du	100
+中文九键	zhong wen jiu jian	100
 中文局域网	zhong wen ju yu wang	100
 中文空耳	zhong wen kong er	100
 中文里	zhong wen li	100
@@ -321368,6 +322235,7 @@ sort: by_weight
 专利税	zhuan li shui	100
 专利行政	zhuan li xing zheng	100
 专利药	zhuan li yao	100
+转凉了	zhuan liang le	100
 转捩期	zhuan lie qi	100
 转铃儿	zhuan ling er	100
 转录调控	zhuan lu tiao kong	100
@@ -322192,6 +323060,7 @@ sort: by_weight
 准备得很充分	zhun bei de hen chong fen	100
 准备度	zhun bei du	100
 准备二战	zhun bei er zhan	100
+准备防守	zhun bei fang shou	100
 准备干什么	zhun bei gan shen me	100
 准备个惊喜	zhun bei ge jing xi	100
 准备给	zhun bei gei	100
@@ -322207,7 +323076,9 @@ sort: by_weight
 准备击落	zhun bei ji luo	100
 准备降落	zhun bei jiang luo	100
 准备进厂	zhun bei jin chang	100
+准备进攻	zhun bei jin gong	100
 准备惊喜	zhun bei jing xi	100
+准备开火	zhun bei kai huo	100
 准备考研	zhun bei kao yan	100
 准备了	zhun bei le	100
 准备了个惊喜	zhun bei le ge jing xi	100
@@ -322286,8 +323157,16 @@ sort: by_weight
 准确地分析	zhun que de fen xi	100
 准确地理解	zhun que de li jie	100
 准确地址	zhun que di zhi	100
+准确度不低	zhun que du bu di	100
+准确度不高	zhun que du bu gao	100
+准确度不好	zhun que du bu hao	100
 准确度等级	zhun que du deng ji	100
+准确度低	zhun que du di	100
 准确度高	zhun que du gao	100
+准确度好	zhun que du hao	100
+准确度很低	zhun que du hen di	100
+准确度很高	zhun que du hen gao	100
+准确度极低	zhun que du ji di	100
 准确度要求	zhun que du yao qiu	100
 准确还原	zhun que huan yuan	100
 准确率低	zhun que lv di	100
@@ -322532,6 +323411,8 @@ sort: by_weight
 资本无序扩张	zi ben wu xu kuo zhang	100
 资本效率	zi ben xiao lv	100
 资本有机	zi ben you ji	100
+资本战	zi ben zhan	100
+资本战争	zi ben zhan zheng	100
 资本真坏	zi ben zhen huai	100
 资本主义地租	zi ben zhu yi di zu	100
 资本主义生产关系	zi ben zhu yi sheng chan guan xi	100
@@ -324162,6 +325043,7 @@ sort: by_weight
 自由地呼吸	zi you de hu xi	100
 自由地选择	zi you de xuan ze	100
 自由的意志	zi you de yi zhi	100
+自由地追求	zi you de zhui qiu	100
 自由地区	zi you di qu	100
 自由跌落	zi you die luo	100
 自有定数	zi you ding shu	100
@@ -324901,6 +325783,7 @@ sort: by_weight
 走不了了	zou bu liao le	100
 走不了路	zou bu liao lu	100
 走不上	zou bu shang	100
+揍不死你	zou bu si ni	100
 走不通	zou bu tong	100
 走不下去	zou bu xia qu	100
 走不走啊	zou bu zou a	100
@@ -325353,6 +326236,7 @@ sort: by_weight
 足不窥户	zu bu kui hu	100
 族部落	zu bu luo	100
 足不逾户	zu bu yu hu	100
+组不组队	zu bu zu dui	100
 足不足够	zu bu zu gou	100
 足不足够啊	zu bu zu gou a	100
 足不足够吧	zu bu zu gou ba	100
@@ -325391,6 +326275,7 @@ sort: by_weight
 阻断传播途径	zu duan chuan bo tu jing	100
 阻断贫困代际传递	zu duan pin kun dai ji chuan di	100
 阻断疫情传播	zu duan yi qing chuan bo	100
+组队不组队	zu dui bu zu dui	100
 组队参赛	zu dui can sai	100
 组队出行	zu dui chu xing	100
 组队模式	zu dui mo shi	100
@@ -325437,6 +326322,7 @@ sort: by_weight
 祖国的土地	zu guo de tu di	100
 祖国和平统一委员会	zu guo he ping tong yi wei yuan hui	100
 祖国强盛	zu guo qiang sheng	100
+祖国人儿	zu guo ren er	100
 祖国山河	zu guo shan he	100
 祖国生日快乐	zu guo sheng ri kuai le	100
 祖国伟大	zu guo wei da	100
@@ -326091,6 +326977,7 @@ sort: by_weight
 最高法院院长	zui gao fa yuan yuan zhang	100
 最高分辨率	zui gao fen bian lv	100
 最高分了	zui gao fen le	100
+最高分数	zui gao fen shu	100
 最高高度	zui gao gao du	100
 最高功率	zui gao gong lv	100
 最高工资限额	zui gao gong zi xian e	100
@@ -326140,6 +327027,7 @@ sort: by_weight
 最关键的一步	zui guan jian de yi bu	100
 最关键的一场	zui guan jian de yi chang	100
 最关键的一点	zui guan jian de yi dian	100
+最关心的	zui guan xin de	100
 最广的	zui guang de	100
 最广袤	zui guang mao	100
 最广袤的	zui guang mao de	100
@@ -326341,6 +327229,7 @@ sort: by_weight
 最后一关	zui hou yi guan	100
 最后一行	zui hou yi hang	100
 最后一话	zui hou yi hua	100
+最后一件事了	zui hou yi jian shi le	100
 最后一节课	zui hou yi jie ke	100
 最后一句话	zui hou yi ju hua	100
 最后一科	zui hou yi ke	100
@@ -326402,6 +327291,7 @@ sort: by_weight
 最佳动作设计	zui jia dong zuo she ji	100
 最佳对象	zui jia dui xiang	100
 最佳二传	zui jia er chuan	100
+最佳范式	zui jia fan shi	100
 最佳观赏地	zui jia guan shang di	100
 最佳婚姻	zui jia hun yin	100
 最佳纪录长片	zui jia ji lu chang pian	100
@@ -326563,6 +327453,7 @@ sort: by_weight
 最可怕的	zui ke pa de	100
 最可笑的	zui ke xiao de	100
 最可行	zui ke xing	100
+最坑的是	zui keng de shi	100
 最恐怖	zui kong bu	100
 最恐怖的	zui kong bu de	100
 最恐怖的地方	zui kong bu de di fang	100
@@ -327980,6 +328871,7 @@ sort: by_weight
 坐了起来	zuo le qi lai	100
 做了三件事	zuo le san jian shi	100
 做了三年	zuo le san nian	100
+坐了上去	zuo le shang qu	100
 做了什么孽	zuo le shen me nie	100
 做了什么事	zuo le shen me shi	100
 做了什么事儿	zuo le shen me shi er	100
@@ -328166,6 +329058,7 @@ sort: by_weight
 坐上了过山车	zuo shang le guo shan che	100
 坐上了火箭	zuo shang le huo jian	100
 做商量	zuo shang liang	100
+坐上去了	zuo shang qu le	100
 作舍道边	zuo she dao bian	100
 作舍道旁	zuo she dao pang	100
 做深度	zuo shen du	100
@@ -328258,6 +329151,7 @@ sort: by_weight
 左庶长	zuo shu zhang	100
 坐顺风车	zuo shun feng che	100
 作死啊	zuo si a	100
+作死啊你	zuo si a ni	100
 做私活	zuo si huo	100
 做私活儿	zuo si huo er	100
 做他的朋友	zuo ta de peng you	100
