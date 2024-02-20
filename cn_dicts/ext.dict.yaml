@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2024-02-18"
+version: "2024-02-21"
 sort: by_weight
 ...
 # +_+
@@ -11923,6 +11923,7 @@ sort: by_weight
 本尼迪克特	ben ni di ke te	100
 奔你而来	ben ni er lai	100
 本尼古德曼	ben ni gu de man	100
+本年度的	ben nian du de	100
 本年度最佳	ben nian du zui jia	100
 奔跑吧	ben pao ba	100
 奔跑吧兄弟	ben pao ba xiong di	100
@@ -32525,6 +32526,7 @@ sort: by_weight
 成不了气候	cheng bu liao qi hou	100
 成不了事	cheng bu liao shi	100
 撑不了太久	cheng bu liao tai jiu	100
+盛不下了	cheng bu xia le	100
 撑不下去了	cheng bu xia qu le	100
 撑不住啊	cheng bu zhu a	100
 成才率	cheng cai lv	100
@@ -37165,6 +37167,7 @@ sort: by_weight
 冲洗地面	chong xi di mian	100
 冲洗马桶	chong xi ma tong	100
 冲洗系统	chong xi xi tong	100
+重下一个	chong xia yi ge	100
 重现当年	chong xian dang nian	100
 重现光彩	chong xian guang cai	100
 重现光明	chong xian guang ming	100
@@ -43811,7 +43814,6 @@ sort: by_weight
 从没有想过	cong mei you xiang guo	100
 聪明逼	cong ming bi	100
 聪明程度	cong ming cheng du	100
-聪明地	cong ming de	100
 聪明得多	cong ming de duo	100
 聪明得很	cong ming de hen	100
 聪明的家长	cong ming de jia zhang	100
@@ -62740,6 +62742,7 @@ sort: by_weight
 都要看	dou yao kan	100
 都要看看	dou yao kan kan	100
 都要考	dou yao kao	100
+都要靠	dou yao kao	100
 都要考虑	dou yao kao lv	100
 都要考虑到	dou yao kao lv dao	100
 都要控制	dou yao kong zhi	100
@@ -62784,6 +62787,7 @@ sort: by_weight
 都要早	dou yao zao	100
 都要掌握	dou yao zhang wo	100
 都要照顾	dou yao zhao gu	100
+都要这样	dou yao zhe yang	100
 都要珍惜	dou yao zhen xi	100
 都要争	dou yao zheng	100
 都要知道	dou yao zhi dao	100
@@ -72894,6 +72898,7 @@ sort: by_weight
 放开了手脚	fang kai le shou jiao	100
 放开落户	fang kai luo hu	100
 放开落户限制	fang kai luo hu xian zhi	100
+放开没放开	fang kai mei fang kai	100
 放开那个	fang kai na ge	100
 放开那个男孩	fang kai na ge nan hai	100
 放开那个男孩儿	fang kai na ge nan hai er	100
@@ -73039,6 +73044,35 @@ sort: by_weight
 放慢了脚步	fang man le jiao bu	100
 放慢了速度	fang man le su du	100
 放满了行李	fang man le xing li	100
+放没放	fang mei fang	100
+放没放开	fang mei fang kai	100
+放没放开啊	fang mei fang kai a	100
+放没放开呢	fang mei fang kai ne	100
+放没放开呀	fang mei fang kai ya	100
+放没放辣椒	fang mei fang la jiao	100
+放没放辣椒啊	fang mei fang la jiao a	100
+放没放辣椒呢	fang mei fang la jiao ne	100
+放没放辣椒呀	fang mei fang la jiao ya	100
+放没放弃	fang mei fang qi	100
+放没放弃啊	fang mei fang qi a	100
+放没放弃呢	fang mei fang qi ne	100
+放没放弃呀	fang mei fang qi ya	100
+放没放手	fang mei fang shou	100
+放没放手啊	fang mei fang shou a	100
+放没放手呢	fang mei fang shou ne	100
+放没放手呀	fang mei fang shou ya	100
+放没放水	fang mei fang shui	100
+放没放水啊	fang mei fang shui a	100
+放没放水呢	fang mei fang shui ne	100
+放没放水呀	fang mei fang shui ya	100
+放没放糖	fang mei fang tang	100
+放没放糖啊	fang mei fang tang a	100
+放没放糖呢	fang mei fang tang ne	100
+放没放糖呀	fang mei fang tang ya	100
+放没放盐	fang mei fang yan	100
+放没放盐啊	fang mei fang yan a	100
+放没放盐呢	fang mei fang yan ne	100
+放没放盐呀	fang mei fang yan ya	100
 访美之旅	fang mei zhi lv	100
 方梦诚	fang meng cheng	100
 防萌杜渐	fang meng du jian	100
@@ -73100,6 +73134,7 @@ sort: by_weight
 放弃了治疗	fang qi le zhi liao	100
 放弃了自己的工作	fang qi le zi ji de gong zuo	100
 放弃了自己的事业	fang qi le zi ji de shi ye	100
+放弃没放弃	fang qi mei fang qi	100
 放气门	fang qi men	100
 房企拿地	fang qi na di	100
 放弃前	fang qi qian	100
@@ -73208,6 +73243,7 @@ sort: by_weight
 防守篮板率	fang shou lan ban lv	100
 放手了	fang shou le	100
 防守了	fang shou le	100
+放手没放手	fang shou mei fang shou	100
 防守模式	fang shou mo shi	100
 防守强度	fang shou qiang du	100
 放手去爱	fang shou qu ai	100
@@ -73266,6 +73302,7 @@ sort: by_weight
 方塔娜	fang ta na	100
 方塔纳	fang ta na	100
 访台之旅	fang tai zhi lv	100
+放糖没放糖	fang tang mei fang tang	100
 方桃譬李	fang tao pi li	100
 方特欢乐世界	fang te huan le shi jie	100
 方特乐园	fang te le yuan	100
@@ -73427,6 +73464,7 @@ sort: by_weight
 方雅贤	fang ya xian	100
 房牙子	fang ya zi	100
 放言高论	fang yan gao lun	100
+放盐没放盐	fang yan mei fang yan	100
 防烟排烟系统	fang yan pai yan xi tong	100
 放烟雾弹	fang yan wu dan	100
 放眼娱乐圈	fang yan yu le quan	100
@@ -80007,6 +80045,7 @@ sort: by_weight
 赶集会	gan ji hui	100
 干几件	gan ji jian	100
 感激流涕	gan ji liu ti	100
+干鸡毛呢	gan ji mao ne	100
 感激莫名	gan ji mo ming	100
 干姬松茸	gan ji song rong	100
 干几碗	gan ji wan	100
@@ -95414,6 +95453,9 @@ sort: by_weight
 海山国中	hai shan guo zhong	100
 海上补给	hai shang bu ji	100
 海上布雷	hai shang bu lei	100
+还上不上	hai shang bu shang	100
+还上不上班	hai shang bu shang ban	100
+还上不上学	hai shang bu shang xue	100
 海上采油	hai shang cai you	100
 海上长城	hai shang chang cheng	100
 海上传奇	hai shang chuan qi	100
@@ -116185,6 +116227,7 @@ sort: by_weight
 家长圈	jia zhang quan	100
 家长权威	jia zhang quan wei	100
 家长群	jia zhang qun	100
+家长群啊	jia zhang qun a	100
 家长群里	jia zhang qun li	100
 家长群体	jia zhang qun ti	100
 家长认可	jia zhang ren ke	100
@@ -121889,7 +121932,6 @@ sort: by_weight
 届时有何面目去见汉朝二十四代先帝	jie shi you he mian mu qu jian han chao er shi si dai xian di	100
 解释这个	jie shi zhe ge	100
 解释做	jie shi zuo	100
-接受啊	jie shou a	100
 接受不了啊	jie shou bu liao a	100
 接受不了了	jie shou bu liao le	100
 接受不了现实	jie shou bu liao xian shi	100
@@ -158692,6 +158734,7 @@ sort: by_weight
 没法儿在	mei fa er zai	100
 没法反抗	mei fa fan kang	100
 没法翻脸	mei fa fan lian	100
+没法放手	mei fa fang shou	100
 没法复现	mei fa fu xian	100
 没法复制	mei fa fu zhi	100
 没法改	mei fa gai	100
@@ -158808,6 +158851,8 @@ sort: by_weight
 没房间	mei fang jian	100
 没房没车没存款	mei fang mei che mei cun kuan	100
 没放弃	mei fang qi	100
+没放手	mei fang shou	100
+没放糖	mei fang tang	100
 没方向	mei fang xiang	100
 没放盐	mei fang yan	100
 美防长	mei fang zhang	100
@@ -160321,6 +160366,8 @@ sort: by_weight
 没品位	mei pin wei	100
 没品味	mei pin wei	100
 没魄力	mei po li	100
+没破绽	mei po zhan	100
+没破绽了	mei po zhan le	100
 没谱吧	mei pu ba	100
 没谱吗	mei pu ma	100
 没气场	mei qi chang	100
@@ -180334,6 +180381,7 @@ sort: by_weight
 披云雾睹青天	pi yun wu du qing tian	100
 劈斩司令	pi zhan si ling	100
 披着长发	pi zhe chang fa	100
+披着个	pi zhe ge	100
 披着狼皮	pi zhe lang pi	100
 披着狼皮的羊	pi zhe lang pi de yang	100
 披着马甲	pi zhe ma jia	100
@@ -180342,6 +180390,7 @@ sort: by_weight
 披着头发	pi zhe tou fa	100
 披着外套	pi zhe wai tao	100
 披着羊皮	pi zhe yang pi	100
+披着一个	pi zhe yi ge	100
 皮这一下	pi zhe yi xia	100
 披榛采兰	pi zhen cai lan	100
 披针形叶	pi zhen xing ye	100
@@ -192163,6 +192212,7 @@ sort: by_weight
 取得了优异的成绩	qu de le you yi de cheng ji	100
 取得了圆满成功	qu de le yuan man cheng gong	100
 取得了重大进展	qu de le zhong da jin zhan	100
+取得了专利	qu de le zhuan li	100
 取得利润	qu de li run	100
 取得历史性突破	qu de li shi xing tu po	100
 取得理想的成绩	qu de li xiang de cheng ji	100
@@ -246771,6 +246821,7 @@ sort: by_weight
 为什么会这样	wei shen me hui zhe yang	100
 为什么活着	wei shen me huo zhe	100
 为什么叫	wei shen me jiao	100
+为什么叫作	wei shen me jiao zuo	100
 为什么结婚	wei shen me jie hun	100
 为什么拒绝	wei shen me ju jue	100
 为什么可以	wei shen me ke yi	100
@@ -249615,6 +249666,8 @@ sort: by_weight
 我都睡着了	wo dou shui zhao le	100
 我都说	wo dou shuo	100
 我都头大	wo dou tou da	100
+我都忘了	wo dou wang le	100
+我都忘了我都	wo dou wang le wo dou	100
 我都无奈了	wo dou wu nai le	100
 我都无语了	wo dou wu yu le	100
 我都唔知	wo dou wu zhi	100
@@ -250571,6 +250624,7 @@ sort: by_weight
 握了握手	wo le wo shou	100
 窝了一肚子火	wo le yi du zi huo	100
 我泪点低	wo lei dian di	100
+我嘞个	wo lei ge	100
 我嘞个丢	wo lei ge diu	100
 我嘞个豆	wo lei ge dou	100
 我嘞个钱	wo lei ge qian	100
@@ -253977,6 +254031,7 @@ sort: by_weight
 无法取得联系	wu fa qu de lian xi	100
 无法删	wu fa shan	100
 无法上传	wu fa shang chuan	100
+无法舍弃的	wu fa she qi de	100
 无法生长	wu fa sheng zhang	100
 无法使	wu fa shi	100
 无法使未来	wu fa shi wei lai	100
@@ -280607,6 +280662,8 @@ sort: by_weight
 摇动起来	yao dong qi lai	100
 要都不要	yao dou bu yao	100
 要都不要了	yao dou bu yao le	100
+要都是	yao dou shi	100
+要都是这样	yao dou shi zhe yang	100
 腰都直不起来	yao dou zhi bu qi lai	100
 要读的书	yao du de shu	100
 药都在线	yao du zai xian	100
@@ -281600,6 +281657,8 @@ sort: by_weight
 噎得慌	ye de huang	100
 叶德娴	ye de xian	100
 也得撑下去	ye dei cheng xia qu	100
+也得接受	ye dei jie shou	100
+也得接受啊	ye dei jie shou a	100
 也得为了	ye dei wei le	100
 也得有	ye dei you	100
 也抵不过	ye di bu guo	100
@@ -305671,7 +305730,9 @@ sort: by_weight
 怎么都吃不胖	zen me dou chi bu pang	100
 怎么斗地主	zen me dou di zhu	100
 怎么都好	zen me dou hao	100
+怎么都没	zen me dou mei	100
 怎么都没想到	zen me dou mei xiang dao	100
+怎么都没有	zen me dou mei you	100
 怎么都是	zen me dou shi	100
 怎么都是你的	zen me dou shi ni de	100
 怎么都想不到	zen me dou xiang bu dao	100
@@ -305976,7 +306037,9 @@ sort: by_weight
 怎么样了啊	zen me yang le a	100
 怎么要	zen me yao	100
 怎么也不听	zen me ye bu ting	100
+怎么也没	zen me ye mei	100
 怎么也没想到	zen me ye mei xiang dao	100
+怎么也没有	zen me ye mei you	100
 怎么也没有想到	zen me ye mei you xiang dao	100
 怎么应付	zen me ying fu	100
 怎么营造	zen me ying zao	100
