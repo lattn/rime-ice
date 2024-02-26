@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2024-02-25"
+version: "2024-02-27"
 sort: by_weight
 ...
 # +_+
@@ -4962,6 +4962,7 @@ sort: by_weight
 把钱给她	ba qian gei ta	100
 把钱给我	ba qian gei wo	100
 把钱还给我	ba qian huan gei wo	100
+把钱还了	ba qian huan le	100
 八千块钱	ba qian kuai qian	100
 把钱省下来	ba qian sheng xia lai	100
 把钱收回来	ba qian shou hui lai	100
@@ -22065,6 +22066,8 @@ sort: by_weight
 不用管我了	bu yong guan wo le	100
 不用过度担心	bu yong guo du dan xin	100
 不用还	bu yong huan	100
+不用还给	bu yong huan gei	100
+不用还了	bu yong huan le	100
 不用还钱	bu yong huan qian	100
 不用慌	bu yong huang	100
 不用急啊	bu yong ji a	100
@@ -49110,6 +49113,7 @@ sort: by_weight
 带着感恩的心	dai zhe gan en de xin	100
 带着干粮	dai zhe gan liang	100
 带着感情	dai zhe gan qing	100
+带着感情了	dai zhe gan qing le	100
 带着工具	dai zhe gong ju	100
 带着狗	dai zhe gou	100
 带着狗狗	dai zhe gou gou	100
@@ -55677,6 +55681,12 @@ sort: by_weight
 低权重	di quan zhong	100
 的确当	di que dang	100
 的确很棒	di que hen bang	100
+的确很差	di que hen cha	100
+的确很低	di que hen di	100
+的确很多	di que hen duo	100
+的确很高	di que hen gao	100
+的确很好	di que hen hao	100
+的确很少	di que hen shao	100
 的确会	di que hui	100
 的确凉	di que liang	100
 的确凉了	di que liang le	100
@@ -60597,6 +60607,8 @@ sort: by_weight
 都别吵	dou bie chao	100
 都别吵了	dou bie chao le	100
 都别动	dou bie dong	100
+都别提	dou bie ti	100
+都别提了	dou bie ti le	100
 都别想	dou bie xiang	100
 都别有一番风味	dou bie you yi fan feng wei	100
 都别着急	dou bie zhao ji	100
@@ -62151,7 +62163,7 @@ sort: by_weight
 都年轻过	dou nian qing guo	100
 豆娘子	dou niang zi	100
 逗鸟外传	dou niao wai zhuan	100
-斗牛梗	dou niu geng	100
+斗牛㹴	dou niu geng	100
 斗牛进行曲	dou niu jin xing qu	100
 斗牛快乐	dou niu kuai le	100
 斗牛曲	dou niu qu	100
@@ -85926,6 +85938,7 @@ sort: by_weight
 更阑夜静	geng lan ye jing	100
 更乐观	geng le guan	100
 哽了一下	geng le yi xia	100
+㹴类犬	geng lei quan	100
 更厉害了	geng li hai le	100
 羹藜含糗	geng li han qiu	100
 羹藜唅糗	geng li han qiu	100
@@ -94644,6 +94657,8 @@ sort: by_weight
 还曾想过	hai ceng xiang guo	100
 还查不到	hai cha bu dao	100
 还查不了	hai cha bu liao	100
+还差点	hai cha dian	100
+还差点儿	hai cha dian er	100
 还插队	hai cha dui	100
 还差多少	hai cha duo shao	100
 还差很多	hai cha hen duo	100
@@ -94717,6 +94732,9 @@ sort: by_weight
 海德薇莉	hai de wei li	100
 害得我	hai de wo	100
 还得背	hai dei bei	100
+还得等	hai dei deng	100
+还得等到	hai dei deng dao	100
+还得等等	hai dei deng deng	100
 还得跌	hai dei die	100
 还得法	hai dei fa	100
 还得加多少	hai dei jia duo shao	100
@@ -95249,6 +95267,9 @@ sort: by_weight
 还没有啊	hai mei you a	100
 还没有测试	hai mei you ce shi	100
 还没有出来	hai mei you chu lai	100
+还没有到	hai mei you dao	100
+还没有到达	hai mei you dao da	100
+还没有到呢	hai mei you dao ne	100
 还没有兑现	hai mei you dui xian	100
 还没有发现	hai mei you fa xian	100
 还没有发现吗	hai mei you fa xian ma	100
@@ -96127,6 +96148,7 @@ sort: by_weight
 还有几本	hai you ji ben	100
 还有几个人	hai you ji ge ren	100
 还有几个人记得	hai you ji ge ren ji de	100
+还有几个人呀	hai you ji ge ren ya	100
 还有机会	hai you ji hui	100
 还有机会吗	hai you ji hui ma	100
 还有几年	hai you ji nian	100
@@ -96256,6 +96278,7 @@ sort: by_weight
 还有心跳	hai you xin tiao	100
 还有新英雄	hai you xin ying xiong	100
 还有雪	hai you xue	100
+还有呀	hai you ya	100
 还有爷爷	hai you ye ye	100
 还有一半	hai you yi ban	100
 还有一点良心	hai you yi dian liang xin	100
@@ -136072,6 +136095,7 @@ sort: by_weight
 渴了就喝	ke le jiu he	100
 科勒卡戴珊	ke le ka dai shan	100
 可乐里	ke le li	100
+科勒龙头	ke le long tou	100
 可乐麦乐酷	ke le mai le ku	100
 科勒姆	ke le mu	100
 可乐泡饭	ke le pao fan	100
@@ -147314,6 +147338,8 @@ sort: by_weight
 了不起的挑战	liao bu qi de tiao zhan	100
 了不起的自己	liao bu qi de zi ji	100
 了不起呀	liao bu qi ya	100
+了不起呀你	liao bu qi ya ni	100
+了不起呀你们	liao bu qi ya ni men	100
 了不相涉	liao bu xiang she	100
 料不准	liao bu zhun	100
 潦草小狗	liao cao xiao gou	100
@@ -147365,6 +147391,7 @@ sort: by_weight
 辽东省	liao dong sheng	100
 撩动心弦	liao dong xin xian	100
 辽东之豕	liao dong zhi shi	100
+聊都别聊	liao dou bie liao	100
 料豆儿	liao dou er	100
 聊度余生	liao du yu sheng	100
 疗法治疗	liao fa zhi liao	100
@@ -157157,6 +157184,7 @@ sort: by_weight
 满口应承	man kou ying cheng	100
 满口之乎者也	man kou zhi hu zhe ye	100
 满剌加	man la jia	100
+满剌加国	man la jia guo	100
 慢来慢去	man lai man qu	100
 瞒来瞒去	man lai man qu	100
 慢郎中	man lang zhong	100
@@ -173505,6 +173533,9 @@ sort: by_weight
 你看我行不	ni kan wo xing bu	100
 你看我行不行	ni kan wo xing bu xing	100
 你看行不行	ni kan xing bu xing	100
+你看行不行啊	ni kan xing bu xing a	100
+你看行不行呀	ni kan xing bu xing ya	100
+你看行吗	ni kan xing ma	100
 你看一看	ni kan yi kan	100
 你看一下啊	ni kan yi xia a	100
 你看怎么样	ni kan zen me yang	100
@@ -175500,6 +175531,7 @@ sort: by_weight
 你真贱啊	ni zhen jian a	100
 你真厉害啊	ni zhen li hai a	100
 你真了不起	ni zhen liao bu qi	100
+你真了不起呀	ni zhen liao bu qi ya	100
 你真慢	ni zhen man	100
 你真没用	ni zhen mei yong	100
 你真是	ni zhen shi	100
@@ -176735,7 +176767,7 @@ sort: by_weight
 纽芬兰与拉布拉多	niu fen lan yu la bu la duo	100
 牛岗山	niu gang shan	100
 牛根生	niu gen sheng	100
-牛梗杂交犬	niu geng za jiao quan	100
+牛㹴杂交犬	niu geng za jiao quan	100
 牛海绵状脑病	niu hai mian zhuang nao bing	100
 牛哄哄	niu hong hong	100
 牛呼呼	niu hu hu	100
@@ -176842,7 +176874,7 @@ sort: by_weight
 牛童马走	niu tong ma zou	100
 牛头刨	niu tou bao	100
 牛头阿旁	niu tou e pang	100
-牛头梗	niu tou geng	100
+牛头㹴	niu tou geng	100
 牛头马没面	niu tou ma mei mian	100
 牛头酋长阿利斯塔	niu tou qiu zhang a li si ta	100
 牛头人	niu tou ren	100
@@ -195376,7 +195408,6 @@ sort: by_weight
 热空调	re kong tiao	100
 惹口面	re kou mian	100
 热裤装	re ku zhuang	100
-热剌剌	re la la	100
 热辣香骨鸡	re la xiang gu ji	100
 热浪袭来	re lang xi lai	100
 惹了大祸	re le da huo	100
@@ -210339,7 +210370,6 @@ sort: by_weight
 申述者	shen shu zhe	100
 深水泊位	shen shui bo wei	100
 深水埗	shen shui bu	100
-沈睡不醒	shen shui bu xing	100
 深水酒吧	shen shui jiu ba	100
 深水狼	shen shui lang	100
 深水旅馆	shen shui lv guan	100
@@ -223775,6 +223805,7 @@ sort: by_weight
 说东聊西	shuo dong liao xi	100
 说东说西	shuo dong shuo xi	100
 说东谈西	shuo dong tan xi	100
+说都别说	shuo dou bie shuo	100
 说对了	shuo dui le	100
 说对了呗	shuo dui le bei	100
 说多了	shuo duo le	100
@@ -226896,7 +226927,7 @@ sort: by_weight
 四所学校	si suo xue xiao	100
 斯塔德迈尔	si ta de mai er	100
 斯塔福郡	si ta fu jun	100
-斯塔福郡斗牛梗	si ta fu jun dou niu geng	100
+斯塔福郡斗牛㹴	si ta fu jun dou niu geng	100
 斯塔沙	si ta sha	100
 斯塔提克	si ta ti ke	100
 斯塔缇克	si ta ti ke	100
@@ -232322,6 +232353,7 @@ sort: by_weight
 谭得志	tan de zhi	100
 探底反弹	tan di fan tan	100
 探地雷达	tan di lei da	100
+谈都别谈	tan dou bie tan	100
 坦度高	tan du gao	100
 贪黩无艺	tan du wu yi	100
 谈对象啊	tan dui xiang a	100
@@ -234198,6 +234230,7 @@ sort: by_weight
 提灯会	ti deng hui	100
 提点儿什么	ti dian er shen me	100
 提点什么	ti dian shen me	100
+提都别提	ti dou bie ti	100
 提都不提	ti dou bu ti	100
 提都不想提	ti dou bu xiang ti	100
 提都不想再提	ti dou bu xiang zai ti	100
@@ -243469,8 +243502,8 @@ sort: by_weight
 万能的百度	wan neng de bai du	100
 万能的圈子	wan neng de quan zi	100
 万能地磅遥控器	wan neng di bang yao kong qi	100
-万能梗	wan neng geng	100
-万能梗犬	wan neng geng quan	100
+万能㹴	wan neng geng	100
+万能㹴犬	wan neng geng quan	100
 万能锅	wan neng guo	100
 万能空调遥控器	wan neng kong tiao yao kong qi	100
 万能模板	wan neng mu ban	100
@@ -250063,6 +250096,9 @@ sort: by_weight
 我还没写	wo hai mei xie	100
 我还没选好	wo hai mei xuan hao	100
 我还没有	wo hai mei you	100
+我还没有到	wo hai mei you dao	100
+我还没有到达	wo hai mei you dao da	100
+我还没有到呢	wo hai mei you dao ne	100
 我还没有男朋友	wo hai mei you nan peng you	100
 我还没有睡	wo hai mei you shui	100
 我还没有睡觉	wo hai mei you shui jiao	100
@@ -271586,6 +271622,7 @@ sort: by_weight
 兴不兴奋哇	xing bu xing fen wa	100
 兴不兴奋呀	xing bu xing fen ya	100
 幸不幸福	xing bu xing fu	100
+行不行呀	xing bu xing ya	100
 行不义	xing bu yi	100
 行不由径	xing bu you jing	100
 刑部主司	xing bu zhu si	100
@@ -305887,46 +305924,46 @@ sort: by_weight
 怎么过的了	zen me guo de le	100
 怎么过呀	zen me guo ya	100
 怎么还不	zen me hai bu	100
+怎么还不吃	zen me hai bu chi	100
 怎么还不出现	zen me hai bu chu xian	100
 怎么还不到	zen me hai bu dao	100
+怎么还不会	zen me hai bu hui	100
 怎么还不回家	zen me hai bu hui jia	100
 怎么还不回来	zen me hai bu hui lai	100
 怎么还不结婚	zen me hai bu jie hun	100
+怎么还不来	zen me hai bu lai	100
 怎么还不来啊	zen me hai bu lai a	100
 怎么还不来呀	zen me hai bu lai ya	100
 怎么还不上课	zen me hai bu shang ke	100
+怎么还不睡	zen me hai bu shui	100
 怎么还不睡啊	zen me hai bu shui a	100
 怎么还不睡觉	zen me hai bu shui jiao	100
+怎么还不死	zen me hai bu si	100
+怎么还不走	zen me hai bu zou	100
 怎么还会	zen me hai hui	100
+怎么还降了	zen me hai jiang le	100
 怎么还没	zen me hai mei	100
+怎么还没吃	zen me hai mei chi	100
 怎么还没出来	zen me hai mei chu lai	100
+怎么还没到	zen me hai mei dao	100
 怎么还没来	zen me hai mei lai	100
 怎么还没睡	zen me hai mei shui	100
 怎么还没死	zen me hai mei si	100
 怎么还没消息	zen me hai mei xiao xi	100
 怎么还没消息啊	zen me hai mei xiao xi a	100
 怎么还没有	zen me hai mei you	100
+怎么还没走	zen me hai mei zou	100
 怎么还没走啊	zen me hai mei zou a	100
 怎么还是	zen me hai shi	100
 怎么还是来了	zen me hai shi lai le	100
 怎么还是这么	zen me hai shi zhe me	100
 怎么还在啊	zen me hai zai a	100
+怎么还这样	zen me hai zhe yang	100
 怎么好意思	zen me hao yi si	100
 怎么和你	zen me he ni	100
 怎么画	zen me hua	100
 怎么花	zen me hua	100
 怎么画的	zen me hua de	100
-怎么还不吃	zen me huan bu chi	100
-怎么还不会	zen me huan bu hui	100
-怎么还不来	zen me huan bu lai	100
-怎么还不睡	zen me huan bu shui	100
-怎么还不死	zen me huan bu si	100
-怎么还不走	zen me huan bu zou	100
-怎么还降了	zen me huan jiang le	100
-怎么还没吃	zen me huan mei chi	100
-怎么还没到	zen me huan mei dao	100
-怎么还没走	zen me huan mei zou	100
-怎么还这样	zen me huan zhe yang	100
 怎么会不知道	zen me hui bu zhi dao	100
 怎么回答	zen me hui da	100
 怎么会跟来	zen me hui gen lai	100
@@ -306743,9 +306780,7 @@ sort: by_weight
 扎龙湿地	zha long shi di	100
 炸萝卜丸子	zha luo bo wan zi	100
 炸麻花	zha ma hua	100
-扎马剌丁	zha ma la ding	100
 札马剌丁	zha ma la ding	100
-扎马鲁丁	zha ma lu ding	100
 札马鲁丁	zha ma lu ding	100
 炸麻糖	zha ma tang	100
 乍毛变色	zha mao bian se	100
@@ -307735,7 +307770,6 @@ sort: by_weight
 张敞画眉	zhang chang hua mei	100
 掌长肌腱	zhang chang ji jian	100
 张长江	zhang chang jiang	100
-长长了	zhang chang le	100
 张长林	zhang chang lin	100
 张长生	zhang chang sheng	100
 涨潮水位	zhang chao shui wei	100
@@ -308316,7 +308350,6 @@ sort: by_weight
 张美娜	zhang mei na	100
 张眉怒目	zhang mei nu mu	100
 张眉努眼	zhang mei nu yan	100
-涨没涨	zhang mei zhang	100
 涨没涨工资	zhang mei zhang gong zi	100
 掌门师兄	zhang men shi xiong	100
 掌门太忙	zhang men tai mang	100
@@ -312214,6 +312247,8 @@ sort: by_weight
 真离谱啊	zhen li pu a	100
 真理永存	zhen li yong cun	100
 真理之下	zhen li zhi xia	100
+真了不起啊	zhen liao bu qi a	100
+真了不起呀	zhen liao bu qi ya	100
 真了解	zhen liao jie	100
 诊疗模式	zhen liao mo shi	100
 诊疗体系	zhen liao ti xi	100
