@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2024-02-27"
+version: "2024-03-11"
 sort: by_weight
 ...
 # +_+
@@ -9172,6 +9172,7 @@ sort: by_weight
 保护贴	bao hu tie	100
 保护土地	bao hu tu di	100
 保护未成年	bao hu wei cheng nian	100
+薄护尾𬶏	bao hu wei wei	100
 保护我的安全	bao hu wo de an quan	100
 保护我自己	bao hu wo zi ji	100
 保护系统	bao hu xi tong	100
@@ -9635,6 +9636,7 @@ sort: by_weight
 报社团	bao she tuan	100
 鲍参翅肚	bao shen chi du	100
 报身佛	bao shen fo	100
+薄身罗马诺𬶋	bao shen luo ma nuo ju	100
 保什么	bao shen me	100
 包什么	bao shen me	100
 报什么	bao shen me	100
@@ -16203,6 +16205,7 @@ sort: by_weight
 薄荷可乐	bo he ke le	100
 波河平原	bo he ping yuan	100
 薄厚程度	bo hou cheng du	100
+薄护尾𬶏	bo hu wei wei	100
 波皇子	bo huang zi	100
 拨回来	bo hui lai	100
 驳回来	bo hui lai	100
@@ -16466,6 +16469,7 @@ sort: by_weight
 薄纱长裙	bo sha chang qun	100
 薄砂地	bo sha di	100
 博山菜	bo shan cai	100
+薄身罗马诺𬶋	bo shen luo ma nuo ju	100
 播什么	bo shen me	100
 波士顿大学	bo shi dun da xue	100
 波士顿地区	bo shi dun di qu	100
@@ -39094,6 +39098,7 @@ sort: by_weight
 初升的朝阳	chu sheng de zhao yang	100
 出生地区	chu sheng di qu	100
 畜生都不如	chu sheng dou bu ru	100
+畜生都不如啊	chu sheng dou bu ru a	100
 出生率低	chu sheng lv di	100
 出生率下降	chu sheng lv xia jiang	100
 出生没多久	chu sheng mei duo jiu	100
@@ -39153,6 +39158,7 @@ sort: by_weight
 厨师沙拉	chu shi sha la	100
 初十上班	chu shi shang ban	100
 初始速度	chu shi su du	100
+初始台地	chu shi tai di	100
 处世态度	chu shi tai du	100
 处事态度	chu shi tai du	100
 出示通行证	chu shi tong xing zheng	100
@@ -40160,6 +40166,7 @@ sort: by_weight
 传得更远	chuan de geng yuan	100
 穿得好	chuan de hao	100
 穿得好看	chuan de hao kan	100
+喘得很厉害	chuan de hen li hai	100
 穿得厚	chuan de hou	100
 穿得简单	chuan de jian dan	100
 传得开	chuan de kai	100
@@ -54622,6 +54629,7 @@ sort: by_weight
 嘀嗒响	di da xiang	100
 抵达学校	di da xue xiao	100
 抵达站	di da zhan	100
+滴答着	di da zhe	100
 抵达之谜	di da zhi mi	100
 抵达终点	di da zhong dian	100
 嘀嗒作响	di da zuo xiang	100
@@ -55243,6 +55251,7 @@ sort: by_weight
 地理国情	di li guo qing	100
 地理国情监测	di li guo qing jian ce	100
 地里黄呀	di li huang ya	100
+地理会考	di li hui kao	100
 地理极	di li ji	100
 地理教师	di li jiao shi	100
 地理教育	di li jiao yu	100
@@ -58733,6 +58742,7 @@ sort: by_weight
 叮当镯	ding dang zhuo	100
 叮当作响	ding dang zuo xiang	100
 盯得紧	ding de jin	100
+顶得住啊	ding de zhu a	100
 顶得住压力	ding de zhu ya li	100
 定地点	ding di dian	100
 定点联系	ding dian lian xi	100
@@ -60801,6 +60811,7 @@ sort: by_weight
 都不是偶然	dou bu shi ou ran	100
 都不是人	dou bu shi ren	100
 都不是善茬	dou bu shi shan cha	100
+都不是善茬儿	dou bu shi shan cha er	100
 都不是什么大事	dou bu shi shen me da shi	100
 都不是什么好人	dou bu shi shen me hao ren	100
 都不是省油的灯	dou bu shi sheng you de deng	100
@@ -60963,6 +60974,7 @@ sort: by_weight
 都抽了	dou chou le	100
 都初八	dou chu ba	100
 都出彩	dou chu cai	100
+都初九了	dou chu jiu le	100
 都出去了	dou chu qu le	100
 都出现过	dou chu xian guo	100
 都穿上	dou chuan shang	100
@@ -63249,7 +63261,9 @@ sort: by_weight
 都准备好了	dou zhun bei hao le	100
 都准备好了吗	dou zhun bei hao le ma	100
 都自愧不如	dou zi kui bu ru	100
+都自愧不如啊	dou zi kui bu ru a	100
 都自叹不如	dou zi tan bu ru	100
+都自叹不如啊	dou zi tan bu ru a	100
 都走吧	dou zou ba	100
 都走过	dou zou guo	100
 都走开	dou zou kai	100
@@ -86146,6 +86160,7 @@ sort: by_weight
 更严重的情况	geng yan zhong de qing kuang	100
 更严重的问题	geng yan zhong de wen ti	100
 更严重的症状	geng yan zhong de zheng zhuang	100
+更严重了	geng yan zhong le	100
 更遥远	geng yao yuan	100
 更要重视	geng yao zhong shi	100
 更易传播	geng yi chuan bo	100
@@ -94573,6 +94588,7 @@ sort: by_weight
 还不去吃饭	hai bu qu chi fan	100
 还不去睡	hai bu qu shui	100
 还不去睡觉	hai bu qu shui jiao	100
+还不如啊	hai bu ru a	100
 还不如把	hai bu ru ba	100
 还不如把他	hai bu ru ba ta	100
 还不如不发	hai bu ru bu fa	100
@@ -110670,6 +110686,7 @@ sort: by_weight
 或许差不多	huo xu cha bu duo	100
 或许还	huo xu hai	100
 或许还不如	huo xu hai bu ru	100
+或许还不如啊	huo xu hai bu ru a	100
 或许就	huo xu jiu	100
 或许就在	huo xu jiu zai	100
 或许就再也	huo xu jiu zai ye	100
@@ -119974,7 +119991,6 @@ sort: by_weight
 教得真好呀	jiao de zhen hao ya	100
 脚登子	jiao deng zi	100
 脚底按摩啊	jiao di an mo a	100
-胶地板	jiao di ban	100
 脚底板儿	jiao di ban er	100
 叫地呼天	jiao di hu tian	100
 教地理	jiao di li	100
@@ -143749,6 +143765,7 @@ sort: by_weight
 立党兴党	li dang xing dang	100
 力到功深	li dao gong shen	100
 力道十足	li dao shi zu	100
+李到𬀪	li dao xian	100
 李导演	li dao yan	100
 李道长	li dao zhang	100
 离得不远	li de bu yuan	100
@@ -166721,16 +166738,20 @@ sort: by_weight
 摸摸党	mo mo dang	100
 默默地爱	mo mo de ai	100
 默默地承受	mo mo de cheng shou	100
+默默地等	mo mo de deng	100
 默默地等待	mo mo de deng dai	100
 默默地奉献	mo mo de feng xian	100
 默默地付出	mo mo de fu chu	100
 默默地关注	mo mo de guan zhu	100
+默默地坚守	mo mo de jian shou	100
 默默地离开	mo mo de li kai	100
+默默地流泪	mo mo de liu lei	100
 默默地努力	mo mo de nu li	100
 默默地陪伴	mo mo de pei ban	100
 默默地守候	mo mo de shou hou	100
 默默地守护	mo mo de shou hu	100
 默默地听	mo mo de ting	100
+默默地喜欢	mo mo de xi huan	100
 默默地想	mo mo de xiang	100
 默默地支持	mo mo de zhi chi	100
 默默地祝福	mo mo de zhu fu	100
@@ -189799,6 +189820,7 @@ sort: by_weight
 禽兽不若	qin shou bu ruo	100
 亲手操作	qin shou cao zuo	100
 禽兽都不如	qin shou dou bu ru	100
+禽兽都不如啊	qin shou dou bu ru a	100
 禽兽食禄	qin shou shi lu	100
 亲手调教	qin shou tiao jiao	100
 禽兽之行	qin shou zhi xing	100
@@ -190565,6 +190587,8 @@ sort: by_weight
 请假的人	qing jia de ren	100
 倾家尽产	qing jia jin chan	100
 请假了吗	qing jia le ma	100
+请假了没	qing jia le mei	100
+请假了没有	qing jia le mei you	100
 倾家破产	qing jia po chan	100
 请假王	qing jia wang	100
 请家长	qing jia zhang	100
@@ -273090,6 +273114,7 @@ sort: by_weight
 星有野	xing you ye	100
 行与不行	xing yu bu xing	100
 形于辞色	xing yu ci se	100
+性欲非常旺盛	xing yu fei chang wang sheng	100
 性欲高潮	xing yu gao chao	100
 性欲降低	xing yu jiang di	100
 杏雨街	xing yu jie	100
@@ -283113,6 +283138,7 @@ sort: by_weight
 一般等价物	yi ban deng jia wu	100
 一般地区	yi ban di qu	100
 一半都不如	yi ban dou bu ru	100
+一般都不如啊	yi ban dou bu ru a	100
 一般都会	yi ban dou hui	100
 一般都是	yi ban dou shi	100
 一般都知道	yi ban dou zhi dao	100
@@ -301307,6 +301333,7 @@ sort: by_weight
 原封不动地抄过来	yuan feng bu dong de chao guo lai	100
 原封不动地抄袭	yuan feng bu dong de chao xi	100
 远峰蓝	yuan feng lan	100
+原封没动	yuan feng mei dong	100
 袁凤瑛	yuan feng ying	100
 远赴重洋	yuan fu chong yang	100
 源福达	yuan fu da	100
