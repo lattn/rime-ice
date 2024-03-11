@@ -1881,10 +1881,12 @@
 # 「XX犭更、XX梗」→「XX㹴」
 # 「含情默默」→「含情脉脉」
 # 「曝尸荒野」→「暴尸荒野」
+# 「体外授精」→「体外受精」
+# 「人工受精」→「人工授精」
 #///
 ---
 name: base
-version: "2024-03-11"
+version: "2024-03-12"
 sort: by_weight
 ...
 # +_+
@@ -319422,7 +319424,6 @@ sort: by_weight
 人工食道	ren gong shi dao	3
 人工授粉	ren gong shou fen	1945
 人工授精	ren gong shou jing	10075
-人工受精	ren gong shou jing	2025
 人工受孕	ren gong shou yun	460
 人工天河	ren gong tian he	152
 人工调整	ren gong tiao zheng	480
