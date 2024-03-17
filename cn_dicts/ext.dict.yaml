@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2024-03-15"
+version: "2024-03-18"
 sort: by_weight
 ...
 # +_+
@@ -6908,7 +6908,6 @@ sort: by_weight
 百分之五十四	bai fen zhi wu shi si	100
 百分之五十五	bai fen zhi wu shi wu	100
 百分之五十一	bai fen zhi wu shi yi	100
-百分之一百	bai fen zhi yi bai	100
 百分之一百二	bai fen zhi yi bai er	100
 百分之一千	bai fen zhi yi qian	100
 白风黑息	bai feng hei xi	100
@@ -9556,8 +9555,8 @@ sort: by_weight
 包你什么都知道	bao ni shen me dou zhi dao	100
 保你性命	bao ni xing ming	100
 暴怒骑士	bao nu qi shi	100
-暴怒之罪	bao nu zhi zui	100
 暴怒骑士克烈	bao nu qi shi ke lie	100
+暴怒之罪	bao nu zhi zui	100
 保暖长裤	bao nuan chang ku	100
 保暖度	bao nuan du	100
 保暖房	bao nuan fang	100
@@ -17442,6 +17441,8 @@ sort: by_weight
 不掉分卡	bu diao fen ka	100
 不掉落	bu diao luo	100
 不屌你	bu diao ni	100
+不定长	bu ding chang	100
+不定长参数	bu ding chang can shu	100
 不定根	bu ding gen	100
 不定轨	bu ding gui	100
 不定什么时候	bu ding shen me shi hou	100
@@ -26575,6 +26576,7 @@ sort: by_weight
 差得太多	cha de tai duo	100
 差得太远	cha de tai yuan	100
 查得特松	cha de te song	100
+差得远了	cha de yuan le	100
 插地灯	cha di deng	100
 查地图	cha di tu	100
 差点崩了	cha dian beng le	100
@@ -26659,6 +26661,7 @@ sort: by_weight
 差很大一截	cha hen da yi jie	100
 差很大一截儿	cha hen da yi jie er	100
 差很多啊	cha hen duo a	100
+差很远呢	cha hen yuan ne	100
 插画版	cha hua ban	100
 插花地	cha hua di	100
 茶会服	cha hui fu	100
@@ -46591,6 +46594,7 @@ sort: by_weight
 打了所有人的脸	da le suo you ren de lian	100
 大乐透	da le tou	100
 大乐透彩票	da le tou cai piao	100
+大乐透机选	da le tou ji xuan	100
 大乐透开	da le tou kai	100
 大乐透开奖	da le tou kai jiang	100
 大乐透开奖号码	da le tou kai jiang hao ma	100
@@ -50046,6 +50050,8 @@ sort: by_weight
 但也毕竟是	dan ye bi jing shi	100
 但也不能	dan ye bu neng	100
 但也不是	dan ye bu shi	100
+但也没	dan ye mei	100
+但也没有	dan ye mei you	100
 单页模板	dan ye mu ban	100
 但也是	dan ye shi	100
 单叶双曲面	dan ye shuang qu mian	100
@@ -61589,6 +61595,8 @@ sort: by_weight
 斗鸡走狗	dou ji zou gou	100
 斗鸡走马	dou ji zou ma	100
 斗鸡走犬	dou ji zou quan	100
+都加上	dou jia shang	100
+都加上吧	dou jia shang ba	100
 都加油	dou jia you	100
 都见不到	dou jian bu dao	100
 都坚持	dou jian chi	100
@@ -70738,6 +70746,7 @@ sort: by_weight
 发现了嫌疑人	fa xian le xian yi ren	100
 发现了新大陆	fa xian le xin da lu	100
 发现了新世界	fa xian le xin shi jie	100
+发现了呀	fa xian le ya	100
 发现率	fa xian lv	100
 发现没发现	fa xian mei fa xian	100
 发现没人	fa xian mei ren	100
@@ -70755,6 +70764,7 @@ sort: by_weight
 发现系统	fa xian xi tong	100
 发现校园	fa xian xiao yuan	100
 发现新世界	fa xian xin shi jie	100
+发现呀	fa xian ya	100
 发现也就	fa xian ye jiu	100
 发现也就那么	fa xian ye jiu na me	100
 发现也就那么回事	fa xian ye jiu na me hui shi	100
@@ -94675,6 +94685,8 @@ sort: by_weight
 还曾想过	hai ceng xiang guo	100
 还查不到	hai cha bu dao	100
 还查不了	hai cha bu liao	100
+还差得很	hai cha de hen	100
+还差得很呢	hai cha de hen ne	100
 还差点	hai cha dian	100
 还差点儿	hai cha dian er	100
 还插队	hai cha dui	100
@@ -94837,6 +94849,9 @@ sort: by_weight
 还封着呢	hai feng zhe ne	100
 海福乐	hai fu le	100
 海富通传媒	hai fu tong chuan mei	100
+还敢给	hai gan gei	100
+还敢给我	hai gan gei wo	100
+还敢给我们	hai gan gei wo men	100
 还敢抗命	hai gan kang ming	100
 还敢来	hai gan lai	100
 还干什么	hai gan shen me	100
@@ -98591,6 +98606,7 @@ sort: by_weight
 好的哈	hao de ha	100
 好的行业	hao de hang ye	100
 好得很啊	hao de hen a	100
+好得很呢	hao de hen ne	100
 好的角色	hao de jue se	100
 好的啦	hao de la	100
 好的老板	hao de lao ban	100
@@ -114885,10 +114901,13 @@ sort: by_weight
 家的感觉	jia de gan jue	100
 嫁得好	jia de hao	100
 假得很	jia de hen	100
+假得很啊	jia de hen a	100
 嫁得很好	jia de hen hao	100
 嫁得很好啊	jia de hen hao a	100
 嫁得很好吧	jia de hen hao ba	100
 嫁得很好呀	jia de hen hao ya	100
+假得很呢	jia de hen ne	100
+假得很呀	jia de hen ya	100
 佳得乐	jia de le	100
 佳得利	jia de li	100
 家得利	jia de li	100
@@ -120056,6 +120075,7 @@ sort: by_weight
 校对团队	jiao dui tuan dui	100
 校对网	jiao dui wang	100
 校对网站	jiao dui wang zhan	100
+校对为	jiao dui wei	100
 交房贷	jiao fang dai	100
 交房租	jiao fang zu	100
 缴费地点	jiao fei di dian	100
@@ -138267,6 +138287,10 @@ sort: by_weight
 口袋妖怪系列	kou dai yao guai xi lie	100
 口袋娱乐	kou dai yu le	100
 口袋阅	kou dai yue	100
+抠得很	kou de hen	100
+抠得很啊	kou de hen a	100
+抠得很呢	kou de hen ne	100
+抠得很呀	kou de hen ya	100
 扣点分数	kou dian fen shu	100
 口定目呆	kou ding mu dai	100
 扣动了扳机	kou dong le ban ji	100
@@ -141317,10 +141341,10 @@ sort: by_weight
 蓝斗篷	lan dou peng	100
 烂赌英雄	lan du ying xiong	100
 兰顿之兆	lan dun zhi zhao	100
-懒惰之罪	lan duo zhi zui	100
 懒惰成性	lan duo cheng xing	100
 懒惰虫	lan duo chong	100
 懒惰鬼	lan duo gui	100
+懒惰之罪	lan duo zhi zui	100
 烂额焦头	lan e jiao tou	100
 蓝耳病	lan er bing	100
 烂番茄	lan fan qie	100
@@ -143779,7 +143803,6 @@ sort: by_weight
 离得好	li de hao	100
 离得很近	li de hen jin	100
 利得汇	li de hui	100
-离得近	li de jin	100
 离得那么近	li de na me jin	100
 里的人	li de ren	100
 黎德寿	li de shou	100
@@ -143787,7 +143810,6 @@ sort: by_weight
 利得税	li de shui	100
 离得太近	li de tai jin	100
 离得有点远	li de you dian yuan	100
-离得远	li de yuan	100
 离得越远越好	li de yue yuan yue hao	100
 立得住	li de zhu	100
 丽得姿	li de zi	100
@@ -169633,7 +169655,6 @@ sort: by_weight
 拿雪球	na xue qiu	100
 那样不行	na yang bu xing	100
 那样的感觉	na yang de gan jue	100
-那样是	na yang shi	100
 那要不	na yao bu	100
 那要不下次	na yao bu xia ci	100
 那要什么	na yao shen me	100
@@ -175061,6 +175082,8 @@ sort: by_weight
 你也没	ni ye mei	100
 你也没办法	ni ye mei ban fa	100
 你也没回	ni ye mei hui	100
+你也没说	ni ye mei shuo	100
+你也没说啊	ni ye mei shuo a	100
 你也没有办法	ni ye mei you ban fa	100
 你也配	ni ye pei	100
 你也配姓赵	ni ye pei xing zhao	100
@@ -175162,7 +175185,6 @@ sort: by_weight
 你有本事开门啊	ni you ben shi kai men a	100
 你有本事抢男人	ni you ben shi qiang nan ren	100
 你又不给	ni you bu gei	100
-你又不回	ni you bu hui	100
 你又不理我	ni you bu li wo	100
 你又不能	ni you bu neng	100
 你又不去	ni you bu qu	100
@@ -238199,6 +238221,7 @@ sort: by_weight
 挺搞笑	ting gao xiao	100
 挺搞笑啊	ting gao xiao a	100
 挺搞笑的	ting gao xiao de	100
+听歌时长	ting ge shi chang	100
 听个响	ting ge xiang	100
 停更了	ting geng le	100
 停工处分	ting gong chu fen	100
@@ -238212,6 +238235,7 @@ sort: by_weight
 听过的音乐	ting guo de yin yue	100
 挺过分	ting guo fen	100
 听国歌	ting guo ge	100
+停过课	ting guo ke	100
 停过来	ting guo lai	100
 听过来	ting guo lai	100
 挺过来了	ting guo lai le	100
@@ -238219,6 +238243,7 @@ sort: by_weight
 听过去	ting guo qu	100
 挺过去就	ting guo qu jiu	100
 挺过去就好	ting guo qu jiu hao	100
+停航了	ting hang le	100
 挺好吃的	ting hao chi de	100
 挺好哒	ting hao da	100
 挺好打	ting hao da	100
@@ -245953,6 +245978,7 @@ sort: by_weight
 微电子行业	wei dian zi hang ye	100
 微调查	wei diao cha	100
 韦屌丝	wei diao si	100
+尾调优化	wei diao you hua	100
 未跌反涨	wei die fan zhang	100
 未定稿	wei ding gao	100
 未定义行为	wei ding yi xing wei	100
@@ -282177,6 +282203,7 @@ sort: by_weight
 也没谁	ye mei shui	100
 也没谁了	ye mei shui le	100
 也没说	ye mei shuo	100
+也没说啊	ye mei shuo a	100
 也没说什么	ye mei shuo shen me	100
 也没太大问题	ye mei tai da wen ti	100
 也没歪	ye mei wai	100
@@ -286144,7 +286171,10 @@ sort: by_weight
 已经失效了	yi jing shi xiao le	100
 已经售罄了	yi jing shou qing le	100
 已经输了	yi jing shu le	100
+已经睡	yi jing shui	100
 已经睡了	yi jing shui le	100
+已经睡着	yi jing shui zhao	100
+已经睡着了	yi jing shui zhao le	100
 已经说过了	yi jing shuo guo le	100
 已经死到临头	yi jing si dao lin tou	100
 已经死了	yi jing si le	100
