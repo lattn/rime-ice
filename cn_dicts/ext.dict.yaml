@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2024-03-20"
+version: "2024-03-22"
 sort: by_weight
 ...
 # +_+
@@ -25281,6 +25281,7 @@ sort: by_weight
 藏金阁	cang jin ge	100
 藏进来	cang jin lai	100
 藏进去	cang jin qu	100
+藏进去了	cang jin qu le	100
 藏经殿	cang jing dian	100
 藏精阁	cang jing ge	100
 藏经阁福利	cang jing ge fu li	100
@@ -81371,7 +81372,6 @@ sort: by_weight
 刚拿到	gang na dao	100
 刚拿到手机	gang na dao shou ji	100
 钢炮臂虾	gang pao bi xia	100
-刚起床	gang qi chuang	100
 刚起床就	gang qi chuang jiu	100
 钢琴调律	gang qin diao lv	100
 钢琴独奏音乐会	gang qin du zou yin yue hui	100
@@ -95985,7 +95985,9 @@ sort: by_weight
 海西蒙古族藏族	hai xi meng gu zu zang zu	100
 海西蒙古族藏族自治州	hai xi meng gu zu zang zu zi zhi zhou	100
 还希望	hai xi wang	100
+还下大雪	hai xia da xue	100
 还下到	hai xia dao	100
+还下得了	hai xia de le	100
 海峡都市报	hai xia du shi bao	100
 海峡都市报闽南版	hai xia du shi bao min nan ban	100
 海峡交流基金会	hai xia jiao liu ji jin hui	100
@@ -95998,8 +96000,10 @@ sort: by_weight
 海峡时报	hai xia shi bao	100
 海峡相隔	hai xia xiang ge	100
 还下雪	hai xia xue	100
+还下雪吗	hai xia xue ma	100
 海峡银行	hai xia yin hang	100
 还下雨不	hai xia yu bu	100
+还下着了	hai xia zhe le	100
 海峡之声	hai xia zhi sheng	100
 还嫌不够	hai xian bu gou	100
 还嫌不够刺激	hai xian bu gou ci ji	100
@@ -130128,6 +130132,8 @@ sort: by_weight
 具灿星	ju can xing	100
 惧草虫之袭予	ju cao chong zhi xi yu	100
 菊草叶	ju cao ye	100
+巨差劲	ju cha jin	100
+巨差劲儿	ju cha jin er	100
 剧场版	ju chang ban	100
 据长江	ju chang jiang	100
 居常虑变	ju chang lv bian	100
@@ -158362,8 +158368,6 @@ sort: by_weight
 没场地	mei chang di	100
 每场都	mei chang dou	100
 没唱歌	mei chang ge	100
-没唱过	mei chang guo	100
-没尝过	mei chang guo	100
 没尝试	mei chang shi	100
 没常识	mei chang shi	100
 没尝试过	mei chang shi guo	100
@@ -162821,8 +162825,10 @@ sort: by_weight
 没有王法了	mei you wang fa le	100
 没有王法吗	mei you wang fa ma	100
 没有忘记	mei you wang ji	100
+没有忘记啊	mei you wang ji a	100
 没有忘记你	mei you wang ji ni	100
 没有忘了	mei you wang le	100
+没有网了	mei you wang le	100
 没有网络	mei you wang luo	100
 没有尾巴	mei you wei ba	100
 没有危机感	mei you wei ji gan	100
@@ -269991,6 +269997,11 @@ sort: by_weight
 信号好啊	xin hao hao a	100
 信号好不	xin hao hao bu	100
 信号好不好	xin hao hao bu hao	100
+信号很差	xin hao hen cha	100
+信号很差劲	xin hao hen cha jin	100
+信号巨差	xin hao ju cha	100
+信号巨差劲	xin hao ju cha jin	100
+信号巨差劲儿	xin hao ju cha jin er	100
 信号控制系统	xin hao kong zhi xi tong	100
 信号模块	xin hao mo kuai	100
 信号频率	xin hao pin lv	100
