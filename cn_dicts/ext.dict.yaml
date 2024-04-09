@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2024-04-06"
+version: "2024-04-10"
 sort: by_weight
 ...
 # +_+
@@ -79883,6 +79883,8 @@ sort: by_weight
 敢不敢来哦	gan bu gan lai o	100
 敢不敢来哇	gan bu gan lai wa	100
 敢不敢来呀	gan bu gan lai ya	100
+敢不敢睡	gan bu gan shui	100
+敢不敢睡觉	gan bu gan shui jiao	100
 感不感兴趣	gan bu gan xing qu	100
 敢不回来	gan bu hui lai	100
 敢不回去	gan bu hui qu	100
@@ -80846,6 +80848,8 @@ sort: by_weight
 感受中国传统文化	gan shou zhong guo chuan tong wen hua	100
 干数杯	gan shu bei	100
 甘薯饼	gan shu bing	100
+敢睡不	gan shui bu	100
+敢睡不敢	gan shui bu gan	100
 敢说不敢干	gan shuo bu gan gan	100
 敢说敢干啊	gan shuo gan gan a	100
 敢死队队长	gan si dui dui zhang	100
@@ -203560,13 +203564,13 @@ sort: by_weight
 森之境	sen zhi jing	100
 森重宽	sen zhong kuan	100
 僧加罗语	seng jia luo yu	100
-僧伽斯那	seng qie si na	100
-僧伽吒	seng qie zha	100
-僧伽吒经	seng qie zha jing	100
 僧侣主义	seng lv zhu yi	100
 僧帽猴	seng mao hou	100
 僧伽蓝摩	seng qie lan mo	100
 僧伽罗语	seng qie luo yu	100
+僧伽斯那	seng qie si na	100
+僧伽吒	seng qie zha	100
+僧伽吒经	seng qie zha jing	100
 沙巴克传奇	sha ba ke chuan qi	100
 傻白甜	sha bai tian	100
 傻白甜的角色	sha bai tian de jue se	100
@@ -216583,8 +216587,6 @@ sort: by_weight
 十六小时内	shi liu xiao shi nei	100
 是流行于	shi liu xing yu	100
 十六字阴阳风水秘术	shi liu zi yin yang feng shui mi shu	100
-湿渌渌	shi lu lu	100
-湿漉漉地	shi lu lu de	100
 湿漉漉的	shi lu lu de	100
 失路迷踪	shi lu mi zong	100
 什鲁斯伯里	shi lu si bo li	100
@@ -221566,6 +221568,7 @@ sort: by_weight
 书写台	shu xie tai	100
 书写系统	shu xie xi tong	100
 书写语言	shu xie yu yan	100
+书信传达	shu xin chuan da	100
 舒心的感觉	shu xin de gan jue	100
 输心服意	shu xin fu yi	100
 书信集	shu xin ji	100
@@ -236349,6 +236352,7 @@ sort: by_weight
 天天斗地主游戏	tian tian dou di zhu you xi	100
 天天斗地主真人版	tian tian dou di zhu zhen ren ban	100
 天天都会	tian tian dou hui	100
+天天都去	tian tian dou qu	100
 天天都色	tian tian dou se	100
 天天都是	tian tian dou shi	100
 天天都是好日子	tian tian dou shi hao ri zi	100
@@ -261356,6 +261360,7 @@ sort: by_weight
 下没下去	xia mei xia qu	100
 下没下去啊	xia mei xia qu a	100
 下没下去呀	xia mei xia qu ya	100
+下没有	xia mei you	100
 厦门安达仕酒店	xia men an da shi jiu dian	100
 厦门吧	xia men ba	100
 厦门办	xia men ban	100

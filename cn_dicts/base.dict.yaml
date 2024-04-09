@@ -1889,10 +1889,12 @@
 # 「进级」→「晋级」
 # 「一柱香」→「一炷香」
 # 「熙熙壤壤」→「熙熙攘攘」
+# 「宇称cheng」→「宇称chen」
+# 「湿渌渌、湿露露」→「湿漉漉」
 #///
 ---
 name: base
-version: "2024-04-06"
+version: "2024-04-10"
 sort: by_weight
 ...
 # +_+
@@ -19279,7 +19281,7 @@ sort: by_weight
 背肌	bei ji	2435
 被挤	bei ji	888
 碑记	bei ji	699
-贝基	bei ji	1
+贝基	bei ji	2
 贝济埃曲线	bei ji ai qu xian	38
 被击败	bei ji bai	4250
 北极贝	bei ji bei	645
@@ -20615,7 +20617,7 @@ sort: by_weight
 被揉	bei rou	790
 被褥	bei ru	22230
 背入式	bei ru shi	930
-贝瑞	bei rui	1
+贝瑞	bei rui	2
 贝瑞特	bei rui te	43
 背若芒刺	bei ruo mang ci	6
 杯赛	bei sai	20805
@@ -24397,11 +24399,11 @@ sort: by_weight
 比舞招亲	bi wu zhao qin	10
 鼻息	bi xi	8650
 碧玺	bi xi	8620
-碧溪	bi xi	4010
 笔洗	bi xi	1760
 赑屃	bi xi	1111
 敝屣	bi xi	475
-滗析	bi xi	1
+碧溪	bi xi	401
+滗析	bi xi	2
 壁细胞	bi xi bao	14
 碧溪村	bi xi cun	18
 毕熙东	bi xi dong	18
@@ -93956,9 +93958,9 @@ sort: by_weight
 东灶港	dong zao gang	19
 东增	dong zeng	63
 东闸	dong zha	47
-东寨	dong zhai	36
 东宅	dong zhai	5
 董宅	dong zhai	4
+# 东寨	dong zhai	0
 东宅村	dong zhai cun	8
 东寨港	dong zhai gang	960
 东站	dong zhan	33220
@@ -107698,9 +107700,9 @@ sort: by_weight
 反射中枢	fan she zhong shu	2
 反射作用	fan she zuo yong	1620
 翻身	fan shen	70985
-反身	fan shen	5850
 返身	fan shen	5810
 烦神	fan shen	300
+反身	fan shen	5
 翻身床	fan shen chuang	9
 翻身村	fan shen cun	40
 翻身大道	fan shen da dao	2
@@ -138440,9 +138442,9 @@ sort: by_weight
 固沙林场	gu sha lin chang	30
 固沙植物	gu sha zhi wu	32
 孤山	gu shan	10440
-鼓山	gu shan	6725
+古山	gu shan	777
+鼓山	gu shan	672
 股疝	gu shan	13
-# 古山	gu shan	0
 # 顾珊	gu shan	0
 孤山村	gu shan cun	73
 古山村	gu shan cun	16
@@ -157044,7 +157046,7 @@ sort: by_weight
 # 何全	he quan	0
 和泉国	he quan guo	1
 合群	he qun	8795
-鹤群	he qun	1
+鹤群	he qun	2
 # 何群	he qun	0
 合群村	he qun cun	18
 合群桥	he qun qiao	1
@@ -163141,9 +163143,9 @@ sort: by_weight
 后曾	hou ceng	6787
 后曾村	hou ceng cun	1
 候查	hou cha	165
-后场	hou chang	17070
-后厂	hou chang	2950
-候场	hou chang	830
+候场	hou chang	1830
+后场	hou chang	1707
+# 后厂	hou chang	0
 猴场堡乡	hou chang bao xiang	1
 后厂村	hou chang cun	4
 后厂村东	hou chang cun dong	1
@@ -260588,7 +260590,7 @@ sort: by_weight
 毛条厂路	mao tiao chang lu	1
 毛条路	mao tiao lu	7
 茅亭	mao ting	640
-茂亭	mao ting	1
+# 茂亭	mao ting	0
 茂亭村	mao ting cun	1
 矛头	mao tou	15660
 毛头	mao tou	5655
@@ -276536,7 +276538,8 @@ sort: by_weight
 难挨	nan ai	1510
 男爱豆	nan ai dou	141
 南岸	nan an	41065
-南安	nan an	21935
+难安	nan an	4444
+南安	nan an	2
 南岸村	nan an cun	83
 南安地斯山穴鸮	nan an di si shan xue xiao	1
 南岸公园	nan an gong yuan	50
@@ -304468,6 +304471,8 @@ sort: by_weight
 千万遍阳关	qian wan bian yang guan	1
 千万别	qian wan bie	85385
 千万别买	qian wan bie mai	1035
+千万不	qian wan bu	222
+千万部	qian wan bu	2
 千万不复全	qian wan bu fu quan	1
 千万不可	qian wan bu ke	17955
 千万不能	qian wan bu neng	36795
@@ -305035,7 +305040,7 @@ sort: by_weight
 千丈	qian zhang	6950
 前掌	qian zhang	2150
 嵌张	qian zhang	111
-前张	qian zhang	1
+# 前张	qian zhang	0
 前张村	qian zhang cun	22
 嵌张搭子	qian zhang da zi	11
 牵张反射	qian zhang fan she	1
@@ -314785,7 +314790,7 @@ sort: by_weight
 曲膝	qu xi	2455
 去吸	qu xi	1435
 取息	qu xi	1270
-曲溪	qu xi	56
+# 曲溪	qu xi	0
 瞿溪车站	qu xi che zhan	1
 曲溪村	qu xi cun	6
 娶媳妇	qu xi fu	7155
@@ -326227,7 +326232,8 @@ sort: by_weight
 撒粉	sa fen	450
 萨嘎	sa ga	1765
 萨嘎县	sa ga xian	405
-萨格	sa ge	1395
+撒个	sa ge	1111
+萨格	sa ge	395
 撒个欢儿	sa ge huan er	35
 萨格勒布	sa ge le bu	1880
 萨格隆	sa ge long	1
@@ -328222,11 +328228,11 @@ sort: by_weight
 三里	san li	19645
 三笠	san li	9999
 三粒	san li	4400
-三吏	san li	595
-三立	san li	123
-三力	san li	1
-三礼	san li	1
+三力	san li	2
+三吏	san li	2
+三礼	san li	2
 # 三利	san li	0
+# 三立	san li	0
 三笠·阿克曼	san li a ke man	111
 三里村	san li cun	24
 三里店	san li dian	10
@@ -330651,8 +330657,6 @@ sort: by_weight
 僧格林沁	seng ge lin qin	32
 僧固	seng gu	3
 僧固乡	seng gu xiang	109
-僧伽	seng qie	5080
-僧伽罗	seng qie luo	670
 僧来看佛面	seng lai kan fo mian	1
 僧侣	seng lv	27080
 僧帽	seng mao	1111
@@ -330664,6 +330668,8 @@ sort: by_weight
 僧帽斜管虫	seng mao xie guan chong	1
 僧尼	seng ni	7750
 僧敲月下门	seng qiao yue xia men	5
+僧伽	seng qie	5080
+僧伽罗	seng qie luo	670
 僧佉论	seng qu lun	1
 僧人	seng ren	49245
 僧是愚氓犹可训	seng shi yu meng you ke xun	3
@@ -336596,10 +336602,10 @@ sort: by_weight
 尚志镇	shang zhi zhen	123
 上肢综合训练器	shang zhi zong he xun lian qi	1
 伤重	shang zhong	4715
-上中	shang zhong	1120
 上钟	shang zhong	666
-上冢	shang zhong	135
-尚忠	shang zhong	3
+上中	shang zhong	112
+上冢	shang zhong	13
+# 尚忠	shang zhong	0
 尚忠村	shang zhong cun	1
 上中路	shang zhong lu	135
 上中西路	shang zhong xi lu	33
@@ -405732,6 +405738,8 @@ sort: by_weight
 围魏救赵之计	wei wei jiu zhao zhi ji	85
 微微克	wei wei ke	40
 唯唯连声	wei wei lian sheng	5
+微微亮	wei wei liang	222
+微微凉	wei wei liang	111
 威威猫	wei wei mao	16
 唯唯诺诺	wei wei nuo nuo	6715
 蔚为奇观	wei wei qi guan	1815
@@ -424647,8 +424655,9 @@ sort: by_weight
 下冒头	xia mao tou	14
 夏茂芋包	xia mao yu bao	6
 夏茂芋饺	xia mao yu jiao	1
-霞美	xia mei	18
-夏美	xia mei	12
+下没	xia mei	1111
+# 夏美	xia mei	0
+# 霞美	xia mei	0
 霞美村	xia mei cun	3
 下梅林	xia mei lin	128
 下梅林市场	xia mei lin shi chang	18
@@ -481706,8 +481715,8 @@ sort: by_weight
 永结连理	yong jie lian li	150
 永结同心	yong jie tong xin	3025
 永结无情游	yong jie wu qing you	2
-佣金	yong jin	410415
 用尽	yong jin	43035
+佣金	yong jin	41041
 涌进	yong jin	12720
 用劲	yong jin	6725
 拥进	yong jin	3870
@@ -489440,11 +489449,15 @@ sort: by_weight
 与车	yu che	10805
 御车	yu che	475
 舆车	yu che	75
-雨辰	yu chen	8375
-玉臣	yu chen	845
-舁榇	yu chen	1
+宇称	yu chen	3333
+雨辰	yu chen	2
+# 玉臣	yu chen	0
+# 舁榇	yu chen	0
+宇称不守恒	yu chen bu shou heng	415
+宇称不守恒定律	yu chen bu shou heng ding lv	30
 鱼沉鸿断	yu chen hong duan	1
 舆榇亲缚	yu chen qin fu	1
+宇称守恒	yu chen shou heng	30
 鱼沉雁静	yu chen yan jing	1
 育成	yu cheng	19445
 誉称	yu cheng	4444
@@ -489455,15 +489468,12 @@ sort: by_weight
 虞城	yu cheng	1
 鱼城	yu cheng	1
 御成败式目	yu cheng bai shi mu	21
-宇称不守恒	yu cheng bu shou heng	415
-宇称不守恒定律	yu cheng bu shou heng ding lv	30
 玉成村	yu cheng cun	19
 俞承豪	yu cheng hao	180
 禹城扒鸡	yu cheng pa ji	24
 庾澄庆	yu cheng qing	4325
 雨城区	yu cheng qu	1670
 禹城市	yu cheng shi	1790
-宇称守恒	yu cheng shou heng	30
 余程万	yu cheng wan	14
 虞城县	yu cheng xian	1915
 禹城县	yu cheng xian	50
@@ -514991,7 +515001,7 @@ sort: by_weight
 振作精神	zhen zuo jing shen	3720
 振作起来	zhen zuo qi lai	7135
 正安	zheng an	4440
-正安县	zheng an xian	1085
+正安县	zheng an xian	2
 正岙	zheng ao	8
 争霸	zheng ba	29460
 整把	zheng ba	715
