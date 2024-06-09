@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2024-05-21"
+version: "2024-06-10"
 sort: by_weight
 ...
 # +_+
@@ -57376,8 +57376,6 @@ sort: by_weight
 点名了么	dian ming le me	100
 典谟训诰	dian mo xun gao	100
 点墨斋	dian mo zhai	100
-电脑版	dian nao ban	100
-电脑班	dian nao ban	100
 电脑彩喷	dian nao cai pen	100
 电脑操作系统	dian nao cao zuo xi tong	100
 电脑程式	dian nao cheng shi	100
@@ -74268,6 +74266,8 @@ sort: by_weight
 非常实用	fei chang shi yong	100
 非常实用主义	fei chang shi yong zhu yi	100
 非常手段	fei chang shou duan	100
+非常熟络	fei chang shou luo	100
+非常熟络	fei chang shu luo	100
 非常舒适	fei chang shu shi	100
 非常松懈	fei chang song xie	100
 非常特别的地方	fei chang te bie de di fang	100
@@ -79978,6 +79978,7 @@ sort: by_weight
 干的事儿	gan de shi er	100
 干的停当	gan de ting dang	100
 干得怎么样	gan de zen me yang	100
+干得怎么样啊	gan de zen me yang a	100
 干得真棒	gan de zhen bang	100
 干得真棒啊	gan de zhen bang a	100
 干得真棒呀	gan de zhen bang ya	100
@@ -85643,6 +85644,7 @@ sort: by_weight
 更长的轴距	geng chang de zhou ju	100
 更唱迭和	geng chang die he	100
 更畅快	geng chang kuai	100
+更长了	geng chang le	100
 更长漏永	geng chang lou yong	100
 更长期	geng chang qi	100
 更长效	geng chang xiao	100
@@ -95153,6 +95155,7 @@ sort: by_weight
 还没查到	hai mei cha dao	100
 还没查看	hai mei cha kan	100
 还没抄	hai mei chao	100
+还没彻底	hai mei che di	100
 还没彻底好	hai mei che di hao	100
 还没成年	hai mei cheng nian	100
 还没吃	hai mei chi	100
@@ -107187,7 +107190,6 @@ sort: by_weight
 唤了一声	huan le yi sheng	100
 换了一张脸	huan le yi zhang lian	100
 欢乐英雄	huan le ying xiong	100
-欢乐英雄会下载	huan le ying xiong hui xia zai	100
 欢乐游	huan le you	100
 换了又换	huan le you huan	100
 欢乐有趣	huan le you qu	100
@@ -133771,7 +133773,6 @@ sort: by_weight
 看得不少	kan de bu shao	100
 看得长远	kan de chang yuan	100
 看得出啊	kan de chu a	100
-看的出来	kan de chu lai	100
 看得出你	kan de chu ni	100
 看得淡	kan de dan	100
 看得到吧	kan de dao ba	100
@@ -159771,6 +159772,7 @@ sort: by_weight
 没技术	mei ji shu	100
 没技术含量	mei ji shu han liang	100
 没积水	mei ji shui	100
+没几天啊	mei ji tian a	100
 没几天就	mei ji tian jiu	100
 没几条人命	mei ji tiao ren ming	100
 没记性	mei ji xing	100
@@ -166125,7 +166127,6 @@ sort: by_weight
 明演了	ming yan le	100
 明眼人都看得出	ming yan ren dou kan de chu	100
 明眼人都看得出来	ming yan ren dou kan de chu lai	100
-明眼人都看的出来	ming yan ren dou kan de chu lai	100
 明眼人都能看出	ming yan ren dou neng kan chu	100
 明眼人都能看出来	ming yan ren dou neng kan chu lai	100
 明眼人都知道	ming yan ren dou zhi dao	100
@@ -171815,6 +171816,7 @@ sort: by_weight
 能够记得	neng gou ji de	100
 能够较好地	neng gou jiao hao de	100
 能够脚踏实地	neng gou jiao ta shi di	100
+能够看得出来	neng gou kan de chu lai	100
 能够快乐	neng gou kuai le	100
 能够了解	neng gou liao jie	100
 能够了解到	neng gou liao jie dao	100
@@ -171905,6 +171907,8 @@ sort: by_weight
 能看到么	neng kan dao me	100
 能看到什么	neng kan dao shen me	100
 能看的	neng kan de	100
+能看得出	neng kan de chu	100
+能看得出来	neng kan de chu lai	100
 能看得懂	neng kan de dong	100
 能看得见	neng kan de jian	100
 能看的了	neng kan de le	100
@@ -224010,6 +224014,8 @@ sort: by_weight
 说得头头是道	shuo de tou tou shi dao	100
 说得无心	shuo de wu xin	100
 说得下去	shuo de xia qu	100
+说得详细	shuo de xiang xi	100
+说得详细些	shuo de xiang xi xie	100
 说得也对	shuo de ye dui	100
 说得也对啊	shuo de ye dui a	100
 说得也对呀	shuo de ye dui ya	100
@@ -236539,7 +236545,6 @@ sort: by_weight
 天天兄弟	tian tian xiong di	100
 天天学习	tian tian xue xi	100
 甜甜一笑	tian tian yi xiao	100
-甜甜萤	tian tian ying	100
 天天有雨	tian tian you yu	100
 天天渔港	tian tian yu gang	100
 天天在一起	tian tian zai yi qi	100
@@ -293852,7 +293857,6 @@ sort: by_weight
 音乐教育家	yin yue jiao yu jia	100
 音乐教育系	yin yue jiao yu xi	100
 音乐教育专业	yin yue jiao yu zhuan ye	100
-音乐届	yin yue jie	100
 音乐结构	yin yue jie gou	100
 音乐节拍	yin yue jie pai	100
 音乐节现场	yin yue jie xian chang	100
@@ -326648,6 +326652,7 @@ sort: by_weight
 捉拿犯人	zhuo na fan ren	100
 捉你回去	zhuo ni hui qu	100
 捉泥鳅	zhuo ni qiu	100
+捉弄着	zhuo nong zhe	100
 捉起来	zhuo qi lai	100
 浊气下降	zhuo qi xia jiang	100
 酌情办理	zhuo qing ban li	100
