@@ -220,6 +220,12 @@
 # 「转帐」→「转账」
 # 「手帐」→「手账」
 # 「帐单」→「账单」
+# 「买帐」→「买账」
+# 「记帐」→「记账」
+# 「认帐」→「认账」
+# 「记帐」→「记账」
+# 「分类帐」→「分类账」
+# 「到帐」→「到账」
 # 「死者长zhang已矣」→「chang」
 # 「白参cen」→「白参shen」
 # 「鰟fang鲏」→「鳑pang鲏」
@@ -436,6 +442,7 @@
 # 「搜素」→「搜索」
 # 「禁声」→「噤声」
 # 「迳自」→「径自」（「迳」只用于地名）
+# 「大相迳庭」→「大相径庭」（「迳」只用于地名）
 # 「污七八糟」→「乌七八糟」
 # 「恰如其份」→「恰如其分」
 # 「掂斤拨两」→「掂斤播两」
@@ -1911,11 +1918,11 @@
 # 「喜剧届、音乐届、体育届」→「喜剧界、音乐界、体育界」
 # 「全天侯」→「全天候」
 # 「夏侯敦」→「夏侯惇」
-# 「纨裤子弟」-->「纨绔子弟」
+# 「扇风点火」→「煽风点火」
 #///
 ---
 name: base
-version: "2024-09-25"
+version: "2024-10-30"
 sort: by_weight
 ...
 # +_+
@@ -204526,7 +204533,6 @@ sort: by_weight
 今已亭亭如盖矣	jin yi ting ting ru gai yi	9
 近一万	jin yi wan	2080
 锦衣纨绔	jin yi wan ku	5
-锦衣纨裤	jin yi wan ku	2
 锦衣卫	jin yi wei	8945
 金一文化	jin yi wen hua	175
 尽义务	jin yi wu	3110
@@ -246304,10 +246310,10 @@ sort: by_weight
 六丁目	liu ding mu	163
 刘丁硕	liu ding shuo	198
 流动	liu dong	411310
-刘冬	liu dong	2900
 六栋	liu dong	1275
-柳东	liu dong	104
-刘侗	liu dong	28
+# 刘侗	liu dong	0
+# 刘冬	liu dong	0
+# 柳东	liu dong	0
 流动比率	liu dong bi lv	7200
 流动车	liu dong che	540
 流动党员	liu dong dang yuan	26105
@@ -300271,7 +300277,6 @@ sort: by_weight
 起起跌跌	qi qi die die	6
 起起伏伏	qi qi fu fu	3535
 凄凄复凄凄	qi qi fu qi qi	2
-琪琪格	qi qi ge	13
 奇奇怪怪	qi qi guai guai	1150
 齐齐哈尔	qi qi ha er	52685
 齐齐哈尔大学	qi qi ha er da xue	2270
