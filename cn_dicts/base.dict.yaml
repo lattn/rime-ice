@@ -1948,7 +1948,7 @@
 #///
 ---
 name: base
-version: "2024-10-30"
+version: "2024-11-01"
 sort: by_weight
 ...
 # +_+
@@ -4049,7 +4049,7 @@ sort: by_weight
 矮屋	ai wu	515
 # 艾芜	ai wu	0
 爱屋及乌	ai wu ji wu	5140
-# 爱物及乌	ai wu ji wu	1
+# 爱物及乌	ai wu ji wu	0
 哀吾生之无乐兮	ai wu sheng zhi wu le xi	1
 哀吾生之须臾	ai wu sheng zhi xu yu	7
 爱无止境	ai wu zhi jing	685
@@ -50249,6 +50249,7 @@ sort: by_weight
 撤走	che zou	10045
 车走	che zou	8720
 车组	che zu	4745
+车租	che zu	3333
 车座	che zuo	8215
 车座弹簧	che zuo tan huang	1
 尘埃	chen ai	70115
@@ -298539,7 +298540,6 @@ sort: by_weight
 弃车走林	qi che zou lin	1
 汽车族	qi che zu	200
 汽车租赁	qi che zu lin	28060
-车租	che zu	3333
 汽车租赁公司	qi che zu lin gong si	6820
 汽车最大爬坡度	qi che zui da pa po du	2
 汽车最小离地间隙	qi che zui xiao li di jian xi	6
@@ -404550,8 +404550,6 @@ sort: by_weight
 为了她	wei le ta	11555
 为了它	wei le ta	2560
 为了他们	wei le ta men	15280
-为了他们	wei le ta men	11555
-为了他们	wei le ta men	2560
 为了逃避	wei le tao bi	8440
 为了提高	wei le ti gao	65820
 韦勒图	wei le tu	130
