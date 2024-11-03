@@ -1948,7 +1948,7 @@
 #///
 ---
 name: base
-version: "2024-11-01"
+version: "2024-11-03"
 sort: by_weight
 ...
 # +_+
@@ -4712,6 +4712,7 @@ sort: by_weight
 安抚之吻	an fu zhi wen	3
 安抚住	an fu zhu	200
 安富尊荣	an fu zun rong	600
+暗改	an gai	1
 安敢	an gan	2475
 安敢尚盘桓	an gan shang pan huan	1
 暗杠	an gang	9999
@@ -7081,6 +7082,7 @@ sort: by_weight
 翱龙	ao long	1963
 奥伦堡	ao lun bao	194
 敖伦布拉格	ao lun bu la ge	11
+傲罗	ao luo	1
 奥洛他定滴眼液	ao luo ta ding di yan ye	3
 熬吗	ao ma	9999
 熬嘛	ao ma	1111
@@ -7193,6 +7195,7 @@ sort: by_weight
 澳人治澳	ao ren zhi ao	2170
 凹入	ao ru	2115
 熬乳茶	ao ru cha	2
+傲软	ao ruan	1
 奥瑞德	ao rui de	184
 奥瑞菲蒙	ao rui fei meng	1
 奥萨拉克斯	ao sa la ke si	1
@@ -7807,6 +7810,7 @@ sort: by_weight
 八伯	ba bo	111
 巴博	ba bo	2
 巴伯	ba bo	1
+巴孛	ba bo	1
 巴勃鲁	ba bo lu	6
 巴勃罗	ba bo luo	341
 巴博萨	ba bo sa	136
@@ -8698,6 +8702,7 @@ sort: by_weight
 巴林左旗	ba lin zuo qi	1180
 霸凌	ba ling	9999
 八零	ba ling	5111
+巴陵	ba ling	1
 # 巴陵	ba ling	0
 八零后	ba ling hou	9999
 巴陵街	ba ling jie	133
@@ -13137,6 +13142,7 @@ sort: by_weight
 半猜半疑	ban cai ban yi	1
 办才好	ban cai hao	674
 版彩印	ban cai yin	18
+半残	ban can	1
 半残废	ban can fei	195
 半仓	ban cang	15
 半藏	ban cang	15
@@ -13593,11 +13599,13 @@ sort: by_weight
 办好	ban hao	114150
 版号	ban hao	1260
 拌好	ban hao	111
+搬好	ban hao	1
 半好半坏	ban hao ban huai	1
 半壕春水一城花	ban hao chun shui yi cheng hua	6
 办好了	ban hao le	6435
 办好事	ban hao shi	18675
 办好证	ban hao zheng	66
+半盒	ban he	1
 半合半开	ban he ban kai	5
 半合半张	ban he ban zhang	1
 半黑半白	ban hei ban bai	135
@@ -13640,6 +13648,7 @@ sort: by_weight
 班会	ban hui	17290
 搬回	ban hui	13090
 扳回	ban hui	7060
+板绘	ban hui	1
 班会课	ban hui ke	3360
 搬回来	ban hui lai	1080
 搬回去	ban hui qu	905
@@ -14075,6 +14084,7 @@ sort: by_weight
 半年前	ban nian qian	18890
 半年有余	ban nian you yu	1020
 伴娘	ban niang	16245
+板娘	ban niang	1
 伴娘伴郎	ban niang ban lang	110
 伴您	ban nin	5595
 半扭法螺	ban niu fa luo	1
@@ -14587,6 +14597,7 @@ sort: by_weight
 半仙	ban xian	9120
 班线	ban xian	1111
 拌馅	ban xian	11
+绊线	ban xian	1
 半咸半淡	ban xian ban dan	10
 半闲半忙	ban xian ban mang	1
 半仙半魔	ban xian ban mo	5
@@ -14680,6 +14691,7 @@ sort: by_weight
 般阳	ban yang	1
 办洋务	ban yang wu	275
 半腰	ban yao	2810
+半妖	ban yao	1
 半妖半鬼	ban yao ban gui	1
 半妖半魔	ban yao ban mo	1
 半妖半人	ban yao ban ren	1
@@ -14894,6 +14906,7 @@ sort: by_weight
 半抓半放	ban zhua ban fang	1
 搬砖	ban zhuan	9999
 板砖	ban zhuan	8888
+半砖	ban zhuan	1
 搬砖人	ban zhuan ren	129
 板状	ban zhuang	3520
 斑状	ban zhuang	1700
@@ -15670,6 +15683,7 @@ sort: by_weight
 刨床	bao chuang	4940
 宝窗自选	bao chuang zi xuan	1
 暴捶	bao chui	111
+爆锤	bao chui	1
 报春	bao chun	4685
 薄唇	bao chun	29
 # 保春	bao chun	0
@@ -15731,6 +15745,7 @@ sort: by_weight
 宝带路	bao dai lu	3
 保单	bao dan	60545
 报单	bao dan	9999
+爆单	bao dan	1
 保单持有人	bao dan chi you ren	890
 保单现金价值	bao dan xian jin jia zhi	1073
 饱当知人饥	bao dang zhi ren ji	1
@@ -16062,6 +16077,7 @@ sort: by_weight
 保供人员	bao gong ren yuan	198
 包工头	bao gong tou	12675
 宝供物流	bao gong wu liu	1095
+包够	bao gou	1
 包沟村	bao gou cun	2
 苞谷	bao gu	3470
 保固	bao gu	578
@@ -16778,6 +16794,7 @@ sort: by_weight
 饱练世故	bao lian shi gu	1
 宝莲寺	bao lian si	800
 保量	bao liang	2625
+爆量	bao liang	1
 # 保良	bao liang	0
 报两个	bao liang ge	200
 煲靓汤	bao liang tang	305
@@ -17085,6 +17102,7 @@ sort: by_weight
 保庆桥	bao qing qiao	9
 包青天	bao qing tian	7705
 宝清县	bao qing xian	1160
+宝球	bao qiu	1
 抱球虫超科	bao qiu chong chao ke	1
 鲍邱河	bao qiu he	189
 鲍球形病毒	bao qiu xing bing du	2
@@ -19204,6 +19222,7 @@ sort: by_weight
 背锅	bei guo	32295
 北国	bei guo	22295
 背过	bei guo	10725
+贝果	bei guo	1
 北郭村村委会	bei guo cun cun wei hui	4
 北国风光	bei guo feng guang	3570
 被国际	bei guo ji	14135
@@ -21765,6 +21784,7 @@ sort: by_weight
 笨笨猪	ben ben zhu	9
 本本主义	ben ben zhu yi	2545
 本币	ben bi	11025
+笨比	ben bi	1
 本表	ben biao	32630
 本标段	ben biao duan	69
 苯丙胺	ben bing an	2145
@@ -22620,6 +22640,7 @@ sort: by_weight
 迸发出	beng fa chu	9730
 泵房	beng fang	5420
 迸飞	beng fei	999
+崩服	beng fu	1
 甭改	beng gai	3333
 甭改了	beng gai le	3333
 蹦高	beng gao	9999
@@ -24309,6 +24330,7 @@ sort: by_weight
 必输无疑	bi shu wu yi	755
 必输性	bi shu xing	111
 笔刷	bi shua	1111
+必刷	bi shua	1
 避税	bi shui	28910
 碧水	bi shui	4037
 必睡	bi shui	333
@@ -24722,6 +24744,7 @@ sort: by_weight
 鄙意	bi yi	99
 碧漪	bi yi	3
 辟易	bi yi	2
+敝衣	bi yi	1
 # 愊忆	bi yi	0
 # 碧一	bi yi	0
 # 腷臆	bi yi	0
@@ -24876,6 +24899,7 @@ sort: by_weight
 臂章	bi zhang	2950
 蔽障	bi zhang	333
 壁障	bi zhang	222
+必涨	bi zhang	1
 # 碧嶂	bi zhang	0
 比张比李	bi zhang bi li	1
 比照	bi zhao	46660
@@ -24969,6 +24993,7 @@ sort: by_weight
 跸驻乡	bi zhu xiang	1
 必赚	bi zhuan	6666
 壁砖	bi zhuan	870
+必装	bi zhuang	1
 鼻子	bi zi	178415
 笔资	bi zi	4160
 婢子	bi zi	1810
@@ -25757,6 +25782,7 @@ sort: by_weight
 便觉得	bian jue de	6465
 便决定	bian jue ding	7560
 边郡	bian jun	945
+变卡	bian ka	1
 边开边	bian kai bian	38
 边开发	bian kai fa	59
 便开始	bian kai shi	49960
@@ -26791,6 +26817,7 @@ sort: by_weight
 便逐渐	bian zhu jian	3340
 编著者	bian zhu zhe	6065
 编撰	bian zhuan	23760
+变砖	bian zhuan	1
 边转边	bian zhuan bian	26
 编撰者	bian zhuan zhe	700
 便装	bian zhuang	10620
@@ -27386,9 +27413,11 @@ sort: by_weight
 表兄	biao xiong	5940
 表兄弟	biao xiong di	2390
 表兄妹	biao xiong mei	1175
+标序	biao xu	1
 表虚里实	biao xu li shi	1
 标讯内容	biao xun nei rong	105
 表压	biao ya	1995
+标压	biao ya	1
 表演	biao yan	500314
 表演场	biao yan chang	1635
 表演唱	biao yan chang	1435
@@ -27418,6 +27447,7 @@ sort: by_weight
 表一	biao yi	16405
 标以	biao yi	2475
 表姨	biao yi	625
+表意	biao yi	1
 裱一裱	biao yi biao	1180
 标一晚	biao yi wan	114
 标一下	biao yi xia	12
@@ -28259,6 +28289,7 @@ sort: by_weight
 宾东	bin dong	111
 滨东	bin dong	1
 鬓发	bin fa	3910
+宾法	bin fa	1
 鬓发各已苍	bin fa ge yi cang	2
 缤纷	bin fen	57790
 缤纷多彩	bin fen duo cai	2520
@@ -29779,6 +29810,7 @@ sort: by_weight
 丙戌	bing xu	12520
 并须	bing xu	9930
 炳旭	bing xu	530
+并序	bing xu	1
 丙戌年	bing xu nian	10835
 炳轩	bing xuan	55
 并选择	bing xuan ze	55270
@@ -31257,6 +31289,7 @@ sort: by_weight
 波月洞	bo yue dong	465
 驳运	bo yun	1395
 拨云	bo yun	1
+薄云	bo yun	1
 # 薄云	bo yun	0
 拨云锭	bo yun ding	178
 驳运费	bo yun fei	125
@@ -33533,6 +33566,7 @@ sort: by_weight
 不会做	bu hui zuo	16200
 不混	bu hun	1500
 不婚	bu hun	1111
+补魂	bu hun	1
 不荤不素	bu hun bu su	6
 不婚不育	bu hun bu yu	141
 不混合	bu hun he	80
@@ -34971,6 +35005,7 @@ sort: by_weight
 不毛之地	bu mao zhi di	3780
 不美	bu mei	15110
 不寐	bu mei	4945
+步美	bu mei	1
 不寐百忧生	bu mei bai you sheng	1
 不寐病	bu mei bing	1
 不霉不蛀	bu mei bu zhu	320
@@ -36372,6 +36407,7 @@ sort: by_weight
 不睡	bu shui	12770
 补税	bu shui	7195
 补水	bu shui	4394
+不水	bu shui	1
 补水阀	bu shui fa	74
 补水管	bu shui guan	90
 不睡好	bu shui hao	64
@@ -43134,6 +43170,7 @@ sort: by_weight
 侧记	ce ji	4185
 侧击	ce ji	1415
 测甲醛	ce jia quan	122
+侧键	ce jian	1
 侧角矩胸金小蜂	ce jiao ju xiong jin xiao feng	1
 测角器	ce jiao qi	155
 侧近	ce jin	510
@@ -51475,6 +51512,7 @@ sort: by_weight
 陈奕迅	chen yi xun	19145
 陈宜张	chen yi zhang	2
 沉吟	chen yin	32140
+陈寅	chen yin	1
 # 陈尹	chen yin	0
 沉吟不语	chen yin bu yu	1550
 陈寅恪	chen yin ke	10460
@@ -52778,6 +52816,7 @@ sort: by_weight
 称名忆旧容	cheng ming yi jiu rong	2
 成名作	cheng ming zuo	5940
 成魔	cheng mo	6666
+塍陌	cheng mo	1
 成膜剂	cheng mo ji	645
 成膜体	cheng mo ti	20
 程某	cheng mou	111
@@ -53911,6 +53950,7 @@ sort: by_weight
 承应	cheng ying	880
 澄莹	cheng ying	111
 承影	cheng ying	1
+程婴	cheng ying	1
 # 程瑛	cheng ying	0
 # 程英	cheng ying	0
 程应旄	cheng ying mao	1
@@ -55643,6 +55683,7 @@ sort: by_weight
 斥之	chi zhi	1085
 赤芝	chi zhi	36
 痴滞	chi zhi	20
+褫职	chi zhi	1
 持支持	chi zhi chi	19650
 齿直盾蜾蠃	chi zhi dun guo luo	1
 迟滞感	chi zhi gan	1180
@@ -58942,6 +58983,7 @@ sort: by_weight
 楚平王	chu ping wang	24
 出圃	chu pu	9999
 樗蒲	chu pu	11
+樗蒱	chu pu	1
 初期	chu qi	303220
 出奇	chu qi	51850
 初起	chu qi	18070
@@ -60360,6 +60402,7 @@ sort: by_weight
 船回雾起堤	chuan hui wu qi di	2
 船货	chuan huo	4260
 串货	chuan huo	3445
+传火	chuan huo	1
 传技	chuan ji	9999
 船籍	chuan ji	1100
 船级	chuan ji	990
@@ -63785,6 +63828,7 @@ sort: by_weight
 词条文本	ci tiao wen ben	68
 此帖	ci tie	421025
 磁铁	ci tie	24850
+磁贴	ci tie	1
 磁铁矿	ci tie kuang	3350
 瓷贴面	ci tie mian	33
 刺痛	ci tong	29480
@@ -65470,6 +65514,7 @@ sort: by_weight
 窜到	cuan dao	7555
 蹿到	cuan dao	2055
 窜得比	cuan de bi	20
+攒底	cuan di	1
 爨底下村	cuan di xia cun	61
 攒动	cuan dong	1335
 篡夺	cuan duo	4525
@@ -65577,6 +65622,7 @@ sort: by_weight
 翠岗	cui gang	760
 摧刚为柔	cui gang wei rou	1
 催告	cui gao	10875
+催稿	cui gao	1
 崔哥	cui ge	5555
 崔各庄	cui ge zhuang	167
 崔各庄乡政府	cui ge zhuang xiang zheng fu	33
@@ -245582,6 +245628,7 @@ sort: by_weight
 零讯	ling xun	1
 零压	ling ya	1111
 铃芽	ling ya	2
+灵压	ling ya	1
 # 凌压	ling ya	0
 伶牙俐齿	ling ya li chi	3210
 伶牙俐嘴	ling ya li zui	4
@@ -293000,6 +293047,7 @@ sort: by_weight
 疲软的	pi ruan de	6540
 疲弱	pi ruo	8655
 譬若	pi ruo	785
+辟若	pi ruo	1
 疲弱乏力	pi ruo fa li	87
 皮萨诺龙	pi sa nuo long	1
 披散	pi san	6120
