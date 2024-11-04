@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2024-11-03"
+version: "2024-11-04"
 sort: by_weight
 ...
 # +_+
@@ -53360,6 +53360,7 @@ sort: by_weight
 德国的	de guo de	100
 的国度	de guo du	100
 德国高校	de guo gao xiao	100
+德国古典	de guo gu dian	100
 德国骨科	de guo gu ke	100
 德国国防部长	de guo guo fang bu zhang	100
 德国汉莎航空公司	de guo han sha hang kong gong si	100
@@ -54422,6 +54423,7 @@ sort: by_weight
 等节后	deng jie hou	100
 等接踵而起	deng jie zhong er qi	100
 灯尽油干	deng jin you gan	100
+等距更纱黑体	deng ju geng sha hei ti	100
 灯具行业	deng ju hang ye	100
 等觉菩萨	deng jue pu sa	100
 等开服	deng kai fu	100
@@ -54672,6 +54674,7 @@ sort: by_weight
 蒂安希	di an xi	100
 狄昂华薇克	di ang hua wei ke	100
 狄奥多	di ao duo	100
+狄奥多西一世	di ao duo xi yi shi	100
 地奥心血康	di ao xin xie kang	100
 地奥心血康胶囊	di ao xin xie kang jiao nang	100
 地奥心血康软胶囊	di ao xin xie kang ruan jiao nang	100
@@ -55027,6 +55030,7 @@ sort: by_weight
 低度近视	di du jin shi	100
 帝都人	di du ren	100
 低度数	di du shu	100
+低端的	di duan de	100
 地段街	di duan jie	100
 低端局	di duan ju	100
 地段生	di duan sheng	100
@@ -55066,6 +55070,7 @@ sort: by_weight
 第二个黑匣子	di er ge hei xia zi	100
 第二个角色	di er ge jue se	100
 第二个维度	di er ge wei du	100
+第二个值	di er ge zhi	100
 第二罐	di er guan	100
 第二还款来源	di er huan kuan lai yuan	100
 第二基地	di er ji di	100
@@ -55091,6 +55096,7 @@ sort: by_weight
 第二桶金	di er tong jin	100
 第二桶金子	di er tong jin zi	100
 第二外国语	di er wai guo yu	100
+第二下	di er xia	100
 第二校区	di er xiao qu	100
 第二邪恶	di er xie e	100
 第二信号	di er xin hao	100
@@ -55244,6 +55250,7 @@ sort: by_weight
 低飞球	di fei qiu	100
 低费用	di fei yong	100
 低分段	di fen duan	100
+低分屏	di fen ping	100
 低丰度	di feng du	100
 地缝里	di feng li	100
 地缝里去	di feng li qu	100
@@ -55825,6 +55832,7 @@ sort: by_weight
 地球年龄	di qiu nian ling	100
 地球叛军	di qiu pan jun	100
 地球篇	di qiu pian	100
+地球拼音	di qiu pin yin	100
 地球球综	di qiu qiu zong	100
 地球曲率	di qiu qu lv	100
 地球绕太阳公转	di qiu rao tai yang gong zhuan	100
@@ -55991,6 +55999,7 @@ sort: by_weight
 第三个地方	di san ge di fang	100
 第三个任务	di san ge ren wu	100
 第三个维度	di san ge wei du	100
+第三个值	di san ge zhi	100
 第三季度报告	di san ji du bao gao	100
 第三季度财报	di san ji du cai bao	100
 第三季度末	di san ji du mo	100
@@ -56009,6 +56018,7 @@ sort: by_weight
 第三桶金	di san tong jin	100
 第三桶金子	di san tong jin zi	100
 第三维度	di san wei du	100
+第三下	di san xia	100
 第三邪恶	di san xie e	100
 第三学年	di san xue nian	100
 第三乐章	di san yue zhang	100
@@ -56084,6 +56094,8 @@ sort: by_weight
 低首下心	di shou xia xin	100
 弟瘦兄肥	di shou xiong fei	100
 低收益率	di shou yi lv	100
+低数据	di shu ju	100
+低刷新	di shua xin	100
 滴水不羼	di shui bu chan	100
 地税部门	di shui bu men	100
 地水火风	di shui huo feng	100
@@ -56094,6 +56106,8 @@ sort: by_weight
 低水平重复建设	di shui ping chong fu jian she	100
 地水师	di shui shi	100
 滴水石穿	di shui shi chuan	100
+滴水石块	di shui shi kuai	100
+滴水石锥	di shui shi zhui	100
 第四部资料片	di si bu zi liao pian	100
 第四产业	di si chan ye	100
 第四重	di si chong	100
@@ -56279,8 +56293,10 @@ sort: by_weight
 地图更新	di tu geng xin	100
 地图工坊	di tu gong fang	100
 地图功能	di tu gong neng	100
+地图共享	di tu gong xiang	100
 地图管理	di tu guan li	100
 氐土貉	di tu hao	100
+地图绘	di tu hui	100
 地图绘制	di tu hui zhi	100
 地图介绍	di tu jie shao	100
 地图模式	di tu mo shi	100
@@ -56515,6 +56531,7 @@ sort: by_weight
 地下研究所	di xia yan jiu suo	100
 地下掩体	di xia yan ti	100
 地下摇滚	di xia yao gun	100
+地下要塞	di xia yao sai	100
 地下一层	di xia yi ceng	100
 地下一楼	di xia yi lou	100
 地下一年	di xia yi nian	100
@@ -56650,6 +56667,7 @@ sort: by_weight
 第一感觉	di yi gan jue	100
 第一高度	di yi gao du	100
 第一格	di yi ge	100
+第一个部分	di yi ge bu fen	100
 第一个层次	di yi ge ceng ci	100
 第一个节目	di yi ge jie mu	100
 第一个礼拜	di yi ge li bai	100
@@ -56659,6 +56677,7 @@ sort: by_weight
 第一个人	di yi ge ren	100
 第一个任务	di yi ge ren wu	100
 第一个愿望	di yi ge yuan wang	100
+第一个值	di yi ge zhi	100
 第一个字	di yi ge zi	100
 第一个字儿	di yi ge zi er	100
 第一个字母	di yi ge zi mu	100
@@ -56671,6 +56690,7 @@ sort: by_weight
 第一基本形式	di yi ji ben xing shi	100
 第一季第一集	di yi ji di yi ji	100
 第一季度报告	di yi ji du bao gao	100
+第一季会员	di yi ji hui yuan	100
 第一家园	di yi jia yuan	100
 第一剑魂	di yi jian hun	100
 第一件事了	di yi jian shi le	100
@@ -56711,6 +56731,7 @@ sort: by_weight
 第一师师长	di yi shi shi zhang	100
 第一食堂	di yi shi tang	100
 第一实验学校	di yi shi yan xue xiao	100
+第一顺序	di yi shun xu	100
 第一速度	di yi su du	100
 第一所学校	di yi suo xue xiao	100
 第一胎	di yi tai	100
@@ -56742,6 +56763,7 @@ sort: by_weight
 第一遭	di yi zao	100
 第一战区司令长官	di yi zhan qu si ling zhang guan	100
 第一张地图	di yi zhang di tu	100
+第一哲学	di yi zhe xue	100
 第一志愿	di yi zhi yuan	100
 第一志愿第一专业	di yi zhi yuan di yi zhuan ye	100
 第一志愿学校	di yi zhi yuan xue xiao	100
@@ -56799,6 +56821,7 @@ sort: by_weight
 地狱界	di yu jie	100
 地狱解剖	di yu jie pou	100
 地域经济	di yu jing ji	100
+地狱菌菇	di yu jun gu	100
 地狱军团	di yu jun tuan	100
 地狱狂蛇	di yu kuang she	100
 地狱牢笼	di yu lao long	100
@@ -57111,6 +57134,7 @@ sort: by_weight
 抵足谈心	di zu tan xin	100
 涤罪七雷	di zui qi lei	100
 涤罪所	di zui suo	100
+点按滑	dian an hua	100
 电伴热系统	dian ban re xi tong	100
 点半钟	dian ban zhong	100
 电报机器人	dian bao ji qi ren	100
@@ -57504,6 +57528,7 @@ sort: by_weight
 点进去	dian jin qu	100
 点金手	dian jin shou	100
 电竞版本	dian jing ban ben	100
+电竞城	dian jing cheng	100
 电竞传奇	dian jing chuan qi	100
 电竞春晚	dian jing chun wan	100
 电竞大赛	dian jing da sai	100
@@ -58023,6 +58048,7 @@ sort: by_weight
 点赞啊	dian zan a	100
 点赞榜	dian zan bang	100
 点赞次数	dian zan ci shu	100
+点赞关注不迷路	dian zan guan zhu bu mi lu	100
 点赞了	dian zan le	100
 点咱俩	dian zan lia	100
 点咱俩呢	dian zan lia ne	100
@@ -58544,7 +58570,9 @@ sort: by_weight
 钓了鱼	diao le yu	100
 钓了鱼了	diao le yu le	100
 调离工作岗位	diao li gong zuo gang wei	100
+凋灵骷髅	diao ling ku lou	100
 雕翎扇	diao ling shan	100
+凋灵头	diao ling tou	100
 雕龙绣虎	diao long xiu hu	100
 吊路灯	diao lu deng	100
 雕轮绣毂	diao lun xiu gu	100
@@ -58770,6 +58798,7 @@ sort: by_weight
 钓鱼去了	diao yu qu le	100
 钓鱼什么	diao yu shen me	100
 钓鱼式攻击	diao yu shi gong ji	100
+钓鱼台的柳影	diao yu tai de liu ying	100
 钓鱼台列岛	diao yu tai lie dao	100
 钓鱼系列	diao yu xi lie	100
 钓鱼系统	diao yu xi tong	100
@@ -59332,6 +59361,7 @@ sort: by_weight
 定制系列	ding zhi xi lie	100
 定制系统	ding zhi xi tong	100
 定直线	ding zhi xian	100
+定制小狼毫	ding zhi xiao lang hao	100
 定制行程	ding zhi xing cheng	100
 定制指南	ding zhi zhi nan	100
 定中结构	ding zhong jie gou	100
@@ -59446,6 +59476,7 @@ sort: by_weight
 东八区	dong ba qu	100
 东巴文化	dong ba wen hua	100
 东半边	dong ban bian	100
+东宝映画	dong bao ying hua	100
 东北边	dong bei bian	100
 东北部地区	dong bei bu di qu	100
 东北部分地区	dong bei bu fen di qu	100
@@ -59723,6 +59754,7 @@ sort: by_weight
 动地惊天	dong di jing tian	100
 东地块	dong di kuai	100
 东地中海	dong di zhong hai	100
+动点脑筋	dong dian nao jin	100
 东颠西跑	dong dian xi pao	100
 动电学	dong dian xue	100
 冻掉了	dong diao le	100
@@ -60231,6 +60263,7 @@ sort: by_weight
 动力体系	dong li ti xi	100
 动力调教	dong li tiao jiao	100
 动力调校	dong li tiao jiao	100
+动力铁轨	dong li tie gui	100
 动力系	dong li xi	100
 动力系统部分	dong li xi tong bu fen	100
 动力系统方面	dong li xi tong fang mian	100
@@ -60785,6 +60818,7 @@ sort: by_weight
 都安全	dou an quan	100
 都巴不得	dou ba bu de	100
 斗百草	dou bai cao	100
+窦百玲	dou bai ling	100
 斗百余	dou bai yu	100
 都办不到	dou ban bu dao	100
 豆瓣电影	dou ban dian ying	100
@@ -61071,6 +61105,7 @@ sort: by_weight
 都不太满意	dou bu tai man yi	100
 都不太适合	dou bu tai shi he	100
 都不太喜欢	dou bu tai xi huan	100
+都不太像	dou bu tai xiang	100
 都不太行	dou bu tai xing	100
 都不提	dou bu ti	100
 都不停	dou bu ting	100
@@ -63122,6 +63157,7 @@ sort: by_weight
 都以失败告终	dou yi shi bai gao zhong	100
 都意识到	dou yi shi dao	100
 都一视同仁	dou yi shi tong ren	100
+都以为然	dou yi wei ran	100
 都义无反顾	dou yi wu fan gu	100
 都已学会	dou yi xue hui	100
 都一样啊	dou yi yang a	100
@@ -63610,6 +63646,7 @@ sort: by_weight
 度春秋	du chun qiu	100
 毒刺导弹	du ci dao dan	100
 毒刺水母	du ci shui mu	100
+独此一人	du ci yi ren	100
 督促落实	du cu luo shi	100
 督促落实整改	du cu luo shi zheng gai	100
 督促协调	du cu xie tiao	100
@@ -64594,6 +64631,7 @@ sort: by_weight
 短褐不全	duan he bu quan	100
 短褐不完	duan he bu wan	100
 断鹤续凫	duan he xu fu	100
+短横杠	duan heng gang	100
 断后路	duan hou lu	100
 断后伸长率	duan hou shen chang lv	100
 断魂椒	duan hun jiao	100
@@ -64605,6 +64643,7 @@ sort: by_weight
 短见浅识	duan jian qian shi	100
 断简遗编	duan jian yi bian	100
 断简遗篇	duan jian yi pian	100
+断交潮	duan jiao chao	100
 断交信	duan jiao xin	100
 断金之交	duan jin zhi jiao	100
 断金之友	duan jin zhi you	100
@@ -64708,6 +64747,7 @@ sort: by_weight
 短片动画	duan pian dong hua	100
 断片了	duan pian le	100
 断片了的	duan pian le de	100
+短篇评书	duan pian ping shu	100
 短期出差	duan qi chu chai	100
 短期的反弹	duan qi de fan tan	100
 短期的调整	duan qi de tiao zheng	100
@@ -64854,6 +64894,7 @@ sort: by_weight
 锻造法	duan zao fa	100
 锻造工艺	duan zao gong yi	100
 锻造行业	duan zao hang ye	100
+锻造模板	duan zao mo ban	100
 锻造模具	duan zao mu ju	100
 锻造系统	duan zao xi tong	100
 端着杯子	duan zhe bei zi	100
@@ -64895,6 +64936,7 @@ sort: by_weight
 对比关系	dui bi guan xi	100
 对比图	dui bi tu	100
 对比一下	dui bi yi xia	100
+对比着	dui bi zhe	100
 对标定级	dui biao ding ji	100
 对别人	dui bie ren	100
 对别人的	dui bie ren de	100
@@ -64910,6 +64952,7 @@ sort: by_weight
 对不起对不起	dui bu qi dui bu qi	100
 对不起啦	dui bu qi la	100
 堆不起来	dui bu qi lai	100
+怼不起来	dui bu qi lai	100
 对不起老婆	dui bu qi lao po	100
 对不起你	dui bu qi ni	100
 对不起你的	dui bu qi ni de	100
@@ -65742,6 +65785,7 @@ sort: by_weight
 多喝了两杯	duo he le liang bei	100
 多喝热水	duo he re shui	100
 多喝一点	duo he yi dian	100
+多乎哉不多也	duo hu zai bu duo ye	100
 多花点儿时间	duo hua dian er shi jian	100
 多花点时间	duo hua dian shi jian	100
 多铧犁	duo hua li	100
@@ -66307,6 +66351,7 @@ sort: by_weight
 多一些尊重	duo yi xie zun zhong	100
 多义字	duo yi zi	100
 多银行	duo yin hang	100
+多音节补全	duo yin jie bu quan	100
 多用户商城系统	duo yong hu shang cheng xi tong	100
 多用于地名	duo yong yu di ming	100
 多用于人名	duo yong yu ren ming	100
@@ -66314,6 +66359,7 @@ sort: by_weight
 多忧害智	duo you hai zhi	100
 多由也	duo you ye	100
 多余的解释	duo yu de jie shi	100
+多雨而少风	duo yu er shao feng	100
 多欲亏义	duo yu kui yi	100
 多语言版本	duo yu yan ban ben	100
 多语言词典	duo yu yan ci dian	100
@@ -67261,6 +67307,7 @@ sort: by_weight
 恩人之子	en ren zhi zi	100
 恩瑞斯	en rui si	100
 恩若再生	en ruo zai sheng	100
+恩·沙巴·努尔	en sha ba nu er	100
 恩山义海	en shan yi hai	100
 恩深情重	en shen qing zhong	100
 恩深似海	en shen si hai	100
@@ -67869,6 +67916,7 @@ sort: by_weight
 二号得分手	er hao de fen shou	100
 二号电池	er hao dian chi	100
 二号技师	er hao ji shi	100
+二号牌	er hao pai	100
 二号去	er hao qu	100
 二号三号	er hao san hao	100
 二号首长	er hao shou zhang	100
@@ -67907,6 +67955,7 @@ sort: by_weight
 二级甲	er ji jia	100
 二级建造师	er ji jian zao shi	100
 耳机降噪	er ji jiang zao	100
+二级戒备	er ji jie bei	100
 二级警长	er ji jing zhang	100
 二级军士长	er ji jun shi zhang	100
 二级盔	er ji kui	100
@@ -69520,6 +69569,7 @@ sort: by_weight
 儿童拓展	er tong tuo zhan	100
 儿童玩乐	er tong wan le	100
 儿童系列	er tong xi lie	100
+儿童向	er tong xiang	100
 儿童邪典	er tong xie dian	100
 儿童邪典片	er tong xie dian pian	100
 儿童行李箱	er tong xing li xiang	100
@@ -69565,6 +69615,7 @@ sort: by_weight
 而唯一	er wei yi	100
 而唯一的	er wei yi de	100
 而为之	er wei zhi	100
+二位壮士	er wei zhuang shi	100
 耳闻不如眼见	er wen bu ru yan jian	100
 耳闻目击	er wen mu ji	100
 耳闻目见	er wen mu jian	100
@@ -70584,6 +70635,7 @@ sort: by_weight
 法兰西斯培根	fa lan xi si pei gen	100
 法兰西特派	fa lan xi te pai	100
 法兰西体育场	fa lan xi ti yu chang	100
+法兰西学术院	fa lan xi xue shu yuan	100
 法兰西银行	fa lan xi yin hang	100
 法老猫	fa lao mao	100
 发了愁	fa le chou	100
@@ -70641,6 +70693,7 @@ sort: by_weight
 法轮功组织	fa lun gong zu zhi	100
 法律当挡箭牌	fa lv dang dang jian pai	100
 法律的	fa lv de	100
+发绿的青苔	fa lv de qing tai	100
 法律调查	fa lv diao cha	100
 法律法规体系	fa lv fa gui ti xi	100
 法律法规宣传	fa lv fa gui xuan chuan	100
@@ -70796,6 +70849,7 @@ sort: by_weight
 法身舍利	fa shen she li	100
 发生不久	fa sheng bu jiu	100
 发生不正当性关系	fa sheng bu zheng dang xing guan xi	100
+发生踩踏事件	fa sheng cai ta shi jian	100
 发生侧翻	fa sheng ce fan	100
 发生程度	fa sheng cheng du	100
 发生传染	fa sheng chuan ran	100
@@ -70906,6 +70960,7 @@ sort: by_weight
 发顺丰	fa shun feng	100
 发私信啊	fa si xin a	100
 发送超时	fa song chao shi	100
+发送出去	fa song chu qu	100
 发送弹幕	fa song dan mu	100
 发送反馈	fa song fan kui	100
 发送功率	fa song gong lv	100
@@ -70957,6 +71012,7 @@ sort: by_weight
 法系浪漫	fa xi lang man	100
 法系品牌	fa xi pin pai	100
 法系输出	fa xi shu chu	100
+法西斯组织	fa xi si zu zhi	100
 发下来了	fa xia lai le	100
 发现宝藏	fa xian bao zang	100
 发现本车	fa xian ben che	100
@@ -71693,6 +71749,7 @@ sort: by_weight
 翻好多页	fan hao duo ye	100
 翻好几页	fan hao ji ye	100
 饭好了	fan hao le	100
+钒合金	fan he jin	100
 反黑路人甲	fan hei lu ren jia	100
 翻很多页	fan hen duo ye	100
 番红花色	fan hong hua se	100
@@ -72364,6 +72421,7 @@ sort: by_weight
 反应灵敏度	fan ying ling min du	100
 反应炉	fan ying lu	100
 反映慢	fan ying man	100
+范应期	fan ying qi	100
 反应热	fan ying re	100
 反映什么	fan ying shen me	100
 反应时	fan ying shi	100
@@ -72502,6 +72560,7 @@ sort: by_weight
 范子铭	fan zi ming	100
 翻子拳	fan zi quan	100
 泛自然神论	fan zi ran shen lun	100
+范子烨	fan zi ye	100
 范宗沛	fan zong pei	100
 番族人	fan zu ren	100
 犯罪的	fan zui de	100
@@ -73083,6 +73142,7 @@ sort: by_weight
 访韩团	fang han tuan	100
 访韩之旅	fang han zhi lv	100
 放好东西	fang hao dong xi	100
+放好了	fang hao le	100
 方皓玟	fang hao wen	100
 放好行李	fang hao xing li	100
 放很多	fang hen duo	100
@@ -73124,6 +73184,7 @@ sort: by_weight
 防火长城之父	fang huo chang cheng zhi fu	100
 防火减灾	fang huo jian zai	100
 防火门监控系统	fang huo men jian kong xi tong	100
+防火女	fang huo nv	100
 防火墙系统	fang huo qiang xi tong	100
 防火墙之父	fang huo qiang zhi fu	100
 防火设备	fang huo she bei	100
@@ -152094,8 +152155,8 @@ sort: by_weight
 流星拳	liu xing quan	100
 流星群	liu xing qun	100
 流星群侠传	liu xing qun xia zhuan	100
-流行热度	liu xing re du	100
 流行热词	liu xing re ci	100
+流行热度	liu xing re du	100
 流行色彩	liu xing se cai	100
 流行设计	liu xing she ji	100
 流行什么	liu xing shen me	100
@@ -333337,64 +333398,3 @@ sort: by_weight
 做做做	zuo zuo zuo	100
 嘬嘬嘬	zuo zuo zuo	100
 坐坐坐	zuo zuo zuo	100
-德国古典	de guo gu dian	1
-等距更纱黑体	deng ju geng sha hei ti	1
-狄奥多西一世	di ao duo xi yi shi	1
-低端的	di duan de	1
-第二个值	di er ge zhi	1
-第二下	di er xia	1
-低分屏	di fen ping	1
-地球拼音	di qiu pin yin	1
-第三个值	di san ge zhi	1
-第三下	di san xia	1
-低数据	di shu ju	1
-低刷新	di shua xin	1
-滴水石块	di shui shi kuai	1
-滴水石锥	di shui shi zhui	1
-地图共享	di tu gong xiang	1
-地图绘	di tu hui	1
-地下要塞	di xia yao sai	1
-第一个部分	di yi ge bu fen	1
-第一个值	di yi ge zhi	1
-第一季会员	di yi ji hui yuan	1
-第一顺序	di yi shun xu	1
-第一哲学	di yi zhe xue	1
-地狱菌菇	di yu jun gu	1
-点按滑	dian an hua	1
-电竞城	dian jing cheng	1
-点赞关注不迷路	dian zan guan zhu bu mi lu	1
-凋灵骷髅	diao ling ku lou	1
-凋灵头	diao ling tou	1
-钓鱼台的柳影	diao yu tai de liu ying	1
-定制小狼毫	ding zhi xiao lang hao	1
-东宝映画	dong bao ying hua	1
-动点脑筋	dong dian nao jin	1
-动力铁轨	dong li tie gui	1
-窦百玲	dou bai ling	1
-都不太像	dou bu tai xiang	1
-都以为然	dou yi wei ran	1
-独此一人	du ci yi ren	1
-短横杠	duan heng gang	1
-断交潮	duan jiao chao	1
-短篇评书	duan pian ping shu	1
-锻造模板	duan zao mo ban	1
-对比着	dui bi zhe	1
-怼不起来	dui bu qi lai	1
-多乎哉不多也	duo hu zai bu duo ye	1
-多音节补全	duo yin jie bu quan	1
-多雨而少风	duo yu er shao feng	1
-恩·沙巴·努尔	en sha ba nu er	1
-二号牌	er hao pai	1
-二级戒备	er ji jie bei	1
-儿童向	er tong xiang	1
-二位壮士	er wei zhuang shi	1
-法兰西学术院	fa lan xi xue shu yuan	1
-发绿的青苔	fa lv de qing tai	1
-发生踩踏事件	fa sheng cai ta shi jian	1
-发送出去	fa song chu qu	1
-法西斯组织	fa xi si zu zhi	1
-钒合金	fan he jin	1
-范应期	fan ying qi	1
-范子烨	fan zi ye	1
-放好了	fang hao le	1
-防火女	fang huo nv	1
