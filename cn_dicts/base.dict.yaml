@@ -1951,6 +1951,7 @@
 # 「辟若」→「譬若」
 # 「塞伯坦」→「赛博坦」
 # 「清柠」→「青柠」
+#* 「嗔目」→「瞋目」 两者均正确，汉语辞海均收录，「瞋」为「嗔」的异体字
 #///
 ---
 name: base
@@ -51006,12 +51007,13 @@ sort: by_weight
 陈某志	chen mou zhi	167
 沉谋重虑	chen mou zhong lv	1
 瞋目	chen mu	480
-嗔目	chen mu	1
+# 嗔目	chen mu	1
 瞋目案剑	chen mu an jian	1
 陈牧驰	chen mu chi	166
 陈慕华	chen mu hua	1350
 瞋目裂眦	chen mu lie zi	1
-嗔目切齿	chen mu qie chi	1
+# 嗔目切齿	chen mu qie chi	1
+瞋目切齿	chen mu qie chi	1
 陈木胜	chen mu sheng	125
 瞋目视项王	chen mu shi xiang wang	1
 瞋目张胆	chen mu zhang dan	1
@@ -318534,7 +318536,7 @@ sort: by_weight
 让爱	rang ai	24860
 让爱重生	rang ai chong sheng	8
 攘臂	rang bi	999
-攘臂嗔目	rang bi chen mu	2
+# 攘臂嗔目	rang bi chen mu	2
 攘臂瞋目	rang bi chen mu	1
 攘臂切齿	rang bi qie chi	1
 攘臂一呼	rang bi yi hu	1
