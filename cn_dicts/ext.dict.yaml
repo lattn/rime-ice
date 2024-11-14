@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2024-11-11"
+version: "2024-11-15"
 sort: by_weight
 ...
 # +_+
@@ -22046,6 +22046,7 @@ sort: by_weight
 不要我	bu yao wo	100
 不要误会	bu yao wu hui	100
 不要误会了	bu yao wu hui le	100
+不要误写作	bu yao wu xie zuo	100
 不要瞎说	bu yao xia shuo	100
 不要下死手	bu yao xia si shou	100
 不要下重手	bu yao xia zhong shou	100
@@ -32371,7 +32372,6 @@ sort: by_weight
 瞋目攒眉	chen mu cuan mei	100
 瞋目扼腕	chen mu e wan	100
 瞋目而视	chen mu er shi	100
-瞋目切齿	chen mu qie chi	100
 瞋目竖眉	chen mu shu mei	100
 陈乃荣	chen nai rong	100
 趁你还年轻	chen ni hai nian qing	100
@@ -35622,6 +35622,7 @@ sort: by_weight
 赤心报国	chi xin bao guo	100
 持心不纯	chi xin bu chun	100
 吃辛受苦	chi xin shou ku	100
+痴心妄想啊	chi xin wang xiang a	100
 痴心妄想呢	chi xin wang xiang ne	100
 赤心相待	chi xin xiang dai	100
 痴心一片	chi xin yi pian	100
@@ -36148,6 +36149,7 @@ sort: by_weight
 重复申请	chong fu shen qing	100
 重复式	chong fu shi	100
 重复实验	chong fu shi yan	100
+重复使用的	chong fu shi yong de	100
 重复收费	chong fu shou fei	100
 重复收取	chong fu shou qu	100
 重复数据删除	chong fu shu ju shan chu	100
@@ -83124,6 +83126,7 @@ sort: by_weight
 高手这是	gao shou zhe shi	100
 高舒适度	gao shu shi du	100
 高树乡	gao shu xiang	100
+高刷新	gao shua xin	100
 高刷新率	gao shua xin lv	100
 高刷新率的屏幕	gao shua xin lv de ping mu	100
 高刷新率屏幕	gao shua xin lv ping mu	100
@@ -133008,6 +133011,8 @@ sort: by_weight
 开不出来	kai bu chu lai	100
 开不得玩笑	kai bu de wan xiao	100
 开不过去	kai bu guo qu	100
+开不开窗	kai bu kai chuang	100
+开不开窗户	kai bu kai chuang hu	100
 开不开放	kai bu kai fang	100
 开不开放啊	kai bu kai fang a	100
 开不开放吧	kai bu kai fang ba	100
@@ -133104,6 +133109,7 @@ sort: by_weight
 开传奇	kai chuan qi	100
 开传奇私服	kai chuan qi si fu	100
 开创出	kai chuang chu	100
+开窗还是关窗	kai chuang hai shi guan chuang	100
 开创了历史	kai chuang le li shi	100
 开创了先河	kai chuang le xian he	100
 开创了中国	kai chuang le zhong guo	100
@@ -136252,6 +136258,7 @@ sort: by_weight
 可持续增长	ke chi xu zeng zhang	100
 可重复读	ke chong fu du	100
 可重复使用	ke chong fu shi yong	100
+可重复使用的	ke chong fu shi yong de	100
 可重构	ke chong gou	100
 可冲击	ke chong ji	100
 可重置	ke chong zhi	100
@@ -169177,6 +169184,8 @@ sort: by_weight
 拿得准	na de zhun	100
 拿得准吗	na de zhun ma	100
 拿得走	na de zou	100
+那得看	na dei kan	100
+那得看看	na dei kan kan	100
 拿地策略	na di ce lve	100
 拿地成本	na di cheng ben	100
 那地方	na di fang	100
@@ -184419,7 +184428,6 @@ sort: by_weight
 祈福禳灾	qi fu rang zai	100
 欺负我	qi fu wo	100
 欺负我一个	qi fu wo yi ge	100
-岐阜县	qi fu xian	100
 祈福之地	qi fu zhi di	100
 乞丐哥	qi gai ge	100
 气概激昂	qi gai ji ang	100
@@ -232374,6 +232382,8 @@ sort: by_weight
 太没脑子	tai mei nao zi	100
 太没脑子了	tai mei nao zi le	100
 太没品	tai mei pin	100
+太没品味	tai mei pin wei	100
+太没品味了	tai mei pin wei le	100
 太没谱	tai mei pu	100
 太没谱了	tai mei pu le	100
 太没人性	tai mei ren xing	100
@@ -238258,6 +238268,7 @@ sort: by_weight
 调整标准	tiao zheng biao zhun	100
 调整不当	tiao zheng bu dang	100
 调整部分	tiao zheng bu fen	100
+调整不了	tiao zheng bu liao	100
 调整部署	tiao zheng bu shu	100
 调整参数	tiao zheng can shu	100
 调整参数了	tiao zheng can shu le	100
@@ -241713,6 +241724,7 @@ sort: by_weight
 突然加重	tu ran jia zhong	100
 突然见到	tu ran jian dao	100
 突然间觉得	tu ran jian jue de	100
+突然降低	tu ran jiang di	100
 突然降临	tu ran jiang lin	100
 突然进来	tu ran jin lai	100
 突然惊觉	tu ran jing jue	100
@@ -258166,8 +258178,12 @@ sort: by_weight
 五小时内	wu xiao shi nei	100
 吴校长	wu xiao zhang	100
 无效值	wu xiao zhi	100
+误写成	wu xie cheng	100
+误写成了	wu xie cheng le	100
 舞榭歌楼	wu xie ge lou	100
 无血缘关系	wu xie yuan guan xi	100
+误写作	wu xie zuo	100
+误写作了	wu xie zuo le	100
 吾心安处即故乡	wu xin an chu ji gu xiang	100
 无心出岫	wu xin chu xiu	100
 无心地	wu xin de	100
@@ -289395,8 +289411,18 @@ sort: by_weight
 已如隔世	yi ru ge shi	100
 义乳记	yi ru ji	100
 一如既往地	yi ru ji wang de	100
+一如既往地爱	yi ru ji wang de ai	100
+一如既往地高	yi ru ji wang de gao	100
 一如既往地关心	yi ru ji wang de guan xin	100
 一如既往地好	yi ru ji wang de hao	100
+一如既往地美	yi ru ji wang de mei	100
+一如既往地美丽	yi ru ji wang de mei li	100
+一如既往地漂亮	yi ru ji wang de piao liang	100
+一如既往地帅	yi ru ji wang de shuai	100
+一如既往地帅气	yi ru ji wang de shuai qi	100
+一如既往地稳	yi ru ji wang de wen	100
+一如既往地稳定	yi ru ji wang de wen ding	100
+一如既往地优秀	yi ru ji wang de you xiu	100
 一如既往地支持	yi ru ji wang de zhi chi	100
 易如拾芥	yi ru shi jie	100
 一如所料	yi ru suo liao	100
