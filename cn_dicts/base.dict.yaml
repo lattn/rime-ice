@@ -1956,7 +1956,7 @@
 #///
 ---
 name: base
-version: "2024-11-20"
+version: "2024-11-25"
 sort: by_weight
 ...
 # +_+
@@ -13154,7 +13154,6 @@ sort: by_weight
 半残废	ban can fei	195
 半残了	ban can le	444
 半仓	ban cang	15
-半藏	ban zang	15
 # 板仓	ban cang	0
 半藏半见人家	ban cang ban jian ren jia	1180
 半藏半露	ban cang ban lou	95
@@ -14809,7 +14808,7 @@ sort: by_weight
 # 坂仔	ban zai	0
 版载千秋	ban zai qian qiu	142
 板载显卡	ban zai xian ka	1200
-半藏	ban zang	3333
+半藏	ban zang	15
 半藏半汉	ban zang ban han	15
 班枣乡	ban zao xiang	1
 半泽	ban ze	111
@@ -15530,7 +15529,7 @@ sort: by_weight
 包藏	bao cang	999
 保藏	bao cang	1
 包藏祸心	bao cang huo xin	870
-# 苞藏祸心	bao cang huo xin	1
+# 苞藏祸心	bao cang huo xin	0
 包藏奸心	bao cang jian xin	1
 保藏库	bao cang ku	87
 包藏着	bao cang zhe	1260
@@ -24590,8 +24589,8 @@ sort: by_weight
 比熊犬	bi xiong quan	775
 比熊约克犬	bi xiong yue ke quan	1
 必修	bi xiu	22995
-毕宿	bi xiu	1
 壁宿	bi xiu	1
+毕宿	bi xiu	1
 # 碧秀	bi xiu	0
 必修课	bi xiu ke	46250
 必修课程	bi xiu ke cheng	12625
@@ -30587,6 +30586,8 @@ sort: by_weight
 柏拉图	bo la tu	40365
 舶来	bo lai	3075
 拨来拨去	bo lai bo qu	670
+泊来蛤	bo lai ge	1
+泊来居	bo lai ju	64
 波莱罗	bo lai luo	138
 博来霉素	bo lai mei su	400
 舶来品	bo lai pin	6625
@@ -41809,14 +41810,10 @@ sort: by_weight
 参奏	can zou	775
 惭怍	can zuo	95
 仓廒	cang ao	280
-藏凹长翅卷蛾	zang ao chang chi juan e	1
-藏巴哇乡	zang ba wa xiang	20
-藏坝乡	zang ba xiang	2
 苍白	cang bai	97685
 苍白色	cang bai se	1110
 苍白无力	cang bai wu li	9115
 苍白优草螽	cang bai you cao zhong	1
-藏半翅木虱	zang ban chi mu shi	1
 藏宝	cang bao	65341
 藏宝岛	cang bao dao	103
 藏宝地	cang bao di	167
@@ -41841,7 +41838,6 @@ sort: by_weight
 苍苍竹林寺	cang cang zhu lin si	1
 苍叉鼻鲀	cang cha bi tun	1
 苍场村	cang chang cun	4
-藏菖蒲	zang chang pu	1
 苍城	cang cheng	14
 仓持明日香	cang chi ming ri xiang	1
 仓储	cang chu	167930
@@ -41905,9 +41901,7 @@ sort: by_weight
 藏垢纳污	cang gou na wu	335
 仓管	cang guan	8705
 仓管王	cang guan wang	5
-藏管尾犁胸蝉	zang guan wei li xiong chan	1
 仓管员	cang guan yuan	3470
-藏桂乡	zang gui xiang	5
 沧海	cang hai	53530
 沧海成桑田	cang hai cheng sang tian	3
 沧海得壮士	cang hai de zhuang shi	1
@@ -41927,14 +41921,9 @@ sort: by_weight
 沧海月明珠有泪	cang hai yue ming zhu you lei	9
 沧海珠	cang hai zhu	1210
 藏好	cang hao	5320
-藏红毛喙祝蛾	zang hong mao hui zhu e	1
-藏红腋齿黄斑蜂	zang hong ye chi huang ban feng	1
 藏虎	cang hu	195
-藏狐	zang hu	140
-藏花素	zang hua su	70
 仓皇	cang huang	12145
 苍黄	cang huang	2045
-藏獚	zang huang	11
 仓皇不定	cang huang bu ding	1
 仓黄不负君王意	cang huang bu fu jun wang yi	1
 仓皇出逃	cang huang chu tao	675
@@ -42171,7 +42160,6 @@ sort: by_weight
 苍姓	cang xing	55
 藏修游息	cang xiu you xi	1
 苍哑	cang ya	9999
-藏鰋	zang yan	1
 苍岩山	cang yan shan	960
 仓央嘉措	cang yang jia cuo	2455
 藏掖	cang ye	240
@@ -42204,7 +42192,6 @@ sort: by_weight
 # 沧月	cang yue	0
 藏在	cang zai	87415
 藏贼引盗	cang zei yin dao	1
-藏𬶐肉	zang zhao rou	1
 藏着	cang zhe	32765
 沧者极限	cang zhe ji xian	2
 藏着呢	cang zhe ne	185
@@ -156344,7 +156331,6 @@ sort: by_weight
 合股	he gu	5375
 禾谷	he gu	22
 合谷	he gu	11
-河谷藏鸡	he gu zang ji	1
 合谷刺	he gu ci	7
 河鼓二	he gu er	110
 颌骨发育不全	he gu fa yu bu quan	1
@@ -156363,6 +156349,7 @@ sort: by_weight
 鹤骨松筋	he gu song jin	1
 合谷穴	he gu xue	1055
 禾谷园	he gu yuan	4
+河谷藏鸡	he gu zang ji	1
 荷官	he guan	999
 阖棺定谥	he guan ding shi	1
 褐冠红翅鵙	he guan hong chi ju	1
@@ -162020,10 +162007,10 @@ sort: by_weight
 红雷梦	hong lei meng	15
 红利	hong li	69575
 红痢	hong li	250
+弘历	hong li	1
 # 宏丽	hong li	0
 # 宏利	hong li	0
 # 宏力	hong li	0
-弘历	hong li	1
 宏利大厦	hong li da sha	5
 红礼服	hong li fu	196
 红荔路	hong li lu	407
@@ -172633,8 +172620,8 @@ sort: by_weight
 黄精	huang jing	7490
 黄经	huang jing	638
 荒径	huang jing	285
-# 黄井	huang jing	0
 黄猄	huang jing	1
+# 黄井	huang jing	0
 # 黄璟	huang jing	0
 黄胫边步甲	huang jing bian bu jia	1
 黄胫步行甲	huang jing bu xing jia	1
@@ -195423,7 +195410,6 @@ sort: by_weight
 焦的	jiao de	570
 # 角的	jiao de	0
 叫得比	jiao de bi	235
-较德焯勤	jiao de zhuo qin	1
 脚的动作	jiao de dong zuo	665
 交得起	jiao de qi	415
 叫得起	jiao de qi	15
@@ -195432,6 +195418,7 @@ sort: by_weight
 叫得响	jiao de xiang	1280
 叫得像	jiao de xiang	50
 搅得周天寒彻	jiao de zhou tian han che	11
+较德焯勤	jiao de zhuo qin	1
 脚蹬	jiao deng	7970
 脚灯	jiao deng	999
 脚凳	jiao deng	2
@@ -213883,8 +213870,8 @@ sort: by_weight
 举子	ju zi	2925
 驹子	ju zi	999
 桔子	ju zi	2
-锔子	ju zi	1
 娵訾	ju zi	1
+锔子	ju zi	1
 句子成分	ju zi cheng fen	2400
 驹子房	ju zi fang	25
 驹子房村	ju zi fang cun	17
@@ -218792,7 +218779,6 @@ sort: by_weight
 扛不住	kang bu zhu	2430
 # 抗不住	kang bu zhu	0
 扛不住啊	kang bu zhu a	27
-康藏路	kang zang lu	25
 扛长工	kang chang gong	65
 扛长活	kang chang huo	9999
 康朝秘史	kang chao mi shi	185
@@ -219376,6 +219362,7 @@ sort: by_weight
 糠甾醇	kang zai chun	5
 扛在肩上	kang zai jian shang	182
 康哉之歌	kang zai zhi ge	1
+康藏路	kang zang lu	25
 抗噪	kang zao	1770
 扛糟鸡	kang zao ji	1
 抗增殖	kang zeng zhi	205
@@ -265677,7 +265664,6 @@ sort: by_weight
 蒙不住	meng bu zhu	55
 梦不足信	meng bu zu xin	2
 猛踩油门	meng cai you men	1745
-蒙藏院	meng zang yuan	10
 猛肏	meng cao	2222
 猛操	meng cao	1111
 猛插	meng cha	925
@@ -266362,6 +266348,7 @@ sort: by_weight
 蒙在	meng zai	5380
 蒙在鼓里	meng zai gu li	9150
 蒙藏	meng zang	2215
+蒙藏院	meng zang yuan	10
 梦泽悲风动白茅	meng ze bei feng dong bai mao	1
 猛增	meng zeng	28680
 猛炸	meng zha	160
@@ -296791,8 +296778,6 @@ sort: by_weight
 泼辣货	po la huo	80
 泼辣鱼	po la yu	117
 泼赖	po lai	105
-泊来蛤	bo lai ge	1
-泊来居	bo lai ju	64
 破烂	po lan	25785
 笸篮	po lan	1
 破烂不堪	po lan bu kan	4930
@@ -302505,8 +302490,8 @@ sort: by_weight
 奇珍异玩	qi zhen yi wan	1
 起征	qi zheng	5280
 齐整	qi zheng	4999
-奇正	qi zheng	1
 七政	qi zheng	1
+奇正	qi zheng	1
 芪蒸鹌鹑	qi zheng an chun	14
 起征点	qi zheng dian	9760
 其蒸汽	qi zheng qi	53
@@ -302981,12 +302966,15 @@ sort: by_weight
 潜藏着	qian cang zhe	6325
 欠操	qian cao	4444
 浅草	qian cao	511
+茜草	qian cao	74
 浅草才能没马蹄	qian cao cai neng mo ma ti	190
 前曹各庄	qian cao ge zhuang	1
 前曹各庄村	qian cao ge zhuang cun	2
+茜草街道	qian cao jie dao	13
 茜草科	qian cao ke	575
 浅草名苑	qian cao ming yuan	6
 浅草蛇鳗	qian cao she man	1
+茜草双酯	qian cao shuang zhi	1
 浅层	qian ceng	14950
 千层	qian ceng	9690
 千层蛋	qian ceng dan	138
@@ -337452,8 +337440,6 @@ sort: by_weight
 烧高香	shao gao xiang	855
 稍高于	shao gao yu	2060
 杓蛤	shao ge	1
-杓兰	shao lan	1
-杓鹬	shao yu	1
 少个零	shao ge ling	140
 捎个信儿	shao ge xin er	85
 少给	shao gei	7280
@@ -337618,6 +337604,7 @@ sort: by_weight
 少来	shao lai	8080
 捎来	shao lai	3860
 少来了	shao lai le	1170
+杓兰	shao lan	1
 少浪费	shao lang fei	330
 少牢	shao lao	545
 少了	shao le	219920
@@ -338049,6 +338036,7 @@ sort: by_weight
 烧鱿鱼	shao you yu	225
 少于	shao yu	171920
 烧鱼	shao yu	1111
+杓鹬	shao yu	1
 邵雨涵	shao yu han	3140
 烧鱼头	shao yu tou	289
 邵雨轩	shao yu xuan	193
@@ -362222,7 +362210,6 @@ sort: by_weight
 睡不着觉	shui bu zhao jiao	14085
 睡不着了	shui bu zhao le	3645
 水彩	shui cai	17935
-水虿	shui chai	1
 水彩笔	shui cai bi	2495
 水菜不交	shui cai bu jiao	1
 水彩画	shui cai hua	9640
@@ -362236,6 +362223,7 @@ sort: by_weight
 水涔涔	shui cen cen	20
 谁曾	shui ceng	9999
 水层	shui ceng	5725
+水虿	shui chai	1
 水产	shui chan	120370
 水潺潺	shui chan chan	840
 水产场	shui chan chang	20
@@ -406932,8 +406920,8 @@ sort: by_weight
 为兄	wei xiong	3835
 围胸目	wei xiong mu	3
 维修	wei xiu	500396
-尾宿	wei xiu	1
 危宿	wei xiu	1
+尾宿	wei xiu	1
 胃宿	wei xiu	1
 维修保养	wei xiu bao yang	23305
 维修部	wei xiu bu	10670
@@ -420293,11 +420281,8 @@ sort: by_weight
 西仓门胡同	xi cang men hu tong	4
 西仓乡	xi cang xiang	6
 席草	xi cao	805
-茜草	qian cao	74
 西曹村	xi cao cun	7
-茜草街道	qian cao jie dao	13
 西草马路	xi cao ma lu	8
-茜草双酯	qian cao shuang zhi	1
 席草田	xi cao tian	6
 西槽头乡	xi cao tou xiang	1
 细草微风岸	xi cao wei feng an	5
@@ -439405,6 +439390,7 @@ sort: by_weight
 斜纹	xie wen	1646
 斜纹白毒蛾	xie wen bai du e	1
 斜纹半鰕虎鱼	xie wen ban xia hu yu	1
+斜纹泊来樱蛤	xie wen bo lai ying ge	1
 斜纹布	xie wen bu	2880
 斜纹大棘鱼	xie wen da ji yu	1
 写文档	xie wen dang	2324
@@ -439415,7 +439401,6 @@ sort: by_weight
 写文件	xie wen jian	2065
 斜纹宽盾蝽	xie wen kuan dun chun	1
 斜纹猫蛛	xie wen mao zhu	2
-斜纹泊来樱蛤	xie wen bo lai ying ge	1
 斜纹前颔蝴蝶鱼	xie wen qian han hu die yu	1
 谢文强	xie wen qiang	65
 斜纹犬牙石首鱼	xie wen quan ya shi shou yu	1
@@ -450974,8 +450959,8 @@ sort: by_weight
 喧嚣	xuan xiao	43915
 选校	xuan xiao	2050
 喧笑	xuan xiao	1999
-玄霄	xuan xiao	1
 玄枵	xuan xiao	1
+玄霄	xuan xiao	1
 璇霄丹阙	xuan xiao dan que	1
 璇霄丹台	xuan xiao dan tai	1
 喧嚣的	xuan xiao de	16115
@@ -451519,6 +451504,7 @@ sort: by_weight
 血糕	xue gao	618
 学个	xue ge	9999
 学哥	xue ge	5555
+雪蛤	xue ge	1
 薛阁街道	xue ge jie dao	6
 学哥学姐	xue ge xue jie	123
 学各庄村	xue ge zhuang cun	2
@@ -451543,7 +451529,6 @@ sort: by_weight
 削过	xue guo	615
 学国画	xue guo hua	335
 学过来	xue guo lai	210
-雪蛤	xue ge	1
 雪蛤	xue ha	340
 雪蛤膏专门店	xue ha gao zhuan men dian	5
 学海	xue hai	7285
@@ -504461,7 +504446,11 @@ sort: by_weight
 錾子	zan zi	455
 拶子	zan zi	2
 藏獒	zang ao	52700
+藏凹长翅卷蛾	zang ao chang chi juan e	1
 臧霸	zang ba	2060
+藏巴哇乡	zang ba wa xiang	20
+藏坝乡	zang ba xiang	2
+藏半翅木虱	zang ban chi mu shi	1
 脏班子	zang ban zi	6
 藏胞	zang bao	2790
 藏北	zang bei	7400
@@ -504472,6 +504461,7 @@ sort: by_weight
 脏病	zang bing	8970
 脏不	zang bu	1111
 臧仓小人	zang cang xiao ren	1
+藏菖蒲	zang chang pu	1
 赃车	zang che	1580
 脏臭	zang chou	1111
 藏传	zang chuan	1596
@@ -504493,12 +504483,19 @@ sort: by_weight
 脏腑相合	zang fu xiang he	1
 脏腑学说	zang fu xue shuo	2
 赃官	zang guan	690
+藏管尾犁胸蝉	zang guan wei li xiong chan	1
+藏桂乡	zang gui xiang	5
 藏红花	zang hong hua	5910
+藏红毛喙祝蛾	zang hong mao hui zhu e	1
+藏红腋齿黄斑蜂	zang hong ye chi huang ban feng	1
+藏狐	zang hu	140
 脏乎乎	zang hu hu	620
 脏话	zang hua	21185
 葬花	zang hua	5510
 葬花囊	zang hua nang	1
+藏花素	zang hua su	70
 葬花吟	zang hua yin	1060
+藏獚	zang huang	11
 赃贿狼藉	zang hui lang ji	111
 赃秽狼藉	zang hui lang ji	1
 脏活	zang huo	2465
@@ -504584,6 +504581,7 @@ sort: by_weight
 脏象学说	zang xiang xue shuo	7
 臧姓	zang xing	25
 藏学	zang xue	9230
+藏鰋	zang yan	1
 藏药	zang yao	18290
 藏野驴	zang ye lv	1185
 葬仪	zang yi	1090
@@ -504604,6 +504602,7 @@ sort: by_weight
 脏脏的	zang zang de	9999
 脏躁	zang zao	6
 臧寨乡	zang zhai xiang	4
+藏𬶐肉	zang zhao rou	1
 赃证	zang zheng	325
 脏字	zang zi	2660
 脏字儿	zang zi er	9999
@@ -509954,10 +509953,10 @@ sort: by_weight
 张兴庄	zhang xing zhuang	6
 长兄	zhang xiong	4870
 # 张雄	zhang xiong	0
+张宿	zhang xiu	1
+张绣	zhang xiu	1
 # 张休	zhang xiu	0
 # 张修	zhang xiu	0
-张绣	zhang xiu	1
-张宿	zhang xiu	1
 张修齐	zhang xiu qi	101
 张秀英	zhang xiu ying	182
 丈许	zhang xu	4485
@@ -530113,7 +530112,6 @@ sort: by_weight
 皱常室茧蜂	zhou chang shi jian feng	1
 昼长夜短	zhou chang ye duan	715
 周朝	zhou chao	11555
-周焯华	zhou zhuo hua	192
 舟车	zhou che	2960
 舟车半天下	zhou che ban tian xia	1
 舟车劳顿	zhou che lao dun	2145
@@ -531013,6 +531011,7 @@ sort: by_weight
 周庄王	zhou zhuang wang	2
 周庄乡	zhou zhuang xiang	8
 周准	zhou zhun	5
+周焯华	zhou zhuo hua	192
 肘子	zhou zi	7825
 舟子	zhou zi	2685
 轴子	zhou zi	310
@@ -532304,9 +532303,9 @@ sort: by_weight
 逐渐清晰	zhu jian qing xi	3515
 朱剑秋	zhu jian qiu	2
 逐渐认识	zhu jian ren shi	1170
+朱见濡	zhu jian ru	1
 逐渐散去	zhu jian san qu	1175
 逐渐上升	zhu jian shang sheng	4945
-朱见濡	zhu jian ru	1
 朱见深	zhu jian shen	22
 主键生成策略	zhu jian sheng cheng ce lve	1129
 逐渐适应	zhu jian shi ying	4635
@@ -534239,11 +534238,11 @@ sort: by_weight
 猪油松子酥	zhu you song zi su	6
 住有所居	zhu you suo ju	137
 朱祐樘	zhu you tang	8
-朱祐杬	zhu you yuan	1
 猪油汤团	zhu you tang tuan	105
 猪油汤圆	zhu you tang yuan	45
 主油箱	zhu you xiang	280
 朱有勇	zhu you yong	176
+朱祐杬	zhu you yuan	1
 猪油渣面	zhu you zha mian	19
 朱友贞	zhu you zhen	2
 猪犹智慧胜愚曹	zhu you zhi hui sheng yu cao	1
