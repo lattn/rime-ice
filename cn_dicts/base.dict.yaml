@@ -1956,7 +1956,7 @@
 #///
 ---
 name: base
-version: "2024-11-27"
+version: "2024-11-28"
 sort: by_weight
 ...
 # +_+
@@ -94686,6 +94686,7 @@ sort: by_weight
 都跟我	dou gen wo	65
 都跟着	dou gen zhe	6380
 豆羹	dou geng	33
+都更	dou geng	0
 都更多	dou geng duo	333
 都更好	dou geng hao	333
 都更换	dou geng huan	333
@@ -95839,7 +95840,6 @@ sort: by_weight
 堵格乡	du ge xiang	8
 读给	du gei	4390
 都更	du geng	111
-都更	dou geng	0
 渡工	du gong	1090
 督工	du gong	650
 杜工部集	du gong bu ji	230
@@ -431054,6 +431054,7 @@ sort: by_weight
 向量中断	xiang liang zhong duan	208
 相良宗介	xiang liang zong jie	62
 香料	xiang liao	76500
+详聊	xiang liao	111
 香料厂	xiang liao chang	1535
 香料店	xiang liao dian	195
 香料盒	xiang liao he	65
@@ -476149,6 +476150,7 @@ sort: by_weight
 易主	yi zhu	6055
 遗著	yi zhu	1905
 奕詝	yi zhu	1
+遗珠	yi zhu	1
 # 挹注	yi zhu	0
 # 翼助	yi zhu	0
 遗珠沧海	yi zhu cang hai	1
@@ -484049,6 +484051,7 @@ sort: by_weight
 又大	you da	38180
 又打	you da	26855
 犹大	you da	10855
+尤达	you da	1
 # 由打	you da	0
 有答案	you da an	5685
 由大变强	you da bian qiang	920
@@ -486538,6 +486541,7 @@ sort: by_weight
 幽梦	you meng	5185
 有梦	you meng	4444
 又猛	you meng	3210
+友盟	you meng	1
 # 优孟	you meng	0
 友盟分享	you meng fen xiang	402
 友盟统计	you meng tong ji	861
@@ -491561,6 +491565,7 @@ sort: by_weight
 预可研	yu ke yan	64
 榆科镇	yu ke zhen	4
 御空	yu kong	99
+域控	yu kong	1
 育空地区	yu kong di qu	410
 育空河	yu kong he	240
 与空间	yu kong jian	12145
@@ -492933,6 +492938,7 @@ sort: by_weight
 玉手	yu shou	11080
 欲售	yu shou	850
 驭手	yu shou	765
+御守	yu shou	1
 预售版	yu shou ban	630
 预售处	yu shou chu	125
 预售房	yu shou fang	1660
@@ -507770,6 +507776,7 @@ sort: by_weight
 站笼	zhan long	466
 展露	zhan lu	20980
 绽露	zhan lu	9999
+站撸	zhan lu	1
 粘鲈	zhan lu	1
 展露出	zhan lu chu	2430
 展露出来	zhan lu chu lai	655
@@ -508128,6 +508135,7 @@ sort: by_weight
 旃檀	zhan tan	1
 粘弹性	zhan tan xing	15
 展堂	zhan tang	1635
+蘸糖	zhan tang	1
 粘体虫科	zhan ti chong ke	1
 粘体动物亚门	zhan ti dong wu ya men	1
 战天斗地	zhan tian dou di	1580
@@ -511921,6 +511929,7 @@ sort: by_weight
 昭昭	zhao zhao	4670
 赵赵	zhao zhao	60
 赵昭	zhao zhao	18
+爪爪	zhao zhao	1
 找找吧	zhao zhao ba	1045
 照照镜子	zhao zhao jing zi	4305
 找找看	zhao zhao kan	6185
@@ -530722,6 +530731,7 @@ sort: by_weight
 周四	zhou si	103615
 宙斯	zhou si	21200
 轴丝	zhou si	160
+咒死	zhou si	1
 宙斯盾	zhou si dun	5200
 州司法局	zhou si fa ju	57
 周四沟	zhou si gou	1
@@ -530761,6 +530771,7 @@ sort: by_weight
 轴突运输	zhou tu yun shu	1
 周屯	zhou tun	4
 轴瓦	zhou wa	4940
+咒蛙	zhou wa	1
 肘外翻	zhou wai fan	23
 肘弯	zhou wan	1175
 粥碗	zhou wan	445
@@ -534704,6 +534715,7 @@ sort: by_weight
 抓改革	zhua gai ge	138
 抓纲带目	zhua gang dai mu	4
 抓哏	zhua gen	135
+抓勾	zhua gou	111
 抓鬼	zhua gui	6666
 抓轨	zhua gui	196
 抓过	zhua guo	9820
@@ -534814,6 +534826,7 @@ sort: by_weight
 抓住时机	zhua zhu shi ji	8695
 抓住我	zhua zhu wo	4340
 抓抓	zhua zhua	3950
+爪爪	zhua zhua	1
 抓抓粉	zhua zhua fen	33
 抓抓乐	zhua zhua le	140
 抓壮丁	zhua zhuang ding	910
@@ -537788,6 +537801,7 @@ sort: by_weight
 拙朴	zhuo pu	1545
 浊气	zhuo qi	5590
 捉起	zhuo qi	1205
+着棋	zhuo qi	1
 浊气归心	zhuo qi gui xin	3
 桌前	zhuo qian	25315
 酌情	zhuo qing	64260
@@ -546374,6 +546388,7 @@ sort: by_weight
 做得	zuo de	233185
 坐的	zuo de	37320
 坐得	zuo de	12165
+佐德	zuo de	1
 做得比	zuo de bi	8905
 做得不够	zuo de bu gou	5360
 做得不好	zuo de bu hao	8345
@@ -547747,18 +547762,3 @@ sort: by_weight
 做作业时	zuo zuo ye shi	1695
 作作有芒	zuo zuo you mang	1
 左左右右	zuo zuo you you	1215
-抓勾	zhua gou	111
-详聊	xiang liao	111
-遗珠	yi zhu	1
-尤达	you da	1
-友盟	you meng	1
-域控	yu kong	1
-御守	yu shou	1
-站撸	zhan lu	1
-蘸糖	zhan tang	1
-咒死	zhou si	1
-咒蛙	zhou wa	1
-爪爪	zhua zhua	1
-爪爪	zhao zhao	1
-着棋	zhuo qi	1
-佐德	zuo de	1
