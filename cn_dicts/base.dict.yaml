@@ -1185,7 +1185,7 @@
 # 「很很」→「狠狠」
 # 「大量地」→「大量的」
 # 「皇色」→「黄色」
-# 「黄色网战」→「皇色网站」
+# 「黄色网战」→「黄色网站」
 # 「部份」→「部分」
 # 「草溜社区」→「草榴社区」
 # 「阵型」→「阵形」
@@ -1958,7 +1958,7 @@
 # 「周舫」->「周昉」「周鲂」，无知名人物叫「周舫」，唐代画家和三国武将zhou fang常被写成「周舫」
 # 「氯安酮」->「氯胺酮」
 # 「堰蜓座」->「蝘蜓座」
-# 「徐世绩」「李世绩」「李绩」->「李世𪟝」「徐世𪟝」「李𪟝」
+# 「徐世绩」「李世绩」「李绩」->「徐世𪟝」「李世𪟝」「李𪟝」
 # 「鬼冢虎」->「鬼塚虎」
 # 「打家截舍」→「打家劫舍」
 # 「买官鬻爵」→「卖官鬻爵」
@@ -1970,6 +1970,14 @@
 # 「葫芦巴」→「胡芦巴」
 # 「瞒天要价」→「漫天要价」
 # 「家长理短、家常里短」→「家长里短」
+# 「中规中距」→「中规中矩」
+# 「彭湖岛」→「澎湖岛」
+# 「景阳岗」「井岗山」→「景阳冈」「井冈山」P.S.「景岗山」为一歌手
+# 「黄花冈」「黄花冈起义」「黄花冈七十二烈士」→「黄花岗」「黄花岗起义」「黄花岗七十二烈士」
+# 「花冈岩」「花冈石」→「花岗岩」「花岗石」
+# 「一掊土」→「一抔土」
+# 「褐去玛瑙螺」→「褐云玛瑙螺」
+# 「手指捏和」→「手指捏合」
 #///
 ---
 name: base
@@ -2304,7 +2312,7 @@ sort: by_weight
 阿加莎	a jia sha	170
 阿加西	a jia xi	5645
 阿娇	a jiao	19250
-阿胶糕	a jiao gao	12
+阿胶糕	e jiao gao	12
 阿姐	a jie	4625
 阿杰	a jie	1
 阿姐鼓	a jie gu	1775
@@ -38413,7 +38421,7 @@ sort: by_weight
 不用车	bu yong che	89
 不用愁	bu yong chou	6225
 不用出	bu yong chu	96
-步涌村	bu yong cun	11
+步涌村	bu chong cun	11
 不用打	bu yong da	2620
 不用担心	bu yong dan xin	59105
 不用电	bu yong dian	1920
@@ -44794,7 +44802,7 @@ sort: by_weight
 茶瘾	cha yin	180
 茶饮料	cha yin liao	13590
 茶饮品	cha yin pin	155
-槎涌	cha yong	10
+槎涌村	cha chong cun	10
 茶友	cha you	9999
 茶油	cha you	6920
 叉友	cha you	1111
@@ -142759,7 +142767,7 @@ sort: by_weight
 广东东莞市虎门镇	guang dong dong guan shi hu men zhen	18
 广东东莞市黄江镇	guang dong dong guan shi huang jiang zhen	1
 广东东莞市寮步镇	guang dong dong guan shi liao bu zhen	5
-广东东莞市麻涌镇	guang dong dong guan shi ma yong zhen	11
+广东东莞市麻涌镇	guang dong dong guan shi ma chong zhen	11
 广东东莞市桥头镇	guang dong dong guan shi qiao tou zhen	2
 广东东莞市清溪镇	guang dong dong guan shi qing xi zhen	9
 广东东莞市石碣镇	guang dong dong guan shi shi jie zhen	5
@@ -142865,7 +142873,7 @@ sort: by_weight
 广东证券	guang dong zheng quan	211
 广东殖盘吸虫	guang dong zhi pan xi chong	1
 广东中大圣律师事务所	guang dong zhong da sheng lv shi shi wu suo	3
-广东中山市大涌镇	guang dong zhong shan shi da yong zhen	6
+广东中山市大涌镇	guang dong zhong shan shi da chong zhen	6
 广东中山市东凤镇	guang dong zhong shan shi dong feng zhen	2
 广东中山市东升镇	guang dong zhong shan shi dong sheng zhen	3
 广东中山市港口镇	guang dong zhong shan shi gang kou zhen	3
@@ -157490,7 +157498,7 @@ sort: by_weight
 合取范式	he qu fan shi	70
 何去何从	he qu he cong	24375
 河曲红果	he qu hong guo	2
-褐去玛瑙螺	he qu ma nao luo	1
+褐云玛瑙螺	he yun ma nao luo	1
 河曲酸粥	he qu suan zhou	10
 河曲县	he qu xian	1170
 和泉	he quan	1
@@ -172463,12 +172471,8 @@ sort: by_weight
 黄花豆腐汤	huang hua dou fu tang	1
 黄花风铃	huang hua feng ling	108
 黄花风铃木	huang hua feng ling mu	196
-黄花冈	huang hua gang	2700
 黄花岗	huang hua gang	2700
 黄骅港	huang hua gang	2035
-黄花冈七十二烈士	huang hua gang qi shi er lie shi	775
-黄花岗七十二烈士陵园	huang hua gang qi shi er lie shi ling yuan	104
-黄花冈起义	huang hua gang qi yi	585
 黄花姑娘	huang hua gu niang	130
 黄花闺女	huang hua gui nv	1175
 黄花浩气	huang hua hao qi	10
@@ -200511,10 +200515,10 @@ sort: by_weight
 借用	jie yong	98065
 皆用	jie yong	4150
 节用	jie yong	2820
-界涌	jie yong	9
+界涌村	jie chong cun	9
 捷勇	jie yong	5
 节用而爱人	jie yong er ai ren	8
-界涌工业区	jie yong gong ye qu	1
+界涌工业区	jie chong gong ye qu	1
 借用合同	jie yong he tong	213
 节用厚生	jie yong hou sheng	1
 借用人	jie yong ren	1265
@@ -206220,7 +206224,6 @@ sort: by_weight
 精钢拳套	jing gang quan tao	2
 井冈山	jing gang shan	46705
 景岗山	jing gang shan	95
-井岗山	jing gang shan	43
 井冈山会师	jing gang shan hui shi	440
 井冈山路	jing gang shan lu	52
 井冈山路瑞光里	jing gang shan lu rui guang li	1
@@ -326966,7 +326969,7 @@ sort: by_weight
 若用	ruo yong	23460
 若有	ruo you	161995
 若有人	ruo you ren	6310
-若有人兮山之阿	ruo you ren xi shan zhi a	3
+若有人兮山之阿	ruo you ren xi shan zhi e	3
 若有人知春去处	ruo you ren zhi chun qu chu	1
 若有若无	ruo you ruo wu	11530
 若有所失	ruo you suo shi	2135
@@ -357787,7 +357790,7 @@ sort: by_weight
 手指脚划	shou zhi jiao hua	1
 守职尽责	shou zhi jin ze	25
 收支控制	shou zhi kong zhi	90
-手指捏和	shou zhi nie he	3333
+手指捏合	shou zhi nie he	3333
 受支配	shou zhi pei	250
 收支平衡	shou zhi ping heng	11800
 收支平衡定价法	shou zhi ping heng ding jia fa	1
@@ -396470,7 +396473,7 @@ sort: by_weight
 托特罗定	tuo te luo ding	16
 托特纳姆热刺	tuo te na mu re ci	144
 驼蹄鸡	tuo ti ji	1
-托体同山阿	tuo ti tong shan a	18
+托体同山阿	tuo ti tong shan e	18
 托田	tuo tian	5
 脱天漏网	tuo tian lou wang	1
 拖天扫地	tuo tian sao di	1
@@ -424316,7 +424319,7 @@ sort: by_weight
 喜用	xi yong	9800
 习用	xi yong	3455
 袭用	xi yong	1275
-熹涌	xi yong	9
+熹涌村	xi chong cun	9
 戏咏蜡梅二首	xi yong la mei er shou	1
 戏咏猩猩毛笔二首	xi yong xing xing mao bi er shou	1
 稀有	xi you	32830
@@ -431055,7 +431058,7 @@ sort: by_weight
 香煎柠檬鸭	xiang jian ning meng ya	3
 香煎牛仔骨	xiang jian niu zai gu	30
 香煎翘鱼	xiang jian qiao yu	1
-想见山阿人	xiang jian shan a ren	1
+想见山阿人	xiang jian shan e ren	1
 详见审查报告	xiang jian shen cha bao gao	68
 相见时难别亦难	xiang jian shi nan bie yi nan	1040
 相煎太急	xiang jian tai ji	25
@@ -471568,7 +471571,6 @@ sort: by_weight
 一抔	yi pou	9999
 一抔黄土	yi pou huang tu	295
 一抔土	yi pou tu	295
-一掊土	yi pou tu	8
 译谱	yi pu	35
 一仆二主	yi pu er zhu	500
 衣铺街	yi pu jie	6
