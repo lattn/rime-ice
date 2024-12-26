@@ -132,7 +132,7 @@
 # 增加「含意」# 含义：字词句具体的意义；含意：言语行为事件含有的意思（隐含的深意或言外之意）。😡
 # 「吓xia阻」→「吓he阻」
 # 「啰哩啰唆」→「啰里啰唆」
-# 「度过难关」→「渡过难关」
+# 「度过难关」「共度难关」→「渡过难关」「共渡难关」
 # 「逸事」→「轶事」
 # add 「以致232245」
 # 「听的见」→「听得见」，「听的到」→「听得到」，「好的很」→「好得很」，「好的多」→「好得多」，「看的出」→「看得出」
@@ -1997,6 +1997,33 @@
 # 「杨家吊沪饼」→「杨家吊炉饼」
 # 「及裸靴」→「及踝靴」
 # 「背足足杨梅蟹」→「背足杨梅蟹」，多出的一个「足」应为衍字
+# 「红旗越过汀江」→「红旗跃过汀江」
+# 「我故自已死之晚也」→「我固自以死之晚也」
+# 「鸡鸡喈喈」→「鸡鸣喈喈」
+# 「苯二氮卓类」→「苯二氮䓬类」
+# 「紫癫」→「紫癜」
+# 「牛皮藓」「牛皮鲜」→「牛皮癣xuǎn」
+# 「节支动物」→「节肢动物」
+# 「君达菜」→「莙荙菜」
+# 「哈蜜瓜」→「哈密瓜」，因「哈密」得名
+# 「粘豆包」→「黏豆包」
+# 「渭然长叹」→「喟然长叹」
+# 「脱颎而出」→「脱颖而出」
+# 「严惩不怠」「严惩不殆」→「严惩不贷」
+# 「娇柔造作」「娇揉造作」「娇柔做作」→「矫揉造作」；「造做矫揉」→「造作矫揉」
+# 「渡假村」→「度假村」
+# 「渡假胜地」「度假圣地」→「度假胜地」
+# 「旅游圣地」「避暑圣地 」「拍照圣地」「打卡圣地」→「旅游胜地」「避暑胜地」「拍照胜地」「打卡胜地」，「胜地」指有名的风景优美之地
+# 「新赏月色」→「欣赏月色」
+# 「泻湖」「新泻」→「潟湖」「新潟」
+# 「挖墙角」→「挖墙脚」
+# 「捅楼子」→「捅娄子」
+# 「主弦律」→「主旋律」
+# 「一副药」→「一服fù药」，即一剂药
+# 「截止今日」「截止目前」「截止发稿前」→「截至今日」「截至目前」「截至发稿前」
+# 「征友启示」「寻狗启示」「招聘启示」→「征友启事」「寻狗启事」「招聘启事」
+# 「出阝江镇」→「䢺江镇」
+# 「风起于青萍之末」「白苹洲」→「风起于青𬞟之末」「白𬞟洲」，「苹」指苹果，「萍」指浮萍一类植物，「𬞟」用于「蘋」的简化和某些蕨类名称
 #///
 ---
 name: base
@@ -11615,12 +11642,12 @@ sort: by_weight
 白票	bai piao	1111
 拜票	bai piao	11
 百品千条	bai pin qian tiao	1
+白𬞟洲	bai pin zhou	3
 摆平	bai ping	19550
 白屏	bai ping	3490
 白坪	bai ping	40
 掰苹果	bai ping guo	195
 白平衡	bai ping heng	43140
-白苹洲	bai ping zhou	3
 白平子	bai ping zi	1
 白破	bai po	27
 # 柏坡	bai po	0
@@ -58295,7 +58322,7 @@ sort: by_weight
 除服	chu fu	930
 初伏	chu fu	490
 出伏	chu fu	275
-出阝江镇	chu fu jiang zhen	9
+䢺江镇	chu jiang zhen	9
 触感	chu gan	25010
 出港	chu gang	8625
 初稿	chu gao	30505
@@ -162540,7 +162567,6 @@ sort: by_weight
 红旗小学	hong qi xiao xue	272
 红旗医院	hong qi yi yuan	19
 红旗营乡	hong qi ying xiang	3
-红旗越过汀江	hong qi yue guo ting jiang	7
 红旗跃过汀江	hong qi yue guo ting jiang	6
 红旗招展	hong qi zhao zhan	670
 红杞蒸鸡	hong qi zheng ji	11
@@ -181693,7 +181719,7 @@ sort: by_weight
 季姬击鸡记	ji ji ji ji ji	189
 己基间苯二酚	ji ji jian ben er fen	5
 寂寂江山摇落处	ji ji jiang shan yao luo chu	1
-鸡鸡喈喈	ji ji jie jie	1
+鸡鸣喈喈	ji ming jie jie	1
 积极进取	ji ji jin qu	34665
 积极开展	ji ji kai zhan	138610
 岌岌可危	ji ji ke wei	9535
@@ -215189,7 +215215,6 @@ sort: by_weight
 钧瓷	jun ci	4020
 均达	jun da	13430
 莙荙菜	jun da cai	9999
-君达菜	jun da cai	5
 均达到	jun da dao	23910
 军大衣	jun da yi	3760
 军代表	jun dai biao	2430
@@ -361434,7 +361459,7 @@ sort: by_weight
 双峰路	shuang feng lu	23
 双峰骆驼	shuang feng luo tuo	3333
 双凤桥	shuang feng qiao	179
-双峰山旅游渡假区	shuang feng shan lv you du jia qu	1
+双峰山旅游度假区	shuang feng shan lv you du jia qu	1
 双丰收	shuang feng shou	8755
 双峰驼	shuang feng tuo	445
 双峰县	shuang feng xian	2635
@@ -378620,7 +378645,7 @@ sort: by_weight
 炭烧	tan shao	2315
 摊烧饼	tan shao bing	180
 炭烧咖啡	tan shao ka fei	577
-碳烧啤酒	tan shao pi jiu	10
+炭烧啤酒	tan shao pi jiu	10
 炭烧鱼串	tan shao yu chuan	1
 炭烧鱼段	tan shao yu duan	1
 弹射	tan she	9110
@@ -405613,7 +405638,6 @@ sort: by_weight
 畏难情绪	wei nan qing xu	7025
 为男人	wei nan ren	4060
 渭南市	wei nan shi	8400
-渭南时晨包子	wei nan shi chen bao zi	2
 渭南时辰包子	wei nan shi chen bao zi	1
 渭南水晶饼	wei nan shui jing bing	3
 渭南县	wei nan xian	12
@@ -405952,7 +405976,6 @@ sort: by_weight
 巍然	wei ran	4285
 巍然不动	wei ran bu dong	1315
 嵬然不动	wei ran bu dong	111
-渭然长叹	wei ran chang tan	10
 蔚然成风	wei ran cheng feng	10100
 巍然矗立	wei ran chu li	695
 蔚然花海	wei ran hua hai	114
@@ -421503,7 +421526,7 @@ sort: by_weight
 洗护	xi hu	5555
 溪湖	xi hu	1905
 稀糊	xi hu	1520
-潟湖	xi hu	1
+潟湖	xi hu	1810
 # 惜乎	xi hu	0
 西湖宾馆	xi hu bin guan	49
 西户部庄村	xi hu bu zhuang cun	3
@@ -427646,7 +427669,7 @@ sort: by_weight
 鲜果馅汤圆	xian guo xian tang yuan	3
 鲜果银耳	xian guo yin er	7
 鲜果汁	xian guo zhi	2005
-鲜哈蜜瓜汁	xian ha mi gua zhi	1
+鲜哈密瓜汁	xian ha mi gua zhi	1
 陷害	xian hai	30715
 咸海	xian hai	1265
 陷害忠良	xian hai zhong liang	540
@@ -439088,11 +439111,10 @@ sort: by_weight
 邂逅相遇	xie hou xiang yu	805
 歇后语	xie hou yu	7290
 邪乎	xie hu	1970
-泻湖	xie hu	1805
 蝎虎	xie hu	415
 蝎虎链子	xie hu lian zi	1
 斜虎纹蝶	xie hu wen die	1
-泻湖蕈珊瑚	xie hu xun shan hu	1
+潟湖蕈珊瑚	xi hu xun shan hu	1
 血花	xie hua	3555
 谢华	xie hua	2250
 鞋花	xie hua	850
@@ -443711,7 +443733,7 @@ sort: by_weight
 欣悉	xin xi	410
 衅隙	xin xi	115
 新息	xin xi	3
-新潟	xin xi	1
+新潟	xin xi	320
 # 新溪	xin xi	0
 信息安全	xin xi an quan	100205
 信息安全法	xin xi an quan fa	365
@@ -444033,9 +444055,8 @@ sort: by_weight
 心血	xin xie	86155
 新鞋	xin xie	7185
 信邪	xin xie	2130
-新泻	xin xie	318
 新鞋口虫属	xin xie kou chong shu	1
-新泻天鹅	xin xie tian e	166
+新潟天鹅	xin xi tian e	166
 信心	xin xin	480305
 新新	xin xin	27215
 心心	xin xin	22310
@@ -453387,7 +453408,7 @@ sort: by_weight
 训练中	xun lian zhong	25880
 训练中心	xun lian zhong xin	11730
 驯良	xun liang	1170
-巽寮滨海旅游渡假区管委会	xun liao bin hai lv you du jia qu guan wei hui	1
+巽寮滨海旅游度假区管委会	xun liao bin hai lv you du jia qu guan wei hui	1
 巽寮镇	xun liao zhen	4
 训令	xun ling	3320
 寻流逐末	xun liu zhu mo	1
@@ -455540,7 +455561,6 @@ sort: by_weight
 # 严澄	yan cheng	0
 # 雁城	yan cheng	0
 严惩不贷	yan cheng bu dai	2973
-严惩不殆	yan cheng bu dai	421
 郾城区	yan cheng qu	1435
 盐城市	yan cheng shi	37295
 盐城市民政局	yan cheng shi min zheng ju	7
@@ -466549,6 +466569,7 @@ sort: by_weight
 一撮	yi cuo	6050
 一错	yi cuo	2615
 一搓	yi cuo	1111
+易错	yi cuo	100
 一错到底	yi cuo dao di	235
 易错的	yi cuo de	530
 易错点	yi cuo dian	656
@@ -505839,7 +505860,6 @@ sort: by_weight
 遭罪	zao zui	3550
 造作	zao zuo	16280
 早做	zao zuo	4630
-造做矫揉	zao zuo jiao rou	1
 早做准备	zao zuo zhun bei	87
 则哀矜而勿喜	ze ai jin er wu xi	3
 则把	ze ba	21165
@@ -518581,8 +518601,7 @@ sort: by_weight
 争优创先	zheng you chuang xian	29
 正有此意	zheng you ci yi	1020
 正右方	zheng you fang	65
-征友启示	zheng you qi shi	110
-征友启事	zheng you qi shi	13
+征友启事	zheng you qi shi	120
 郑又荣	zheng you rong	121
 正由于	zheng you yu	5050
 正由于此	zheng you yu ci	59
@@ -534267,7 +534286,6 @@ sort: by_weight
 主线程	zhu xian cheng	46091
 竹仙洞	zhu xian dong	28
 诛仙恋	zhu xian lian	22
-主弦律	zhu xian lv	13
 主线任务	zhu xian ren wu	5555
 主线人物	zhu xian ren wu	55
 诛仙任务	zhu xian ren wu	1
@@ -538827,7 +538845,6 @@ sort: by_weight
 子弟子	zi di zi	8
 字典	zi dian	62310
 紫癜	zi dian	4730
-紫癫	zi dian	6
 字典表	zi dian biao	13
 字典法	zi dian fa	12
 字典里	zi dian li	6985
