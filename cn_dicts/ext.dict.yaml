@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2024-12-27"
+version: "2024-12-29"
 sort: by_weight
 ...
 # +_+
@@ -37510,8 +37510,6 @@ sort: by_weight
 重午节	chong wu jie	100
 宠物乐园	chong wu le yuan	100
 宠物联盟	chong wu lian meng	100
-宠物美容培训学校	chong wu mei rong pei xun xue xiao	100
-宠物美容学校	chong wu mei rong xue xiao	100
 宠物墓地	chong wu mu di	100
 宠物驱虫	chong wu qu chong	100
 宠物食品行业	chong wu shi pin hang ye	100
@@ -37732,7 +37730,6 @@ sort: by_weight
 重新来一次	chong xin lai yi ci	100
 重新理解	chong xin li jie	100
 重新恋爱	chong xin lian ai	100
-重新链接	chong xin lian jie	100
 重新连入网络	chong xin lian ru wang luo	100
 重新联系	chong xin lian xi	100
 重新亮相	chong xin liang xiang	100
@@ -38453,10 +38450,10 @@ sort: by_weight
 初步设想	chu bu she xiang	100
 楚材晋用	chu cai jin yong	100
 出材率	chu cai lv	100
-除残去暴	chu can qu bao	100
-除残去秽	chu can qu hui	100
 出餐快	chu can kuai	100
 出餐慢	chu can man	100
+除残去暴	chu can qu bao	100
+除残去秽	chu can qu hui	100
 出餐速度	chu can su du	100
 储藏方法	chu cang fang fa	100
 储藏方式	chu cang fang shi	100
@@ -63879,7 +63876,6 @@ sort: by_weight
 独唱曲	du chang qu	100
 都昌人	du chang ren	100
 独唱音乐会	du chang yin yue hui	100
-度车了	du che le	100
 堵车严重	du che yan zhong	100
 赌城大亨	du cheng da heng	100
 都城隍庙	du cheng huang miao	100
@@ -77297,6 +77293,7 @@ sort: by_weight
 风起流年	feng qi liu nian	100
 风起霓裳	feng qi ni chang	100
 冯其庸	feng qi yong	100
+风起于	feng qi yu	100
 风起于青𬞟之末	feng qi yu qing pin zhi mo	100
 风起云布	feng qi yun bu	100
 风起云蒸	feng qi yun zheng	100
@@ -107661,6 +107658,7 @@ sort: by_weight
 换个男人	huan ge nan ren	100
 换个女人	huan ge nv ren	100
 换个人	huan ge ren	100
+换个赛道	huan ge sai dao	100
 换个什么	huan ge shen me	100
 换个什么呢	huan ge shen me ne	100
 换个输入法	huan ge shu ru fa	100
@@ -107730,6 +107728,7 @@ sort: by_weight
 换回了	huan hui le	100
 换回去	huan hui qu	100
 还魂草	huan hun cao	100
+还魂伞	huan hun san	100
 还魂橡胶	huan hun xiang jiao	100
 还魂纸	huan hun zhi	100
 还魂咒	huan hun zhou	100
@@ -118839,7 +118838,6 @@ sort: by_weight
 健身环	jian shen huan	100
 健身记录	jian shen ji lu	100
 见神见鬼	jian shen jian gui	100
-健身教练培训学校	jian shen jiao lian pei xun xue xiao	100
 健身镜	jian shen jing	100
 健身俱乐部	jian shen ju le bu	100
 间深里	jian shen li	100
@@ -123949,9 +123947,9 @@ sort: by_weight
 金龟车	jin gui che	100
 金桂冠	jin gui guan	100
 金匮石室	jin gui shi shi	100
-金柜石室	jin gui shi shi	100
 金匮玉碟	jin gui yu die	100
 金圭玉臬	jin gui yu nie	100
+金匮之盟	jin gui zhi meng	100
 巾帼从此隐渔乡	jin guo cong ci yin yu xiang	100
 晋国大夫	jin guo da fu	100
 金国汗	jin guo han	100
@@ -150338,7 +150336,6 @@ sort: by_weight
 溜边儿	liu bian er	100
 流变能力	liu bian neng li	100
 柳编之乡	liu bian zhi xiang	100
-流表	liu biao	100
 刘彬濠	liu bin hao	100
 柳斌杰	liu bin jie	100
 刘宾雁	liu bin yan	100
@@ -162182,7 +162179,6 @@ sort: by_weight
 美容觉	mei rong jiao	100
 美容美发店	mei rong mei fa dian	100
 美容美发行业	mei rong mei fa hang ye	100
-美容美发培训学校	mei rong mei fa pei xun xue xiao	100
 美容美发学校	mei rong mei fa xue xiao	100
 美容女	mei rong nv	100
 美容培训学校	mei rong pei xun xue xiao	100
@@ -208203,7 +208199,6 @@ sort: by_weight
 少儿声乐	shao er sheng yue	100
 少儿特定重疾	shao er te ding zhong ji	100
 少儿音乐	shao er yin yue	100
-少儿英语培训学校	shao er ying yu pei xun xue xiao	100
 少儿重疾	shao er zhong ji	100
 少儿重疾险	shao er zhong ji xian	100
 少发点	shao fa dian	100
@@ -218404,7 +218399,6 @@ sort: by_weight
 室内骑行	shi nei qi xing	100
 室内赛	shi nei sai	100
 室内设计行业	shi nei she ji hang ye	100
-室内设计培训学校	shi nei she ji pei xun xue xiao	100
 室内设计学校	shi nei she ji xue xiao	100
 室内室外	shi nei shi wai	100
 室内水上乐园	shi nei shui shang le yuan	100
@@ -221674,7 +221668,6 @@ sort: by_weight
 手机旺旺	shou ji wang wang	100
 手机网站模板	shou ji wang zhan mu ban	100
 手机微信	shou ji wei xin	100
-手机维修培训学校	shou ji wei xiu pei xun xue xiao	100
 手机维修学校	shou ji wei xiu xue xiao	100
 手机温度	shou ji wen du	100
 手机系列	shou ji xi lie	100
@@ -231457,6 +231450,8 @@ sort: by_weight
 随着慢慢长大	sui zhe man man zhang da	100
 随着名气越来越大	sui zhe ming qi yue lai yue da	100
 随着能源	sui zhe neng yuan	100
+随着你	sui zhe ni	100
+随着你们	sui zhe ni men	100
 随着你我	sui zhe ni wo	100
 随着你我消失	sui zhe ni wo xiao shi	100
 随着你我消失于	sui zhe ni wo xiao shi yu	100
@@ -231551,6 +231546,8 @@ sort: by_weight
 随着岁月的沉淀	sui zhe sui yue de chen dian	100
 随着岁月的流逝	sui zhe sui yue de liu shi	100
 随着岁月流逝	sui zhe sui yue liu shi	100
+随着他	sui zhe ta	100
+随着他们	sui zhe ta men	100
 随着天气变冷	sui zhe tian qi bian leng	100
 随着天气的变化	sui zhe tian qi de bian hua	100
 随着天气越来越冷	sui zhe tian qi yue lai yue leng	100
@@ -231569,6 +231566,7 @@ sort: by_weight
 随着温度升高	sui zhe wen du sheng gao	100
 随着我	sui zhe wo	100
 随着我国经济发展	sui zhe wo guo jing ji fa zhan	100
+随着我们	sui zhe wo men	100
 随着物联网	sui zhe wu lian wang	100
 随着夏季的到来	sui zhe xia ji de dao lai	100
 随着夏天的到来	sui zhe xia tian de dao lai	100
@@ -250192,7 +250190,6 @@ sort: by_weight
 文化学校	wen hua xue xiao	100
 文化遗产地	wen hua yi chan di	100
 文化艺术传播	wen hua yi shu chuan bo	100
-文化艺术培训学校	wen hua yi shu pei xun xue xiao	100
 文化艺术学校	wen hua yi shu xue xiao	100
 文化与传统	wen hua yu chuan tong	100
 文化娱乐产业	wen hua yu le chan ye	100
@@ -251691,6 +251688,8 @@ sort: by_weight
 我都不晓得	wo dou bu xiao de	100
 我都不知	wo dou bu zhi	100
 我都不走	wo dou bu zou	100
+我都吃完	wo dou chi wan	100
+我都吃完啦	wo dou chi wan la	100
 我都吃完了	wo dou chi wan le	100
 我都出来了	wo dou chu lai le	100
 我都穿上	wo dou chuan shang	100
@@ -260450,7 +260449,6 @@ sort: by_weight
 洗涤温度	xi di wen du	100
 洗地吸干机	xi di xi gan ji	100
 席地坐	xi di zuo	100
-西点蛋糕培训学校	xi dian dan gao pei xun xue xiao	100
 吸点毒	xi dian du	100
 西点面包	xi dian mian bao	100
 西点面包店	xi dian mian bao dian	100
@@ -329728,6 +329726,7 @@ sort: by_weight
 资金回报率	zi jin hui bao lv	100
 资金卡	zi jin ka	100
 紫金矿业	zi jin kuang ye	100
+资金匮乏	zi jin kui fa	100
 资金利率	zi jin li lv	100
 资金利用率	zi jin li yong lv	100
 资金利用效率	zi jin li yong xiao lv	100

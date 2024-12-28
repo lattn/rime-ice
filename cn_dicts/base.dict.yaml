@@ -2027,10 +2027,12 @@
 # 「吃里扒外」→「吃里爬外」
 # 「斗姆」→「斗姥」
 # 「不负重望」→「不负众望」
+# 「洛杉机、洛衫矶」→「洛杉矶」
+# 「就业形式」→「就业形势」
 #///
 ---
 name: base
-version: "2024-12-27"
+version: "2024-12-29"
 sort: by_weight
 ...
 # +_+
@@ -52157,8 +52159,9 @@ sort: by_weight
 承担者	cheng dan zhe	8745
 承担重任	cheng dan zhong ren	780
 承当	cheng dang	5915
-称道	cheng dao	33325
 撑到	cheng dao	5930
+称道	cheng dao	3332
+成道	cheng dao	2222
 乘到	cheng dao	1510
 成道日	cheng dao ri	177
 承德	cheng de	49785
@@ -55932,8 +55935,9 @@ sort: by_weight
 重报	chong bao	1710
 虫堡大作战	chong bao da zuo zhan	8
 重包装	chong bao zhuang	220
+充币	chong bi	2222
 冲鼻	chong bi	1310
-宠嬖	chong bi	111
+宠嬖	chong bi	2
 # 崇碧	chong bi	0
 虫臂拒辙	chong bi ju zhe	1
 冲鼻器	chong bi qi	99
@@ -56430,6 +56434,7 @@ sort: by_weight
 崇礼路	chong li lu	125
 崇礼县	chong li xian	1330
 重连	chong lian	3333
+崇廉	chong lian	2
 冲凉	chong liang	9190
 冲量	chong liang	4705
 冲凉先	chong liang xian	3508
@@ -57985,8 +57990,8 @@ sort: by_weight
 出彩	chu cai	17980
 出彩河南人	chu cai he nan ren	102
 楚才晋用	chu cai jin yong	2
-出参	chu can 1111
-出餐	chu can 174
+出餐	chu can	1740
+出参	chu can	1111
 除残去贼	chu can qu zei	1
 除参数表	chu can shu biao	68
 储藏	chu cang	40775
@@ -76889,6 +76894,7 @@ sort: by_weight
 氮杂胞苷	dan za bao gan	1
 但在	dan zai	500325
 单在	dan zai	4615
+蛋仔	dan zai	111
 担仔面	dan zai mian	355
 蛋仔派对	dan zai pai dui	177
 丹灶慈姑	dan zao ci gu	11
@@ -95200,6 +95206,8 @@ sort: by_weight
 斗牌	dou pai	555
 斗牌传说	dou pai chuan shuo	196
 都盼着	dou pan zhe	1215
+都胖	dou pang	3333
+都胖了	dou pang le	3333
 痘疱试验	dou pao shi yan	1
 都佩杰诺	dou pei jie nuo	1
 都佩杰诺的项炼	dou pei jie nuo de xiang lian	1
@@ -136145,7 +136153,6 @@ sort: by_weight
 公主坟西	gong zhu fen xi	8
 公主坟站	gong zhu fen zhan	194
 公主接龙	gong zhu jie long	1
-公主链接	gong zhu lian jie	70
 公主岭	gong zhu ling	5570
 公主岭市	gong zhu ling shi	2835
 公主们	gong zhu men	117
@@ -145558,7 +145565,8 @@ sort: by_weight
 龟友之家	gui you zhi jia	188
 归于	gui yu	52650
 鳜鱼	gui yu	8030
-鬼蜮	gui yu	2895
+鬼域	gui yu	444
+鬼蜮	gui yu	289
 鲑鱼	gui yu	9
 龟玉毁于椟中	gui yu hui yu du zhong	17
 鬼蜮伎俩	gui yu ji liang	190
@@ -183019,6 +183027,7 @@ sort: by_weight
 几年中	ji nian zhong	17565
 集尿袋	ji niao dai	18
 羁鸟恋旧林	ji niao lian jiu lin	15
+挤捏	ji nie	1111
 济宁	ji ning	385
 集宁	ji ning	1
 # 季宁	ji ning	0
@@ -198635,10 +198644,11 @@ sort: by_weight
 嗟尔远道之人	jie er yuan dao zhi ren	1
 揭发	jie fa	33600
 解法	jie fa	21960
-接法	jie fa	6990
+接发	jie fa	7777
 结发	jie fa	3155
 解乏	jie fa	3100
-结法	jie fa	1095
+接法	jie fa	2990
+# 结法	jie fa	0
 劫法场	jie fa chang	179
 揭发出	jie fa chu	535
 揭发的	jie fa de	2175
@@ -201982,9 +201992,9 @@ sort: by_weight
 金光咒	jin guang zhou	180
 金贵	jin gui	10790
 金龟	jin gui	7690
-金匮	jin gui	3615
 金柜	jin gui	915
-金桂	jin gui	50
+金匮	jin gui	361
+金桂	jin gui	2
 # 矜贵	jin gui	0
 # 金圭	jin gui	0
 # 靳贵	jin gui	0
@@ -211779,7 +211789,6 @@ sort: by_weight
 就业协议	jiu ye xie yi	11805
 就业信息网	jiu ye xin xi wang	5975
 就业形势	jiu ye xing shi	28465
-就业形式	jiu ye xing shi	4295
 就业许可证	jiu ye xu ke zheng	845
 就业需求	jiu ye xu qiu	3185
 就业压力	jiu ye ya li	25440
@@ -239803,6 +239812,7 @@ sort: by_weight
 练就过硬本领	lian jiu guo ying ben ling	164
 恋酒贪花	lian jiu tan hua	1
 恋酒贪色	lian jiu tan se	1
+连狙	lian ju	6666
 联句	lian ju	3910
 链锯	lian ju	2190
 炼句	lian ju	625
@@ -243916,7 +243926,7 @@ sort: by_weight
 临桂区	lin gui qu	2000
 临桂县	lin gui xian	1745
 邻国	lin guo	29410
-林果	lin guo	13725
+林果	lin guo	1372
 淋过	lin guo	760
 林果业	lin guo ye	5015
 林国桢	lin guo zhen	30
@@ -243936,7 +243946,7 @@ sort: by_weight
 林海雪原	lin hai xue yuan	4900
 林海音	lin hai yin	46
 临海浙江翼龙	lin hai zhe jiang yi long	1
-林瀚	lin han	24
+林瀚	lin han	2
 林寒洞肃	lin han dong su	1
 林寒涧肃	lin han jian su	15
 磷含量	lin han liang	2160
@@ -243945,7 +243955,7 @@ sort: by_weight
 林豪	lin hao	1
 临河	lin he	13070
 林壑	lin he	1245
-林河	lin he	75
+# 林河	lin he	0
 临河村村委会	lin he cun cun wei hui	2
 林和地	lin he di	2
 临河街	lin he jie	298
@@ -243962,7 +243972,7 @@ sort: by_weight
 蔺河乡	lin he xiang	3
 临河欲鱼	lin he yu yu	1
 林黑文厚牡蛎	lin hei wen hou mu li	1
-林衡	lin heng	3
+林衡	lin heng	2
 邻红唇拟丽盲蝽	lin hong chun ni li mang chun	1
 林宏敏	lin hong min	1
 鳞鸿杳绝	lin hong yao jue	1
@@ -243989,11 +243999,11 @@ sort: by_weight
 林昏瘴不开	lin hun zhang bu kai	1
 磷火	lin huo	1760
 磷火精	lin huo jing	1
-临济	lin ji	3985
 临机	lin ji	955
-鳞集	lin ji	130
-林佶	lin ji	1
-林纪	lin ji	1
+鳞集	lin ji	2
+# 临济	lin ji	0
+# 林佶	lin ji	0
+# 林纪	lin ji	0
 临机处置	lin ji chu zhi	280
 临机立断	lin ji li duan	1
 林基路	lin ji lu	71
@@ -244008,7 +244018,7 @@ sort: by_weight
 临济宗	lin ji zong	1625
 邻家	lin jia	15195
 鳞甲	lin jia	5380
-林家	lin jia	1547
+林家	lin jia	2
 # 林嘉	lin jia	0
 林家坝	lin jia ba	12
 林家祠	lin jia ci	1
@@ -244093,7 +244103,7 @@ sort: by_weight
 临界资源	lin jie zi yuan	2066
 临近	lin jin	129150
 邻近	lin jin	45160
-临晋	lin jin	14
+# 临晋	lin jin	0
 邻近查找	lin jin cha zhao	81
 林进春	lin jin chun	9
 邻近的	lin jin de	16250
@@ -244109,14 +244119,14 @@ sort: by_weight
 林景云	lin jing yun	155
 蔺九	lin jiu	1
 邻居	lin ju	159945
-临沮	lin ju	2
+# 临沮	lin ju	0
 邻居关系	lin ju guan xi	835
 邻居家	lin ju jia	13650
 邻居们	lin ju men	11515
 林鵙鹟属	lin ju weng shu	1
 林觉民	lin jue min	262
 淋菌	lin jun	2240
-林钧	lin jun	24
+# 林钧	lin jun	0
 林俊德	lin jun de	118
 临军对垒	lin jun dui lei	1
 临军对阵	lin jun dui zhen	1
@@ -244166,9 +244176,9 @@ sort: by_weight
 林口县	lin kou xian	1910
 磷矿	lin kuang	11825
 磷矿粉	lin kuang fen	700
-林魁	lin kui	5
+# 林魁	lin kui	0
 林籁泉韵	lin lai quan yun	1
-林蓝	lin lan	54
+# 林蓝	lin lan	0
 琳琅	lin lang	4490
 鳞浪	lin lang	20
 琳琅触目	lin lang chu mu	3
@@ -246637,6 +246647,7 @@ sort: by_weight
 流变学	liu bian xue	3520
 刘表	liu biao	13740
 流标	liu biao	2220
+流表	liu biao	100
 留标	liu biao	2
 留别	liu bie	2145
 流别	liu bie	325
@@ -250961,7 +250972,10 @@ sort: by_weight
 漏光	lou guang	2975
 陋规	lou gui	675
 镂簋朱绂	lou gui zhu fu	1
+漏过	lou guo	2222
+搂过	lou guo	1111
 露过面	lou guo mian	945
+漏过任何	lou guo ren he	222
 楼号	lou hao	4880
 蒌蒿	lou hao	1
 蒌蒿满地芦芽短	lou hao man di lu ya duan	34
@@ -259340,6 +259354,10 @@ sort: by_weight
 买围巾	mai wei jin	103
 卖文	mai wen	1535
 卖文为生	mai wen wei sheng	36
+卖我	mai wo	2222
+买我	mai wo	1111
+卖我们	mai wo men	222
+买我们	mai wo men	111
 卖屋	mai wu	575
 买五送一	mai wu song yi	106
 脉无胃气	mai wu wei qi	1
@@ -272872,11 +272890,13 @@ sort: by_weight
 摩纳罗	mo na luo	2
 默纳氏始丽鱼	mo na shi shi li yu	1
 莫奈	mo nai	5315
+摸奶	mo nai	1111
 莫奈多锯鲈	mo nai duo ju lu	1
 莫奈尔	mo nai er	2
 没奈何	mo nai he	2590
 摸奶门	mo nai men	395
 莫乃倩	mo nai qian	1
+摸奶子	mo nai zi	1111
 磨难	mo nan	35935
 漠南	mo nan	1780
 陌南镇	mo nan zhen	129
@@ -279158,10 +279178,10 @@ sort: by_weight
 南铁中院	nan tie zhong yuan	87
 难听	nan ting	26375
 南亭村	nan ting cun	103
-南通	nan tong	129260
 男童	nan tong	9905
 男同	nan tong	2222
-南桐	nan tong	1080
+南通	nan tong	1292
+# 南桐	nan tong	0
 南通百通	nan tong bai tong	127
 男同胞	nan tong bao	6270
 男同胞们	nan tong bao men	129
@@ -307829,8 +307849,8 @@ sort: by_weight
 桥粒	qiao li	1
 俏丽短发	qiao li duan fa	110
 巧立名目	qiao li ming mu	2507
-侨联	qiao lian	22640
 俏脸	qiao lian	18665
+侨联	qiao lian	226
 桥梁	qiao liang	260900
 桥梁厂	qiao liang chang	40
 荞凉粉	qiao liang fen	104
@@ -317870,6 +317890,7 @@ sort: by_weight
 全运会上	quan yun hui shang	840
 全在	quan zai	11800
 蜷在	quan zai	2900
+圈在	quan zai	1111
 全在美方	quan zai mei fang	3333
 权责	quan ze	32450
 全责	quan ze	3145
@@ -392266,6 +392287,7 @@ sort: by_weight
 投篮得分	tou lan de fen	1695
 投篮动作	tou lan dong zuo	1070
 投篮命中率	tou lan ming zhong lv	4615
+头狼	tou lang	1111
 投醪河	tou lao he	1
 偷了	tou le	14845
 投了	tou le	3080
@@ -395192,6 +395214,7 @@ sort: by_weight
 退而结网	tui er jie wang	2270
 退而求其次	tui er qiu qi ci	5070
 退而省其私	tui er sheng qi si	1
+腿法	tui fa	1111
 推翻	tui fan	154435
 退房	tui fang	40300
 退防	tui fang	11
@@ -416060,8 +416083,9 @@ sort: by_weight
 无菌注射器	wu jun zhu she qi	107
 无菌注射针	wu jun zhu she zhen	28
 无卡就医	wu ka jiu yi	87
-武凯	wu kai	1950
-吴恺	wu kai	17
+吴凯	wu kai	2
+# 吴恺	wu kai	0
+# 武凯	wu kai	0
 勿看	wu kan	1245
 乌坎	wu kan	528
 乌坎港	wu kan gang	23
@@ -448552,8 +448576,8 @@ sort: by_weight
 羞答答	xiu da da	5305
 休达和梅利利亚	xiu da he mei li li ya	9999
 休达及梅利利亚	xiu da ji mei li li ya	3333
-修道	xiu dao	33145
 嗅到	xiu dao	17260
+修道	xiu dao	13145
 修到	xiu dao	7875
 修道人	xiu dao ren	1660
 修道士	xiu dao shi	2965
@@ -481476,7 +481500,8 @@ sort: by_weight
 硬挺	ying ting	5515
 影厅	ying ting	2175
 樱庭奈奈美	ying ting nai nai mei	1
-盈通	ying tong	14225
+婴童	ying tong	3333
+盈通	ying tong	1422
 应通过	ying tong guo	28965
 硬通货	ying tong huo	2280
 迎头	ying tou	8090
