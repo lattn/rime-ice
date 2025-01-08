@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2024-12-29"
+version: "2024-12-31"
 sort: by_weight
 ...
 # +_+
@@ -404,8 +404,8 @@ sort: by_weight
 阿耨多罗三藐三菩提	a nou duo luo san miao san pu ti	100
 阿努巴拉克	a nu ba la ke	100
 阿努比斯神殿	a nu bi si shen dian	100
-阿诺德施瓦辛格	a nuo de shi wa xin ge	100
-阿诺施瓦辛格	a nuo shi wa xin ge	100
+阿诺德·施瓦辛格	a nuo de shi wa xin ge	100
+阿诺·施瓦辛格	a nuo shi wa xin ge	100
 阿帕拉契山径	a pa la qi shan jing	100
 阿帕奇	a pa qi	100
 阿佩普	a pei pu	100
@@ -453,9 +453,8 @@ sort: by_weight
 阿什丽	a shi li	100
 阿什利	a shi li	100
 阿什莉	a shi li	100
-阿什利科尔	a shi li ke er	100
-阿什利扬	a shi li yang	100
-阿什利杨	a shi li yang	100
+阿什利·科尔	a shi li ke er	100
+阿什利·扬	a shi li yang	100
 阿史那隼	a shi na sun	100
 阿什维尔	a shi wei er	100
 阿衰正传	a shuai zheng zhuan	100
@@ -470,9 +469,6 @@ sort: by_weight
 阿斯利康制药	a si li kang zhi yao	100
 阿斯利康制药公司	a si li kang zhi yao gong si	100
 阿斯帕斯	a si pa si	100
-阿斯匹林	a si pi lin	100
-阿司匹灵	a si pi ling	100
-阿斯匹灵	a si pi ling	100
 阿斯塔波	a si ta bo	100
 阿斯汤加瑜伽	a si tang jia yu jia	100
 阿斯特	a si te	100
@@ -12572,7 +12568,6 @@ sort: by_weight
 碧鸡漫志	bi ji man zhi	100
 比基尼岛	bi ji ni dao	100
 笔记软件	bi ji ruan jian	100
-荸荠属	bi ji shu	100
 笔记小说	bi ji xiao shuo	100
 笔记型	bi ji xing	100
 笔记型电脑	bi ji xing dian nao	100
@@ -12872,6 +12867,7 @@ sort: by_weight
 比起那个	bi qi na ge	100
 避其锐气击其惰归	bi qi rui qi ji qi duo gui	100
 比奇省	bi qi sheng	100
+荸荠属	bi qi shu	100
 比其他地方	bi qi ta di fang	100
 彼弃我取	bi qi wo qu	100
 比起这个	bi qi zhe ge	100
@@ -28174,8 +28170,6 @@ sort: by_weight
 长春站	chang chun zhan	100
 长春镇	chang chun zhen	100
 长春真人	chang chun zhen ren	100
-长春治疗白癜风	chang chun zhi liao bai dian feng	100
-长春治疗牛皮癣	chang chun zhi liao niu pi xuan	100
 长春治疗皮肤病	chang chun zhi liao pi fu bing	100
 长春职业技术学院	chang chun zhi ye ji shu xue yuan	100
 长春中医药大学	chang chun zhong yi yao da xue	100
@@ -123947,7 +123941,8 @@ sort: by_weight
 金龟车	jin gui che	100
 金桂冠	jin gui guan	100
 金匮石室	jin gui shi shi	100
-金匮玉碟	jin gui yu die	100
+金匮星	jin gui xing	100
+金匮玉牒	jin gui yu die	100
 金圭玉臬	jin gui yu nie	100
 金匮之盟	jin gui zhi meng	100
 巾帼从此隐渔乡	jin guo cong ci yin yu xiang	100
@@ -156546,7 +156541,7 @@ sort: by_weight
 略重口	lve zhong kou	100
 掠子于民	lve zi yu min	100
 略作整顿	lve zuo zheng dun	100
-妈办公室	ma ban gong shi	100
+孖斑双鳃脂鲤	ma ban shuang sai zhi li	100
 马邦德	ma bang de	100
 马保国	ma bao guo	100
 妈宝男	ma bao nan	100
@@ -157167,6 +157162,7 @@ sort: by_weight
 马头星云	ma tou xing yun	100
 马头鱼	ma tou yu	100
 马托格罗索	ma tuo ge luo suo	100
+孖湾村	ma wan cun	100
 骂完就跑	ma wan jiu pao	100
 骂王朗	ma wang lang	100
 马尾穿豆腐	ma wei chuan dou fu	100
@@ -157188,6 +157184,7 @@ sort: by_weight
 马西莫夫	ma xi mo fu	100
 马戏团表演	ma xi tuan biao yan	100
 玛夏多	ma xia duo	100
+孖线鲽	ma xian die	100
 马小郡	ma xiao jun	100
 马晓霖	ma xiao lin	100
 马小妹	ma xiao mei	100
@@ -170848,7 +170845,7 @@ sort: by_weight
 哪所学校好	na suo xue xiao hao	100
 那他还在	na ta hai zai	100
 那他就是	na ta jiu shi	100
-娜塔莉安博莉亚	na ta li an bo li ya	100
+娜塔莉·安博莉亚	na ta li an bo li ya	100
 拿他没办法	na ta mei ban fa	100
 拿他没有办法	na ta mei you ban fa	100
 拿他没辙	na ta mei zhe	100
@@ -170856,9 +170853,9 @@ sort: by_weight
 拿他们没办法	na ta men mei ban fa	100
 纳塔乃耳	na ta nai er	100
 那他呢	na ta ne	100
-娜塔莎托马斯	na ta sha tuo ma si	100
+娜塔莎·托马斯	na ta sha tuo ma si	100
 拿他是问	na ta shi wen	100
-娜坦莉莫森特	na tan li mo sen te	100
+娜坦莉·莫森特	na tan li mo sen te	100
 拿糖作醋	na tang zuo cu	100
 哪天的	na tian de	100
 哪天回	na tian hui	100
@@ -174223,6 +174220,7 @@ sort: by_weight
 尼尔岱尔蒙德	ni er dai er meng de	100
 逆耳利行	ni er li xing	100
 逆耳良言	ni er liang yan	100
+尼尔斯·玻尔	ni er si bo er	100
 尼尔斯骑鹅旅行记	ni er si qi e lv xing ji	100
 尼尔逊	ni er xun	100
 尼尔扬	ni er yang	100
@@ -202229,7 +202227,6 @@ sort: by_weight
 三合复元音	san he fu yuan yin	100
 三和管桩	san he guan zhuang	100
 三河合水万年流	san he he shui wan nian liu	100
-三和土	san he tu	100
 三合星	san he xing	100
 三盒药	san he yao	100
 三河疫保通	san he yi bao tong	100
@@ -224155,6 +224152,7 @@ sort: by_weight
 双下降	shuang xia jiang	100
 双线并行	shuang xian bing xing	100
 双限地	shuang xian di	100
+双线鲽	shuang xian die	100
 双显卡	shuang xian ka	100
 双向奔赴	shuang xiang ben fu	100
 双向沟通	shuang xiang gou tong	100
@@ -243827,10 +243825,10 @@ sort: by_weight
 脱落细胞	tuo luo xi bao	100
 脱落现象	tuo luo xian xiang	100
 陀螺仪传感器	tuo luo yi chuan gan qi	100
-托马斯阿奎纳	tuo ma si a kui na	100
+托马斯·阿奎纳	tuo ma si a kui na	100
 托马斯回旋	tuo ma si hui xuan	100
 托马斯螺旋	tuo ma si luo xuan	100
-托马斯穆勒	tuo ma si mu le	100
+托马斯·穆勒	tuo ma si mu le	100
 托马斯三百六十度回旋	tuo ma si san bai liu shi du hui xuan	100
 托马斯三百六十度螺旋	tuo ma si san bai liu shi du luo xuan	100
 拖麻拽布	tuo ma zhuai bu	100
@@ -243842,9 +243840,9 @@ sort: by_weight
 拖男带女	tuo nan dai nv	100
 脱内衣	tuo nei yi	100
 托你吉言	tuo ni ji yan	100
-托尼克罗斯	tuo ni ke luo si	100
+托尼·克罗斯	tuo ni ke luo si	100
 托尼老师	tuo ni lao shi	100
-托尼帕克	tuo ni pa ke	100
+托尼·帕克	tuo ni pa ke	100
 托尼托尼	tuo ni tuo ni	100
 鸵鸟园	tuo niao yuan	100
 托您的福	tuo nin de fu	100
