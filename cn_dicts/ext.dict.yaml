@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2025-01-08"
+version: "2025-01-11"
 sort: by_weight
 ...
 # +_+
@@ -19537,8 +19537,6 @@ sort: by_weight
 不离身	bu li shen	100
 不离世间觉	bu li shi jian jue	100
 布里斯	bu li si	100
-布利斯班	bu li si ban	100
-布利斯班市	bu li si ban shi	100
 布里斯本	bu li si ben	100
 布里斯本河	bu li si ben he	100
 布里斯本市	bu li si ben shi	100
@@ -57617,7 +57615,7 @@ sort: by_weight
 电光超人	dian guang chao ren	100
 电光冲锋	dian guang chong feng	100
 电广传媒	dian guang chuan mei	100
-电光火石间	dian guang huo shi jian	100
+电光石火间	dian guang shi huo jian	100
 电光调制器	dian guang tiao zhi qi	100
 电光舞	dian guang wu	100
 电光朝露	dian guang zhao lu	100
@@ -79566,6 +79564,7 @@ sort: by_weight
 复原模型	fu yuan mo xing	100
 复原期	fu yuan qi	100
 抚远三角洲	fu yuan san jiao zhou	100
+抚远市	fu yuan shi	100
 父元素	fu yuan su	100
 富源学校	fu yuan xue xiao	100
 福原遥	fu yuan yao	100
@@ -82152,9 +82151,7 @@ sort: by_weight
 刚正面	gang zheng mian	100
 刚知道	gang zhi dao	100
 刚知道呀	gang zhi dao ya	100
-钢之炼金术士	gang zhi lian jin shu shi	100
 钢之炼金术师	gang zhi lian jin shu shi	100
-钢之链金术师	gang zhi lian jin shu shi	100
 港制品	gang zhi pin	100
 刚直有守	gang zhi you shou	100
 缸中大脑	gang zhong da nao	100
@@ -89887,7 +89884,6 @@ sort: by_weight
 估算出	gu suan chu	100
 估算了	gu suan le	100
 估算了一下	gu suan le yi xia	100
-骨髓灰质炎	gu sui hui zhi yan	100
 古他那	gu ta na	100
 固态燃料	gu tai ran liao	100
 古台寺	gu tai si	100
@@ -93643,6 +93639,7 @@ sort: by_weight
 过府冲州	guo fu chong zhou	100
 国服第一系列	guo fu di yi xi lie	100
 国父纪念馆	guo fu ji nian guan	100
+果脯蜜饯	guo fu mi jian	100
 国富民丰	guo fu min feng	100
 国富民贫	guo fu min pin	100
 国富民穷	guo fu min qiong	100
@@ -106985,7 +106982,6 @@ sort: by_weight
 画图纸	hua tu zhi	100
 花腿闲汉	hua tui xian han	100
 华佗再世	hua tuo zai shi	100
-华陀在世	hua tuo zai shi	100
 化外之地	hua wai zhi di	100
 画完了	hua wan le	100
 化完妆	hua wan zhuang	100
@@ -114160,6 +114156,7 @@ sort: by_weight
 挤破头	ji po tou	100
 记谱法	ji pu fa	100
 吉普莉尔	ji pu li er	100
+鸡脯肉	ji pu rou	100
 吉普塞人	ji pu sai ren	100
 吉普斯夸	ji pu si kua	100
 极其不尊重	ji qi bu zun zhong	100
@@ -145234,7 +145231,6 @@ sort: by_weight
 立即来报告	li ji lai bao gao	100
 立即联系	li ji lian xi	100
 立即落实	li ji luo shi	100
-里肌肉	li ji rou	100
 立即上传	li ji shang chuan	100
 立即使用	li ji shi yong	100
 立即投降	li ji tou xiang	100
@@ -165270,6 +165266,7 @@ sort: by_weight
 米家扫地机器人	mi jia sao di ji qi ren	100
 弥迦书	mi jia shu	100
 靡坚不摧	mi jian bu cui	100
+蜜饯果脯	mi jian guo fu	100
 蜜饯黄连	mi jian huang lian	100
 密接码	mi jie ma	100
 迷金醉纸	mi jin zui zhi	100
@@ -172269,6 +172266,8 @@ sort: by_weight
 南苑王	nan yuan wang	100
 南粤大地	nan yue da di	100
 南粤生活	nan yue sheng huo	100
+南越王	nan yue wang	100
+南越王赵佗	nan yue wang zhao tuo	100
 南粤银行	nan yue yin hang	100
 南站地区	nan zhan di qu	100
 难找到	nan zhao dao	100
@@ -188470,8 +188469,10 @@ sort: by_weight
 旗鱼目	qi yu mu	100
 起于青𬞟之末	qi yu qing pin zhi mo	100
 其余人	qi yu ren	100
+埼玉市	qi yu shi	100
 旗鱼属	qi yu shu	100
 奇遇舞章	qi yu wu zhang	100
+埼玉县	qi yu xian	100
 奇遇夜	qi yu ye	100
 起源地	qi yuan di	100
 祈愿纪	qi yuan ji	100
@@ -199919,6 +199920,7 @@ sort: by_weight
 柔佛海峡	rou fo hai xia	100
 柔佛州	rou fo zhou	100
 柔肤水	rou fu shui	100
+肉干肉脯	rou gan rou fu	100
 肉羹米粉	rou geng mi fen	100
 肉羹面	rou geng mian	100
 肉钩冷藏车	rou gou leng cang che	100
@@ -212330,7 +212332,6 @@ sort: by_weight
 深一点	shen yi dian	100
 深一度	shen yi du	100
 申一帆	shen yi fan	100
-神医华陀	shen yi hua tuo	100
 深一脚浅一脚	shen yi jiao qian yi jiao	100
 神怡气静	shen yi qi jing	100
 神怡气舒	shen yi qi shu	100
@@ -220920,6 +220921,7 @@ sort: by_weight
 是最重要的	shi zui zhong yao de	100
 试作澹月	shi zuo dan yue	100
 使作呕	shi zuo ou	100
+手扒肉	shou ba rou	100
 手把手传授	shou ba shou chuan shou	100
 手把手地	shou ba shou de	100
 手把手地教	shou ba shou de jiao	100
@@ -221927,7 +221929,6 @@ sort: by_weight
 首脑分子	shou nao fen zi	100
 首脑人物	shou nao ren wu	100
 受怕担惊	shou pa dan jing	100
-手扒肉	shou pa rou	100
 手捧着鲜花	shou peng zhe xian hua	100
 首批省级	shou pi sheng ji	100
 兽皮痣	shou pi zhi	100
@@ -306322,8 +306323,8 @@ sort: by_weight
 再低些	zai di xie	100
 在地狱中	zai di yu zhong	100
 在地愿做连理枝	zai di yuan zuo lian li zhi	100
-在电光火石	zai dian guang huo shi	100
-在电光火石间	zai dian guang huo shi jian	100
+在电光石火	zai dian guang shi huo	100
+在电光石火间	zai dian guang shi huo jian	100
 再点下	zai dian xia	100
 在电线杆	zai dian xian gan	100
 在电线杆上	zai dian xian gan shang	100
