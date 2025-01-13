@@ -2062,6 +2062,9 @@
 # 「鄂式碎石机」「鄂式破石机」「鄂式破碎机」→「颚式碎石机」「颚式破石机」「颚式破碎机」
 # 「至高无尚」→「至高无上」
 # 「布利斯班」→「布里斯班」
+# 「至高点」→「制高点」
+# 「电光火石」→「电光石火」（但存在《电光火石》这首歌曲）
+# 「必须品」→「必需品」
 #///
 ---
 name: base
@@ -266631,6 +266634,7 @@ sort: by_weight
 蒙头大睡	meng tou da shui	2060
 # 孟疃	meng tuan	0
 猛推	meng tui	1355
+梦拓	meng tuo	100
 蒙托克怪兽	meng tuo ke guai shou	238
 蒙脱石	meng tuo shi	38
 蒙脱石散	meng tuo shi san	47
@@ -520702,7 +520706,6 @@ sort: by_weight
 脂膏不润	zhi gao bu run	1
 至高大天使	zhi gao da tian shi	1
 制高点	zhi gao dian	26560
-至高点	zhi gao dian	301
 趾高飞扬	zhi gao fei yang	1
 脂膏莫润	zhi gao mo run	1
 趾高气昂	zhi gao qi ang	3333
