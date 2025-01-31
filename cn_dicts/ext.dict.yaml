@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2025-01-23"
+version: "2025-01-31"
 sort: by_weight
 ...
 # +_+
@@ -52966,6 +52966,8 @@ sort: by_weight
 倒头便睡	dao tou bian shui	100
 道头会尾	dao tou hui wei	100
 倒头就睡	dao tou jiu shui	100
+倒头就睡着	dao tou jiu shui zhao	100
+倒头就睡着了	dao tou jiu shui zhao le	100
 到头来却发现	dao tou lai que fa xian	100
 道头知尾	dao tou zhi wei	100
 到土地	dao tu di	100
@@ -54615,6 +54617,8 @@ sort: by_weight
 灯光音乐	deng guang yin yue	100
 等国家线	deng guo jia xian	100
 等过完节	deng guo wan jie	100
+灯还亮	deng hai liang	100
+灯还亮着	deng hai liang zhe	100
 邓涵文	deng han wen	100
 等红米	deng hong mi	100
 等候补	deng hou bu	100
@@ -67106,7 +67110,7 @@ sort: by_weight
 噩梦模式	e meng mo shi	100
 噩梦难度	e meng nan du	100
 噩梦人机	e meng ren ji	100
-恶梦侦探	e meng tan zhen	100
+恶梦侦探	e meng zhen tan	100
 遏密八音	e mi ba yin	100
 阿弥陀佛像	e mi tuo fo xiang	100
 恶名儿	e ming er	100
@@ -77142,6 +77146,7 @@ sort: by_weight
 封禁后	feng jin hou	100
 风劲节	feng jin jie	100
 风景不殊	feng jing bu shu	100
+风景都很好	feng jing dou hen hao	100
 风景独好	feng jing du hao	100
 风景胜地	feng jing sheng di	100
 风景图片	feng jing tu pian	100
@@ -113107,6 +113112,7 @@ sort: by_weight
 技防系统	ji fang xi tong	100
 寄放在	ji fang zai	100
 机房专用空调	ji fang zhuan yong kong tiao	100
+计费调度	ji fei diao du	100
 计费法	ji fei fa	100
 鸡飞狗跳了一阵	ji fei gou tiao le yi zhen	100
 鸡飞狗走	ji fei gou zou	100
@@ -151432,6 +151438,7 @@ sort: by_weight
 留了面子	liu le mian zi	100
 留了心	liu le xin	100
 刘乐妍	liu le yan	100
+流了一地	liu le yi di	100
 留了一手	liu le yi shou	100
 柳乐优弥	liu le you mi	100
 留了余地	liu le yu di	100
@@ -183930,7 +183937,6 @@ sort: by_weight
 破坏严重	po huai yan zhong	100
 破坏欲	po huai yu	100
 破获系列盗窃案	po huo xi lie dao qie an	100
-破记录	po ji lu	100
 破家败产	po jia bai chan	100
 破甲弹	po jia dan	100
 破家荡产	po jia dang chan	100
@@ -210157,6 +210163,7 @@ sort: by_weight
 深度清洁	shen du qing jie	100
 深度清理	shen du qing li	100
 深度清洗	shen du qing xi	100
+深度求索	shen du qiu suo	100
 深度认知	shen du ren zhi	100
 深度融合发展	shen du rong he fa zhan	100
 深度融入	shen du rong ru	100
@@ -265230,6 +265237,7 @@ sort: by_weight
 涎皮涎脸	xian pi xian lian	100
 闲篇儿	xian pian er	100
 腺嘌呤核甘三磷酸	xian piao ling he gan san lin suan	100
+掀起被子	xian qi bei zi	100
 嫌弃地	xian qi de	100
 嫌弃的	xian qi de	100
 嫌弃的表情	xian qi de biao qing	100
@@ -284708,6 +284716,7 @@ sort: by_weight
 也没钱了	ye mei qian le	100
 也没去过	ye mei qu guo	100
 也没人	ye mei ren	100
+也没人用	ye mei ren yong	100
 也没啥	ye mei sha	100
 也没啥意思	ye mei sha yi si	100
 也没谁	ye mei shei	100
@@ -316110,6 +316119,8 @@ sort: by_weight
 挣得多	zheng de duo	100
 挣得多吗	zheng de duo ma	100
 挣得更多	zheng de geng duo	100
+挣得还多	zheng de hai duo	100
+挣得还少	zheng de hai shao	100
 整得好	zheng de hao	100
 蒸得好	zheng de hao	100
 整得很惨	zheng de hen can	100
@@ -321245,6 +321256,7 @@ sort: by_weight
 种菜养禽	zhong cai yang qin	100
 众参两院	zhong can liang yuan	100
 重残人员	zhong can ren yuan	100
+重仓啊	zhong cang a	100
 重仓操作	zhong cang cao zuo	100
 重仓持股	zhong cang chi gu	100
 重仓持有	zhong cang chi you	100
@@ -323914,6 +323926,7 @@ sort: by_weight
 钟漏并歇	zhong lou bing xie	100
 钟楼怪人	zhong lou guai ren	100
 中路崩	zhong lu beng	100
+中路差距	zhong lu cha ju	100
 中路大舞台	zhong lu da wu tai	100
 中路封路	zhong lu feng lu	100
 中路高地	zhong lu gao di	100
@@ -334767,7 +334780,6 @@ sort: by_weight
 做对了什么	zuo dui le shen me	100
 坐对面	zuo dui mian	100
 做多久呢	zuo duo jiu ne	100
-做噩梦	zuo e meng	100
 做恶人	zuo e ren	100
 作恶太多	zuo e tai duo	100
 作恶之人	zuo e zhi ren	100
