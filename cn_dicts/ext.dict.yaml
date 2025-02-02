@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2025-01-31"
+version: "2025-02-01"
 sort: by_weight
 ...
 # +_+
@@ -764,7 +764,7 @@ sort: by_weight
 埃尔福特	ai er fu te	100
 艾尔海森	ai er hai sen	100
 埃尔金	ai er jin	100
-埃尔金贝勒	ai er jin bei le	100
+埃尔金·贝勒	ai er jin bei le	100
 埃尔金大理石	ai er jin da li shi	100
 爱尔兰都柏林	ai er lan du bo lin	100
 爱尔兰都柏林大学	ai er lan du bo lin da xue	100
@@ -7920,7 +7920,6 @@ sort: by_weight
 半长发	ban chang fa	100
 半场落后	ban chang luo hou	100
 班车运行	ban che yun xing	100
-半嗔半喜	ban chen ban xi	100
 半称心	ban chen xin	100
 扮成你	ban cheng ni	100
 扮成他	ban cheng ta	100
@@ -94539,7 +94538,7 @@ sort: by_weight
 过命的	guo ming de	100
 过命的交情	guo ming de jiao qing	100
 过命的兄弟	guo ming de xiong di	100
-国名度	guo ming du	100
+郭明𫓹	guo ming ji	100
 郭明錤	guo ming ji	100
 郭明武	guo ming wu	100
 果木林	guo mu lin	100
@@ -109342,7 +109341,6 @@ sort: by_weight
 毁车杀马	hui che sha ma	100
 灰尘肺	hui chen fei	100
 灰尘山	hui chen shan	100
-回嗔作喜	hui chen zuo xi	100
 回程车调度	hui cheng che diao du	100
 汇成河	hui cheng he	100
 汇成涓流	hui cheng juan liu	100
@@ -133533,6 +133531,7 @@ sort: by_weight
 卡尔德龙	ka er de long	100
 卡尔顿	ka er dun	100
 卡尔加里	ka er jia li	100
+卡尔·林奈	ka er lin nai	100
 卡尔玛	ka er ma	100
 卡尔蜜拉	ka er mi la	100
 卡尔萨斯	ka er sa si	100
@@ -137542,8 +137541,8 @@ sort: by_weight
 克里琴科	ke li qin ke	100
 克力士剑	ke li shi jian	100
 科利斯	ke li si	100
-克里斯埃文斯	ke li si ai wen si	100
-克里斯波什	ke li si bo shi	100
+克里斯·埃文斯	ke li si ai wen si	100
+克里斯·波什	ke li si bo shi	100
 克里斯蒂安	ke li si di an	100
 克里斯蒂安松	ke li si di an song	100
 克里斯蒂伯	ke li si di bo	100
@@ -145350,7 +145349,6 @@ sort: by_weight
 厉害得多	li hai de duo	100
 厉害得很	li hai de hen	100
 厉害的角色	li hai de jue se	100
-厉害关系	li hai guan xi	100
 利害关系方	li hai guan xi fang	100
 厉害国	li hai guo	100
 厉害角色	li hai jue se	100
@@ -149512,6 +149510,7 @@ sort: by_weight
 林暮奈儿	lin mu nai er	100
 林木森森	lin mu sen sen	100
 林奈奈	lin nai nai	100
+林奈学会	lin nai xue hui	100
 临难不苟	lin nan bu gou	100
 临难不惧	lin nan bu ju	100
 临难不屈	lin nan bu qu	100
@@ -154522,7 +154521,6 @@ sort: by_weight
 路人转黑	lu ren zhuan hei	100
 鹿茸酒	lu rong jiu	100
 卤肉饭	lu rou fan	100
-鲁肉饭	lu rou fan	100
 录入到	lu ru dao	100
 录入系统	lu ru xi tong	100
 路瑞德	lu rui de	100
@@ -156899,11 +156897,10 @@ sort: by_weight
 玛尔莲商会	ma er lian shang hui	100
 马儿跑得快	ma er pao de kuai	100
 马尔斯	ma er si	100
-马尔他	ma er ta	100
-马尔塔阿格里希	ma er ta a ge li xi	100
-马尔他人	ma er ta ren	100
+马尔塔·阿格里希	ma er ta a ge li xi	100
+马耳他人	ma er ta ren	100
 马耳他十字	ma er ta shi zi	100
-马尔他语	ma er ta yu	100
+马耳他语	ma er ta yu	100
 玛尔扎哈	ma er zha ha	100
 玛法里奥	ma fa li ao	100
 马乏人困	ma fa ren kun	100
@@ -166647,7 +166644,6 @@ sort: by_weight
 民社党	min she dang	100
 民生保障	min sheng bao zhang	100
 民生地产	min sheng di chan	100
-民生雕敝	min sheng diao bi	100
 民生国计	min sheng guo ji	100
 民生行业	min sheng hang ye	100
 民生疾苦	min sheng ji ku	100
@@ -172096,7 +172092,6 @@ sort: by_weight
 难看得很	nan kan de hen	100
 难堪重任	nan kan zhong ren	100
 南科大	nan ke da	100
-南科达	nan ke da	100
 南柯梦觉	nan ke meng jue	100
 南柯梦醒	nan ke meng xing	100
 男空乘	nan kong cheng	100
@@ -181861,7 +181856,7 @@ sort: by_weight
 鹏之背	peng zhi bei	100
 彭志光	peng zhi guang	100
 彭志华	peng zhi hua	100
-鹏之徒于南冥也	peng zhi tu yu nan ming ye	100
+鹏之徙于南冥也	peng zhi xi yu nan ming ye	100
 弸中彪外	peng zhong biao wai	100
 烹煮法	peng zhu fa	100
 碰撞传感器	peng zhuang chuan gan qi	100
@@ -186972,7 +186967,6 @@ sort: by_weight
 奇软无比	qi ruan wu bi	100
 祁睿峰	qi rui feng	100
 契若金兰	qi ruo jin lan	100
-七鳃鳗	qi sai man	100
 七三八八	qi san ba ba	100
 七三八八年	qi san ba ba nian	100
 七三八二	qi san ba er	100
@@ -193665,7 +193659,6 @@ sort: by_weight
 求暴瘦	qiu bao shou	100
 仇保兴	qiu bao xing	100
 求包养	qiu bao yang	100
-裘弊金尽	qiu bi jin jin	100
 裘敝金尽	qiu bi jin jin	100
 求表情包	qiu biao qing bao	100
 求并集	qiu bing ji	100
@@ -214221,7 +214214,6 @@ sort: by_weight
 省流量	sheng liu liang	100
 生六胎	sheng liu tai	100
 升龙道	sheng long dao	100
-圣卢西亚岛	sheng lu xi ya dao	100
 生萝卜	sheng luo bo	100
 胜率榜	sheng lv bang	100
 省旅发委	sheng lv fa wei	100
@@ -303816,7 +303808,6 @@ sort: by_weight
 宇宙航行	yu zhou hang xing	100
 宇宙航行员	yu zhou hang xing yuan	100
 宇宙号	yu zhou hao	100
-宇宙鸿荒	yu zhou hong huang	100
 禹州加油	yu zhou jia you	100
 宇宙旅行	yu zhou lv xing	100
 宇宙魔方	yu zhou mo fang	100
@@ -303827,7 +303818,6 @@ sort: by_weight
 宇宙时空	yu zhou shi kong	100
 宇宙时空之旅	yu zhou shi kong zhi lv	100
 宇宙是什么	yu zhou shi shen me	100
-宇宙宋歌	yu zhou song ge	100
 宇宙探索编辑部	yu zhou tan suo bian ji bu	100
 宇宙体系	yu zhou ti xi	100
 宇宙万法	yu zhou wan fa	100
