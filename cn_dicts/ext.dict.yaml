@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2025-12-15"
+version: "2025-12-20"
 sort: by_weight
 ...
 # +_+
@@ -351,6 +351,7 @@ sort: by_weight
 阿鲁卡	a lu ka	100
 阿鲁纳	a lu na	100
 阿鲁纳恰尔邦	a lu na qia er bang	100
+阿鲁群岛	a lu qun dao	100
 阿伦·艾弗森	a lun ai fu sen	100
 阿伦达尔	a lun da er	100
 阿罗汉	a luo han	100
@@ -3491,6 +3492,7 @@ sort: by_weight
 八不归	ba bu gui	100
 巴布拉族	ba bu la zu	100
 巴不能够	ba bu neng gou	100
+巴布亚岛	ba bu ya dao	100
 巴布亚纽	ba bu ya niu	100
 巴布亚纽几内亚	ba bu ya niu ji nei ya	100
 巴布亚省	ba bu ya sheng	100
@@ -21566,6 +21568,7 @@ sort: by_weight
 不务进取	bu wu jin qu	100
 不无可疑	bu wu ke yi	100
 不无可疑之处	bu wu ke yi zhi chu	100
+不务正事	bu wu zheng shi	100
 不舞之鹤	bu wu zhi he	100
 补习班里	bu xi ban li	100
 不喜不悲	bu xi bu bei	100
@@ -22757,7 +22760,9 @@ sort: by_weight
 不怎么了解	bu zen me liao jie	100
 不怎么清楚啊	bu zen me qing chu a	100
 不怎么认识	bu zen me ren shi	100
+不怎么像	bu zen me xiang	100
 不怎么想	bu zen me xiang	100
+不怎么香	bu zen me xiang	100
 不怎么行	bu zen me xing	100
 不怎么样啊	bu zen me yang a	100
 不增反降	bu zeng fan jiang	100
@@ -32415,8 +32420,10 @@ sort: by_weight
 车型系列	che xing xi lie	100
 车炫承	che xuan cheng	100
 车叶草	che ye cao	100
+彻夜长哭	che ye chang ku	100
 车也多	che ye duo	100
 彻夜进行	che ye jin xing	100
+彻夜痛哭	che ye tong ku	100
 扯一句	che yi ju	100
 车衣裳	che yi shang	100
 车用空调	che yong kong tiao	100
@@ -35292,6 +35299,7 @@ sort: by_weight
 吃得太咸	chi de tai xian	100
 吃得太油腻	chi de tai you ni	100
 吃得停不下来	chi de ting bu xia lai	100
+吃得挺香	chi de ting xiang	100
 吃得下饭	chi de xia fan	100
 吃得也不多	chi de ye bu duo	100
 吃得一干二净	chi de yi gan er jing	100
@@ -44902,6 +44910,7 @@ sort: by_weight
 攒尖顶	cuan jian ding	100
 窜进窜出	cuan jin cuan chu	100
 蹿起来了	cuan qi lai le	100
+蹿上蹿下	cuan shang cuan xia	100
 蹿上了	cuan shang le	100
 蹿天猴	cuan tian hou	100
 汆丸子	cuan wan zi	100
@@ -45951,6 +45960,7 @@ sort: by_weight
 打得精彩	da de jing cai	100
 打得久	da de jiu	100
 打得久了	da de jiu le	100
+打的就是精锐	da de jiu shi jing rui	100
 打的就是你	da de jiu shi ni	100
 打得开	da de kai	100
 打得快	da de kuai	100
@@ -96751,6 +96761,9 @@ sort: by_weight
 还蛮不错的	hai man bu cuo de	100
 还蛮好看	hai man hao kan	100
 还蛮好听的	hai man hao ting de	100
+还蛮像	hai man xiang	100
+还蛮想	hai man xiang	100
+还蛮香	hai man xiang	100
 还满意	hai man yi	100
 还满意吧	hai man yi ba	100
 还满意吗	hai man yi ma	100
@@ -97597,8 +97610,10 @@ sort: by_weight
 还挺喜欢	hai ting xi huan	100
 还挺喜欢的	hai ting xi huan de	100
 还挺像	hai ting xiang	100
+还挺香	hai ting xiang	100
 还挺像啊	hai ting xiang a	100
 还挺像的	hai ting xiang de	100
+还挺香的	hai ting xiang de	100
 还挺严	hai ting yan	100
 还挺严的	hai ting yan de	100
 还挺严格	hai ting yan ge	100
@@ -97844,6 +97859,8 @@ sort: by_weight
 还要一碗	hai yao yi wan	100
 还要在一起	hai yao zai yi qi	100
 还要早起	hai yao zao qi	100
+还要怎么样	hai yao zen me yang	100
+还要怎样	hai yao zen yang	100
 还要坐车	hai yao zuo che	100
 海耶斯	hai ye si	100
 海野伊鲁卡	hai ye yi lu ka	100
@@ -98235,6 +98252,10 @@ sort: by_weight
 还真没有	hai zhen mei you	100
 还真没有那么多	hai zhen mei you na me duo	100
 海珍品	hai zhen pin	100
+还真挺像	hai zhen ting xiang	100
+还真挺香	hai zhen ting xiang	100
+还真挺像的	hai zhen ting xiang de	100
+还真挺香的	hai zhen ting xiang de	100
 还真想不到	hai zhen xiang bu dao	100
 还真有点	hai zhen you dian	100
 还真有点儿	hai zhen you dian er	100
@@ -149093,6 +149114,7 @@ sort: by_weight
 连州地下河	lian zhou di xia he	100
 廉州府	lian zhou fu	100
 连州跨郡	lian zhou kua jun	100
+连轴转地工作	lian zhou zhuan de gong zuo	100
 连珠灯	lian zhu deng	100
 联珠合璧	lian zhu he bi	100
 连珠合璧	lian zhu he bi	100
@@ -226752,6 +226774,7 @@ sort: by_weight
 睡得踏实	shui de ta shi	100
 睡得太多	shui de tai duo	100
 睡得太晚	shui de tai wan	100
+睡得挺香	shui de ting xiang	100
 睡的香	shui de xiang	100
 睡得香甜	shui de xiang tian	100
 水的硬度	shui de ying du	100
@@ -243030,6 +243053,8 @@ sort: by_weight
 挺下去	ting xia qu	100
 挺吓人	ting xia ren	100
 挺像的	ting xiang de	100
+挺想的	ting xiang de	100
+挺香的	ting xiang de	100
 挺想看	ting xiang kan	100
 听小曲	ting xiao qu	100
 听小曲儿	ting xiao qu er	100
@@ -243525,6 +243550,7 @@ sort: by_weight
 同居法	tong ju fa	100
 同居各爨	tong ju ge cuan	100
 同居关系	tong ju guan xi	100
+同聚一堂	tong ju yi tang	100
 痛觉神经	tong jue shen jing	100
 童军团	tong jun tuan	100
 同考官	tong kao guan	100
@@ -252508,6 +252534,9 @@ sort: by_weight
 文德武功	wen de wu gong	100
 稳得一逼	wen de yi bi	100
 稳得一批	wen de yi pi	100
+问得着	wen de zhao	100
+问得着我	wen de zhao wo	100
+问得着我吗	wen de zhao wo ma	100
 稳得住	wen de zhu	100
 稳得住了	wen de zhu le	100
 稳地价	wen di jia	100
@@ -290931,6 +290960,7 @@ sort: by_weight
 蚁集蜂攒	yi ji feng cuan	100
 一计害三贤	yi ji hai san xian	100
 以积极的态度	yi ji ji de tai du	100
+乙基己基三嗪酮	yi ji ji ji san qin tong	100
 一击击溃	yi ji ji kui	100
 一击即溃	yi ji ji kui	100
 一级甲	yi ji jia	100
@@ -291936,6 +291966,7 @@ sort: by_weight
 一类字	yi lei zi	100
 一冷一热	yi leng yi re	100
 伊利埃斯库	yi li ai si ku	100
+伊里安岛	yi li an dao	100
 已立案调查	yi li an diao cha	100
 伊利奥斯	yi li ao si	100
 以李报桃	yi li bao tao	100
