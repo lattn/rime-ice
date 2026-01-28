@@ -16,7 +16,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2026-01-26"
+version: "2026-01-28"
 sort: by_weight
 ...
 # +_+
@@ -63219,7 +63219,6 @@ sort: by_weight
 都能走	dou neng zou	100
 都能做	dou neng zuo	100
 都能做到	dou neng zuo dao	100
-都你的	dou ni de	100
 都腻了	dou ni le	100
 都你妈	dou ni ma	100
 逗你玩的	dou ni wan de	100
@@ -66651,7 +66650,6 @@ sort: by_weight
 多加教诲	duo jia jiao hui	100
 多家俱乐部	duo jia ju le bu	100
 多家旅行社	duo jia lv xing she	100
-朵嘉浓	duo jia nong	100
 多家学校	duo jia xue xiao	100
 多加倚重信赖	duo jia yi zhong xin lai	100
 多家银行	duo jia yin hang	100
@@ -66779,8 +66777,11 @@ sort: by_weight
 多利亚调式	duo li ya diao shi	100
 夺利争名	duo li zheng ming	100
 多粒子系统	duo li zi xi tong	100
+多联多价	duo lian duo jia	100
+多联多价疫苗	duo lian duo jia yi miao	100
 多练练	duo lian lian	100
 多联系	duo lian xi	100
+多联疫苗	duo lian yi miao	100
 多两张	duo liang zhang	100
 多了解了解	duo liao jie liao jie	100
 多了解一点	duo liao jie yi dian	100
@@ -89099,8 +89100,6 @@ sort: by_weight
 工薪人物	gong xin ren wu	100
 工薪所得	gong xin suo de	100
 工信系统	gong xin xi tong	100
-躬行天罚	gong xing tian fa	100
-恭行天讨	gong xing tian tao	100
 功行圆满	gong xing yuan man	100
 公休假	gong xiu jia	100
 工休日	gong xiu ri	100
@@ -169233,7 +169232,6 @@ sort: by_weight
 明新工专	ming xin gong zhuan	100
 冥心孤诣	ming xin gu yi	100
 铭心镂骨	ming xin lou gu	100
-名信片	ming xin pian	100
 明星表演赛	ming xing biao yan sai	100
 明星参加	ming xing can jia	100
 明星参演	ming xing can yan	100
@@ -173794,7 +173792,6 @@ sort: by_weight
 难解决	nan jie jue	100
 南界王	nan jie wang	100
 南金东箭	nan jin dong jian	100
-南京博物院藏	nan jing bo wu yuan cang	100
 南京长江	nan jing chang jiang	100
 南京长江大桥	nan jing chang jiang da qiao	100
 南京长江五桥	nan jing chang jiang wu qiao	100
@@ -174629,8 +174626,6 @@ sort: by_weight
 内地资金	nei di zi jin	100
 内地综艺	nei di zong yi	100
 内地最佳	nei di zui jia	100
-内调外养	nei diao wai yang	100
-内调外治	nei diao wai zhi	100
 内耳道	nei er dao	100
 内防反弹	nei fang fan tan	100
 内分泌不调	nei fen mi bu tiao	100
@@ -174796,6 +174791,8 @@ sort: by_weight
 内松外紧	nei song wai jin	100
 内塔尼亚胡	nei ta ni ya hu	100
 内调节	nei tiao jie	100
+内调外养	nei tiao wai yang	100
+内调外治	nei tiao wai zhi	100
 内廷司	nei ting si	100
 内外并重	nei wai bing zhong	100
 内外关系	nei wai guan xi	100
@@ -251288,6 +251285,7 @@ sort: by_weight
 未离渝	wei li yu	100
 未离郑	wei li zheng	100
 威廉·福克纳	wei lian fu ke na	100
+威廉·戈尔丁	wei lian ge er ding	100
 威廉古堡	wei lian gu bao	100
 威廉·莎士比亚	wei lian sha shi bi ya	100
 威廉斯堡	wei lian si bao	100
@@ -326917,6 +326915,7 @@ sort: by_weight
 钟楼怪人	zhong lou guai ren	100
 中路崩	zhong lu beng	100
 中路差距	zhong lu cha ju	100
+中路长传	zhong lu chang chuan	100
 中路大舞台	zhong lu da wu tai	100
 中路封路	zhong lu feng lu	100
 中路高地	zhong lu gao di	100
@@ -328229,9 +328228,9 @@ sort: by_weight
 重要名片	zhong yao ming pian	100
 重要命题	zhong yao ming ti	100
 重要谋士	zhong yao mou shi	100
-中药内调	zhong yao nei diao	100
 重要内涵	zhong yao nei han	100
 重要内容提示	zhong yao nei rong ti shi	100
+中药内调	zhong yao nei tiao	100
 重要能力	zhong yao neng li	100
 重要能源	zhong yao neng yuan	100
 重要年份	zhong yao nian fen	100
@@ -337804,6 +337803,7 @@ sort: by_weight
 做得太多	zuo de tai duo	100
 做得太过	zuo de tai guo	100
 做得太过分	zuo de tai guo fen	100
+做得太过了	zuo de tai guo le	100
 做得太好	zuo de tai hao	100
 坐得太久	zuo de tai jiu	100
 做得太绝	zuo de tai jue	100
